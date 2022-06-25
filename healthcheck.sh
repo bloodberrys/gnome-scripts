@@ -51,7 +51,7 @@ send_discord(){
     size=${#_message}
     
     if [[ $size -gt 2000 ]]; then
-        message = ${_message:0:1900}
+        message=${_message:0:1900}
     fi
     CONTENT=$(echo $message | sed 's3<br>3\n3g')
     jq -n --arg content "$CONTENT" --arg subject "$SUBJECT" --arg ar "$ADMIN_ROLE" --arg br "$BOOSTER_ROLE" '{username: "Gnome-Automation", content: "\( $subject )\nCC: \( $br ) \( $ar )\n\n\( $content )"}' | curl -g -H 'Content-Type: application/json' -d@- "$webhook_url"
