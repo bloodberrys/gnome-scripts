@@ -4,10 +4,10 @@ get_log(){
 	local _server=$1
     local _base_dir_log=/data/s1001/bin/log
 
-    echo $_server
+    echo "$_server"
 
     # get recent log file
-    go=$(ls ${_base_dir_log} -tr | grep -E "$_server[-_0-9\.log]+$" | tail -n 1)
+    go=$(ls ${_base_dir_log} -tr | grep -E "${_server}[-_0-9\.log]+$" | tail -n 1)
     local _recent_log_file=$go
 
     logs=$(tail -n 5 $_base_dir_log/$_recent_log_file)
@@ -24,7 +24,16 @@ send_mail(){
     from='Gnome Automation <automation@verification.gnome-hub.com>'
     url="https://api.mailgun.net/v3/$domain/messages"
     req="curl -g --user 'api:${api_key}' '$url' -F from='${from}' -F to='${to}' -F subject='${subject}' -F html=\"${message}\""
-    eval $req
+    eval "$req"
+    exit 0;
+}
+
+send_discord(){
+    webhook_url=https://discord.com/api/webhooks/990288785587707934/rPLMgznwPKHxRhlnzcILJgP_YjyVQaKcS_mnaLpXU6NWsY3WaPsPg9llgFibWVXB-0j_
+    subject="!!!Server Healthcheck Down Detected!!!"
+    local _message=$1
+    req="curl -H 'Content-Type: application/json' -d '{\"username\": \"Gnome-Automation\", \"content\": \"${subject}\nCC: <@&983558291261112370> <@&983549809409552445>\n\n${message}\"}' $webhook_url"
+    eval "$req"
     exit 0;
 }
 
@@ -67,7 +76,7 @@ done
 echo -e "All checked servers: $iteration"
 echo -e "Server down: $down_count\nServer up: $up_count\n"
 stats="Server down: $down_count<br>Server up: $up_count<br>"
-string_server=$(echo $string_server | lcomma)
+string_server=$(echo "$string_server" | lcomma)
 server_affected=$string_server
 
 
@@ -78,7 +87,8 @@ if [ -z "${server_affected}" ]; then
 else
     # if server affcted > 0, send email
     message="=====Stats=====<br><br>$stats<br><br>Server down lists: $server_affected<br><br>======LOGS=======<br><br>$string_logs"
-    send_mail $message
+    send_discord "$message"
+    send_mail "$message"
 fi
 
 
