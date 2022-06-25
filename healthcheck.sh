@@ -49,6 +49,10 @@ check_counter() {
         size=${#string}
         if [ ${size} -gt 2 ]; then
             echo "already 3 times, skipping..."
+            deletefile=$(find /tmp/counter_dn/* -maxdepth 1 -mmin +10 -type f)
+            if [[ -n "$deletefile" ]]; then
+                rm -rf /tmp/counter_dn/
+            fi
             exit 1;
         fi
         echo -n 1 >> /tmp/counter_dn/counter
