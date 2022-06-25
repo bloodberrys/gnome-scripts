@@ -10,22 +10,7 @@ get_log(){
     go=$(ls ${_base_dir_log} -tr | grep -E "${_server}[-_0-9\.log]+$" | tail -n 1)
     local _recent_log_file=$go
 
-    logs=$(tail -n 15 $_base_dir_log/$_recent_log_file)
-
-    echo $logs
-}
-
-get_log_small(){
-	local _server=$1
-    local _base_dir_log=/data/s1001/bin/log
-
-    echo "$_server"
-
-    # get recent log file
-    go=$(ls ${_base_dir_log} -tr | grep -E "${_server}[-_0-9\.log]+$" | tail -n 1)
-    local _recent_log_file=$go
-
-    logs=$(tail $_base_dir_log/$_recent_log_file)
+    logs=$(tail -n 100 $_base_dir_log/$_recent_log_file)
 
     echo $logs
 }
@@ -48,13 +33,14 @@ send_discord(){
     local _message=$1
     ADMIN_ROLE="<@&983558291261112370>"
     BOOSTER_ROLE="<@&983549809409552445>"
-    size=${#_message}
-    
-    if [[ $size -gt 2000 ]]; then
-        message=${_message:0:1900}
-    fi
     CONTENT=$(echo $message | sed 's3<br>3\n3g')
-    jq -n --arg content "$CONTENT" --arg subject "$SUBJECT" --arg ar "$ADMIN_ROLE" --arg br "$BOOSTER_ROLE" '{username: "Gnome-Automation", content: "\( $subject )\nCC: \( $br ) \( $ar )\n\n\( $content )"}' | curl -g -H 'Content-Type: application/json' -d@- "$webhook_url"
+    size=${#CONTENT}
+    echo -e "$CONTENT" > /tmp/discordmsg.log
+    if [[ $size -gt 2000 ]]; then
+        CONTENT=${CONTENT:0:1500}
+    fi
+    payload_json=$(jq -n --arg content "$CONTENT" --arg subject "$SUBJECT" --arg ar "$ADMIN_ROLE" --arg br "$BOOSTER_ROLE" '{username: "Gnome-Automation", content: "\( $subject )\nCC: \( $br ) \( $ar )\n\n\( $content )"}')
+    curl -g -F "payload_json=$payload_json" -F "file1=@/tmp/discordmsg.log" "$webhook_url"
 }
 
 lcomma() { 
@@ -90,7 +76,6 @@ down_count=0
 up_count=0
 serverlength=${#SERVER_LISTS[@]}
 string_logs=''
-string_logs_small=''
 string_server=''
 for((i=0; i<serverlength; i++))
 do
@@ -106,9 +91,7 @@ do
         cmd3="get_log ${SERVER_LISTS[$i]}"
         cmd4="get_log_small ${SERVER_LISTS[$i]}"
         logs=$(eval "$cmd3")
-        logs_small=$(eval "$cmd4")
         string_logs+="$timestamp || ${SERVER_LISTS[$i]}=======<br><br>$logs<br><br>"
-        string_logs_small+="$timestamp || ${SERVER_LISTS[$i]}=======<br><br>$logs_small<br><br>"
         down_count=$((down_count+1))
     else
         echo -e "Server ${SERVER_LISTS[$i]} OK!\n"
@@ -133,8 +116,7 @@ else
     # if server affcted > 0, send email
     check_counter
     message="=====Stats=====<br><br>$stats<br><br>Server down lists: $server_affected<br><br>======LOGS=======<br><br>$string_logs"
-    message2="=====Stats=====<br><br>$stats<br><br>Server down lists: $server_affected<br><br>======LOGS=======<br><br>$string_logs_small"
-    send_discord "${message2}"
+    send_discord "$message"
     send_mail "$message"
     exit 0;
 fi
