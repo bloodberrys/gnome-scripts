@@ -15,6 +15,21 @@ get_log(){
     echo $logs
 }
 
+get_log_small(){
+	local _server=$1
+    local _base_dir_log=/data/s1001/bin/log
+
+    echo "$_server"
+
+    # get recent log file
+    go=$(ls ${_base_dir_log} -tr | grep -E "${_server}[-_0-9\.log]+$" | tail -n 1)
+    local _recent_log_file=$go
+
+    logs=$(tail -n 8 $_base_dir_log/$_recent_log_file)
+
+    echo $logs
+}
+
 send_mail(){
     domain=verification.gnome-hub.com
     api_key=7d28e6a1eb12151868987af95616b7f1-8d821f0c-1aeed30e
@@ -71,6 +86,7 @@ down_count=0
 up_count=0
 serverlength=${#SERVER_LISTS[@]}
 string_logs=''
+string_logs_small=''
 string_server=''
 for((i=0; i<serverlength; i++))
 do
@@ -84,8 +100,11 @@ do
         echo -e "!!! CAUGHT SERVER DOWN: ${SERVER_LISTS[$i]}\n"
         string_server+=${SERVER_LISTS[$i]}
         cmd3="get_log ${SERVER_LISTS[$i]}"
+        cmd4="get_log_small ${SERVER_LISTS[$i]}"
         logs=$(eval "$cmd3")
+        logs_small=$(eval "$cmd4")
         string_logs+="$timestamp || ${SERVER_LISTS[$i]}=======<br><br>$logs<br><br>"
+        string_logs_small+="$timestamp || ${SERVER_LISTS[$i]}=======<br><br>$logs_small<br><br>"
         down_count=$((down_count+1))
     else
         echo -e "Server ${SERVER_LISTS[$i]} OK!\n"
@@ -110,7 +129,8 @@ else
     # if server affcted > 0, send email
     check_counter
     message="=====Stats=====<br><br>$stats<br><br>Server down lists: $server_affected<br><br>======LOGS=======<br><br>$string_logs"
-    send_discord "$message"
+    message2="=====Stats=====<br><br>$stats<br><br>Server down lists: $server_affected<br><br>======LOGS=======<br><br>$string_logs_small"
+    send_discord "$message2"
     send_mail "$message"
     exit 0;
 fi
