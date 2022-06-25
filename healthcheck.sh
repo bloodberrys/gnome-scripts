@@ -25,7 +25,7 @@ get_log_small(){
     go=$(ls ${_base_dir_log} -tr | grep -E "${_server}[-_0-9\.log]+$" | tail -n 1)
     local _recent_log_file=$go
 
-    logs=$(tail -n 8 $_base_dir_log/$_recent_log_file)
+    logs=$(tail -n 15 $_base_dir_log/$_recent_log_file)
 
     echo $logs
 }
@@ -48,7 +48,11 @@ send_discord(){
     local _message=$1
     ADMIN_ROLE="<@&983558291261112370>"
     BOOSTER_ROLE="<@&983549809409552445>"
-    # data="{\"username\": \"Gnome-Automation\", \"content\": \"${subject}\nCC: ${BOOSTER_ROLE}\n\n${message}\"}"
+    size=${#_message}
+    
+    if [[ $size -gt 2000 ]]; then
+        message = ${_message:0:1900}
+    fi
     CONTENT=$(echo $message | sed 's3<br>3\n3g')
     jq -n --arg content "$CONTENT" --arg subject "$SUBJECT" --arg ar "$ADMIN_ROLE" --arg br "$BOOSTER_ROLE" '{username: "Gnome-Automation", content: "\( $subject )\nCC: \( $br ) \( $ar )\n\n\( $content )"}' | curl -g -H 'Content-Type: application/json' -d@- "$webhook_url"
 }
@@ -98,7 +102,7 @@ do
         # get log and send alert via email
         timestamp=$(date '+%Y-%m-%d %H:%M:%S %Z')
         echo -e "!!! CAUGHT SERVER DOWN: ${SERVER_LISTS[$i]}\n"
-        string_server+=${SERVER_LISTS[$i]}
+        string_server+="${SERVER_LISTS[$i]}, "
         cmd3="get_log ${SERVER_LISTS[$i]}"
         cmd4="get_log_small ${SERVER_LISTS[$i]}"
         logs=$(eval "$cmd3")
@@ -130,7 +134,7 @@ else
     check_counter
     message="=====Stats=====<br><br>$stats<br><br>Server down lists: $server_affected<br><br>======LOGS=======<br><br>$string_logs"
     message2="=====Stats=====<br><br>$stats<br><br>Server down lists: $server_affected<br><br>======LOGS=======<br><br>$string_logs_small"
-    send_discord "$message2"
+    send_discord "${message2}"
     send_mail "$message"
     exit 0;
 fi
