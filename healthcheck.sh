@@ -25,7 +25,7 @@ get_log_small(){
     go=$(ls ${_base_dir_log} -tr | grep -E "${_server}[-_0-9\.log]+$" | tail -n 1)
     local _recent_log_file=$go
 
-    logs=$(tail -n 15 $_base_dir_log/$_recent_log_file)
+    logs=$(tail $_base_dir_log/$_recent_log_file)
 
     echo $logs
 }
@@ -51,7 +51,7 @@ send_discord(){
     size=${#_message}
     
     if [[ $size -gt 2000 ]]; then
-        message=${_message:0:1950}
+        message=${_message:0:1900}
     fi
     CONTENT=$(echo $message | sed 's3<br>3\n3g')
     jq -n --arg content "$CONTENT" --arg subject "$SUBJECT" --arg ar "$ADMIN_ROLE" --arg br "$BOOSTER_ROLE" '{username: "Gnome-Automation", content: "\( $subject )\nCC: \( $br ) \( $ar )\n\n\( $content )"}' | curl -g -H 'Content-Type: application/json' -d@- "$webhook_url"
