@@ -25,16 +25,17 @@ send_mail(){
     url="https://api.mailgun.net/v3/$domain/messages"
     req="curl -g --user 'api:${api_key}' '$url' -F from='${from}' -F to='${to}' -F subject='${subject}' -F html=\"${message}\""
     eval "$req"
-    exit 0;
 }
 
 send_discord(){
     webhook_url=https://discord.com/api/webhooks/990288785587707934/rPLMgznwPKHxRhlnzcILJgP_YjyVQaKcS_mnaLpXU6NWsY3WaPsPg9llgFibWVXB-0j_
-    subject="!!!Server Healthcheck Down Detected!!!"
+    SUBJECT="!!!Server Healthcheck Down Detected!!!"
     local _message=$1
-    req="curl -H 'Content-Type: application/json' -d '{\"username\": \"Gnome-Automation\", \"content\": \"${subject}\nCC: <@&983558291261112370> <@&983549809409552445>\n\n${message}\"}' $webhook_url"
-    eval "$req"
-    exit 0;
+    ADMIN_ROLE="<@&983558291261112370>"
+    BOOSTER_ROLE="<@&983549809409552445>"
+    # data="{\"username\": \"Gnome-Automation\", \"content\": \"${subject}\nCC: ${BOOSTER_ROLE}\n\n${message}\"}"
+    CONTENT=$(echo $message | sed 's3<br>3\n3g')
+    jq -n --arg content "$CONTENT" --arg subject "$SUBJECT" --arg ar "$ADMIN_ROLE" --arg br "$BOOSTER_ROLE" '{username: "Gnome-Automation", content: "\( $subject )\nCC: \( $br ) \( $ar )\n\n\( $content )"}' | curl -g -H 'Content-Type: application/json' -d@- "$webhook_url"
 }
 
 lcomma() { 
@@ -89,6 +90,7 @@ else
     message="=====Stats=====<br><br>$stats<br><br>Server down lists: $server_affected<br><br>======LOGS=======<br><br>$string_logs"
     send_discord "$message"
     send_mail "$message"
+    exit 0;
 fi
 
 
