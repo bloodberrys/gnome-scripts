@@ -29,7 +29,7 @@ send_mail(){
 
 send_discord(){
     webhook_url=https://discord.com/api/webhooks/990288785587707934/rPLMgznwPKHxRhlnzcILJgP_YjyVQaKcS_mnaLpXU6NWsY3WaPsPg9llgFibWVXB-0j_
-    SUBJECT="!!!Server Healthcheck Down Detected!!!"
+    SUBJECT="!!!Server Healthcheck: Down Detected!!!"
     local _message=$1
     ADMIN_ROLE="<@&983558291261112370>"
     BOOSTER_ROLE="<@&983549809409552445>"
@@ -40,6 +40,23 @@ send_discord(){
 
 lcomma() { 
     sed '$x;$G;/\(.*\),/!H;//!{$!d};$!x;$s//\1/;s/^\n//'
+}
+
+check_counter() {
+    FILE=/tmp/counter_dn/counter
+    if test -f "$FILE"; then
+        string=$(cat /tmp/counter_dn/counter)
+        size=${#string}
+        if [ ${size} -gt 2 ]; then
+            echo "already 3 times, skipping..."
+            exit 1;
+        fi
+        echo -n 1 >> /tmp/counter_dn/counter
+    else
+        mkdir -p /tmp/counter_dn
+        touch /tmp/counter_dn/counter
+        echo -n 1 >> /tmp/counter_dn/counter
+    fi
 }
 
 echo "get server-list..."
@@ -87,6 +104,7 @@ if [ -z "${server_affected}" ]; then
     exit 0;
 else
     # if server affcted > 0, send email
+    check_counter
     message="=====Stats=====<br><br>$stats<br><br>Server down lists: $server_affected<br><br>======LOGS=======<br><br>$string_logs"
     send_discord "$message"
     send_mail "$message"
