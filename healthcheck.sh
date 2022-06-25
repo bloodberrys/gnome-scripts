@@ -10,7 +10,7 @@ get_log(){
     go=$(ls ${_base_dir_log} -tr | grep -E "${_server}[-_0-9\.log]+$" | tail -n 1)
     local _recent_log_file=$go
 
-    logs=$(tail -n 5 $_base_dir_log/$_recent_log_file)
+    logs=$(tail -n 15 $_base_dir_log/$_recent_log_file)
 
     echo $logs
 }
