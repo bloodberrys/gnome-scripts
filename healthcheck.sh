@@ -89,7 +89,6 @@ do
         echo -e "!!! CAUGHT SERVER DOWN: ${SERVER_LISTS[$i]}\n"
         string_server+="${SERVER_LISTS[$i]}, "
         cmd3="get_log ${SERVER_LISTS[$i]}"
-        cmd4="get_log_small ${SERVER_LISTS[$i]}"
         logs=$(eval "$cmd3")
         string_logs+="$timestamp || ${SERVER_LISTS[$i]}=======<br><br>$logs<br><br>"
         down_count=$((down_count+1))
