@@ -47,15 +47,15 @@ send_discord_server_up(){
     webhook_url=https://discord.com/api/webhooks/1000428863735742494/IYw9zrf-BuL0_NFajzBFYpgrtv27gproOzBv2DpDc35np86USxNMCaAGyhZ7SRJNlk08
     SUBJECT="Server Online Status"
     local _message=$1
-    ADMIN_ROLE="<@&983558291261112370>"
-    CONTENT=$(echo $message | sed 's3<br>3\n3g')
+    CONTENT=$(echo $_message | sed 's3<br>3\n3g')
+    netstat -s > /tmp/tcpudp.log
+    netstat -npt | awk '{print $5}' | grep -Eo '([0-9]{1,3}\.){3}[0-9]{1,3}' | cut -d: -f1 | sort | uniq -c | sort -nr | head -n 20 > /tmp/tcp_by_ip_count.log
+    netstat -npt | grep 14711 | awk '{print $5}' | grep -Eo '([0-9]{1,3}\.){3}[0-9]{1,3}' | cut -d: -f1 | sort | uniq -c | sort -nr | head -n 20 > /tmp/tcp_14711.log
+    netstat -npt | grep 25001 | awk '{print $5}' | grep -Eo '([0-9]{1,3}\.){3}[0-9]{1,3}' | cut -d: -f1 | sort | uniq -c | sort -nr | head -n 20 > /tmp/tcp_25001.log
+    netstat -npt | grep 24001 | awk '{print $5}' | grep -Eo '([0-9]{1,3}\.){3}[0-9]{1,3}' | cut -d: -f1 | sort | uniq -c | sort -nr | head -n 20 > /tmp/tcp_24001.log
     size=${#CONTENT}
-    echo -e "$CONTENT" > /tmp/discordmsg.log
-    if [[ $size -gt 2000 ]]; then
-        CONTENT=${CONTENT:0:1500}
-    fi
-    payload_json=$(jq -n --arg content "$CONTENT" --arg subject "$SUBJECT" --arg ar "$ADMIN_ROLE" --arg br "$BOOSTER_ROLE" '{username: "Gnome-Automation", content: "\( $subject )\nCC: \( $br ) \( $ar )\n\n\( $content )"}')
-    curl -g -F "payload_json=$payload_json" "$webhook_url"
+    payload_json=$(jq -n --arg content "$CONTENT" --arg subject "$SUBJECT" '{username: "Gnome-Automation", content: "\( $subject )\n\n\( $content )"}')
+    curl -g -F "payload_json=$payload_json" -F "file1=@/tmp/tcpudp.log" -F "file2=@/tmp/tcp_by_ip_count.log" -F "file3=@/tmp/tcp_14711.log" -F "file3=@/tmp/tcp_24001.log" -F "file3=@/tmp/tcp_25001.log" "$webhook_url"
 }
 
 lcomma() { 
@@ -126,7 +126,10 @@ if [ -z "${server_affected}" ]; then
     # nothing to do
     tcp_connection_count=$(netstat -an | grep -c ESTABLISHED)
     online_player_count=$(curl 127.0.0.1:81/sdk/healthcheck.php | jq -r .online_role)
-    send_discord_server_up "tcp connection: ${tcp_connection_count}<br>player online: ${online_player_count}"
+    export TZ=Asia/Jakarta
+    date=$(date '+%Y-%m-%d_%H-%M-%S_%Z')
+    messages_up="==================================<br>SERVER UP AND RUNNING ${date}:white_check_mark:<br>==================================<br>tcp connection: ${tcp_connection_count}<br>player online: ${online_player_count}<br>==================================<br>"
+    send_discord_server_up "$messages_up"
     echo -e "online: ${online_player_count}"
     echo -e "online: ${tcp_connection_count}"
     echo -e "server up!!!"
