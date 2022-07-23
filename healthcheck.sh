@@ -43,6 +43,21 @@ send_discord(){
     curl -g -F "payload_json=$payload_json" -F "file1=@/tmp/discordmsg.log" "$webhook_url"
 }
 
+send_discord_server_up(){
+    webhook_url=https://discord.com/api/webhooks/1000428863735742494/IYw9zrf-BuL0_NFajzBFYpgrtv27gproOzBv2DpDc35np86USxNMCaAGyhZ7SRJNlk08
+    SUBJECT="Server Online Status"
+    local _message=$1
+    ADMIN_ROLE="<@&983558291261112370>"
+    CONTENT=$(echo $message | sed 's3<br>3\n3g')
+    size=${#CONTENT}
+    echo -e "$CONTENT" > /tmp/discordmsg.log
+    if [[ $size -gt 2000 ]]; then
+        CONTENT=${CONTENT:0:1500}
+    fi
+    payload_json=$(jq -n --arg content "$CONTENT" --arg subject "$SUBJECT" --arg ar "$ADMIN_ROLE" --arg br "$BOOSTER_ROLE" '{username: "Gnome-Automation", content: "\( $subject )\nCC: \( $br ) \( $ar )\n\n\( $content )"}')
+    curl -g -F "payload_json=$payload_json" "$webhook_url"
+}
+
 lcomma() { 
     sed '$x;$G;/\(.*\),/!H;//!{$!d};$!x;$s//\1/;s/^\n//'
 }
@@ -109,7 +124,12 @@ server_affected=$string_server
 
 if [ -z "${server_affected}" ]; then
     # nothing to do
-    echo "nothing to do"
+    tcp_connection_count=$(netstat -an | grep -c ESTABLISHED)
+    online_player_count=$(curl 127.0.0.1:81/sdk/healthcheck.php | jq -r .online_role)
+    send_discord "tcp connection: ${tcp_connection_count}<br>player online: ${online_player_count}"
+    echo -e "online: ${online_player_count}"
+    echo -e "online: ${tcp_connection_count}"
+    echo -e "server up!!!"
     exit 0;
 else
     # if server affcted > 0, send email
@@ -119,7 +139,6 @@ else
     send_mail "$message"
     exit 0;
 fi
-
 
 
 
