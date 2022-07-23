@@ -126,7 +126,7 @@ if [ -z "${server_affected}" ]; then
     # nothing to do
     tcp_connection_count=$(netstat -an | grep -c ESTABLISHED)
     online_player_count=$(curl 127.0.0.1:81/sdk/healthcheck.php | jq -r .online_role)
-    send_discord "tcp connection: ${tcp_connection_count}<br>player online: ${online_player_count}"
+    send_discord_server_up "tcp connection: ${tcp_connection_count}<br>player online: ${online_player_count}"
     echo -e "online: ${online_player_count}"
     echo -e "online: ${tcp_connection_count}"
     echo -e "server up!!!"
