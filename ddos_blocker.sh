@@ -15,15 +15,16 @@ run_process(){
     do  
         # check the ip count that more than 10
         if [ ${ipcounts[$i]} -gt 10 ]; then
-            # save the ip to list with command
-            echo "iptables -A INPUT -s ${ips[$i]} -j DROP" >> "/tmp/ip_blocked_${_filename}.log"
-            echo "${ips[$i]}" >> "/tmp/iplist_${_filename}.log"
             
             # checking the ips
             sudo iptables -C INPUT -s ${ips[$i]} -j DROP
 
             # If the exit status is 1, meaning we need to execute the ips to ip tables
             if [ $? -eq 1 ]; then
+                # save the ip to list with command
+                echo "iptables -A INPUT -s ${ips[$i]} -j DROP" >> "/tmp/ip_blocked_${_filename}.log"
+                echo "${ips[$i]}" >> "/tmp/iplist_${_filename}.log"
+                
                 # execute the iptables block
                 sudo iptables -A INPUT -s ${ips[$i]} -j DROP
                 counter=$((counter+1))
