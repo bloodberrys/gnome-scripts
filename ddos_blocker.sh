@@ -53,6 +53,10 @@ send_discord_security_report(){
     local _timestamp=$4
     SUBJECT="⚠️ Security Report - $_timestamp ⚠️"
     CONTENT=$(echo $_message | sed 's3<br>3\n3g')
+    size=${#CONTENT}
+    if [[ $size -gt 2000 ]]; then
+        CONTENT=${CONTENT:0:1500}
+    fi
     payload_json=$(jq -n --arg content "$CONTENT" --arg subject "$SUBJECT" '{username: "Gnome-Security", content: "\( $subject )\n\n\( $content )"}')
     curl -g -F "payload_json=$payload_json" -F "file1=@$_filename" -F "file2=@$_iplistfile" "$webhook_url"
 }
