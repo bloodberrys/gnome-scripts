@@ -13,8 +13,8 @@ run_process(){
     counter=0
     for((i=0; i<iplength; i++))
     do  
-        # check the ip count that more than 10
-        if [ ${ipcounts[$i]} -gt 10 ]; then
+        # check the ip count that more than 7
+        if [ ${ipcounts[$i]} -gt 7 ]; then
             
             # checking the ips
             sudo iptables -C INPUT -s ${ips[$i]} -j DROP
@@ -24,7 +24,7 @@ run_process(){
                 # save the ip to list with command
                 echo "iptables -A INPUT -s ${ips[$i]} -j DROP" >> "/tmp/ip_blocked_${_filename}.log"
                 echo "${ips[$i]}" >> "/tmp/iplist_${_filename}.log"
-                
+
                 # execute the iptables block
                 sudo iptables -A INPUT -s ${ips[$i]} -j DROP
                 counter=$((counter+1))
@@ -33,6 +33,7 @@ run_process(){
     done
 
     if [ $counter -gt 0 ]; then
+        service iptables save
         message=$(awk '{printf "%s<br>", $0}' "/tmp/iplist_${_filename}.log")
         string="There are $counter IPs blocked:<br>$message"
         filename="/tmp/ip_blocked_${_filename}.log"
