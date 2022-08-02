@@ -9,12 +9,21 @@ run_process(){
     IFS=" " read -r -a ipcounts <<< "$array_of_ip_count"
     IFS=" " read -r -a ips <<< "$array_of_ip"
 
+    IFS=" " read -r -a whitelisted_ip <<< "120.28.216.28"
+
     iplength=${#ips[@]}
     counter=0
     for((i=0; i<iplength; i++))
     do  
+        whitelist=0
+        # whitelist check
+        if [[ " ${whitelisted_ip[*]} " =~ " ${ips[$i]} " ]]; then
+            # whatever you want to do when array contains value
+            whitelist=1
+        fi
+
         # check the ip count that more than 7
-        if [ ${ipcounts[$i]} -gt 7 ]; then
+        if [ ${ipcounts[$i]} -gt 7 ] && [ ${whitelist} -eq 0 ]; then
             
             # checking the ips
             sudo iptables -C INPUT -s ${ips[$i]} -j DROP
