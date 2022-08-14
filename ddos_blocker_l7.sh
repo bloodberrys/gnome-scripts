@@ -24,8 +24,8 @@ run_process(){
             # If the exit status is 1, meaning we need to execute the ips to ip tables
             if [ $? -eq 1 ]; then
 
-                echo "iptables -A INPUT -s ${ipaddress} -j DROP" >> "/tmp/ip_blocked_${ipaddress}.log"
-                echo -e "\n\n[ACTION] EXECUTE THIS DELETE STATEMENT\n\nDELETE a,b FROM account_details a JOIN account b ON b.id = a.account_id WHERE a.ip_address LIKE '%${ipaddress}%' AND a.is_verified = 0" >> "/tmp/ip_blocked_${ipaddress}.log"
+                echo -e "[IP-DROPPER]\niptables -A INPUT -s ${ipaddress} -j DROP" >> "/tmp/ip_blocked_${ipaddress}.log"
+                echo -e "\n\n[ACTION] EXECUTE THIS DELETE STATEMENT\nDELETE a,b FROM account_details a JOIN account b ON b.id = a.account_id WHERE a.ip_address LIKE '%${ipaddress}%' AND a.is_verified = 0" >> "/tmp/ip_blocked_${ipaddress}.log"
                 # Drop and save
                 sudo iptables -A INPUT -s ${ipaddress} -j DROP
                 service iptables save
