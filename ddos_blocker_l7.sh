@@ -36,7 +36,7 @@ run_process(){
 
                 # Send discord we have blocked it
                 # Also send how to clean the database.
-                string="Layer 7 IP blocked:<br>\`$ipaddress\`<br>"
+                string="IP blocked:<br>\`$ipaddress\`<br>"
                 filename="/tmp/ip_blocked_${ipaddress}.log"
                 send_discord_security_report "$string" "$filename" "$_timestamp"
                 
