@@ -12,7 +12,7 @@ run_process(){
 
     for((i=0; i<filenamecount; i++))
     do 
-        ipcount=$(< "/tmp/${array_filename[$i]}" awk '{a[$1]++} END {for(i in a) print a[i],i}' | sort -nr | grep -Eo '^[0-9]')
+        ipcount=$(< "/var/www/html/suspected_ip/${array_filename[$i]}" awk '{a[$1]++} END {for(i in a) print a[i],i}' | sort -nr | grep -Eo '^[0-9]')
 
         if [ ${ipcount} -gt 4 ]; then
             # get ip from filename
