@@ -26,13 +26,17 @@ run_process(){
 
                 echo -e "[IP-DROPPER]\niptables -A INPUT -s ${ipaddress} -j DROP" >> "/tmp/ip_blocked_${ipaddress}.log"
                 echo -e "\n\n[ACTION] EXECUTE THIS DELETE STATEMENT\nDELETE a,b FROM account_details a JOIN account b ON b.id = a.account_id WHERE a.ip_address LIKE '%${ipaddress}%' AND a.is_verified = 0" >> "/tmp/ip_blocked_${ipaddress}.log"
+                
+                sample_log=$(tail /var/log/httpd/access_log | grep ${ipaddress})
+                echo -e "\n\n[SAMPLE HTTP LOGS]\n$sample_log" >> "/tmp/ip_blocked_${ipaddress}.log"
+                
                 # Drop and save
                 sudo iptables -A INPUT -s ${ipaddress} -j DROP
                 service iptables save
 
                 # Send discord we have blocked it
                 # Also send how to clean the database.
-                string="Layer 7 IP blocked:<br><br>\`$ipaddress\`"
+                string="Layer 7 IP blocked:<br>\`$ipaddress\`<br>"
                 filename="/tmp/ip_blocked_${ipaddress}.log"
                 send_discord_security_report "$string" "$filename" "$_timestamp"
                 
