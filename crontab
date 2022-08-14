@@ -12,6 +12,7 @@
 * * * * * sleep 50; bash /home/ec2-user/gnome-scripts/ddos_blocker.sh;
 * * * * * sleep 55; bash /home/ec2-user/gnome-scripts/ddos_blocker.sh;
 
+* * * * * bash /home/ec2-user/gnome-scripts/ddos_blocker_l7.sh;
 * * * * * sleep 5; bash /home/ec2-user/gnome-scripts/ddos_blocker_l7.sh;
 * * * * * sleep 10; bash /home/ec2-user/gnome-scripts/ddos_blocker_l7.sh;
 * * * * * sleep 15; bash /home/ec2-user/gnome-scripts/ddos_blocker_l7.sh;
