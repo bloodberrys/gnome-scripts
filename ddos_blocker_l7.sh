@@ -25,7 +25,7 @@ run_process(){
             if [ $? -eq 1 ]; then
 
                 echo "iptables -A INPUT -s ${ipaddress} -j DROP" >> "/tmp/ip_blocked_${ipaddress}.log"
-                echo -e "[ACTION] EXECUTE THIS DELETE STATEMENT\n\nDELETE a,b FROM account_details a JOIN account b ON b.id = a.account_id WHERE a.ip_address LIKE '%${ipaddress}%' AND a.is_verified = 0"
+                echo -e "[ACTION] EXECUTE THIS DELETE STATEMENT\n\nDELETE a,b FROM account_details a JOIN account b ON b.id = a.account_id WHERE a.ip_address LIKE '%${ipaddress}%' AND a.is_verified = 0" >> "/tmp/ip_blocked_${ipaddress}.log"
                 # Drop and save
                 sudo iptables -A INPUT -s ${ipaddress} -j DROP
                 service iptables save
