@@ -4,7 +4,7 @@
 run_process(){
     local _timestamp=$1
 
-    filename=$(ls -U /var/www/html/suspected_ip/ | grep 'suspicious_layer4_')
+    filename=$(ls -U /var/www/html/suspected_ip/ | grep 'suspicious_layer7_')
 
     IFS=" " read -r -a array_filename <<< "$filename"
 
@@ -40,6 +40,7 @@ run_process(){
                 rm -f "/var/www/html/suspected_ip/${array_filename[$i]}"
             fi
         fi
+        echo "no threat, skipping..."
     done
 
 }
