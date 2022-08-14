@@ -4,7 +4,7 @@
 run_process(){
     local _timestamp=$1
 
-    filename=$(ls -U /tmp/ | grep 'suspicious_layer4_')
+    filename=$(ls -U /var/www/html/suspected_ip/ | grep 'suspicious_layer4_')
 
     IFS=" " read -r -a array_filename <<< "$filename"
 
@@ -37,7 +37,7 @@ run_process(){
                 send_discord_security_report "$string" "$filename" "$_timestamp"
                 
                 # delete the file
-                rm -f "/tmp/${array_filename[$i]}"
+                rm -f "/var/www/html/suspected_ip/${array_filename[$i]}"
             fi
         fi
     done
