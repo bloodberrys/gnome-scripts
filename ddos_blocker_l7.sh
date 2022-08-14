@@ -12,11 +12,11 @@ run_process(){
 
     for((i=0; i<filenamecount; i++))
     do 
-        ipcount=$(< "/var/www/html/suspected_ip/${array_filename[$i]}" awk '{a[$1]++} END {for(i in a) print a[i],i}' | sort -nr | grep -Eo '^[0-9]')
+        ipcount=$(< "/var/www/html/suspected_ip/${array_filename[$i]}" wc -l)
 
         if [ ${ipcount} -gt 4 ]; then
             # get ip from filename
-            ipaddress=$(echo ${array_filename[$i]} | grep -Eo '[0-9]{1,3}.[0-9]{1,3}.[0-9]{1,3}.[0-9]{1,3}$')
+            ipaddress=$(echo ${array_filename[$i]//,} | grep -Eo '[0-9]{1,3}.[0-9]{1,3}.[0-9]{1,3}.[0-9]{1,3}$')
 
             # checking the ips
             sudo iptables -C INPUT -s ${ipaddress} -j DROP
