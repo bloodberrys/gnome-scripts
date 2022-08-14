@@ -27,7 +27,7 @@ run_process(){
                 echo -e "[IP-DROPPER]\niptables -A INPUT -s ${ipaddress} -j DROP" >> "/tmp/ip_blocked_${ipaddress}.log"
                 echo -e "\n\n[ACTION] EXECUTE THIS DELETE STATEMENT\nDELETE a,b FROM account_details a JOIN account b ON b.id = a.account_id WHERE a.ip_address LIKE '%${ipaddress}%' AND a.is_verified = 0" >> "/tmp/ip_blocked_${ipaddress}.log"
                 
-                sample_log=$(tail /var/log/httpd/access_log | grep ${ipaddress})
+                sample_log=$(tail -n 50 /var/log/httpd/access_log)
                 echo -e "\n\n[SAMPLE HTTP LOGS]\n$sample_log" >> "/tmp/ip_blocked_${ipaddress}.log"
                 
                 # Drop and save
