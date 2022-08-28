@@ -23,7 +23,7 @@ run_process(){
         fi
 
         # check the ip count that more than 7
-        if [ ${ipcounts[$i]} -gt 9 ] && [ ${whitelist} -eq 0 ]; then
+        if [ ${ipcounts[$i]} -gt 5 ] && [ ${whitelist} -eq 0 ]; then
             
             # checking the ips
             sudo iptables -C INPUT -s ${ips[$i]} -j DROP
