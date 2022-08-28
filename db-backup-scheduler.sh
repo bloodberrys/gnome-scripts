@@ -24,7 +24,7 @@ DB_USERNAME=gnome
 DB_PASSWORD=Capcapcap123
 
 # Backupdb
-mysqldump -h $DB_HOSTNAME -u $DB_USERNAME -p$DB_PASSWORD --all-databases > db-$date.sql
+mysqldump -h $DB_HOSTNAME -u $DB_USERNAME -p$DB_PASSWORD --all-databases --single-transaction > db-$date.sql
 
 # upload to s3
 aws s3 cp db-$date.sql s3://dnmgnome-db-backup
