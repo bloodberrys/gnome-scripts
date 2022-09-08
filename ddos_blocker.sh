@@ -47,7 +47,7 @@ run_process(){
         string="There are $counter IPs blocked:<br>$message"
         filename="/tmp/ip_blocked_${_filename}.log"
         iplistfile="/tmp/${_filename}.log"
-        send_discord_security_report "$string" "$filename" "$iplistfile" "$_timestamp"
+        #send_discord_security_report "$string" "$filename" "$iplistfile" "$_timestamp"
     else
         echo -e "ALL GOOD, ALL OK and nothing to do."
     fi

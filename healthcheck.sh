@@ -132,7 +132,7 @@ if [ -z "${server_affected}" ]; then
     export TZ=Asia/Jakarta
     date=$(date '+%Y-%m-%d_%H-%M-%S_%Z')
     messages_up="==================================<br>SERVER UP AND RUNNING ${date}:white_check_mark:<br>==================================<br>tcp connection: ${tcp_connection_count}<br>player online: ${online_player_count}<br>==================================<br>"
-    send_discord_server_up "$messages_up"
+    #send_discord_server_up "$messages_up"
     echo -e "online: ${online_player_count}"
     echo -e "online: ${tcp_connection_count}"
     echo -e "server up!!!"
@@ -141,7 +141,7 @@ else
     # if server affcted > 0, send email
     check_counter
     message="=====Stats=====<br><br>$stats<br><br>Server down lists: $server_affected<br><br>======LOGS=======<br><br>$string_logs"
-    send_discord "$message"
+    #send_discord "$message"
     send_mail "$message"
     exit 0;
 fi
