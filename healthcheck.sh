@@ -50,7 +50,7 @@ send_discord_server_up(){
     CONTENT=$(echo $_message | sed 's3<br>3\n3g')
     netstat -s > /tmp/tcpudp.log
     netstat -npt | awk '{print $5}' | grep -Eo '([0-9]{1,3}\.){3}[0-9]{1,3}' | cut -d: -f1 | sort | uniq -c | sort -nr > /tmp/tcp_by_ip_count.log
-    netstat -npt | grep 11199 | awk '{print $5}' | grep -Eo '([0-9]{1,3}\.){3}[0-9]{1,3}' | cut -d: -f1 | sort | uniq -c | sort -nr > /tmp/tcp_11199.log
+    netstat -npt | grep 14045 | awk '{print $5}' | grep -Eo '([0-9]{1,3}\.){3}[0-9]{1,3}' | cut -d: -f1 | sort | uniq -c | sort -nr > /tmp/tcp_14045.log
     netstat -npt | grep 25001 | awk '{print $5}' | grep -Eo '([0-9]{1,3}\.){3}[0-9]{1,3}' | cut -d: -f1 | sort | uniq -c | sort -nr > /tmp/tcp_25001.log
     netstat -npt | grep 24001 | awk '{print $5}' | grep -Eo '([0-9]{1,3}\.){3}[0-9]{1,3}' | cut -d: -f1 | sort | uniq -c | sort -nr > /tmp/tcp_24001.log
     netstat -npt | awk '{print $6}' | sort | uniq -c | sort -nr > /tmp/synflooddetection.log
@@ -58,7 +58,7 @@ send_discord_server_up(){
     netstat -npt  | grep SYN_RECV | awk '{print $5}' | grep -Eo '([0-9]{1,3}\.){3}[0-9]{1,3}' | cut -d: -f1 | sort | uniq -c | sort -nr > /tmp/multiple_ip_attack.log
     size=${#CONTENT}
     payload_json=$(jq -n --arg content "$CONTENT" --arg subject "$SUBJECT" '{username: "Gnome-Automation", content: "\( $subject )\n\n\( $content )"}')
-    curl -g -F "payload_json=$payload_json" -F "file1=@/tmp/tcpudp.log" -F "file2=@/tmp/tcp_by_ip_count.log" -F "file3=@/tmp/tcp_11199.log" -F "file4=@/tmp/tcp_24001.log" -F "file5=@/tmp/tcp_25001.log" -F "file6=@/tmp/synflooddetection.log" -F "file7=@/tmp/singe_ip_attack.log" -F "file8=@/tmp/multiple_ip_attack.log" "$webhook_url"
+    curl -g -F "payload_json=$payload_json" -F "file1=@/tmp/tcpudp.log" -F "file2=@/tmp/tcp_by_ip_count.log" -F "file3=@/tmp/tcp_14045.log" -F "file4=@/tmp/tcp_24001.log" -F "file5=@/tmp/tcp_25001.log" -F "file6=@/tmp/synflooddetection.log" -F "file7=@/tmp/singe_ip_attack.log" -F "file8=@/tmp/multiple_ip_attack.log" "$webhook_url"
 }
 
 lcomma() { 

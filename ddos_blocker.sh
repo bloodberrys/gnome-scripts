@@ -77,9 +77,9 @@ timestamp=$(date '+%Y-%m-%d_%H-%M-%S_%Z')
 
 echo -e "[TASK] Checking the netstat..."
 netstat -npt | awk '{print $5}' | grep -Eo '([0-9]{1,3}\.){3}[0-9]{1,3}' | cut -d: -f1 | sort | uniq -c | sort -nr | grep -Eo '[0-9]+[ ]{1}[0-9.]+' | grep -vE '^[0-9]+[ ][1][0].[0].[0-9]{1,3}.[0-9]{1,3}$' | grep -vE '^[0-9]+[ ]127.0.0.1$' > "/tmp/ip_list_total_$timestamp.log"
-netstat -npt | grep 11199 | awk '{print $5}' | grep -Eo '([0-9]{1,3}\.){3}[0-9]{1,3}' | cut -d: -f1 | sort | uniq -c | sort -nr | grep -Eo '[0-9]+[ ]{1}[0-9.]+' | grep -vE '^[0-9]+[ ][1][0].[0].[0-9]{1,3}.[0-9]{1,3}$' | grep -vE '^[0-9]+[ ]127.0.0.1$' > "/tmp/ip_11199_$timestamp.log"
+netstat -npt | grep 14045 | awk '{print $5}' | grep -Eo '([0-9]{1,3}\.){3}[0-9]{1,3}' | cut -d: -f1 | sort | uniq -c | sort -nr | grep -Eo '[0-9]+[ ]{1}[0-9.]+' | grep -vE '^[0-9]+[ ][1][0].[0].[0-9]{1,3}.[0-9]{1,3}$' | grep -vE '^[0-9]+[ ]127.0.0.1$' > "/tmp/ip_14045_$timestamp.log"
 
-echo -e "\n[PRE-TASK] Obtaining and processing the netstat result file from /tmp/ip_list_total.log and /tmp/ip_11199.log"
+echo -e "\n[PRE-TASK] Obtaining and processing the netstat result file from /tmp/ip_list_total.log and /tmp/ip_14045.log"
 ipfiles="/tmp/ip_list_total_$timestamp.log" # WE CAN SIMPLY CHANGE THIS FOR DEBUGGING
 if [ ! -f "$ipfiles" ]; then
     echo "✗ File ${ipfiles} not found on your machine!"
@@ -87,7 +87,7 @@ if [ ! -f "$ipfiles" ]; then
     exit 1
 else
     echo "✓ File ${ipfiles} is found, continue to the next task..."
-    ipfiles2="/tmp/ip_11199_$timestamp.log" # WE CAN SIMPLY CHANGE THIS FOR DEBUGGING
+    ipfiles2="/tmp/ip_14045_$timestamp.log" # WE CAN SIMPLY CHANGE THIS FOR DEBUGGING
     if [ ! -f "$ipfiles2" ]; then
         echo "✗ File ${ipfiles2} not found on your machine!"
         echo "exitting..."
@@ -95,7 +95,7 @@ else
     else
         echo "✓ File ${ipfiles2} is found, continue to the next task..."
         run_process "ip_list_total_$timestamp" "$timestamp"
-        run_process "ip_11199_$timestamp" "$timestamp"
+        run_process "ip_14045_$timestamp" "$timestamp"
     fi
 fi
 
