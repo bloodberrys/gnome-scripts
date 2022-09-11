@@ -38,7 +38,7 @@ run_process(){
                 # Also send how to clean the database.
                 string="IP blocked:<br>\`$ipaddress\`<br>"
                 filename="/tmp/ip_blocked_${ipaddress}.log"
-                nohup send_discord_security_report "$string" "$filename" "$_timestamp" > /dev/null 2>&1 &
+                send_discord_security_report "$string" "$filename" "$_timestamp"
                 
                 # delete the file
                 rm -f "/var/www/html/suspected_ip/${array_filename[$i]}"
