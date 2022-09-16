@@ -9,7 +9,7 @@ run_process(){
     IFS=" " read -r -a ipcounts <<< "$array_of_ip_count"
     IFS=" " read -r -a ips <<< "$array_of_ip"
 
-    IFS=" " read -r -a whitelisted_ip <<< "120.28.216.28 175.176.32.24 46.146.160.25"
+    IFS=" " read -r -a whitelisted_ip <<< "175.176.20.22 120.28.216.28 175.176.32.24 46.146.160.25"
 
     iplength=${#ips[@]}
     counter=0
