@@ -9,7 +9,7 @@ run_process(){
     IFS=" " read -r -a ipcounts <<< "$array_of_ip_count"
     IFS=" " read -r -a ips <<< "$array_of_ip"
 
-    IFS=" " read -r -a whitelisted_ip <<< "112.215.245.216 112.215.200.69 110.54.184.23 175.176.20.22 120.28.216.28 175.176.32.24 46.146.160.25"
+    IFS=" " read -r -a whitelisted_ip <<< "45.202.25.237 52.219.32.246 52.219.132.186 52.219.124.50 49.144.43.24 112.215.245.216 112.215.200.69 110.54.184.23 175.176.20.22 120.28.216.28 175.176.32.24 46.146.160.25"
 
     iplength=${#ips[@]}
     counter=0
@@ -23,7 +23,7 @@ run_process(){
         fi
 
         # check the ip count that more than 7
-        if [ ${ipcounts[$i]} -gt 5 ] && [ ${whitelist} -eq 0 ]; then
+        if [ ${ipcounts[$i]} -gt 8 ] && [ ${whitelist} -eq 0 ]; then
             
             # checking the ips
             sudo iptables -C INPUT -s ${ips[$i]} -j DROP
