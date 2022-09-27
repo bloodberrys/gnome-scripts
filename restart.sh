@@ -24,7 +24,7 @@ if [ ! -f "$ipfiles" ]; then
 else
     echo "✓ File ${ipfiles} is found, continue to the next task..."
     send_discord
-    bash /data/s1001/restart-test.sh
+    bash /data/s1001/restart.sh
     rm -rf /var/www/html/suspected_ip/restart
 fi
 
