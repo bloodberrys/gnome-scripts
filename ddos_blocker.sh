@@ -59,15 +59,18 @@ run_process(){
         # persistent save iptables
         service iptables save       
     else
-        echo -e "ALL GOOD, ALL OK and nothing to do."
+        echo -e "ALL GOOD, no threat detected, ALL OK and nothing to do."
     fi
 
     # always execute the report each run_process call
     IP_IPLIST_LOG_FILENAME=$(find /tmp/iplist/ -type f -printf "%f\n" -mmin +1 | head -n 1)
-    message=$(awk '{printf "%s<br>", $0}' "/tmp/iplist/${IP_IPLIST_LOG_FILENAME}")
-    string="There are $counter IPs blocked:<br>$message"
-    send_discord_security_report "$string" "$_timestamp"
-
+    if [ -z "$IP_IPLIST_LOG_FILENAME" ]; then
+        echo "ALL GOOD, no iplist file detected, nothing to do"
+    else
+        message=$(awk '{printf "%s<br>", $0}' "/tmp/iplist/${IP_IPLIST_LOG_FILENAME}")
+        string="There are $counter IPs blocked:<br>$message"
+        send_discord_security_report "$string" "$_timestamp"
+    fi 
     counter=0
 
 }
