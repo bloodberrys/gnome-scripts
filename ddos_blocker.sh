@@ -56,14 +56,15 @@ run_process(){
     done
 
     if [ $counter -gt 0 ]; then
-        service iptables save
-        message=$(awk '{printf "%s<br>", $0}' "/tmp/iplist/iplist_${_filename}.log")
-        string="There are $counter IPs blocked:<br>$message"
-        send_discord_security_report "$string" "$_timestamp"
-        
+        # persistent save iptables
+        service iptables save       
     else
         echo -e "ALL GOOD, ALL OK and nothing to do."
     fi
+
+    message=$(awk '{printf "%s<br>", $0}' "/tmp/iplist/iplist_${_filename}.log")
+    string="There are $counter IPs blocked:<br>$message"
+    send_discord_security_report "$string" "$_timestamp"
 
     counter=0
 
@@ -73,9 +74,6 @@ send_discord_security_report(){
     webhook_url=https://discord.com/api/webhooks/1002015434532466779/UqyXpNSrj28Jop_77beQeSJ2tn9nd-I-vlMM1GzHPeFRklu-Sdw--tNXbtmRsu5u67bu
     local _message=$1
     local _timestamp=$2
-
-    filename="/tmp/ip_blocked/ip_blocked_${_filename}.log"
-    iplistfile="/tmp/iplist/${_filename}.log"
 
     IP_BLOCKED_TO_BE_SENT=$(find /tmp/ip_blocked/ -type f -printf "%f\n" -mmin +1 | head -n 1)
     IP_IPLIST_TO_BE_SENT=$(find /tmp/iplist/ -type f -printf "%f\n" -mmin +1 | head -n 1)
