@@ -85,7 +85,7 @@ send_discord_security_report(){
     total_files2=$(ls /tmp/iplist/ | wc -l)
 
     if [ ${total_files} -eq 0 ] && [ ${total_files2} -eq 0 ]; then
-        echo "nothing to do"
+        echo "nothing to send as security notif"
     
     else
         IP_BLOCKED_TO_BE_SENT=$(find /tmp/ip_blocked/ -type f -printf "%f\n" -mmin +1 | head -n 1)
