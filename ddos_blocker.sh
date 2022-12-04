@@ -63,7 +63,8 @@ run_process(){
     fi
 
     # always execute the report each run_process call
-    message=$(awk '{printf "%s<br>", $0}' "/tmp/iplist/iplist_${_filename}.log")
+    IP_IPLIST_LOG_FILENAME=$(find /tmp/iplist/ -type f -printf "%f\n" -mmin +1 | head -n 1)
+    message=$(awk '{printf "%s<br>", $0}' "/tmp/iplist/${IP_IPLIST_LOG_FILENAME}")
     string="There are $counter IPs blocked:<br>$message"
     send_discord_security_report "$string" "$_timestamp"
 
