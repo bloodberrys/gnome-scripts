@@ -62,6 +62,7 @@ run_process(){
         echo -e "ALL GOOD, ALL OK and nothing to do."
     fi
 
+    # always execute the report each run_process call
     message=$(awk '{printf "%s<br>", $0}' "/tmp/iplist/iplist_${_filename}.log")
     string="There are $counter IPs blocked:<br>$message"
     send_discord_security_report "$string" "$_timestamp"
@@ -75,26 +76,36 @@ send_discord_security_report(){
     local _message=$1
     local _timestamp=$2
 
-    IP_BLOCKED_TO_BE_SENT=$(find /tmp/ip_blocked/ -type f -printf "%f\n" -mmin +1 | head -n 1)
-    IP_IPLIST_TO_BE_SENT=$(find /tmp/iplist/ -type f -printf "%f\n" -mmin +1 | head -n 1)
+    # count total files in a directory
+    total_files=$(ls /tmp/ip_blocked/ | wc -l)
+    total_files2=$(ls /tmp/iplist/ | wc -l)
 
-    prefix_1=/tmp/ip_blocked/
-    prefix_2=/tmp/iplist/
+    if [ ${total_files} -eq 0 ] && [ ${total_files2} -eq 0 ]; then
+        echo "nothing to do"
+    
+    else
+        IP_BLOCKED_TO_BE_SENT=$(find /tmp/ip_blocked/ -type f -printf "%f\n" -mmin +1 | head -n 1)
+        IP_IPLIST_TO_BE_SENT=$(find /tmp/iplist/ -type f -printf "%f\n" -mmin +1 | head -n 1)
 
-    IP_BLOCKED=$(echo $prefix_1$IP_BLOCKED_TO_BE_SENT)
-    IP_IPLIST=$(echo $prefix_2$IP_IPLIST_TO_BE_SENT)
+        prefix_1=/tmp/ip_blocked/
+        prefix_2=/tmp/iplist/
 
-    SUBJECT="⚠️ Security Report - $_timestamp ⚠️"
-    CONTENT=$(echo $_message | sed 's3<br>3\n3g')
-    size=${#CONTENT}
-    if [[ $size -gt 2000 ]]; then
-        CONTENT=${CONTENT:0:1500}
+        IP_BLOCKED=$(echo $prefix_1$IP_BLOCKED_TO_BE_SENT)
+        IP_IPLIST=$(echo $prefix_2$IP_IPLIST_TO_BE_SENT)
+
+        SUBJECT="⚠️ Security Report - $_timestamp ⚠️"
+        CONTENT=$(echo $_message | sed 's3<br>3\n3g')
+        size=${#CONTENT}
+        if [[ $size -gt 2000 ]]; then
+            CONTENT=${CONTENT:0:1500}
+        fi
+        payload_json=$(jq -n --arg content "$CONTENT" --arg subject "$SUBJECT" '{username: "Gnome-Security", content: "\( $subject )\n\n\( $content )"}')
+        curl -g -F "payload_json=$payload_json" -F "file1=@$IP_BLOCKED" -F "file2=@$IP_IPLIST" "$webhook_url"
+
+        sudo rm -rf $IP_BLOCKED
+        sudo rm -rf $IP_IPLIST
     fi
-    payload_json=$(jq -n --arg content "$CONTENT" --arg subject "$SUBJECT" '{username: "Gnome-Security", content: "\( $subject )\n\n\( $content )"}')
-    curl -g -F "payload_json=$payload_json" -F "file1=@$IP_BLOCKED" -F "file2=@$IP_IPLIST" "$webhook_url"
 
-    sudo rm -rf $IP_BLOCKED
-    sudo rm -rf $IP_IPLIST
 }
 
 export TZ=Asia/Jakarta
