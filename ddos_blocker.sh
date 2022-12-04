@@ -11,6 +11,20 @@ run_process(){
 
     IFS=" " read -r -a whitelisted_ip <<< "114.124.144.26 49.144.38.198 114.142.173.62 120.28.216.173 52.219.128.250 52.219.132.90 52.219.36.66 45.202.25.237 52.219.32.246 52.219.132.186 52.219.124.50 49.144.43.24 112.215.245.216 112.215.200.69 110.54.184.23 175.176.20.22 120.28.216.28 175.176.32.24 46.146.160.25"
 
+    dir="/tmp/ip_blocked"
+    dir2="/tmp/iplist"
+
+    if [[ ! -e $dir ]]; then
+        mkdir -p $dir
+    elif [[ ! -d $dir ]]; then
+        echo "$dir already exists but is not a directory" 1>&2
+    fi
+    if [[ ! -e $dir2 ]]; then
+        mkdir -p $dir2
+    elif [[ ! -d $dir2 ]]; then
+        echo "$dir2 already exists but is not a directory" 1>&2
+    fi
+
     iplength=${#ips[@]}
     counter=0
     for((i=0; i<iplength; i++))
@@ -31,8 +45,8 @@ run_process(){
             # If the exit status is 1, meaning we need to execute the ips to ip tables
             if [ $? -eq 1 ]; then
                 # save the ip to list with command
-                echo "iptables -A INPUT -s ${ips[$i]} -j DROP" >> "/tmp/ip_blocked_${_filename}.log"
-                echo "${ips[$i]}" >> "/tmp/iplist_${_filename}.log"
+                echo "iptables -A INPUT -s ${ips[$i]} -j DROP" >> "/tmp/ip_blocked/ip_blocked_${_filename}.log"
+                echo "${ips[$i]}" >> "/tmp/iplist/iplist_${_filename}.log"
 
                 # execute the iptables block
                 sudo iptables -A INPUT -s ${ips[$i]} -j DROP
@@ -43,11 +57,9 @@ run_process(){
 
     if [ $counter -gt 0 ]; then
         service iptables save
-        message=$(awk '{printf "%s<br>", $0}' "/tmp/iplist_${_filename}.log")
+        message=$(awk '{printf "%s<br>", $0}' "/tmp/iplist/iplist_${_filename}.log")
         string="There are $counter IPs blocked:<br>$message"
-        filename="/tmp/ip_blocked_${_filename}.log"
-        iplistfile="/tmp/${_filename}.log"
-        send_discord_security_report "$string" "$filename" "$iplistfile" "$_timestamp"
+        send_discord_security_report "$string" "$_timestamp"
         
     else
         echo -e "ALL GOOD, ALL OK and nothing to do."
@@ -60,9 +72,20 @@ run_process(){
 send_discord_security_report(){
     webhook_url=https://discord.com/api/webhooks/1002015434532466779/UqyXpNSrj28Jop_77beQeSJ2tn9nd-I-vlMM1GzHPeFRklu-Sdw--tNXbtmRsu5u67bu
     local _message=$1
-    local _filename=$2
-    local _iplistfile=$3
-    local _timestamp=$4
+    local _timestamp=$2
+
+    filename="/tmp/ip_blocked/ip_blocked_${_filename}.log"
+    iplistfile="/tmp/iplist/${_filename}.log"
+
+    IP_BLOCKED_TO_BE_SENT=$(find /tmp/ip_blocked/ -type f -printf "%f\n" -mmin +1 | head -n 1)
+    IP_IPLIST_TO_BE_SENT=$(find /tmp/iplist/ -type f -printf "%f\n" -mmin +1 | head -n 1)
+
+    prefix_1=/tmp/ip_blocked/
+    prefix_2=/tmp/iplist/
+
+    IP_BLOCKED=$(echo $prefix_1$IP_BLOCKED_TO_BE_SENT)
+    IP_IPLIST=$(echo $prefix_2$IP_IPLIST_TO_BE_SENT)
+
     SUBJECT="⚠️ Security Report - $_timestamp ⚠️"
     CONTENT=$(echo $_message | sed 's3<br>3\n3g')
     size=${#CONTENT}
@@ -70,7 +93,10 @@ send_discord_security_report(){
         CONTENT=${CONTENT:0:1500}
     fi
     payload_json=$(jq -n --arg content "$CONTENT" --arg subject "$SUBJECT" '{username: "Gnome-Security", content: "\( $subject )\n\n\( $content )"}')
-    curl -g -F "payload_json=$payload_json" -F "file1=@$_filename" -F "file2=@$_iplistfile" "$webhook_url"
+    curl -g -F "payload_json=$payload_json" -F "file1=@$IP_BLOCKED" -F "file2=@$IP_IPLIST" "$webhook_url"
+
+    sudo rm -rf $IP_BLOCKED
+    sudo rm -rf $IP_IPLIST
 }
 
 export TZ=Asia/Jakarta
