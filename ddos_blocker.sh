@@ -15,12 +15,12 @@ run_process(){
     dir2="/tmp/iplist"
 
     if [[ ! -e $dir ]]; then
-        mkdir -p $dir
+        sudo mkdir -p $dir
     elif [[ ! -d $dir ]]; then
         echo "$dir already exists but is not a directory" 1>&2
     fi
     if [[ ! -e $dir2 ]]; then
-        mkdir -p $dir2
+        sudo mkdir -p $dir2
     elif [[ ! -d $dir2 ]]; then
         echo "$dir2 already exists but is not a directory" 1>&2
     fi
