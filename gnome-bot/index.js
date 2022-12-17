@@ -95,6 +95,7 @@ client.on('interactionCreate', async interaction => {
   if (!interaction.memberPermissions.has('Administrator')) {
     console.log(`User prohibited found: <@${userId}>`)
     await interaction.reply(`You <@${userId}> have sufficient permission to send a slash command! Your identity will be recorded as per our security procedure to be evaluated. Thank you`);
+    return;
   }
 
   // Commands by user
