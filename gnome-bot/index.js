@@ -89,7 +89,7 @@ client.on("messageCreate", (message) => {
     console.log(content[i])
     for (let j = 0; j < evaluatedWord.length; j++) {
       console.log(evaluatedWord[j])
-      if (findWord(words[i], evaluatedWord[j])) {
+      if (findWord(content[i], evaluatedWord[j])) {
         result.push(evaluatedWord[j])
       }
     }
