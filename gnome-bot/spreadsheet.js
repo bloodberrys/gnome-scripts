@@ -54,7 +54,7 @@ export default async function createConversationJSON() {
 
         const json = JSON.stringify(conversation);
 
-        fs.writeFile('conversation.json', json, 'utf8', function (err) {
+        fs.writeFile('json_database/conversation.json', json, 'utf8', function (err) {
             if (err) {
                 console.log(err);
             } else {
