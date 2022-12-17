@@ -102,7 +102,7 @@ client.on("messageCreate", (message) => {
   // get the answer and send it
   for (let j = 0; j < wordEvaluatedResult.length; j++) {
     let answer = conversation.find(x => x.question === String(wordEvaluatedResult[j])).answer;
-    message.channel.send(`${answer} <@${message.author.id}>`)
+    message.reply(`${answer}`)
     return;
   }
 
