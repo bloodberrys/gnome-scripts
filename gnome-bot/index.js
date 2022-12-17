@@ -80,12 +80,16 @@ client.on("messageCreate", (message) => {
     return element.toLowerCase();
   });
 
+  function findWord(word, str) {
+    return RegExp('\\b' + word + '\\b').test(str)
+  }
+
   var result = []
   for (let i = 0; i < content.length; i++) {
     console.log(content[i])
     for (let j = 0; j < evaluatedWord.length; j++) {
       console.log(evaluatedWord[j])
-      if (evaluatedWord[j].includes(content[i])) {
+      if (findWord(words[i], evaluatedWord[j])) {
         result.push(evaluatedWord[j])
       }
     }
