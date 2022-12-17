@@ -19,10 +19,16 @@ const client = new Client({
   intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMessages, GatewayIntentBits.MessageContent],
   partials: ['CHANNEL']
 });
+
+import createConversationJSON from './spreadsheet.js';
+import registerCommand from './register-command.js';
+
 import dotenv from 'dotenv'
 dotenv.config()
 
 client.on('ready', () => {
+  registerCommand();
+  createConversationJSON();
   console.log(`Logged in as ${client.user.tag}!`);
 
   // Activity Set
@@ -55,8 +61,46 @@ client.on("messageCreate", (message) => {
     message.reply("Whatsup? Are you gonna be kidding me? Please leave me alone!");
   }
 
-  if (message.content.includes("putang ina") || message.content.includes("tangina") || message.content.includes("putangina"))
-    message.reply("hey hey, shut up and be polite -_-")
+  // AUTO RESPONDER LEARNING: greeting or curse word.
+  // Take top up mapping conversation payload data from json
+  let conversationRaw = readFileSync('json_database/conversation.json');
+  let conversation = JSON.parse(conversationRaw);
+
+  var allWordDatabase = []
+  for (let i = 0; i < conversation.length; i++) {
+    allWordDatabase.push(conversation[i].question)
+  }
+
+  // word rule data in allWordDatabase
+  var evaluatedWord = allWordDatabase
+
+  // all message content from discord user
+  var content = message.content.split(" ");
+  content = content.map(element => {
+    return element.toLowerCase();
+  });
+
+  var result = []
+  for (let i = 0; i < content.length; i++) {
+    console.log(content[i])
+    for (let j = 0; j < evaluatedWord.length; j++) {
+      console.log(evaluatedWord[j])
+      if (evaluatedWord[j].includes(content[i])) {
+        result.push(evaluatedWord[j])
+      }
+    }
+  }
+
+  // clean duplicated array
+  let wordEvaluatedResult = [...new Set(result)];
+  console.log(wordEvaluatedResult);
+
+  // get the answer and send it
+  for (let j = 0; j < wordEvaluatedResult.length; j++) {
+    let answer = conversation.find(x => x.question === String(wordEvaluatedResult[j])).answer;
+    message.channel.send(`${answer} <@${message.author.id}>`)
+    return;
+  }
 
   switch (message.content) {
     case 'morning':
@@ -94,7 +138,7 @@ client.on('interactionCreate', async interaction => {
   // only by administrator for executing the slash command
   if (!interaction.memberPermissions.has('Administrator')) {
     console.log(`User prohibited found: <@${userId}>`)
-    await interaction.reply(`You <@${userId}> have sufficient permission to send a slash command! Your identity will be recorded as per our security procedure to be evaluated. Thank you`);
+    await interaction.reply(`You <@${userId}> have insufficient permission to send a slash command! Your identity will be recorded as per our security procedure to be evaluated. Thank you`);
     return;
   }
 
