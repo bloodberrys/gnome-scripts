@@ -294,7 +294,7 @@ async function startGracefulShutdown() {
   console.log('Starting shutdown of bot...');
   const channelID = '1052705588628426782';
   const channel = client.channels.cache.get(channelID);
-  await channel.send("Ouch, something hit me, It shutted me down, I died help!\n\nSIGTERM/SIGINT signal from the machine <@&984895894203805746> <@&983558291261112370>.\n PLEASE WAKE ME UP SOON using pm2!\n\n\`\`\`\ncd /home/centos/gnome-scripts/gnome-bot/\nnvm use 16\npm2 list\npm2 start index.js\n\`\`\`");
+  await channel.send("Ouch, something hit me, It shutted me down, I died help!\n\nSIGTERM/SIGINT signal from the machine <@&984895894203805746> <@&983558291261112370>.\n PLEASE WAKE ME UP SOON using pm2!\n\n\`\`\`\ncd /home/<ec2-user/centos>/gnome-scripts/gnome-bot/\nnvm use 16\npm2 list\npm2 start index.js\n\`\`\`");
   return process.exit();
 }
 
