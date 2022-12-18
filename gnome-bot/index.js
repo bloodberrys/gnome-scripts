@@ -87,7 +87,6 @@ client.on("messageCreate", (message) => {
 
   console.log(`[CONTENT STRING SYMBOL CLEANING PROCESS...]`)
   for (let j = 0; j < evaluatedWord.length; j++) {
-    console.log(evaluatedWord[j])
     if (findWord(content, evaluatedWord[j])) {
       result.push(evaluatedWord[j])
       console.log(`[MATCH PROCESS][IDENTIFICATION] ${j+1} Content: ${content} | Database: ${evaluatedWord[j]}`)
