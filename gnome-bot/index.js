@@ -91,6 +91,7 @@ client.on("messageCreate", (message) => {
       console.log(evaluatedWord[j])
       if (findWord(content[i], evaluatedWord[j])) {
         result.push(evaluatedWord[j])
+        console.log(content[i], evaluatedWord[j])
       }
     }
   }
