@@ -80,12 +80,12 @@ client.on("messageCreate", (message) => {
   var content = message.content.toLocaleLowerCase();
 
   function findWord(content, str) {
-    console.log(`[CONTENT STRING SYMBOL CLEANING PROCESS...]`)
     return RegExp('\\b' + str.replace(/[^a-zA-Z ]/g, " ") + '\\b').test(content.replace(/[^a-zA-Z ]/g, " "))
   }
 
   var result = []
 
+  console.log(`[CONTENT STRING SYMBOL CLEANING PROCESS...]`)
   for (let j = 0; j < evaluatedWord.length; j++) {
     console.log(evaluatedWord[j])
     if (findWord(content, evaluatedWord[j])) {
