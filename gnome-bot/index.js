@@ -81,7 +81,7 @@ client.on("messageCreate", (message) => {
   });
 
   function findWord(word, str) {
-    return RegExp('\\b' + word.replace(/[^a-zA-Z ]/g, "") + '\\b').test(word.replace(/[^a-zA-Z ]/g, ""))
+    return RegExp('\\b' + word.replace(/[^a-zA-Z ]/g, "") + '\\b').test(str.replace(/[^a-zA-Z ]/g, ""))
   }
 
   var result = []
