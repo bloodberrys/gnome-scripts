@@ -74,11 +74,8 @@ client.on("messageCreate", (message) => {
   // word rule data in allWordDatabase
   var evaluatedWord = allWordDatabase
 
-  // all message content from discord user
-  var content = message.content.split(" ");
-  content = content.map(element => {
-    return element.toLowerCase();
-  });
+  // all message content from discord user to lower case
+  var content = message.content.toLocaleLowerCase();
 
   function findWord(content, str) {
     return RegExp('\\b' + str.replace(/[^a-zA-Z ]/g, " ") + '\\b').test(content.replace(/[^a-zA-Z ]/g, " "))
@@ -88,9 +85,9 @@ client.on("messageCreate", (message) => {
 
   for (let j = 0; j < evaluatedWord.length; j++) {
     console.log(evaluatedWord[j])
-    if (findWord(message.content, evaluatedWord[j])) {
+    if (findWord(content, evaluatedWord[j])) {
       result.push(evaluatedWord[j])
-      console.log(message.content, evaluatedWord[j])
+      console.log(content, evaluatedWord[j])
     }
   }
 
@@ -106,10 +103,8 @@ client.on("messageCreate", (message) => {
     return;
   }
 
-  switch (message.content) {
+  switch (message.content.toLocaleLowerCase()) {
     case 'morning':
-    case 'Morning':
-    case 'Good morning':
     case 'good morning':
       if (message.author.id === '700907087529639937') {
         message.channel.send(`Hi... Good morning boss <@${message.author.id}>!\nHave a nice day.`);
@@ -119,9 +114,7 @@ client.on("messageCreate", (message) => {
       break;
 
     case 'night':
-    case 'Night':
     case 'Good night':
-    case 'good night':
       message.channel.send(`Hi... Good night <@${message.author.id}>!\nHave a nice dream.`)
       break;
     default:
