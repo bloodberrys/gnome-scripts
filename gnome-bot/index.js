@@ -22,6 +22,7 @@ const client = new Client({
 
 import createConversationJSON from './spreadsheet.js';
 import registerCommand from './register-command.js';
+import randomizeAnswer from './randomize-dupe-answer.js';
 
 import dotenv from 'dotenv'
 dotenv.config()
@@ -91,14 +92,14 @@ client.on("messageCreate", (message) => {
     }
   }
 
-
   // clean duplicated array
   let wordEvaluatedResult = [...new Set(result)];
   console.log(wordEvaluatedResult);
 
   // get the answer and send it
   for (let j = 0; j < wordEvaluatedResult.length; j++) {
-    let answer = conversation.find(x => x.question === String(wordEvaluatedResult[j])).answer;
+    let answer = randomizeAnswer(conversation, wordEvaluatedResult[j])
+    // let answer = conversation.find(x => x.question === String(wordEvaluatedResult[j])).answer;
     message.reply(`${answer}`)
     return;
   }
