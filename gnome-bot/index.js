@@ -80,21 +80,20 @@ client.on("messageCreate", (message) => {
     return element.toLowerCase();
   });
 
-  function findWord(word, str) {
-    return RegExp('\\b' + word.replace(/[^a-zA-Z ]/g, " ") + '\\b').test(str.replace(/[^a-zA-Z ]/g, " "))
+  function findWord(content, str) {
+    return RegExp('\\b' + str.replace(/[^a-zA-Z ]/g, " ") + '\\b').test(content.replace(/[^a-zA-Z ]/g, " "))
   }
 
   var result = []
-  for (let i = 0; i < content.length; i++) {
-    console.log(content[i])
-    for (let j = 0; j < evaluatedWord.length; j++) {
-      console.log(evaluatedWord[j])
-      if (findWord(content[i], evaluatedWord[j])) {
-        result.push(evaluatedWord[j])
-        console.log(content[i], evaluatedWord[j])
-      }
+
+  for (let j = 0; j < evaluatedWord.length; j++) {
+    console.log(evaluatedWord[j])
+    if (findWord(message.content, evaluatedWord[j])) {
+      result.push(evaluatedWord[j])
+      console.log(message.content, evaluatedWord[j])
     }
   }
+
 
   // clean duplicated array
   let wordEvaluatedResult = [...new Set(result)];
