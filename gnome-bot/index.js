@@ -74,11 +74,13 @@ client.on("messageCreate", (message) => {
 
   // word rule data in allWordDatabase
   var evaluatedWord = allWordDatabase
+  console.log("[LOAD WORD FROM JSON DATABASE...]")
 
   // all message content from discord user to lower case
   var content = message.content.toLocaleLowerCase();
 
   function findWord(content, str) {
+    console.log(`[CONTENT STRING SYMBOL CLEANING PROCESS...]`)
     return RegExp('\\b' + str.replace(/[^a-zA-Z ]/g, " ") + '\\b').test(content.replace(/[^a-zA-Z ]/g, " "))
   }
 
@@ -88,12 +90,13 @@ client.on("messageCreate", (message) => {
     console.log(evaluatedWord[j])
     if (findWord(content, evaluatedWord[j])) {
       result.push(evaluatedWord[j])
-      console.log(content, evaluatedWord[j])
+      console.log(`[MATCH PROCESS][IDENTIFICATION] ${j+1} Content: ${content} | Database: ${evaluatedWord[j]}`)
     }
   }
 
   // clean duplicated arrays
   let wordEvaluatedResult = [...new Set(result)];
+  console.log(`[MATCH PROCESS][UNSHUFFLED] Found the match word result from database: ${wordEvaluatedResult}`);
   // Shuffle it
   wordEvaluatedResult = wordEvaluatedResult
     .map(value => ({
@@ -104,7 +107,7 @@ client.on("messageCreate", (message) => {
     .map(({
       value
     }) => value)
-  console.log(wordEvaluatedResult);
+  console.log(`[MATCH PROCESS][SHUFFLED] Found the match word result from database: ${wordEvaluatedResult}`);
 
   // get the answer and send it
   for (let j = 0; j < wordEvaluatedResult.length; j++) {
@@ -198,9 +201,15 @@ client.on('interactionCreate', async interaction => {
       break;
     case 'tpsend':
       const uid = interaction.options.getInteger('uid');
-      const topUpNumber = interaction.options.getString('top-up-number');
-      const multiplication = interaction.options.getInteger('multiplication');
-      const isFirstBonus = interaction.options.getInteger('is-first-bonus');
+      const topUpNumber = interaction.options.get('top-up-number').value;
+      const multiplication = interaction.options.get('multiplication').value;
+      const confirm = interaction.options.get('confirm').value;
+      const isFirstBonus = interaction.options.get('is-first-bonus') !== null ? interaction.options.get('is-first-bonus').value : 0;
+
+      console.log(typeof topUpNumber)
+      console.log(typeof multiplication)
+      console.log(typeof confirm)
+      console.log(isFirstBonus)
 
       // Take top up mapping payload data from json
       let payloadData = readFileSync('topup-item-payload.json');
@@ -209,9 +218,15 @@ client.on('interactionCreate', async interaction => {
       function getTopupByNumber(topupNum) {
         return topupPayloadData.filter(
           function (topupPayloadData) {
-            return topupPayloadData.topupNum == topupNum
+            return topupPayloadData.value == topupNum
           }
         );
+      }
+
+      if (confirm === 0) {
+        console.log("Top up cancelled")
+        interaction.reply(`You cancel the top up lah, what happen?`)
+        return;
       }
 
       // handler for top up number doesn't exist
@@ -222,10 +237,10 @@ client.on('interactionCreate', async interaction => {
       }
 
       // find from the json mapping
-      let name = topupPayloadData.find(x => x.topupNum === String(topUpNumber)).name;
-      let itemId = topupPayloadData.find(x => x.topupNum === String(topUpNumber)).itemId;
-      let qty = topupPayloadData.find(x => x.topupNum === String(topUpNumber)).qty;
-      let isBonus = topupPayloadData.find(x => x.topupNum === String(topUpNumber)).bonus;
+      let name = topupPayloadData.find(x => x.value === String(topUpNumber)).name;
+      let itemId = topupPayloadData.find(x => x.value === String(topUpNumber)).itemId;
+      let qty = topupPayloadData.find(x => x.value === String(topUpNumber)).qty;
+      let isBonus = topupPayloadData.find(x => x.value === String(topUpNumber)).bonus;
 
 
       // multiplication validation
@@ -303,7 +318,7 @@ client.on('interactionCreate', async interaction => {
 
       var options = {
         'method': 'POST',
-        'url': 'http://gnome-hub.com:81/Hd487azwflCapcapcap123-@/api.php',
+        'url': process.env.TOPUP_ENDPOINT_API,
         'headers': {
           "Content-Type": "multipart/form-data"
         },
