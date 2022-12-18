@@ -92,12 +92,23 @@ client.on("messageCreate", (message) => {
     }
   }
 
-  // clean duplicated array
+  // clean duplicated arrays
   let wordEvaluatedResult = [...new Set(result)];
+  // Shuffle it
+  wordEvaluatedResult = wordEvaluatedResult
+    .map(value => ({
+      value,
+      sort: Math.random()
+    }))
+    .sort((a, b) => a.sort - b.sort)
+    .map(({
+      value
+    }) => value)
   console.log(wordEvaluatedResult);
 
   // get the answer and send it
   for (let j = 0; j < wordEvaluatedResult.length; j++) {
+    // Shuffle the answer by randomize the object or array
     let answer = randomizeAnswer(conversation, wordEvaluatedResult[j])
     // let answer = conversation.find(x => x.question === String(wordEvaluatedResult[j])).answer;
     message.reply(`${answer}`)
