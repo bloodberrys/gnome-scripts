@@ -100,6 +100,56 @@ export default async function registerCommand() {
             }]
           }
         ]
+      },
+      {
+        name: 'rsend',
+        description: 'Send rewards gnome',
+        options: [{
+            name: 'uid',
+            description: 'player user id',
+            type: 4,
+            required: true
+          },
+          {
+            name: 'top-up-number',
+            description: 'Pick one of the top up item',
+            type: 3,
+            required: true,
+            choices: tpList
+          },
+          {
+            name: 'multiplication',
+            description: 'pick multiplication 1 - 20',
+            type: 4,
+            required: true,
+            choices: numberOfMultiplication
+          },
+          {
+            name: 'confirm',
+            description: 'Are you sure want to send this now?',
+            type: 4,
+            required: true,
+            choices: [{
+              name: 'Yes',
+              value: 1
+            }, {
+              name: 'No',
+              value: 0
+            }]
+          },
+          {
+            name: 'is-first-bonus',
+            description: 'You can fill this with `1` If this is the first order, or just ignore the bonus if none.',
+            type: 4,
+            choices: [{
+              name: 'Yes',
+              value: 1
+            }, {
+              name: 'No',
+              value: 0
+            }]
+          }
+        ]
       }
     ];
 
