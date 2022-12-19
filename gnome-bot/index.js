@@ -351,7 +351,7 @@ client.on('interactionCreate', async interaction => {
 
       break;
     case 'rsend':
-      sendReward(interaction, userId, 'Christmas share event', 'share-event.json', 'Christmas Share Event Rewards', "Thanks for your participation in christmas share event. Wish you a merry christmas and a happy new year. Let's have fun together!\n\nGnome")
+      sendReward(interaction, userId, 'Christmas share event', 'share-event.json', 'Christmas Share Event Rewards', 'Thanks for your participation in christmas share event. Wish you a merry christmas and a happy new year. Let\'s have fun together!\\n\\nGnome')
       break;
     default:
       // code block
