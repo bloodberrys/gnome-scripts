@@ -1,3 +1,9 @@
+/**
+ * @file spreadsheet.js is to get the data from google sheet and put as JSON in the machine
+ * @author Alfian Firmansyah <alfianvansykes@gmail.com>
+ * @version 1.0
+ */
+
 import {
     GoogleSpreadsheet
 } from 'google-spreadsheet';
@@ -25,11 +31,11 @@ export default async function createConversationJSON() {
         });
 
         await doc.loadInfo(); // loads document properties and worksheets
-        console.log(doc.title);
+        console.log('Load google spreadsheet: ' + doc.title);
 
         const sheet = doc.sheetsById[326994845]; // or use doc.sheetsById[id] or doc.sheetsByTitle[title]
-        console.log(sheet.title);
-        console.log(sheet.rowCount);
+        console.log('Load sheet: ' + sheet.title);
+        console.log('Total Row scanned: ' + sheet.rowCount);
 
         await sheet.loadCells('A1:B1000'); // loads range of cells into local cache - DOES NOT RETURN THE CELLS
 
@@ -59,7 +65,7 @@ export default async function createConversationJSON() {
                 console.log(err);
             } else {
                 //Everything went OK!
-                console.log("conversation.json has been built")
+                console.log("File conversation.json has been written in the machine.")
             }
         });
 

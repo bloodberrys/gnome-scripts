@@ -1,3 +1,9 @@
+/**
+ * @file register-command.js is to regularly update the discord slash command
+ * @author Alfian Firmansyah <alfianvansykes@gmail.com>
+ * @version 1.0
+ */
+
 import {
   REST,
   Routes

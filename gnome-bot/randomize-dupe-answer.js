@@ -1,7 +1,8 @@
 /**
- * For example the bot find the word match, but it has many answer, we can do randomize the answer. 
+ * @file randomize-dupe-answer.js For example the bot find the word match, but it has many answer, we can do randomize the answer. 
+ * @author Alfian Firmansyah <alfianvansykes@gmail.com>
+ * @version 1.0
  */
-// the code you're looking for
 
 export default function randomizeAnswer(jsonConversation, evaluatedWord) {
     var allAnswers = []
@@ -16,18 +17,18 @@ export default function randomizeAnswer(jsonConversation, evaluatedWord) {
         }
     }
 
-    console.log(allAnswers)
-    console.log(allAnswers.length)
+    // console.log(allAnswers)
+    // console.log(allAnswers.length)
 
     function randomIntFromInterval(min, max) { // min and max included 
         return Math.floor(Math.random() * (max - min + 1) + min)
     }
 
     const rndInt = randomIntFromInterval(0, allAnswers.length - 1)
-    console.log(rndInt)
+    // console.log(rndInt)
 
     var newRandomAnswer = [allAnswers[rndInt]]
-    console.log(newRandomAnswer)
+    // console.log(newRandomAnswer)
 
     let answer = newRandomAnswer.find(x => x.question === String(evaluatedWord)).answer;
 
