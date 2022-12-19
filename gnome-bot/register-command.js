@@ -152,18 +152,6 @@ export default async function registerCommand() {
               name: 'No',
               value: 0
             }]
-          },
-          {
-            name: 'is-first-bonus',
-            description: 'You can fill this with `1` If this is the first order, or just ignore the bonus if none.',
-            type: 4,
-            choices: [{
-              name: 'Yes',
-              value: 1
-            }, {
-              name: 'No',
-              value: 0
-            }]
           }
         ]
       }
