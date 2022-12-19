@@ -351,7 +351,7 @@ client.on('interactionCreate', async interaction => {
 
       break;
     case 'rsend':
-      sendReward('Christmas share event', 'share-event.json', 'Christmas Share Event Rewards', "Thanks for your participation in christmas share event. Wish you a merry christmas and a happy new year. Let's have fun together!\n\nGnome")
+      sendReward(interaction, 'Christmas share event', 'share-event.json', 'Christmas Share Event Rewards', "Thanks for your participation in christmas share event. Wish you a merry christmas and a happy new year. Let's have fun together!\n\nGnome")
       break;
     default:
       // code block
@@ -372,7 +372,7 @@ async function startGracefulShutdown() {
   return process.exit();
 }
 
-async function sendReward(rewardName = 'Top-up', payload = 'topup-item-payload.json', title = '', message = '') {
+async function sendReward(interaction, rewardName = 'Top-up', payload = 'topup-item-payload.json', title = '', message = '') {
   const uid = interaction.options.getInteger('uid');
   const topUpNumber = interaction.options.get('top-up-number').value;
   const multiplication = interaction.options.get('multiplication').value;
