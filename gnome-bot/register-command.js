@@ -31,6 +31,19 @@ export default async function registerCommand() {
       ...rest
     }))
 
+    // object payload share event
+    let rewardData = readFileSync('share-event.json');
+    let rList = JSON.parse(rewardData);
+    // clean json data, retain only name and value 
+    tpList = tpList.map(({
+      itemId,
+      qty,
+      bonus,
+      ...rest
+    }) => ({
+      ...rest
+    }))
+
     var numberOfMultiplication = []
     for (let i = 0; i < 20; i++) {
       numberOfMultiplication.push({
@@ -115,14 +128,17 @@ export default async function registerCommand() {
             description: 'Pick one of the top up item',
             type: 3,
             required: true,
-            choices: tpList
+            choices: rList
           },
           {
             name: 'multiplication',
             description: 'pick multiplication 1 - 20',
             type: 4,
             required: true,
-            choices: numberOfMultiplication
+            choices: [{
+              name: '1',
+              value: 1
+            }]
           },
           {
             name: 'confirm',
