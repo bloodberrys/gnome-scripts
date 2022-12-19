@@ -1,6 +1,8 @@
 /**
- * @file Manages the functionalities of Gnome Tools Discord Automation.
+ * @file index.js Manages the functionalities of Gnome Tools Discord Automation.
  * @author Alfian Firmansyah <alfianvansykes@gmail.com>
+ * @version 1.0
+ * @see https://discord.gg/dnmgnome
  */
 
 import request from 'request';
@@ -112,6 +114,7 @@ client.on("messageCreate", (message) => {
   for (let j = 0; j < wordEvaluatedResult.length; j++) {
     // Shuffle the answer by randomize the object or array
     let answer = randomizeAnswer(conversation, wordEvaluatedResult[j])
+    console.log(`[ANSWER RANDOMIZER PROCESS...] ${j+1} Answer to be sent: ${answer}`)
     // let answer = conversation.find(x => x.question === String(wordEvaluatedResult[j])).answer;
     message.reply(`${answer}`)
     return;
