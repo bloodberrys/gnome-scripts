@@ -28,7 +28,6 @@ import randomizeAnswer from './randomize-dupe-answer.js';
 import chatGPT from './chatgpt.js';
 
 import dotenv from 'dotenv'
-import chatGPT from './chatgpt.js';
 dotenv.config()
 
 client.on('ready', () => {
