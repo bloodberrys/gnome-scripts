@@ -282,11 +282,11 @@ client.on('interactionCreate', async interaction => {
       qty = qty.toString()
 
       // UID GUARD FOR TESTING
-      if (uid > 10) {
-        console.log("UID GUARD is executed")
-        interaction.reply("Uh Oh, this feature is still under testing, please use UID below 10 for testing.");
-        return;
-      }
+      // if (uid > 10) {
+      //   console.log("UID GUARD is executed")
+      //   interaction.reply("Uh Oh, this feature is still under testing, please use UID below 10 for testing.");
+      //   return;
+      // }
 
       // logging purpose debugging
       console.log(`UID: ${uid}`)
