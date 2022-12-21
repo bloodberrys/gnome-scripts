@@ -58,11 +58,13 @@ client.on('ready', () => {
 /**
  * Auto Responder Message
  */
-client.on("messageCreate", (message) => {
+client.on("messageCreate", async (message) => {
     if (message.author.bot) return;
 
     if (message.mentions.has(client.user) && !message.content.includes("@here") && !message.content.includes("@everyone")) {
-        message.reply(chatGPT(message.content.toLocaleLowerCase));
+        console.log(message.content.toLocaleLowerCase().replace(/^(<@1043725724835651644>\ )/, ""))
+        var answerAI = await chatGPT(message.content.toLocaleLowerCase().replace(/^(<@1043725724835651644>\ )/, ""));
+        message.reply(answerAI);
     }
 
     // AUTO RESPONDER LEARNING: greeting or curse word.
