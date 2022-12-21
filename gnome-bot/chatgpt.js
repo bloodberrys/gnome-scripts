@@ -17,6 +17,8 @@ export default async function chatGPT(prompt) {
         const completion = await openai.createCompletion({
             model: "text-davinci-003",
             prompt: String(prompt),
+            max_tokens: 1000,
+            temperature: 0
         });
         console.log(completion.data)
         return completion.data.choices[0].text;
