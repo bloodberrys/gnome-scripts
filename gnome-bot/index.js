@@ -28,10 +28,10 @@ const client = new Client({
 });
 
 // middleware
-import createConversationJSON from './spreadsheet.js';
-import registerCommand from './register-command.js';
-import randomizeAnswer from './randomize-dupe-answer.js';
-import chatGPT from './chatgpt.js';
+import createConversationJSON from './middleware/spreadsheet.js';
+import registerCommand from './middleware/register-command.js';
+import randomizeAnswer from './middleware/randomize-dupe-answer.js';
+import chatGPT from './middleware/chatgpt.js';
 
 
 client.on('ready', () => {
@@ -200,8 +200,7 @@ client.on('interactionCreate', async interaction => {
             });
             break;
         case 'tplist':
-
-            let rawdata = readFileSync('topuplist.json');
+            let rawdata = readFileSync('json_database/topuplist.json');
             let topupListData = JSON.parse(rawdata);
 
             const topupListEmbed = new EmbedBuilder()
@@ -223,156 +222,21 @@ client.on('interactionCreate', async interaction => {
             console.log("tplist command executed")
             break;
         case 'tpsend':
-            const uid = interaction.options.getInteger('uid');
-            const topUpNumber = interaction.options.get('top-up-number').value;
-            const multiplication = interaction.options.get('multiplication').value;
-            const confirm = interaction.options.get('confirm').value;
-            const isFirstBonus = interaction.options.get('is-first-bonus') !== null ? interaction.options.get('is-first-bonus').value : 0;
-
-            console.log(typeof topUpNumber)
-            console.log(typeof multiplication)
-            console.log(typeof confirm)
-            console.log(isFirstBonus)
-
-            // Take top up mapping payload data from json
-            let payloadData = readFileSync('topup-item-payload.json');
-            let topupPayloadData = JSON.parse(payloadData);
-
-            function getTopupByNumber(topupNum) {
-                return topupPayloadData.filter(
-                    function (topupPayloadData) {
-                        return topupPayloadData.value == topupNum
-                    }
-                );
-            }
-
-            if (confirm === 0) {
-                console.log("Top up cancelled")
-                interaction.reply(`You cancel the top up lah, what happen?`)
-                return;
-            }
-
-            // handler for top up number doesn't exist
-            if (getTopupByNumber(topUpNumber) == false) {
-                console.log("top up number doesn't exit")
-                interaction.reply(`The number of top up list \`${topUpNumber}\` doesn't exist at all, why are you so weird.\n\nPlease input 1 - 12 top up number based on \`/tplist\` command.`)
-                return;
-            }
-
-            // find from the json mapping
-            let name = topupPayloadData.find(x => x.value === String(topUpNumber)).name;
-            let itemId = topupPayloadData.find(x => x.value === String(topUpNumber)).itemId;
-            let qty = topupPayloadData.find(x => x.value === String(topUpNumber)).qty;
-            let isBonus = topupPayloadData.find(x => x.value === String(topUpNumber)).bonus;
-
-
-            // multiplication validation
-            if (multiplication > 20 || multiplication < 1) {
-                await interaction.reply(`Your multiplication input: \`${multiplication}\` have exceeded the multiplication number, please retry with 1 - 20 instead`);
-                return;
-            }
-
-            // count multiplication and convert to string
-            // For multiple item and qty
-            if (multiplication > 1 && typeof qty === 'object') {
-                qty = qty.map(Number);
-                qty = qty.map(x => x * multiplication)
-
-                // First top up Bonus quantification
-                if (isFirstBonus === 1 && isBonus === true) {
-                    // bonus x2
-                    qty = qty.map(x => x * 2)
-                    console.log("First bonus is executed for multiple value")
-                }
-            } else if (multiplication > 1 && typeof qty === 'string') { // for single item and qty
-                qty = Number(qty);
-                qty = qty * multiplication;
-
-                // First top up Bonus quantification
-                if (isFirstBonus === 1 && isBonus === true) {
-                    // bonus x2
-                    qty = qty * 2
-                    console.log("First bonus is executed for single")
-                }
-            }
-
-            // convert object to string to support the sending payload
             let title = 'Successful Purchase!';
             let message = 'Thank you for purchasing in our Top-up Shop!\\n\\nFor kingdom privilege, will be applied on the next reset. We hope you like the item, have fun and enjoy~';
-            itemId = itemId.toString()
-            qty = qty.toString()
-
-            // UID GUARD FOR TESTING
-            // if (uid > 10) {
-            //   console.log("UID GUARD is executed")
-            //   interaction.reply("Uh Oh, this feature is still under testing, please use UID below 10 for testing.");
-            //   return;
-            // }
-
-            // logging purpose debugging
-            console.log(`UID: ${uid}`)
-            console.log(`Item ID: ${typeof itemId}`)
-            console.log(`Item ID: ${itemId}`)
-            console.log(`QTY: ${typeof qty}`)
-            console.log(`QTY: ${qty}`)
-
-            let firstBonusStringActive = '✅'
-            let firstBonusStringNotActive = '❌'
-            let firstBonusString = ''
-
-            // First bonus status
-            if (isFirstBonus === 1 && isBonus === true)
-                firstBonusString = firstBonusStringActive
-            else
-                firstBonusString = firstBonusStringNotActive
-
-            console.log(`First Bonus: ${firstBonusString}`)
-
-            var data = {
-                'uid': uid,
-                'multi_item': itemId,
-                'multi_num': qty,
-                'title': title,
-                'message': message,
-                'executor': userId
-            }
-
-            console.log(data)
-
-            var options = {
-                'method': 'POST',
-                'url': process.env.TOPUP_ENDPOINT_API,
-                'headers': {
-                    "Content-Type": "multipart/form-data"
-                },
-                formData: data
-            };
-            request(options, function (error, response) {
-
-                // handle error
-                if (error) {
-                    interaction.reply(`❌ Top-up fatal Error ❌\n${error}`)
-                    return console.error(`\nExecuted by <@${userId}> topup fatal error:`, error);
-                }
-
-                //handle success
-                let string = ''
-                if (response.body)
-                    string = response.body;
-
-                if (string.includes("Failed") === true || string.includes("Not Found") === true) {
-                    interaction.reply(`**❌ Top-up failed with Error ❌**\nExecuted by <@${userId}>\n\nUID: \`${uid}\`\nTopuplist: ${name}\nMultiplication: \`${multiplication}\`\nFirst Topup Bonus x2: ${firstBonusString}\nTotal QTY: \`${qty}\`\n\n\`\`\`\nStatusCode: ${response.statusCode} ${response.statusMessage}\nResponse Data: ${response.body}\nDate: ${response.headers['date']}\n\`\`\``)
-                    // console.log(response.body);
-                    return;
-                }
-                interaction.reply(`**✅ Top-up sent and success! ✅**\nExecuted by <@${userId}>\n\nUID: \`${uid}\`\nTopuplist: ${name}\nMultiplication: \`${multiplication}\`\nFirst Topup Bonus x2: ${firstBonusString}\nTotal QTY: \`${qty}\`\n\n\`\`\`\nStatusCode: ${response.statusCode} ${response.statusMessage}\nResponse Data: ${response.body}\nDate: ${response.headers['date']}\n\`\`\``)
-                // console.log(response.body);
-
-            });
-
+            let topupJson = 'json_database/topup-item-payload.json'
+            let use_case = 'Top-up'
+            sendReward(interaction, userId, use_case, topupJson, title, message)
+            break;
+        case 'dcsend':
+            let titleDC = 'Community Badge';
+            let messageDC = 'Hi, thank you for your valuable contribution in our discord community! \\n\\nYou just got a Community Badge! As our appreciation, this is your reward and we hope you like it!';
+            let topupJsonDC = 'json_database/discord-reward.json'
+            let use_caseDC = 'Discord Badge'
+            sendReward(interaction, userId, use_caseDC, topupJsonDC, titleDC, messageDC)
             break;
         case 'rsend':
-            sendReward(interaction, userId, 'Christmas share event', 'share-event.json', 'Christmas Share Event Rewards', 'Thanks for your participation in christmas share event. Wish you a merry christmas and a happy new year. Let\'s have fun together!\\n\\nGnome')
+            sendReward(interaction, userId, 'Christmas share event', 'json_database/share-event.json', 'Christmas Share Event Rewards', 'Thanks for your participation in christmas share event. Wish you a merry christmas and a happy new year. Let\'s have fun together!\\n\\nGnome')
             break;
         default:
             // code block
@@ -397,7 +261,7 @@ async function startGracefulShutdown() {
     return process.exit();
 }
 
-async function sendReward(interaction, userId, rewardName = 'Top-up', payload = 'topup-item-payload.json', title = '', message = '') {
+async function sendReward(interaction, userId, rewardName = 'Top-up', payload = 'json_database/topup-item-payload.json', title = '', message = '') {
     const uid = interaction.options.getInteger('uid');
     const topUpNumber = interaction.options.get('top-up-number').value;
     const multiplication = interaction.options.get('multiplication').value;
@@ -507,7 +371,7 @@ async function sendReward(interaction, userId, rewardName = 'Top-up', payload = 
         'uid': uid,
         'multi_item': itemId,
         'multi_num': qty,
-        'title': title,
+        'title': title + ': ' + name,
         'message': message,
         'executor': userId
     }

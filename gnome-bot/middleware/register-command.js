@@ -22,7 +22,7 @@ export default async function registerCommand() {
   cron.schedule('* * * * *', async () => {
 
     // object payload top up
-    let topupData = readFileSync('topup-item-payload.json');
+    let topupData = readFileSync('json_database/topup-item-payload.json');
     let tpList = JSON.parse(topupData);
     // clean json data, retain only name and value 
     tpList = tpList.map(({
@@ -35,7 +35,7 @@ export default async function registerCommand() {
     }))
 
     // object payload share event
-    let rewardData = readFileSync('share-event.json');
+    let rewardData = readFileSync('json_database/share-event.json');
     let rList = JSON.parse(rewardData);
     // clean json data, retain only name and value 
     tpList = tpList.map(({
@@ -47,6 +47,20 @@ export default async function registerCommand() {
       ...rest
     }))
 
+    // object payload share event
+    let dcRewardData = readFileSync('json_database/discord-reward.json');
+    let dcList = JSON.parse(dcRewardData);
+    // clean json data, retain only name and value 
+    dcList = dcList.map(({
+      itemId,
+      qty,
+      bonus,
+      ...rest
+    }) => ({
+      ...rest
+    }))
+
+    // genearate payload multiplication
     var numberOfMultiplication = []
     for (let i = 0; i < 20; i++) {
       numberOfMultiplication.push({
@@ -132,6 +146,47 @@ export default async function registerCommand() {
             type: 3,
             required: true,
             choices: rList
+          },
+          {
+            name: 'multiplication',
+            description: 'pick multiplication 1 - 20',
+            type: 4,
+            required: true,
+            choices: [{
+              name: '1',
+              value: 1
+            }]
+          },
+          {
+            name: 'confirm',
+            description: 'Are you sure want to send this now?',
+            type: 4,
+            required: true,
+            choices: [{
+              name: 'Yes',
+              value: 1
+            }, {
+              name: 'No',
+              value: 0
+            }]
+          }
+        ]
+      },
+      {
+        name: 'dcsend',
+        description: 'Send discord badge rewards gnome',
+        options: [{
+            name: 'uid',
+            description: 'player user id',
+            type: 4,
+            required: true
+          },
+          {
+            name: 'top-up-number',
+            description: 'Pick one of the top up item',
+            type: 3,
+            required: true,
+            choices: dcList
           },
           {
             name: 'multiplication',
