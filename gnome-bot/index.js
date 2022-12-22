@@ -78,6 +78,9 @@ client.on("messageCreate", async (message) => {
             console.log(message.content.toLocaleLowerCase().replace(/^(<@992708448942837770>\ )/, ""))
             var answerAI = await chatGPT(message.content.toLocaleLowerCase().replace(/^(<@992708448942837770>\ )/, ""));
         }
+
+        if (answerAI === '')
+            answerAI = 'I tried everything, but nothing works'
         message.reply(answerAI);
         return;
     }
