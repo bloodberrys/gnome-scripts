@@ -8,8 +8,11 @@ import {
     GoogleSpreadsheet
 } from 'google-spreadsheet';
 
+
 import dotenv from 'dotenv'
-dotenv.config()
+dotenv.config({
+    path: `${process.env.NODE_ENV}.env`
+});
 import cron from 'node-cron';
 import fs from 'fs';
 

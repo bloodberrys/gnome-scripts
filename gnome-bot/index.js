@@ -10,6 +10,11 @@ import {
     readFileSync
 } from 'fs';
 
+import dotenv from 'dotenv'
+dotenv.config({
+    path: `${process.env.NODE_ENV}.env`
+});
+
 import {
     Client,
     GatewayIntentBits,
@@ -22,13 +27,12 @@ const client = new Client({
     partials: ['CHANNEL']
 });
 
+// middleware
 import createConversationJSON from './spreadsheet.js';
 import registerCommand from './register-command.js';
 import randomizeAnswer from './randomize-dupe-answer.js';
 import chatGPT from './chatgpt.js';
 
-import dotenv from 'dotenv'
-dotenv.config()
 
 client.on('ready', () => {
     registerCommand();
@@ -45,7 +49,12 @@ client.on('ready', () => {
     });
 
     // Getting the channel from client.channels Collection. #gnome-bot-development
-    const Channel = client.channels.cache.get("1052705588628426782");
+    if (process.env.NODE_ENV == 'production') {
+        var Channel = client.channels.cache.get("1052705588628426782");
+    } else {
+
+        var Channel = client.channels.cache.get("1043723033279483948");
+    }
 
     // Checking if the channel exists.
     if (!Channel) return console.error("Couldn't find the channel.");
@@ -62,9 +71,15 @@ client.on("messageCreate", async (message) => {
     if (message.author.bot) return;
 
     if (message.mentions.has(client.user) && !message.content.includes("@here") && !message.content.includes("@everyone")) {
-        console.log(message.content.toLocaleLowerCase().replace(/^(<@1043725724835651644>\ )/, ""))
-        var answerAI = await chatGPT(message.content.toLocaleLowerCase().replace(/^(<@1043725724835651644>\ )/, ""));
+        if (process.env.NODE_ENV == 'production') {
+            console.log(message.content.toLocaleLowerCase().replace(/^(<@1043725724835651644>\ )/, ""))
+            var answerAI = await chatGPT(message.content.toLocaleLowerCase().replace(/^(<@1043725724835651644>\ )/, ""));
+        } else {
+            console.log(message.content.toLocaleLowerCase().replace(/^(<@992708448942837770>\ )/, ""))
+            var answerAI = await chatGPT(message.content.toLocaleLowerCase().replace(/^(<@992708448942837770>\ )/, ""));
+        }
         message.reply(answerAI);
+        return;
     }
 
     // AUTO RESPONDER LEARNING: greeting or curse word.
@@ -369,7 +384,11 @@ client.on("unhandledRejection", async (err) => {
 
 async function startGracefulShutdown() {
     console.log('Starting shutdown of bot...');
-    const channelID = '1052705588628426782';
+    if (process.env.NODE_ENV == 'production') {
+        var channelID = '1052705588628426782';
+    } else {
+        var channelID = '1043723033279483948';
+    }
     const channel = client.channels.cache.get(channelID);
     await channel.send("Ouch, something hit me, It shutted me down, I died help!\n\nSIGTERM/SIGINT signal from the machine <@&984895894203805746> <@&983558291261112370>.\n PLEASE WAKE ME UP SOON using pm2!\n\n\`\`\`\ncd /home/<ec2-user/centos>/gnome-scripts/gnome-bot/\nnvm use 16\npm2 list\npm2 start index.js\n\`\`\`");
     return process.exit();

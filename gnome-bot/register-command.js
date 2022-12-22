@@ -8,9 +8,12 @@ import {
   REST,
   Routes
 } from 'discord.js';
-import dotenv from 'dotenv'
 import cron from 'node-cron';
-dotenv.config()
+
+import dotenv from 'dotenv'
+dotenv.config({
+  path: `${process.env.NODE_ENV}.env`
+});
 import {
   readFileSync
 } from 'fs';
