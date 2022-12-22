@@ -29,7 +29,7 @@
       "bonus": true
     },
     {
-      "name": "#5 - 📦 Pandora Packs\tx2500",
+      "name": "#5 - 📦 Pandora Packs\\tx2500",
       "value": "5",
       "itemId": "612",
       "qty": "2500",
@@ -57,7 +57,7 @@
       "bonus": true
     },
     {
-      "name": "#8 - 🗃️ All Quality Chests (🆕)\tx200",
+      "name": "#8 - 🗃️ All Quality Chests (🆕)\\tx200",
       "value": "8",
       "itemId": ["204","205","206"],
       "qty": ["200","200","200"],
