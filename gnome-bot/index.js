@@ -28,10 +28,13 @@ const client = new Client({
 });
 
 // middleware
-import createConversationJSON from './middleware/spreadsheet.js';
+import createConversationJSON from './middleware/spreadsheet-word-importer.js';
 import registerCommand from './middleware/register-command.js';
-import randomizeAnswer from './middleware/randomize-dupe-answer.js';
-import chatGPT from './middleware/chatgpt.js';
+import {
+    randomizeAnswer,
+    splitString
+} from './middleware/string-helper.js';
+import chatGPT from './middleware/gnomeai.js';
 
 
 client.on('ready', () => {
@@ -81,6 +84,15 @@ client.on("messageCreate", async (message) => {
 
         if (answerAI === '')
             answerAI = 'I tried everything, but nothing works'
+
+        if (answerAI.length >= 2000) {
+            var splittedAnswer = splitString(2000, answerAI)
+            console.log(`[STRING-HELPER][SPLIT-2000 CHARS]`)
+            for (let k = 0; k < splittedAnswer.length; k++) {
+                message.reply(splittedAnswer[k]);
+            }
+            return;
+        }
         message.reply(answerAI);
         return;
     }
@@ -135,7 +147,7 @@ client.on("messageCreate", async (message) => {
     for (let j = 0; j < wordEvaluatedResult.length; j++) {
         // Shuffle the answer by randomize the object or array
         let answer = randomizeAnswer(conversation, wordEvaluatedResult[j])
-        console.log(`[ANSWER RANDOMIZER PROCESS...] ${j+1} Answer to be sent: ${answer}`)
+        console.log(`[STRING-HELPER][ANSWER RANDOMIZER PROCESS...] ${j+1} Answer to be sent: ${answer}`)
         // let answer = conversation.find(x => x.question === String(wordEvaluatedResult[j])).answer;
         message.reply(`${answer}`)
         return;
