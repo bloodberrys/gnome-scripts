@@ -19,7 +19,7 @@ import fs from 'fs';
 export default async function createConversationJSON() {
 
     cron.schedule('* * * * *', async () => {
-        console.log('running a to create conversation json data every minute');
+        console.log('[GSHEET TOOLS] running a to create conversation json data every minute');
 
 
         // Initialize the sheet - doc ID is the long id in the sheets URL
@@ -34,11 +34,11 @@ export default async function createConversationJSON() {
         });
 
         await doc.loadInfo(); // loads document properties and worksheets
-        console.log('Load google spreadsheet: ' + doc.title);
+        console.log('[GSHEET TOOLS] Load google spreadsheet: ' + doc.title);
 
         const sheet = doc.sheetsById[326994845]; // or use doc.sheetsById[id] or doc.sheetsByTitle[title]
-        console.log('Load sheet: ' + sheet.title);
-        console.log('Total Row scanned: ' + sheet.rowCount);
+        console.log('[GSHEET TOOLS] Loaded sheet: ' + sheet.title);
+        console.log('[GSHEET TOOLS] Total Row scanned: ' + sheet.rowCount);
 
         await sheet.loadCells('A1:B1000'); // loads range of cells into local cache - DOES NOT RETURN THE CELLS
 
@@ -68,7 +68,7 @@ export default async function createConversationJSON() {
                 console.log(err);
             } else {
                 //Everything went OK!
-                console.log("File conversation.json has been written in the machine.")
+                console.log("[GSHEET TOOLS] File conversation.json has been written in the machine.")
             }
         });
 
