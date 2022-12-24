@@ -19,7 +19,8 @@ import {
     Client,
     GatewayIntentBits,
     EmbedBuilder,
-    ActivityType
+    ActivityType,
+    PermissionFlagsBits
 } from 'discord.js';
 
 const client = new Client({
@@ -34,7 +35,8 @@ import {
     randomizeAnswer,
     splitString
 } from './middleware/string-helper.js';
-import chatGPT from './middleware/gnomeai.js';
+import chatGPT from './middleware/gnome-ai-completion.js';
+import moderationChatGPT from './middleware/gnome-ai-moderation.js';
 
 
 client.on('ready', () => {
@@ -97,8 +99,44 @@ client.on("messageCreate", async (message) => {
         return;
     }
 
+    // AUTO moderation AI
+    if (!message.member.permissions.has(PermissionFlagsBits.Administrator)) {
+        var plainContent = message.content;
+        let moderationResult = await moderationChatGPT(plainContent);
+        if (moderationResult.flagged === true) {
+
+            let categories = moderationResult.categories;
+            var keys = Object.keys(categories);
+            var detectedCategoryResult = keys.filter(function (key) {
+                return categories[key]
+            });
+
+            var scoreCategoryResult = []
+            var discordModerationString = `Gnome Warning: AI-enabled moderation negative habit Detected!\nDiscord User: <@${message.author.id}>\n\n`
+            for (let i = 0; i < detectedCategoryResult.length; i++) {
+                let value = moderationResult.category_scores[detectedCategoryResult[i]];
+                scoreCategoryResult.push(value)
+                discordModerationString += `Category Classification: ${detectedCategoryResult[i]} | Rate: ${scoreCategoryResult[i]*100}%\n`
+            }
+
+            discordModerationString += `\n\`\`\`\nContent: \`${message.content}\`\n\`\`\`\nPlease make sure you obey our discord server community and guidelines, we can easily ban or kick you from our discord, thanks.`
+
+            console.log(discordModerationString)
+            if (process.env.NODE_ENV == 'production') {
+                var channelID = '1056016165975097364';
+            } else {
+                var channelID = '1043723033279483948';
+            }
+            const channel = client.channels.cache.get(channelID);
+            await channel.send(discordModerationString);
+            return;
+        }
+    }
+
     // AUTO RESPONDER LEARNING: greeting or curse word.
     // Take top up mapping conversation payload data from json
+    // all message content from discord user to lower case
+    var content = message.content.toLocaleLowerCase();
     let conversationRaw = readFileSync('json_database/conversation.json');
     let conversation = JSON.parse(conversationRaw);
 
@@ -110,9 +148,6 @@ client.on("messageCreate", async (message) => {
     // word rule data in allWordDatabase
     var evaluatedWord = allWordDatabase
     console.log("[LOAD WORD FROM JSON DATABASE...]")
-
-    // all message content from discord user to lower case
-    var content = message.content.toLocaleLowerCase();
 
     function findWord(content, str) {
         return RegExp('\\b' + str.replace(/[^a-zA-Z ]/g, " ") + '\\b').test(content.replace(/[^a-zA-Z ]/g, " "))
