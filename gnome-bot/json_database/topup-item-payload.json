@@ -57,10 +57,10 @@
       "bonus": true
     },
     {
-      "name": "#8 - 🗃️ All Quality Chests (🆕)\\tx200",
+      "name": "#8 - 🗃️ All Quality Chests (🆕)\\tx150",
       "value": "8",
       "itemId": ["204","205","206"],
-      "qty": ["200","200","200"],
+      "qty": ["150","150","150"],
       "bonus": false
     },
     {
