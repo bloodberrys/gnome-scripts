@@ -26,8 +26,11 @@ DB_PASSWORD=Capcapcap123
 # Backupdb
 mysqldump -h $DB_HOSTNAME -u $DB_USERNAME -p$DB_PASSWORD --all-databases --single-transaction > db-$date.sql
 
+# compress or zip file to reduce the storage cost
+zip -9 db-$date.sql.zip db-$date.sql
+
 # upload to s3
-aws s3 cp db-$date.sql s3://dnmgnome-db-backup
+aws s3 cp db-$date.sql.zip s3://dnmgnome-db-backup
 
 # remove 1 old file after success, we will retain atleast 1.
 ls -t | sed -e '1,1d' | xargs -d '\n' -r rm
