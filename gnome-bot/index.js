@@ -150,7 +150,7 @@ client.on("messageCreate", async (message) => {
     console.log("[LOAD WORD FROM JSON DATABASE...]")
 
     function findWord(content, str) {
-        return RegExp('\\b' + str.replace(/[^a-zA-Z ]/g, " ") + '\\b').test(content.replace(/[^a-zA-Z ]/g, " "))
+        return RegExp('\\b' + str.toString().replace(/[^a-zA-Z ]/g, " ") + '\\b').test(content.toString().replace(/[^a-zA-Z ]/g, " "))
     }
 
     var result = []
