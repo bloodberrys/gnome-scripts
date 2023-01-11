@@ -34,11 +34,24 @@ export default async function registerCommand() {
       ...rest
     }))
 
+    // object payload top up
+    let hurrucaneTopupData = readFileSync('json_database/topup-payload-hurricane.json');
+    let hurricaneTpList = JSON.parse(hurrucaneTopupData);
+    // clean json data, retain only name and value 
+    hurricaneTpList = hurricaneTpList.map(({
+      itemId,
+      qty,
+      bonus,
+      ...rest
+    }) => ({
+      ...rest
+    }))
+
     // object payload share event
     let rewardData = readFileSync('json_database/share-event.json');
     let rList = JSON.parse(rewardData);
     // clean json data, retain only name and value 
-    tpList = tpList.map(({
+    rList = rList.map(({
       itemId,
       qty,
       bonus,
@@ -79,7 +92,7 @@ export default async function registerCommand() {
       },
       {
         name: 'tplist',
-        description: 'Gnome top up list'
+        description: 'Gnome top up list for version 1.6'
       },
       {
         name: 'tpsend',
@@ -96,6 +109,56 @@ export default async function registerCommand() {
             type: 3,
             required: true,
             choices: tpList
+          },
+          {
+            name: 'multiplication',
+            description: 'pick multiplication 1 - 20',
+            type: 4,
+            required: true,
+            choices: numberOfMultiplication
+          },
+          {
+            name: 'confirm',
+            description: 'Are you sure want to send this now?',
+            type: 4,
+            required: true,
+            choices: [{
+              name: 'Yes',
+              value: 1
+            }, {
+              name: 'No',
+              value: 0
+            }]
+          },
+          {
+            name: 'is-first-bonus',
+            description: 'You can fill this with `1` If this is the first order, or just ignore the bonus if none.',
+            type: 4,
+            choices: [{
+              name: 'Yes',
+              value: 1
+            }, {
+              name: 'No',
+              value: 0
+            }]
+          }
+        ]
+      },
+      {
+        name: 'htpsend',
+        description: 'Send top up gnome',
+        options: [{
+            name: 'uid',
+            description: 'player user id',
+            type: 4,
+            required: true
+          },
+          {
+            name: 'top-up-number',
+            description: 'Pick one of the top up item',
+            type: 3,
+            required: true,
+            choices: hurricaneTpList
           },
           {
             name: 'multiplication',

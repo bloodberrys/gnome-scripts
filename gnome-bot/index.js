@@ -275,6 +275,13 @@ client.on('interactionCreate', async interaction => {
             let use_case = 'Top-up'
             sendReward(interaction, userId, use_case, topupJson, title, message)
             break;
+        case 'htpsend':
+            let titleH = 'Successful Purchase!';
+            let messageH = 'Thank you for purchasing in our Top-up Shop!\\n\\nWe hope you like the item, have fun and enjoy~';
+            let topupJsonH = 'json_database/topup-payload-hurricane.json'
+            let use_caseH = 'Top-up'
+            sendReward(interaction, userId, use_caseH, topupJsonH, titleH, messageH)
+            break;
         case 'dcsend':
             let titleDC = 'Community Badge';
             let messageDC = 'Hi, thank you for your valuable contribution in our discord community! \\n\\nYou just got a Community Badge! As our appreciation, this is your reward and we hope you like it!';
