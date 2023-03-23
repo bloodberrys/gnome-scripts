@@ -32,6 +32,8 @@ urllib3 = "==1.26.15"
 virtualenv = "==20.21.0"
 virtualenv-clone = "==0.5.7"
 pillow = "*"
+numba = "*"
+tensorflow = "<2.11"
 
 [dev-packages]
 

@@ -50,7 +50,7 @@ def find_file_position(file_path,center=False):
             left, top = file_location.left, file_location.top
 
         # Print the results
-        print(f"[FIND POSITION], position found at: left={left}, top={top}")
+        print(f"[FIND POSITION], position found at: left={left}, top={top}\n")
 
     else:
         print("File not found on the screen.")
@@ -95,7 +95,7 @@ for filename in os.listdir(folder):
     pyautogui.press('tab')
     pyautogui.press('tab')
     pyautogui.press('tab')
-    print(f'[PROCESS] Assetbundle Name: {source_filename}\n')
+    print(f'[PROCESS] Assetbundle Name: {source_filename}\n\n')
     pyautogui.typewrite(f'{source_filename}')
     pyautogui.press('enter')
 
@@ -104,7 +104,7 @@ for filename in os.listdir(folder):
     click_file(clickType="double", file_path="imagelocate/IMPORT_TXT.png", center=True)
     click_file(clickType="double", file_path="imagelocate/ASSET_FILES.png")
 
-    print("[IMPORT] Importing asset file\n")
+    print("[IMPORT] Importing asset file\n\n")
     pyautogui.press('tab')
     pyautogui.press('tab')
     pyautogui.press('tab')
@@ -115,7 +115,7 @@ for filename in os.listdir(folder):
     click_file(clickType="double", file_path="imagelocate/OK.png", center=True)
     pyautogui.press('enter')
 
-    print(f"[SAVE] Saving new assetbundle {filename}")
+    print(f"[SAVE] Saving new assetbundle {filename}\n\n")
     click_file(clickType="double", file_path="imagelocate/RESULTS.png", center=True)
     pyautogui.press('tab')
     pyautogui.press('tab')
