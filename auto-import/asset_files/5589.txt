@@ -1,0 +1,129 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad] Hey, hey, little warrior, don't miss it when you pass by. Don't you want to know more about it when you arrive at Wanshiwu? [-]
+0
+[ffebad] Wanshiwu, do you have any secrets? [-]
+1
+[ffebad] Oh, of course, dear warrior, if you would do me a little favor, go kill some annoying monsters. I will tell you a secret about the future, which can help you seize the opportunity! [-]
+0
+[ffebad] Sounds interesting, please feel free to leave it to me! [-]
+
+in progress
+1
+[ffebad] Go ahead, little warrior. [-]
+
+end
+1
+[ffebad] Ah, I heard that the troubles have been solved, come, please accept my gift. [-]
+1
+[ffebad] And the secret of the master house, come on, come a little closer. Our Wanshiwu is very famous in another world. You should pay attention to the activities related to Wanshiwu. As long as you actively participate, you can join the Wanshibang. You must know that this gang is very powerful in another world. [-]
+1
+[ffebad] In another world, there will be a lot of big stars, and they will join our Wanshibang in a program called "Dating a Big Celebrity" on Tencent Video. [-]
+0
+[ffebad] Sounds like fun! Thanks, I'll keep an eye out. [-]
+
+prof 2
+
+begin
+1
+[ffebad] Hey, hey, little warrior, don't miss it when you pass by. Don't you want to know more about it when you arrive at Wanshiwu? [-]
+0
+[ffebad] Wanshiwu, do you have any secrets? [-]
+1
+[ffebad] Oh, of course, dear warrior, if you would do me a little favor, go kill some annoying monsters. I will tell you a secret about the future, which can help you seize the opportunity! [-]
+0
+[ffebad] Sounds interesting, please feel free to leave it to me! [-]
+
+in progress
+1
+[ffebad] Go ahead, little warrior. [-]
+
+end
+1
+[ffebad] Ah, I heard that the troubles have been solved, come, please accept my gift. [-]
+1
+[ffebad] And the secret of the master house, come on, come a little closer. Our Wanshiwu is very famous in another world. You should pay attention to the activities related to Wanshiwu. As long as you actively participate, you can join the Wanshibang. You must know that this gang is very powerful in another world. [-]
+1
+[ffebad] In another world, there will be a lot of big stars, and they will join our Wanshibang in a program called "Dating a Big Celebrity" on Tencent Video. [-]
+0
+[ffebad] Sounds like fun! Thanks, I'll keep an eye out. [-]
+
+prof 3
+
+begin
+1
+[ffebad] Hey, hey, little warrior, don't miss it when you pass by. Don't you want to know more about it when you arrive at Wanshiwu? [-]
+0
+[ffebad] Wanshiwu, do you have any secrets? [-]
+1
+[ffebad] Oh, of course, dear warrior, if you would do me a little favor, go kill some annoying monsters. I will tell you a secret about the future, which can help you seize the opportunity! [-]
+0
+[ffebad] Sounds interesting, please feel free to leave it to me! [-]
+
+in progress
+1
+[ffebad] Go ahead, little warrior. [-]
+
+end
+1
+[ffebad] Ah, I heard that the troubles have been solved, come, please accept my gift. [-]
+1
+[ffebad] And the secret of the master house, come on, come a little closer. Our Wanshiwu is very famous in another world. You should pay attention to the activities related to Wanshiwu. As long as you actively participate, you can join the Wanshibang. You must know that this gang is very powerful in another world. [-]
+1
+[ffebad] In another world, there will be a lot of big stars, and they will join our Wanshibang in a program called "Dating a Big Celebrity" on Tencent Video. [-]
+0
+[ffebad] Sounds like fun! Thanks, I'll keep an eye out. [-]
+
+prof 4
+
+begin
+1
+[ffebad] Hey, hey, little warrior, don't miss it when you pass by. Don't you want to know more about it when you arrive at Wanshiwu? [-]
+0
+[ffebad] Wanshiwu, do you have any secrets? [-]
+1
+[ffebad] Oh, of course, dear warrior, if you would do me a little favor, go kill some annoying monsters. I will tell you a secret about the future, which can help you seize the opportunity! [-]
+0
+[ffebad] Sounds interesting, please feel free to leave it to me! [-]
+
+in progress
+1
+[ffebad] Go ahead, little warrior. [-]
+
+end
+1
+[ffebad] Ah, I heard that the troubles have been solved, come, please accept my gift. [-]
+1
+[ffebad] And the secret of the master house, come on, come a little closer. Our Wanshiwu is very famous in another world. You should pay attention to the activities related to Wanshiwu. As long as you actively participate, you can join the Wanshibang. You must know that this gang is very powerful in another world. [-]
+1
+[ffebad] In another world, there will be a lot of big stars, and they will join our Wanshibang in a program called "Dating a Big Celebrity" on Tencent Video. [-]
+0
+[ffebad] Sounds like fun! Thanks, I'll keep an eye out. [-]
+
+prof 5
+
+begin
+1
+[ffebad] Hey, hey, little warrior, don't miss it when you pass by. Don't you want to know more about it when you arrive at Wanshiwu? [-]
+0
+[ffebad] Wanshiwu, do you have any secrets? [-]
+1
+[ffebad] Oh, of course, dear warrior, if you would do me a little favor, go kill some annoying monsters. I will tell you a secret about the future, which can help you seize the opportunity! [-]
+0
+[ffebad] Sounds interesting, please feel free to leave it to me! [-]in progress
+1
+[ffebad] Go ahead, little warrior. [-]
+
+end
+1
+[ffebad] Ah, I heard that the troubles have been solved, come, please accept my gift. [-]
+1
+[ffebad] And the secret of the master house, come on, come a little closer. Our Wanshiwu is very famous in another world. You should pay attention to the activities related to Wanshiwu. As long as you actively participate, you can join the Wanshibang. You must know that this gang is very powerful in another world. [-]
+1
+[ffebad] In another world, there will be a lot of big stars, and they will join our Wanshibang in a program called "Dating a Big Celebrity" on Tencent Video. [-]
+0
+[ffebad] Sounds like fun! Thanks, I'll keep an eye out. [-]

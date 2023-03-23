@@ -1,0 +1,21 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] Now go to the edge of darkness and check if there is any news about Little Geraint! [-]
+0
+[ffebad] Well, I'll come back to you after I investigate. [-]
+1
+[ffebad] Don't go too deep, probe around the edges. [-]
+
+in progress
+1
+[ffebad] On the edge of darkness to find out about little Geraint[-]
+xunz
+end
+0
+[ffebad] I found little Geraint on the edge of darkness, what should I do next? [-]
+1
+[ffebad] That powerful aura suddenly disappeared, and I still need to continue to track it down. You should go clean up the mutated creatures in the Dark Swamp first. [-]

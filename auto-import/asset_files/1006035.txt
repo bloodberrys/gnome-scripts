@@ -1,0 +1,17 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] Adventurer, do you know what National Day is? [-]
+0
+[ffebad] Don't know! [-]
+1
+[ffebad] In the far east, people founded the country on October 1st, and the activities to celebrate this day are called National Day! [-]
+0
+[ffebad] Awesome! [-]
+
+end
+1
+[ffebad] These gifts are for you, I hope you like them~[-]

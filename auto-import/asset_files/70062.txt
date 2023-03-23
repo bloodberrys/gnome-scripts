@@ -1,0 +1,19 @@
+start
+
+prof 0
+
+step 1
+1
+[ffebad] Teacher Karaqiu was killed by her biological brother - Karahan...[-]
+
+step 2
+0
+[ffebad] oh my god...[-]
+
+step 3
+1
+[ffebad] I swear to avenge Lord Karaqiu. Since you are also against him, can you please help me to avenge Mr. Karaqiu together? [-]
+
+step 4
+0
+[ffebad] Even if you don't ask, I will agree! This evil guy, it's time for him to pay the price! [-]

@@ -1,0 +1,148 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad] Ha, isn't this the little hero who relieved the crisis in the royal city? I heard that the prophet you rescued is still unconscious? Oops, this can't work! [-]
+[voice]Audio/VO/lines/lines228
+0
+[ffebad] Well, yes, is there a way? [-]
+[voice]Audio/VO/Warrior/warrior14
+1
+[ffebad] Hmph, it's really rare that we mages can't do it in this world. A little girl in the district, to wake her up, is simply easy to grasp. Let me show you the strength of our mages now, first help me go to [0096ff] isolated island[-] and collect some fantasy grass and come back. [-]
+[voice]Audio/VO/lines/lines231
+
+in progress
+1
+[ffebad] go to [0096ff] island[-]
+
+end
+1
+[ffebad] You are quite capable, now, I will make dream powder. Sleeping or not waking up is usually a mental problem. With the help of the dream fan, you can go to the dream to wake her up. [-]
+
+prof 2
+
+begin
+1
+[ffebad] Ha, isn't this the little hero who relieved the crisis in the royal city? I heard that the prophet you rescued is still unconscious? Oops, this can't work! [-]
+[voice]Audio/VO/lines/lines228
+0
+[ffebad] Well, yes, is there a way? [-]
+[voice]Audio/VO/Archer/archer14
+1
+[ffebad] Hmph, it's really rare that we mages can't do it in this world. A little girl in the district, to wake her up, is simply easy to grasp. Let me show you the strength of our mages now, first help me go to [0096ff] isolated island[-] and collect some fantasy grass and come back. [-]
+[voice]Audio/VO/lines/lines231
+
+in progress
+1
+[ffebad] go to [0096ff] island[-]
+
+end
+1
+[ffebad] You are quite capable, now, I will make dream powder. Sleeping or not waking up is usually a mental problem. With the help of the dream fan, you can go to the dream to wake her up. [-]
+
+prof 3
+
+begin
+1
+[ffebad] Stupid apprentice! Recently, he has been running around crazily, but he has made a lot of contributions, huh? I heard that you rescued a little prophet girl, but she has been unconscious? [-]
+[voice]Audio/VO/lines/lines229
+0
+[ffebad] Yeah yeah, what a hassle, sir, do you have the magic to wake up sleeping people? [-]
+[voice]Audio/VO/Sorceress/Sorceress14
+1
+[ffebad] Hmph, it's really rare that we mages can't do it in this world. A little girl in the district, to wake her up, is simply easy to grasp. Let me show you the strength of our mages now, first help me go to [0096ff] isolated island[-] and collect some fantasy grass and come back. [-]
+[voice]Audio/VO/lines/lines231
+
+in progress
+1
+[ffebad] go to [0096ff] island[-]
+
+end
+1
+[ffebad] You are quite capable, now, I will make dream powder. Sleeping or not waking up is usually a mental problem. With the help of the dream fan, you can go to the dream to wake her up. [-]
+
+prof 4
+
+begin
+1
+[ffebad] Pastor over there, I heard that the prophet you rescued is still sleeping. Could it be that your pastor's laziness has infected her? Hehe, don't show that expression, I'm just joking...[-]
+[voice]Audio/VO/lines/lines230
+0
+[ffebad] ... yes [-]
+[voice]Audio/VO/Cleric/cleric21
+1
+[ffebad] Hmph, it's really rare that we mages can't do it in this world. A little girl in the district, to wake her up, is simply easy to grasp. Let me show you the strength of our mages now, first help me go to [0096ff] isolated island[-] and collect some fantasy grass and come back. [-]
+[voice]Audio/VO/lines/lines231
+
+in progress
+1
+[ffebad] go to [0096ff] island[-]
+
+end
+1
+[ffebad] You are quite capable, now, I will make dream powder. Sleeping or not waking up is usually a mental problem. With the help of the dream fan, you can go to the dream to wake her up. [-]
+
+prof 5
+
+begin
+1
+[ffebad] Ha, isn't this the little hero who relieved the crisis in the royal city? I heard that the prophet you rescued is still unconscious? Oops, this can't work! [-]
+[voice]Audio/VO/lines/lines228
+0
+[ffebad] Well, yes, is there a way? [-]
+[voice]Audio/VO/Academic/academic6
+1
+[ffebad] Hmph, it's really rare that we mages can't do it in this world. A little girl in the district, to wake her up, is simply easy to grasp. Let me show you the strength of our mages now, first help me go to [0096ff] isolated island[-] and collect some fantasy grass and come back. [-]
+[voice]Audio/VO/lines/lines231
+
+in progress
+1
+[ffebad] go to [0096ff] island[-]
+
+end
+1
+[ffebad] You are quite capable, now, I will make dream powder. Sleeping or not waking up is usually a mental problem. With the help of the dream fan, you can go to the dream to wake her up. [-]
+
+prof 6
+
+begin
+1
+[ffebad] Ha, isn't this the little hero who relieved the crisis in the royal city? I heard that the prophet you rescued is still unconscious? Oops, this can't work! [-]
+[voice]Audio/VO/lines/lines228
+0
+[ffebad] Is there any way to do that? [-]
+[voice]Audio/VO/Assassin/assassin6
+1
+[ffebad] Hmph, it's really rare that we mages can't do it in this world. A little girl in the district, to wake her up, is simply easy to grasp. Let me show you the strength of our mages now, first help me go to [0096ff] isolated island[-] and collect some fantasy grass and come back. [-]
+[voice]Audio/VO/lines/lines231
+
+in progress
+1
+[ffebad] go to [0096ff] island[-]
+
+end
+1
+[ffebad] You are quite capable, now, I will make dream powder. Sleeping or not waking up is usually a mental problem. With the help of the dream fan, you can go to the dream to wake her up. [-]
+
+prof 7
+
+begin
+1
+[ffebad] Ha, isn't this the little hero who relieved the crisis in the royal city? I heard that the prophet you rescued is still unconscious? Oops, this can't work! [-]
+[voice]Audio/VO/lines/lines228
+0
+[ffebad] Is there any way? [-]
+[voice]Audio/VO/kali/kali16
+1
+[ffebad] Hmph, it's really rare that we mages can't do it in this world. A little girl in the district, to wake her up, is simply easy to grasp. Let me show you the strength of our mages now, first help me go to [0096ff] isolated island[-] and collect some fantasy grass and come back. [-]
+[voice]Audio/VO/lines/lines231
+
+in progress
+1
+[ffebad] go to [0096ff] island[-]
+
+end
+1
+[ffebad] You are quite capable, now, I will make dream powder. Sleeping or not waking up is usually a mental problem. With the help of the dream fan, you can go to the dream to wake her up. [-]

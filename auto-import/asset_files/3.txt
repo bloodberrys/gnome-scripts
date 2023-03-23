@@ -1,0 +1,239 @@
+start
+
+Prof 1
+
+begin
+0
+[ffebad] I was wrong, master... I will work hard in the future! Leave anything to me! [-]
+[voice]Audio/VO/Warrior/warrior20
+1
+[ffebad] Prove yourself with sweat, rookie! Go to [0096ff] Shadow Forest[-] and defeat 200 monsters first! [-]
+[voice]Audio/VO/lines/lines8
+0
+[ffebad] Yes! master! I will definitely overfulfill the task and show you! The goal is three hundred! [-]
+[voice]Audio/VO/Warrior/warrior23
+
+in progress
+1
+[ffebad] Let's go to [0096ff] Shadow Forest[-]
+
+end
+1
+[ffebad] Sister Rose, Sister Rose... Lily, Lily just wanted to pick some strawberries... What, how could this happen! Woohoo, it's all Lily's fault. [-]
+[voice]Audio/VO/lines/lines15
+0
+[ffebad] Lily, Lily, listen to me, your sister must not want to see you cry like this. [-]
+[voice]Audio/VO/Warrior/warrior25
+0
+[ffebad] I have an appointment with you, you wait here obediently, I will definitely bring Sister Rose back! [-]
+[voice]Audio/VO/Warrior/warrior26
+1
+[ffebad] Woo...then, Lily stopped crying. Say yes, you must bring Sister Rose back, and Lily will wait obediently. [-]
+[voice]Audio/VO/lines/lines16
+1
+[ffebad] Brother Timothy knows that sister Rose is missing. He is looking around for news about Sister Rose, maybe you can find her quickly if you look for it together. [-]
+[voice]Audio/VO/lines/lines17
+
+prof 2
+
+begin
+0
+[ffebad] Worrying about you, teacher...[-]
+[voice]Audio/VO/Archer/archer20
+1
+[ffebad] Fanxing told me that [0096ff] Shadow Forest [-] will have a change, I am very worried. [-]
+[voice]Audio/VO/lines/lines9
+0
+[ffebad] Well, the wind blowing from the Shadow Forest smells like blood, let me check it out. [-]
+[voice]Audio/VO/Archer/archer23
+
+in progress
+1
+[ffebad] Let's go to [0096ff] Shadow Forest[-]
+
+end
+1
+[ffebad] Sister Rose... Sister Rose... Lily, Lily just wanted to pick some strawberries... What, how could this happen! Woohoo, it's all Lily's fault. [-]
+[voice]Audio/VO/lines/lines15
+0
+[ffebad] Lily, Lily, listen to me, your sister must not want to see you cry like this. [-]
+[voice]Audio/VO/Archer/archer25
+0
+[ffebad] I have an appointment with you, you wait here obediently, I will definitely bring Sister Rose back! [-]
+[voice]Audio/VO/Archer/archer26
+1
+[ffebad] Woo...then, Lily stopped crying. Say yes, you must bring Sister Rose back, and Lily will wait obediently. [-]
+[voice]Audio/VO/lines/lines16
+1
+[ffebad] Brother Timothy knows that sister Rose is missing. He is looking around for news about Sister Rose, maybe you can find her quickly if you look for it together. [-]
+[voice]Audio/VO/lines/lines17
+
+prof 3
+
+begin
+0
+[ffebad] (whispering in a low voice) Oops... I finally got rid of those debt collectors, and I have to be taught by the teacher again... Yes, yes, I was wrong! [-]
+[voice]Audio/VO/Sorceress/Sorceress20
+1
+[ffebad] what are you talking about? Hey, forget it! Having said that, [0096ff] The monsters in the Shadow Forest[-] are getting more and more arrogant, which really makes me very unhappy, you go and extinguish their arrogance! [-]
+[voice]Audio/VO/lines/lines10
+0
+[ffebad] Humph, I'm a genius magician, just wait and see, I promise to wipe out all the monsters there! [-]
+[voice]Audio/VO/Sorceress/Sorceress23
+
+in progress
+1
+[ffebad] Let's go to [0096ff] Shadow Forest[-]
+
+end
+1
+[ffebad] Sister Rose... Sister Rose. Lily, Lily just wanted to pick some strawberries... How, how could this be! Woohoo, it's all Lily's fault. [-]
+[voice]Audio/VO/lines/lines15
+0
+[ffebad] Lily, Lily, listen to me, your sister must not want to see you cry like this. [-]
+[voice]Audio/VO/Sorceress/Sorceress25
+0
+[ffebad] I have an appointment with you, you wait here obediently, I will definitely bring Sister Rose back! [-]
+[voice]Audio/VO/Sorceress/Sorceress26
+1
+[ffebad] Woo...then, Lily stopped crying. say yes, oneMake sure to bring Sister Rose back, and Lily will wait obediently. [-]
+[voice]Audio/VO/lines/lines16
+1
+[ffebad] Brother Timothy knows that sister Rose is missing. He is looking around for news about Sister Rose, maybe you can find her quickly if you look for it together. [-]
+[voice]Audio/VO/lines/lines17
+
+prof 4
+
+begin
+0
+[ffebad] Sorry, teacher, I shouldn't be lazy, if there is something to deal with, I will try my best. [-]
+[voice]Audio/VO/Cleric/cleric20
+1
+[ffebad] Then go to [0096ff] Shadow Forest[-] to have a look, there have been many monsters appearing there recently, I am worried that there will be things that attack humans. [-]
+[voice]Audio/VO/lines/lines11
+0
+[ffebad] Well, I'm off now. Under the glory of the goddess, no evil is allowed to hide! [-]
+[voice]Audio/VO/Cleric/cleric23
+
+in progress
+1
+[ffebad] Let's go to [0096ff] Shadow Forest[-]
+
+end
+1
+[ffebad] Sister Rose... Sister Rose. Lily, Lily just wanted to pick some strawberries... How, how could this be! Woohoo, it's all Lily's fault. [-]
+[voice]Audio/VO/lines/lines15
+0
+[ffebad] Lily, Lily, listen to me, your sister must not want to see you cry like this. [-]
+[voice]Audio/VO/Cleric/cleric25
+0
+[ffebad] I have an appointment with you, you wait here obediently, I will definitely bring Sister Rose back! [-]
+[voice]Audio/VO/Cleric/cleric26
+1
+[ffebad] Woo...then, Lily stopped crying. Say yes, you must bring Sister Rose back, and Lily will wait obediently. [-]
+[voice]Audio/VO/lines/lines16
+1
+[ffebad] Brother Timothy knows that sister Rose is missing. He is looking around for news about Sister Rose, maybe you can find her quickly if you look for it together. [-]
+[voice]Audio/VO/lines/lines17
+
+prof 5
+
+begin
+0
+[ffebad] It's not funny at all, I managed to make a forced landing, I just took a break and woke up like this. [-]
+[voice]Audio/VO/Academic/academic6
+1
+[ffebad] Hey, I know, let's check the current time first, travel back to the past, and change the history of the destruction of the world, your task is very heavy. [-]
+[voice]Audio/VO/lines/lines233
+0
+[ffebad] Don't worry, I'm leaving now. [-]
+[voice]Audio/VO/Academic/academic11
+
+in progress
+1
+[ffebad] Let's go to [0096ff] Shadow Forest[-]
+
+end
+1
+[ffebad] Sister Rose, Sister Rose... Lily, Lily just wanted to pick some strawberries... What, how could this happen! Woohoo, it's all Lily's fault. [-]
+[voice]Audio/VO/lines/lines15
+0
+[ffebad] Lily, Lily, listen to me, your sister must not want to see you cry like this. [-]
+[voice]Audio/VO/Academic/academic25
+0
+[ffebad] I have an appointment with you, you wait here obediently, I will definitely bring Sister Rose back! [-]
+[voice]Audio/VO/Academic/academic11
+1
+[ffebad] Woo...then, Lily stopped crying. Say yes, you must bring Sister Rose back, and Lily will wait obediently. [-]
+[voice]Audio/VO/lines/lines16
+1
+[ffebad] Brother Timothy knows that sister Rose is missing. He is looking around for news about Sister Rose, maybe you can find her quickly if you look for it together. [-]
+[voice]Audio/VO/lines/lines17
+
+prof 6
+
+begin
+0
+[ffebad] I don't know if it's because of the mysterious black shadow in my body, I've always been sleepy recently. [-]
+[voice]Audio/VO/Assassin/assassin6
+1
+[ffebad] Don't make excuses meow. Since you don't want that black shadow to occupy your body, you can't slack off in your daily training. Let's go to the shadow forest to patrol, meow! [-]
+[voice]Audio/VO/lines/lines242
+0
+[ffebad] Don't worry, I'm leaving now. [-]
+[voice]Audio/VO/Assassin/assassin11
+
+in progress
+1
+[ffebad] Let's go to [0096ff] Shadow Forest[-]
+
+end
+1
+[ffebad] Sister Rose, Sister Rose... Lily, Lily just wanted to pick some strawberries... What, how could this happen! Woohoo, it's all Lily's fault. [-]
+[voice]Audio/VO/lines/lines15
+0
+[ffebad] Lily, listen to me, your sister must not want to see you cry like this. [-]
+[voice]Audio/VO/Assassin/assassin25
+0
+[ffebad] I have an appointment with you, you wait here obediently, I will definitely bring Rose back! [-]
+[voice]Audio/VO/Assassin/assassin11
+1
+[ffebad] Woo...then, Lily stopped crying. Say yes, you must bring Sister Rose back, and Lily will wait obediently. [-]
+[voice]Audio/VO/lines/lines16
+1
+[ffebad] Brother Timothy knows that sister Rose is missing. He is looking around for news about Sister Rose, maybe you can find her quickly if you look for it together. [-]
+[voice]Audio/VO/lines/lines17
+
+prof 7
+
+begin
+0
+[ffebad] Every time I take a break, I will think of the figures of my clansmen falling in the smoke, teacher, I don't need to rest. [-]
+[voice]Audio/VO/kali/kali6
+1
+[ffebad] You still can't let go of the death of me and the clansmen, child, all of these are fates in the dark. I think it's not suitable to talk to you too much now, you go to [0096ff] Shadow Forest[-] to see the situation of the monsters, just take it as a refreshment. [-]
+[voice]Audio/VO/lines/lines257
+0
+[ffebad] Then, teacher, I will destroy those monsters. [-]
+[voice]Audio/VO/kali/kali11
+
+in progress
+1
+[ffebad] Let's go to [0096ff] Shadow Forest[-]
+
+end
+1
+[ffebad] Sister Rose, Sister Rose... Lily, Lily just wanted to pick some strawberries... What, how could this happen! Woohoo, it's all Lily's fault. [-]
+[voice]Audio/VO/lines/lines15
+0
+[ffebad] Lily, your sister must not want to see you cry like this. [-]
+[voice]Audio/VO/kali/kali6
+0
+[ffebad] I have an appointment with you, you wait here obediently, I will definitely bring your sister Rose back! [-]
+[voice]Audio/VO/kali/kali25
+1
+[ffebad] Woo...then, Lily stopped crying. Say yes, you must bring Sister Rose back, and Lily will wait obediently. [-]
+[voice]Audio/VO/lines/lines16
+1
+[ffebad] Brother Timothy knows that sister Rose is missing. He is looking around for news about Sister Rose, maybe you can find her quickly if you look for it together. [-]
+[voice]Audio/VO/lines/lines17

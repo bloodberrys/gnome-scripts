@@ -1,0 +1,17 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] When I was young, I always ate red bean and sticky rice every winter solstice. [-]
+1
+[ffebad] I really don't know what young people eat these days. [-]
+0
+[ffebad] Alright! [-]
+
+end
+1
+[ffebad] I don’t like glutinous rice balls or dumplings, so here are the voting tickets for you. [-]
+0
+[ffebad] Thanks! [-]

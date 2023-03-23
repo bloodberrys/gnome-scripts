@@ -1,0 +1,31 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] Seems to be about the legendary elf Meriondale! [-]
+1
+[ffebad] These dark elves record the encounter between Meriondale and Peda...Peda once led the human army into Anu Aland, and he demanded a one-on-one decisive battle with the strongest elves. [-]
+1
+[ffebad] Meriondale, as the representative of the elves, faced Peda. She was defeated by a small margin, but she was respected by Peda, and the communication between humans and elves began immediately. [-]
+0
+[ffebad] (suddenly) It turns out that the story of elves and humans began at that time. [-]
+1
+[ffebad] After that, Meriondale and Peda became close friends. When the riot broke out in the Stone Monument, she accompanied Peda to the ruins of the Stone Monument and fought side by side with Peda! [-]
+0
+[ffebad] Then why did Peda become like this? [-]
+1
+[ffebad] I don't know, that's the end of the Dark Elf's text. There may be clues in the temple near the remains of the megalith. [-]
+
+in progress
+1
+[ffebad] Enter the underground temple to find clues. [-]
+
+end
+1
+[ffebad] This is Meriondale's relic! [-]
+0
+[ffebad] How can I know what happened after that? [-]
+1
+[ffebad] Tina, the wizard mentor, has the ability to cast memory magic, allowing us to see past history. [-]

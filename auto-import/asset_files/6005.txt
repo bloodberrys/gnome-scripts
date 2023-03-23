@@ -1,0 +1,157 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad] Adventurer, long time no see. Have you been on an adventure lately? [-]
+0
+[ffebad] Your Majesty the Pope, long time no see, to protect the peace of the mainland, my adventure must not stop. [-]
+1
+[ffebad] is really full of youthful fighting spirit. It's nice to be young. Speaking of which, I presided over the wedding of a couple of young people a few days ago. Adventurer, have you ever thought about getting married? [-]
+0
+[ffebad] Well, I haven't thought about it yet. [-]
+1
+[ffebad] Hahaha, a great cause requires a lifelong struggle, but one’s own happiness should not be left behind. It just so happens that I have a small task to ask you, do you want to find a good friend to complete it together? [-]
+
+in progress
+1
+[ffebad] listen carefully[-]
+
+end
+1
+[ffebad] I know those little troubles are hard for you, how about it, it feels good to fight together, right? To seize the opportunity! [-]
+0
+[ffebad] Your Majesty, I am sorry. [-]
+1
+[ffebad] Hahaha, well, I will stop talking, come, I will give you some presents, I hope I can officiate your wedding in the future. [-]
+
+prof 2
+
+begin
+1
+[ffebad] Adventurer, long time no see. Have you been on an adventure lately? [-]
+0
+[ffebad] Your Majesty the Pope, long time no see, to protect the peace of the mainland, my adventure must not stop. [-]
+1
+[ffebad] is really full of youthful fighting spirit. It's nice to be young. Speaking of which, I presided over the wedding of a couple of young people a few days ago. Adventurer, have you ever thought about getting married? [-]
+0
+[ffebad] Well, I haven't thought about it yet. [-]
+1
+[ffebad] Hahaha, a great cause requires a lifelong struggle, but one’s own happiness should not be left behind. It just so happens that I have a small task to ask you, do you want to find a good friend to complete it together? [-]
+
+in progress
+1
+[ffebad] listen carefully[-]
+
+end
+1
+[ffebad] I know those little troubles are hard for you, how about it, it feels good to fight together, right? To seize the opportunity! [-]
+0
+[ffebad] Your Majesty, I am sorry. [-]
+1
+[ffebad] Hahaha, well, I will stop talking, come, I will give you some presents, I hope I can officiate your wedding in the future. [-]
+
+prof 3
+
+begin
+1
+[ffebad] Adventurer, long time no see. Have you been on an adventure lately? [-]
+0
+[ffebad] Your Majesty the Pope, long time no see, to protect the peace of the mainland, my adventure must not stop. [-]
+1
+[ffebad] is really full of youthful fighting spirit. It's nice to be young. Speaking of which, I presided over the wedding of a couple of young people a few days ago. Adventurer, have you ever thought about getting married? [-]
+0
+[ffebad] Well, I haven't thought about it yet. [-]
+1
+[ffebad] Hahaha, a great cause requires a lifelong struggle, but one’s own happiness should not be left behind. It just so happens that I have a small task to ask you, do you want to find a good friend to complete it together? [-]
+
+in progress
+1
+[ffebad] listen carefully[-]
+
+end
+1
+[ffebad] I know those little troubles are hard for you, how about it, it feels good to fight together, right? To seize the opportunity! [-]
+0
+[ffebad] Your Majesty, I am sorry. [-]
+1
+[ffebad] Hahaha, well, I will stop talking, come, I will give you some presents, I hope I can officiate your wedding in the future. [-]
+
+prof 4
+
+begin
+1
+[ffebad] Adventurer, long time no see. Have you been on an adventure lately? [-]
+0
+[ffebad] Your Majesty the Pope, long time no see, to protect the peace of the mainland, my adventure must not stop. [-]
+1
+[ffebad] is really full of youthful fighting spirit. It's nice to be young. Speaking of which, I presided over the wedding of a couple of young people a few days ago. Adventurer, have you ever thought about getting married? [-]
+0
+[ffebad] Well, I haven't thought about it yet. [-]
+1
+[ffebad] Hahaha, a great cause requires a lifelong struggle, but one’s own happiness should not be left behind. It just so happens that I have a small task to ask you, do you want to find a good friend to complete it together? [-]
+
+in progress
+1
+[ffebad] listen carefully[-]
+
+end
+1
+[ffebad] I know those little troubles are hard for you, how about it, it feels good to fight together, right? To seize the opportunity! [-]
+0
+[ffebad] Your Majesty, I am sorry. [-]
+1
+[ffebad] Hahaha, well, I will stop talking, come, I will give you some presents, I hope I can officiate your wedding in the future. [-]
+
+prof 5
+
+begin
+1
+[ffebad] Adventurer, long time no see. Have you been on an adventure lately? [-]
+0
+[ffebad] Your Majesty the Pope, long time no see, to protect the peace of the mainland, my adventure must not stop. [-]
+1
+[ffebad] is really full of youthful fighting spirit. It's nice to be young. Speaking of which, I presided over the wedding of a couple of young people a few days ago. Adventurer, have you ever thought about getting married? [-]
+0
+[ffebad] Well, I haven't thought about it yet. [-]
+1
+[ffebad] Hahaha, a great cause requires a lifelong struggle, but one’s own happiness should not be left behind. It just so happens that I have a small task to ask you, do you want to find a good friend to complete it together? [-]
+
+in progress
+1
+[ffebad] listen carefully[-]
+
+end
+1
+[ffebad] I know those little troubles are hard for you, how about it, it feels good to fight together, right? To seize the opportunity! [-]
+0
+[ffebad] Your Majesty, I am going to be ashamed. [-]
+1
+[ffebad] Hahaha, well, I will stop talking, come, I will give you some presents, I hope I can officiate your wedding in the future. [-]
+
+prof 6
+
+begin
+1
+[ffebad] Adventurer, long time no see. Have you been on an adventure lately? [-]
+0
+[ffebad] Your Majesty the Pope, long time no see, to protect the peace of the mainland, my adventure must not stop. [-]
+1
+[ffebad] is really full of youthful fighting spirit. It's nice to be young. Speaking of which, I presided over the wedding of a couple of young people a few days ago. Adventurer, have you ever thought about getting married? [-]
+0
+[ffebad] Well, I haven't thought about it yet. [-]
+1
+[ffebad] Hahaha, a great cause requires a lifelong struggle, but one’s own happiness should not be left behind. It just so happens that I have a small task to ask you, do you want to find a good friend to complete it together? [-]
+
+in progress
+1
+[ffebad] listen carefully[-]
+
+end
+1
+[ffebad] I know those little troubles are hard for you, how about it, it feels good to fight together, right? To seize the opportunity! [-]
+0
+[ffebad] Your Majesty, I am sorry. [-]
+1
+[ffebad] Hahaha, well, I will stop talking, come, I will give you some presents, I hope I can officiate your wedding in the future. [-]

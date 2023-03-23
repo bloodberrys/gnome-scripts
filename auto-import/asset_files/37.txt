@@ -1,0 +1,176 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad] Well, according to the theory recorded in the data, you have to go to [0096ff] Prayer's Resting Place[-], defeat the guardian there—the lion scorpion, and use the pure white ball to activate the purification device. [-]
+[voice]Audio/VO/lines/lines203
+1
+[ffebad] Lions and scorpions are creatures created by ancient people, and its power is beyond your imagination. Have you made up your mind? [-]
+[voice]Audio/VO/lines/lines204
+0
+[ffebad] has overcome so much before! It's absolutely fine this time! [-]
+[voice]Audio/VO/Warrior/warrior26
+
+in progress
+1
+[ffebad] go to [0096ff] prayer resting place [-]
+
+end
+1
+[ffebad] Cheers! The poison has been successfully purified! Now word has spread everywhere and everyone is calling you a hero! You have done so much for everyone, you deserve the title of hero! [-]
+[voice]Audio/VO/lines/lines205
+0
+[ffebad] Hero... Hero... Hey... Hey Hey... Ha... Hahahaha. [-]
+[voice]Audio/VO/Warrior/warrior10
+
+prof 2
+
+begin
+1
+[ffebad] Well, according to the theory recorded in the data, you have to go to [0096ff] Prayer's Resting Place[-], defeat the guardian there—the lion scorpion, and use the pure white ball to activate the purification device. [-]
+[voice]Audio/VO/lines/lines203
+1
+[ffebad] Lions and scorpions are creatures created by ancient people, and its power is beyond your imagination. Have you made up your mind? [-]
+[voice]Audio/VO/lines/lines204
+0
+[ffebad] has overcome so much before! It's absolutely fine this time! [-]
+[voice]Audio/VO/Archer/archer26
+
+in progress
+1
+[ffebad] go to [0096ff] prayer resting place [-]
+
+end
+1
+[ffebad] Cheers! The poison has been successfully purified! Now word has spread everywhere and everyone is calling you a hero! You have done so much for everyone, you deserve the title of hero! [-]
+[voice]Audio/VO/lines/lines205
+0
+[ffebad] Ah, please don't say that, it's all under the protection of the tree of life. [-]
+[voice]Audio/VO/Archer/archer10
+
+prof 3
+
+begin
+1
+[ffebad] Well, according to the theory recorded in the data, you have to go to [0096ff] Prayer's Resting Place[-], defeat the guardian there—the lion scorpion, and use the pure white ball to activate the purification device. [-]
+[voice]Audio/VO/lines/lines203
+1
+[ffebad] Lions and scorpions are creatures created by ancient people, and its power is beyond your imagination. Have you made up your mind? [-]
+[voice]Audio/VO/lines/lines204
+0
+[ffebad] has overcome so much before! It's absolutely fine this time! [-]
+[voice]Audio/VO/Sorceress/Sorceress26
+
+in progress
+1
+[ffebad] go to [0096ff] prayer resting place [-]
+
+end
+1
+[ffebad] Cheers! The poison has been successfully purified! Now word has spread everywhere and everyone is calling you a hero! You have done so much for everyone, you deserve the title of hero! [-]
+[voice]Audio/VO/lines/lines205
+0
+[ffebad] Oh hehehe, really, it would be the best if you can give me some gold coins as a reward! [-]
+[voice]Audio/VO/Sorceress/Sorceress10
+
+prof 4
+
+begin
+1
+[ffebad] Well, according to the theory recorded in the data, you have to go to [0096ff] Prayer's Resting Place[-], defeat the guardian there—the lion scorpion, and use the pure white ball to activate the purification device. [-]
+[voice]Audio/VO/lines/lines203
+1
+[ffebad] Lions and scorpions are creatures created by ancient people, and its power is beyond your imagination. Have you made up your mind? [-]
+[voice]Audio/VO/lines/lines204
+0
+[ffebad] has overcome so much before! It's absolutely fine this time! [-]
+[voice]Audio/VO/Cleric/cleric26
+
+in progress
+1
+[ffebad] go to [0096ff] prayer resting place [-]
+
+end
+1
+[ffebad] Cheers! The poison has been successfully purified! Now word has spread everywhere and everyone is calling you a hero! You have done so much for everyone, you deserve the title of hero! [-]
+[voice]Audio/VO/lines/lines205
+0
+[ffebad] This is because of the blessing of the goddess, not mine. [-]
+[voice]Audio/VO/Cleric/cleric10
+
+Prof 5
+
+begin
+1
+[ffebad] Well, according to the theory recorded in the data, you have to go to [0096ff] Prayer's Rest [-], defeat the guardian there - Scorpion, and use the pure white ball to activate the purification device. [-]
+[voice]Audio/VO/lines/lines203
+1
+[ffebad] Lions and scorpions are creatures created by ancient people, and its power is beyond your imagination. Have you made up your mind? [-]
+[voice]Audio/VO/lines/lines204
+0
+[ffebad] has overcome so much before! It's absolutely fine this time! [-]
+[voice]Audio/VO/Academic/academic2
+
+in progress
+1
+[ffebad] go to [0096ff] prayer resting place [-]
+
+end
+1
+[ffebad] Cheers! The poison has been successfully purified! Now word has spread everywhere and everyone is calling you a hero! You have done so much for everyone, you deserve the title of hero! [-]
+[voice]Audio/VO/lines/lines205
+0
+[ffebad] Is it a hero... I actually became a hero, does this change history? [-]
+[voice]Audio/VO/Academic/academic7
+
+prof 6
+
+begin
+1
+[ffebad] Well, according to the theory recorded in the data, you have to go to [0096ff] Prayer's Resting Place[-], defeat the guardian there—the lion scorpion, and use the pure white ball to activate the purification device. [-]
+[voice]Audio/VO/lines/lines203
+1
+[ffebad] Lions and scorpions are creatures created by ancient people, and its power is beyond your imagination. Have you made up your mind? [-]
+[voice]Audio/VO/lines/lines204
+0
+[ffebad] has overcome so much before! It's absolutely fine this time! [-]
+[voice]Audio/VO/Assassin/assassin2
+
+in progress
+1
+[ffebad] go to [0096ff] prayer resting place [-]
+
+end
+1
+[ffebad] Cheers! The poison has been successfully purified! Now word has spread everywhere and everyone is calling you a hero! You have done so much for everyone, you deserve the title of hero! [-]
+[voice]Audio/VO/lines/lines205
+0
+[ffebad] Is it a hero... I just wanted to solve the mysterious shadow that possessed me when I first started on the path of an assassin. But it feels good to help others. [-]
+[voice]Audio/VO/Assassin/assassin7
+
+prof 7
+
+begin
+1
+[ffebad] Well, according to the theory recorded in the data, you have to go to [0096ff] Prayer's Resting Place[-], defeat the guardian there—the lion scorpion, and use the pure white ball to activate the purification device. [-]
+[voice]Audio/VO/lines/lines203
+1
+[ffebad] Lions and scorpions are creatures created by ancient people, and its power is beyond your imagination. Have you made up your mind? [-]
+[voice]Audio/VO/lines/lines204
+0
+[ffebad] has overcome so much before! It's absolutely fine this time! [-]
+[voice]Audio/VO/kali/kali11
+
+in progress
+1
+[ffebad] go to [0096ff] prayer resting place [-]
+
+end
+1
+[ffebad] Cheers! The poison has been successfully purified! Now word has spread everywhere and everyone is calling you a hero! You have done so much for everyone, you deserve the title of hero! [-]
+[voice]Audio/VO/lines/lines205
+0
+[ffebad] Hero... I just, don't want to see any more tragedies happen. [-]
+[voice]Audio/VO/kali/kali6

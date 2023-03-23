@@ -1,0 +1,21 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] You're in the village near the Underbog, ask if anyone has seen little Geraint! [-]
+0
+[ffebad] I guess it's hard to get useful information! But I still go! [-]
+1
+[ffebad] When you find out the news, come back and meet with me. I need to inform others about the news of the Dark Forest! [-]
+
+in progress
+1
+[ffebad] Eliminate the natives of the spooky village[-]
+xunz
+end
+0
+[ffebad] Algerta! No, the villagers in the village near the Gloomy Swamp attacked people with monsters like crazy. I also found traces of Little Geraint's appearance, but I searched all over the village and couldn't find it? [-]
+1
+[ffebad] It seems that the village has suffered an unknown attack, I will notify the kingdom to investigate this matter! [-]

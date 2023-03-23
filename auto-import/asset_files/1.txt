@@ -1,0 +1,188 @@
+start
+
+Prof 1
+
+begin
+0
+[ffebad] Master! I want to be stronger! Get stronger! ! Give me special training! [-]
+[voice]Audio/VO/Warrior/warrior14
+1
+[ffebad] Haha, brat, I didn't expect you to come to this point. But if you want to become stronger and change jobs, you have to sweat! Are you ready for special training? [-]
+[voice]Audio/VO/Occupation/Occupation1
+0
+[ffebad] No matter how severe the test is, I will try my best to overcome it! [-]
+[voice]Audio/VO/Warrior/warrior26
+1
+[ffebad] Well done! Rookie! Let's go to the [0096ff] Land of Trials[-]! It's a place where you'll be put to the test! [-]
+[voice]Audio/VO/Occupation/Occupation5
+
+in progress
+1
+[ffebad] Let's go to [0096ff] the place of trial[-][-]
+
+end
+1
+[ffebad] Rookie! You really have become stronger! But cultivation is a lifetime thing, so don't relax for a while! [-]
+[voice]Audio/VO/Occupation/Occupation9
+0
+[ffebad] Is this a job change? Haha, I feel like I've grown an inch taller! [-]
+[voice]Audio/VO/Warrior/warrior10
+
+prof 2
+
+begin
+0
+[ffebad] Teacher, I have encountered a bottleneck in my practice, how can I feel Teresia better? [-]
+[voice]Audio/VO/Archer/archer14
+1
+[ffebad] Children, as long as you listen to the voice of nature with your heart, Theresia will naturally guide you to gain power and become a more powerful guardian. [-]
+[voice]Audio/VO/Occupation/Occupation2
+0
+[ffebad] Teresia...listen to the sounds of nature...[-]
+[voice]Audio/VO/Archer/archer12
+1
+[ffebad] Calm the mind and feel the [0096ff] place of trial[-] deep within, Theresia, which guides you to the power of nature. [-]
+[voice]Audio/VO/Occupation/Occupation6
+
+in progress
+1
+[ffebad] Let's go to [0096ff] the place of trial[-][-]
+
+end
+1
+[ffebad] Child, it seems that you have gained a stronger force of nature, may the blessing of the tree of life be with you forever. [-]
+[voice]Audio/VO/Occupation/Occupation10
+0
+[ffebad] Thank you, teacher... After changing jobs, it feels easier to hear natural voices! [-]
+[voice]Audio/VO/Archer/archer26
+
+prof 3
+
+begin
+0
+[ffebad] Master, I want to master more powerful power and comprehend the essence of esoteric magic! [-]
+[voice]Audio/VO/Sorceress/Sorceress14
+1
+[ffebad] Oh hehehe, stupid apprentice, it seems that you are somewhat proud of being a magician! As long as you feel the magic hidden in the natural world, you can change jobs and become more powerful. [-]
+[voice]Audio/VO/Occupation/Occupation3
+0
+[ffebad] Job change? Anyway, it doesn't sound bad. [-]
+[voice]Audio/VO/Sorceress/Sorceress15
+1
+[ffebad] The essence of esoteric magic needs to be understood by yourself, follow me to the [0096ff] Land of Trials[-], where the magic power is most abundant! [-]
+[voice]Audio/VO/Occupation/Occupation7
+
+in progress
+1
+[ffebad] Let's go to [0096ff] the place of trial[-][-]
+
+end
+1
+[ffebad] I didn't expect you to understand the essence of esoteric magic so quickly! I rarely give compliments - but you are better than I thought! ...Stupid apprentice. [-]
+[voice]Audio/VO/Occupation/Occupation11
+0
+[ffebad] Of course, Miss Ben is a genius! Is this a job change? What a magical experience! [-]
+[voice]Audio/VO/Sorceress/Sorceress10
+
+prof 4
+
+begin
+0
+[ffebad] Teacher, I still can't fully grasp the divine power... Please guide me! [-]
+[voice]Audio/VO/Cleric/cleric14
+1
+[ffebad] May the goddess bless you, with the gift of the goddess, you can change jobs to be closer to the will of the goddess. [-]
+[voice]Audio/VO/Occupation/Occupation4
+0
+[ffebad] May the goddess grant me the divine power to protect this world! [-]
+[voice]Audio/VO/Cleric/cleric17
+1
+[ffebad] Come with me, to the [0096ff] Proving Grounds[-]. Praying there, our hearts are more easily conveyed to the goddess. [-]
+[voice]Audio/VO/Occupation/Occupation8
+
+in progress
+1
+[ffebad] Let's go to [0096ff] the place of trial[-][-]
+
+end
+1
+[ffebad] Difficulties and setbacks have trained you, bringing you one step closer to the will of the goddess! [-]
+[voice]Audio/VO/Occupation/Occupation12
+0
+[ffebad] Such a holy power... After changing my job, I will go forward! [-]
+[voice]Audio/VO/Cleric/cleric17
+
+Prof 5
+
+begin
+0
+[ffebad] I feel that my strength has recovered a lot recently, and I should be able to change jobs soon! [-]
+[voice]Audio/VO/Academic/academic12
+1
+[ffebad] After traveling through time and space, the power of job transfer may also change, so you should treat it with caution. [-]
+[voice]Audio/VO/Occupation/Occupation13
+1
+[ffebad] How about it, you go to the [0096ff] Trial Land[-] to exercise your strength and master it slowly. [-]
+[voice]Audio/VO/Occupation/Occupation14
+
+in progress
+1
+[ffebad] Let's go to [0096ff] the place of trial[-][-]
+
+end
+1
+[ffebad] Looks like you've adapted to the increased strength, congratulations, you've successfully changed jobs again! [-]
+[voice]Audio/VO/Occupation/Occupation15
+0
+[ffebad] Well, I will definitely master my own power and complete my mission! [-]
+[voice]Audio/VO/Academic/academic26
+
+prof 6
+
+begin
+0
+[ffebad] The strength of my physical strength is restless! Damn, what's going on? [-]
+[voice]Audio/VO/Assassin/Assassin12
+1
+[ffebad] Don't be nervous, this is a good thing meow. You are about to enter the stage of changing jobs, meow. [-]
+[voice]Audio/VO/Occupation/Occupation16
+1
+[ffebad] Don't suppress this power, you go to the [0096ff] Trial Land[-] to exercise your strength, slowly master meow. [-]
+[voice]Audio/VO/Occupation/Occupation17
+
+in progress
+1
+[ffebad] Let's go to [0096ff] the place of trial[-][-]
+
+end
+1
+[ffebad] Looks like you've successfully changed jobs meow! Your talent is only a little bit worse than my teacher, meow! [-]
+[voice]Audio/VO/Occupation/Occupation18
+0
+[ffebad] This is just the beginning, I will definitely control this force completely! [-]
+[voice]Audio/VO/Assassin/assassin26
+
+prof 7
+
+begin
+0
+[ffebad] Teacher, my strength is increasing uncontrollably, what's wrong? [-]
+[voice]Audio/VO/kali/kali15
+1
+[ffebad] Don't be nervous, you are about to enter the stage of changing jobs. [-]
+[voice]Audio/VO/Occupation/Occupation19
+1
+[ffebad] I can't personally guide you in my state, you go to the [0096ff] Trial Land[-] to free yourself from the shackles, I believe you can master it. [-]
+[voice]Audio/VO/Occupation/Occupation20
+
+in progress
+1
+[ffebad] Let's go to [0096ff] the place of trial[-][-]
+
+end
+1
+[ffebad] Looks like you've successfully changed jobs! The light of the shadow star is shining, I'm so proud of you, boy! [-]
+[voice]Audio/VO/Occupation/Occupation21
+0
+[ffebad] Teacher, for you, for the clansmen, I will definitely become stronger and stronger, control my own destiny, and realize my mission! [-]
+[voice]Audio/VO/kali/kali17

@@ -1,0 +1,120 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad] Adventurer, I am a dark priestess who walks between light and darkness, responsible for overseeing the balance of Altria.
+1
+[ffebad] Recently, the forces of darkness have become stronger and stronger, threatening the entire continent. Adventurer, please help us! [-]
+[can_reject]
+
+in progress
+1
+[ffebad] Hurry up and complete the task of the church[-]
+
+end
+1
+[ffebad] Thank you for everything you have done for everyone, your achievements are also seen by the goddess! [-]
+
+prof 2
+
+begin
+1
+[ffebad] Adventurer, I am a dark priestess who walks between light and darkness, responsible for overseeing the balance of Altria.
+1
+[ffebad] Recently, the forces of darkness have become stronger and stronger, threatening the entire continent. Adventurer, please help us! [-]
+[can_reject]
+
+in progress
+1
+[ffebad] Hurry up and complete the task of the church[-]
+
+end
+1
+[ffebad] Thank you for everything you have done for everyone, your achievements are also seen by the goddess! [-]
+
+prof 3
+
+begin
+1
+[ffebad] Adventurer, I am a dark priestess who walks between light and darkness, responsible for overseeing the balance of Altria.
+1
+[ffebad] Recently, the forces of darkness have become stronger and stronger, threatening the entire continent. Adventurer, please help us! [-]
+[can_reject]
+
+in progress
+1
+[ffebad] Hurry up and complete the task of the church[-]
+
+end
+1
+[ffebad] Thank you for everything you have done for everyone, your achievements are also seen by the goddess! [-]
+
+prof 4
+
+begin
+1
+[ffebad] Adventurer, I am a dark priestess who walks between light and darkness, responsible for overseeing the balance of Altria.
+1
+[ffebad] Recently, the forces of darkness have become stronger and stronger, threatening the entire continent. Adventurer, please help us! [-]
+[can_reject]
+
+in progress
+1
+[ffebad] Hurry up and complete the task of the church[-]
+
+end
+1
+[ffebad] Thank you for everything you have done for everyone, your achievements are also seen by the goddess! [-]
+
+Prof 5
+
+begin
+1
+[ffebad] Adventurer, I am a dark priestess who walks between light and darkness, responsible for overseeing the balance of Altria.
+1
+[ffebad] Recently, the forces of darkness have become stronger and stronger, threatening the entire continent. Adventurer, please help us! [-]
+[can_reject]
+
+in progress
+1
+[ffebad] Hurry up and complete the task of the church[-]
+
+end
+1
+[ffebad] Thank you for everything you have done for everyone, your achievements are also seen by the goddess! [-]
+
+prof 6
+
+begin
+1
+[ffebad] Adventurer, I am a dark priestess who walks between light and darkness, responsible for overseeing the balance of Altria.
+1
+[ffebad] Recently, the forces of darkness have become stronger and stronger, threatening the entire continent. Adventurer, please help us! [-]
+[can_reject]
+
+in progress
+1
+[ffebad] Hurry up and complete the task of the church[-]
+
+end
+1
+[ffebad] Thank you for everything you have done for everyone, your achievements are also seen by the goddess! [-]
+
+prof 7
+
+begin
+1
+[ffebad] Adventurer, I am a dark priestess who walks between light and darkness, responsible for overseeing the balance of Altria.
+1
+[ffebad] Recently, the forces of darkness have become stronger and stronger, threatening the entire continent. Adventurer, please help us! [-]
+[can_reject]
+
+in progress
+1
+[ffebad] Hurry up and complete the task of the church[-]
+
+end
+1
+[ffebad] Thank you for everything you have done for everyone, your achievements are also seen by the goddess! [-]

@@ -1,0 +1,17 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] Adventurer, the happy National Day time is over, have you traveled yet? [-]
+0
+[ffebad] Of course, I had a leisurely time. Feeling a little post-holiday syndrome now! [-]
+1
+[ffebad] What is post-holiday syndrome? [-]
+0
+[ffebad] It's been a long vacation and I don't really want to go to work... Irene, I want a gift~~[-]
+
+end
+1
+[ffebad] These are gifts for you, hope you get over your post-holiday syndrome soon! [-]

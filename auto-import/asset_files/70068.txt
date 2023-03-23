@@ -1,0 +1,31 @@
+start
+
+prof 0
+
+step 1
+0
+[ffebad] That's not so bad! We need to stop him immediately! ! [-]
+
+step 2
+1
+[FFEBAD]！ -! Yes, yes ... To stop him, you must also go to the door of the Boulder Monument ... [-]
+
+step 3
+0
+[FFEBAD] Uh, but it is difficult for normal people to approach the door of the boulder monument ... [-]
+
+step 4
+1
+[ffebad] Also, maybe I can help, help you ... [-]
+
+step 5
+0
+[FFEBAD] Uh, if you are afraid, you don't need to force yourself, let's find another way. [-]
+
+step 6
+1
+[FFEBAD] But I can't just watch you desperately. I, I will work hard! [-]
+
+step 7
+0
+[FFEBAD] Hmm! What you want is this momentum. In this case, let's work together! [-]

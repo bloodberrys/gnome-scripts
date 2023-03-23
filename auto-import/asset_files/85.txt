@@ -1,0 +1,25 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] That child, in the end, is..., ahem, is my disciple burying her? Forget it, he is also a poor child, ahem cough[-]
+1
+[ffebad] Sydale is soft on the outside and strong on the inside, he is likely to avenge that kid, but Callahan is not something he can fight, adventurer, you go to the [0096ff] Holy Land ruins [-] to see him, for sure To persuade him to come back. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] holy land ruins [-]
+
+end
+1
+[ffebad] I really don't want to see you, but you said Callahan? He got the Green Dragon Jade? [-]
+0
+[ffebad] Yes, damn it, the vicious liar. [-]
+1
+[ffebad] What a hopeless guy, whether it's me, or Ignacio or Callahan, we are all people who want to get what they want, have been used so many times, and have no memory at all. [-]
+0
+[ffebad] But why hurt others. Why not a little more trust. [-]
+1
+[ffebad] Ridiculous, you are as naive as Geraint... If you want to be so naive, at least wait until you have Geraint's strength. Now, quickly disappear from my presence. [-]

@@ -1,0 +1,38 @@
+start
+
+prof 0
+
+step 1
+1
+[ffebad] (pain) It's all my fault, it's all my fault. [-]
+1
+[ffebad] Ibel walked into Chard's territory with a mortal heart. [-]
+1
+[ffebad] ... (choked up) [-]
+[branch]2=comfort Guy|3=blame Guy
+
+step 2
+1
+[ffebad] Thank you, you didn't live through my nightmares, you're not me...[-]
+
+step 3
+1
+[ffebad] You're right, it's all my own fault. [-]
+
+step 4
+1
+[ffebad] I watched Ibel die in front of my eyes, would you like to enter my most feared memory? [-]
+[branch]5=I am willing|6=Not willing
+
+step 5
+1
+[ffebad] Go ahead. [-]
+
+step 6
+1
+[ffebad] Come to me when you're ready. [-]
+break
+
+step 7
+1
+[ffebad] This is my most painful memory. [-]

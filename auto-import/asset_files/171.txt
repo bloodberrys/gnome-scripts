@@ -1,0 +1,23 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] I can feel Peda's movement, his strength is getting stronger and stronger. [-]
+0
+[ffebad] Baoyu's power is so powerful. [-]
+1
+[ffebad] Huh? Haven't you already seen that Bethkind guy? Come here, let me arrange some other tasks for you this time. [-]
+1
+[ffebad] Go find Geraint, he seems to have found traces of that guy Peda. Go over and hold him steady, don't let him mess around. [-]
+
+in progress
+1
+[ffebad] Go find little Geraint[-]
+
+end
+1
+[ffebad] What are you doing, why are you here? [-]
+0
+[ffebad] Algerta told me to come to you, and she wanted me to tell you not to act alone even if you find Peda. [-]

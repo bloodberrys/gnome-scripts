@@ -1,0 +1,33 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] What a lingering guy, why are you following me? [-]
+0
+[ffebad] Did you kill Safintra? It is obvious that you killed Geraint, and now you are avenging him, what on earth are you trying to do? [-]
+1
+[ffebad] Is there anything else I need to explain to you? But you still have the face to question me? At the beginning, the apostle Elena thought that the prophet was taken away by you, and actually poisoned humans to attack humans. Wasn't it you who did it? [-]
+0
+[ffebad] So the red harpy is Elena's subordinate, is Elena also that apostle? [-]
+1
+[ffebad] Speaking of you being able to kill an apostle, you're not exactly rubbish. But it was because of your little power that you helped Ignacio collect all kinds of things, revived Safintra, and killed Geraint in the end! [-]
+0
+[ffebad] Me, I just want to help people. [-]
+1
+[ffebad] In other words, you don't even know how much you weigh? Cut, it's getting hotter and hotter, get out of here! [-]
+0
+[ffebad] Damn, why did he just leave. I have to ask clearly, this direction, seems to go to [0096ff] Rotten Mire[-]? [-]
+
+in progress
+1
+[ffebad] go to [0096ff] rotten quagmire [-]
+
+end
+1
+[ffebad] Little hero, I have found you. I heard that the black dragon has appeared again. I don’t know your body... Last time I urged you to fight, hey, I’m really worried! [-]
+0
+[ffebad] Don't worry, he, doesn't seem to be malicious. I have a hunch we'll see each other again. [-]
+1
+[ffebad] The most important thing now is your body. I contacted the magician mentor who purified the venom last time. You should go see her. [-]

@@ -1,0 +1,23 @@
+start
+
+prof 0
+
+step 1
+0
+[ffebad] Now that you've admitted it, hand over Rose quickly! Don't make me do it! [-]
+
+step 2
+1
+[ffebad] I wish Rose was still in my hands, but it's a pity that she has fallen into the real clutches now. [-]
+
+step 3
+0
+[ffebad] Aren't you the real devil's claw! No, you should be the devil! Hand over Rose now! [-]
+
+step 4
+1
+[ffebad] She has been taken by the Goddess Order. [-]
+
+step 5
+0
+[ffebad] Goddess Order? What, it turned out that Rose had already been rescued. Then why are you still showing off your power here? [-]

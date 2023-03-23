@@ -1,0 +1,17 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] La la la, happy new year! My fans, support Xia Luoli in the new year~[-]
+1
+[ffebad] Adventurer over there, are you also a member of Xia Luoli Club? Members please come to Xia Luoli to receive a small gift~[-]
+0
+[ffebad] Ah...I'm not a member yet, sorry. [-]
+
+end
+1
+[ffebad] That's it, it doesn't matter, I still give you a present. But you have to promise Xia Luoli, and support Xia Luoli in the new year~[-]
+0
+[ffebad] No problem, thank you Xia Luoli. [-]

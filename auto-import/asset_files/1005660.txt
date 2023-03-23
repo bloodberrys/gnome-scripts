@@ -1,0 +1,18 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] Ah, adventurer, so you are here, so I found you. [-]
+0
+[ffebad] Miss Irene, what's the matter? [-]
+1
+[ffebad] Thank you for the Christmas surprise you gave me last time, here, this is my return gift to you. Shhh, you have to take it apart secretly so that no one else can see it. [-]
+
+
+end
+1
+[ffebad] I carefully prepared this for you, others don't have it~[-]
+0
+[ffebad] Thanks Erin. [-]

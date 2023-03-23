@@ -1,0 +1,281 @@
+start
+
+Prof 1
+
+begin
+0
+[ffebad] Teacher Adeline, do you know how to use a harp to open the entrance to the Canyon of Sighs? [-]
+[voice]Audio/VO/Warrior/warrior12
+1
+[ffebad] The harp... so nostalgic. I haven't played since that guy left. [-]
+[voice]Audio/VO/lines/lines88
+0
+[ffebad] Teacher Adeline, what did you just say? [-]
+[voice]Audio/VO/Warrior/warrior15
+1
+[ffebad] Please don't mind it, it's just the ravings of a sentimental elf. [-]
+[voice]Audio/VO/lines/lines89
+1
+[ffebad] It's not that I don't want to teach you, it's just that it's not easy to play the harp. [-]
+[voice]Audio/VO/lines/lines90
+1
+[ffebad] Take the harp with me [0096ff] to the depths of the canyon[-], I will call the wind fairies in the depths of the canyon, they will gather the most powerful voices, and solidify the melody on this harp. [-]
+[voice]Audio/VO/lines/lines91
+
+in progress
+1
+[ffebad] go [0096ff] to the depths of the canyon[-][-]
+
+end
+1
+[ffebad] Huh, the power of nature is still so full. The melody you need has been solidified on this harp, take it, and break the gate of the Canyon of Sighs. [-]
+[voice]Audio/VO/lines/lines94
+0
+[ffebad] OK! Now that I think about it... I don't seem to know how to go to the Canyon of Sighs. [-]
+[voice]Audio/VO/Warrior/warrior13
+1
+[ffebad] Oh, unfortunately, the Canyon of Sighs is surrounded by thorns and monsters, I don't think anyone here has been there. [-]
+[voice]Audio/VO/lines/lines95
+1
+[ffebad] But... Pope, a profiteer who just came from out of town, has traveled around, and it is said that he knows the way to the Canyon of Sighs. [-]
+[voice]Audio/VO/lines/lines96
+
+prof 2
+
+begin
+0
+[ffebad] Teacher, please teach me the skill of the elven harp. [-]
+[voice]Audio/VO/Archer/archer12
+1
+[ffebad] The harp... so nostalgic. I haven't played since that guy left. [-]
+[voice]Audio/VO/lines/lines88
+0
+[ffebad] Teacher, do you remember the past again? [-]
+[voice]Audio/VO/Archer/archer15
+1
+[ffebad] Please don't mind it, it's just the ravings of a sentimental elf. [-]
+[voice]Audio/VO/lines/lines89
+1
+[ffebad] It's not that I don't want to teach you, it's just that it's not easy to play the harp. [-]
+[voice]Audio/VO/lines/lines90
+1
+[ffebad] Take the harp with me [0096ff] to the depths of the canyon[-], I will call the wind fairies in the depths of the canyon, they will gather the most powerful voices, and solidify the melody on this harp. [-]
+[voice]Audio/VO/lines/lines91
+
+in progress
+1
+[ffebad] go [0096ff] to the depths of the canyon[-][-]
+
+end
+1
+[ffebad] Huh, the power of nature is still so full. The melody you need has been solidified on this harp, take it, and break the gate of the Canyon of Sighs. [-]
+[voice]Audio/VO/lines/lines94
+0
+[ffebad] OK! Now that I think about it... I don't seem to know how to go to the Canyon of Sighs. [-]
+[voice]Audio/VO/Archer/archer13
+1
+[ffebad] Oh, unfortunately, the Canyon of Sighs is surrounded by thorns and monsters, I don't think anyone here has been there. [-]
+[voice]Audio/VO/lines/lines95
+1
+[ffebad] But... Pope, a profiteer who just came from out of town, has traveled around, and it is said that he knows the way to the Canyon of Sighs. [-]
+[voice]Audio/VO/lines/lines96
+
+prof 3
+
+begin
+0
+[ffebad] Teacher Adeline, do you know how to use a harp to open the entrance to the Canyon of Sighs? [-]
+[voice]Audio/VO/Sorceress/Sorceress12
+1
+[ffebad] The harp... so nostalgic. I haven't played since that guy left. [-]
+[voice]Audio/VO/lines/lines88
+0
+[ffebad] Teacher Adeline, what did you just say? [-]
+[voice]Audio/VO/Sorceress/Sorceress15
+1
+[ffebad] Please don't mind it, it's just the ravings of a sentimental elf. [-]
+[voice]Audio/VO/lines/lines89
+1
+[ffebad] It's not that I don't want to teach you, it's just that it's not easy to play the harp. [-]
+[voice]Audio/VO/lines/lines90
+1
+[ffebad] Take the harp with me [0096ff] to the depths of the canyon[-], I will call the wind fairies in the depths of the canyon, they will gather the most powerful voices, and solidify the melody on this harp. [-]
+[voice]Audio/VO/lines/lines91
+
+in progress
+1
+[ffebad] go [0096ff] to the depths of the canyon[-][-]
+
+end
+1
+[ffebad] Huh, the power of nature is still so full. The melody you need has been solidified on this harp, take it, and break the gate of the Canyon of Sighs. [-]
+[voice]Audio/VO/lines/lines94
+0
+[ffebad] OK! Now that I think about it... I don't seem to know how to go to the Canyon of Sighs. [-]
+[voice]Audio/VO/Sorceress/Sorceress13
+1
+[ffebad] Oh, unfortunately, the Canyon of Sighs is surrounded by thorns and monsters, I don't think anyone here has been there. [-]
+[voice]Audio/VO/lines/lines95
+1
+[ffebad] But... Pope, a profiteer who just came from out of town, has traveled around, and it is said that he knows the way to the Canyon of Sighs. [-]
+[voice]Audio/VO/lines/lines96
+
+prof 4
+
+begin
+0
+[ffebad] Teacher Adeline, do you know how to use a harp to open the entrance to the Canyon of Sighs? [-]
+[voice]Audio/VO/Cleric/cleric12
+1
+[ffebad] The harp... so nostalgic. I haven't played since that guy left. [-]
+[voice]Audio/VO/lines/lines88
+0
+[ffebad] Teacher Adeline, what did you just say? [-]
+[voice]Audio/VO/Cleric/cleric15
+1
+[ffebad] Please don't mind it, it's just the ravings of a sentimental elf. [-]
+[voice]Audio/VO/lines/lines89
+1
+[ffebad] It's not that I don't want to teach you, it's just that it's not easy to play the harp. [-]
+[voice]Audio/VO/lines/lines90
+1
+[ffebad] Take the harp with me [0096ff] to the depths of the canyon[-], I will call the wind fairies in the depths of the canyon, they will gather the most powerful voices, and solidify the melody on this harp. [-]
+[voice]Audio/VO/lines/lines91
+
+in progress
+1
+[ffebad] go [0096ff] to the depths of the canyon[-][-]
+
+end
+1
+[ffebad] Huh, the power of nature is still so full. The melody you need has been solidified on this harp, take it, and break the gate of the Canyon of Sighs. [-]
+[voice]Audio/VO/lines/lines94
+0
+[ffebad] OK! Now that I think about it... I don't seem to know how to go to the Canyon of Sighs. [-]
+[voice]Audio/VO/Cleric/cleric13
+1
+[ffebad] Oh, unfortunately, the Canyon of Sighs is surrounded by thorns and monsters, I don't think anyone here has been there. [-]
+[voice]Audio/VO/lines/lines95
+1
+[ffebad] But... Pope, a profiteer who just came from out of town, has traveled around, and it is said that he knows the way to the Canyon of Sighs. [-]
+[voice]Audio/VO/lines/lines96
+
+Prof 5
+
+begin
+0
+[ffebad] Teacher Adeline, do you know how to use a harp to open the entrance to the Canyon of Sighs? [-]
+[voice]Audio/VO/Academic/academic28
+1
+[ffebad] The harp... so nostalgic. I haven't played since that guy left. [-]
+[voice]Audio/VO/lines/lines88
+0
+[ffebad] Teacher Adeline, what did you just say? [-]
+[voice]Audio/VO/Academic/academic15
+1
+[ffebad] Please don't mind it, it's just the ravings of a sentimental elf. [-]
+[voice]Audio/VO/lines/lines89
+1
+[ffebad] It's not that I don't want to teach you, it's just that it's not easy to play the harp. [-]
+[voice]Audio/VO/lines/lines90
+1
+[ffebad] Take the harp with me [0096ff] to the depths of the canyon[-], I will call the wind fairies in the depths of the canyon, they will gather the most powerful voices, and solidify the melody on this harp. [-]
+[voice]Audio/VO/lines/lines91
+
+in progress
+1
+[ffebad] go [0096ff] to the depths of the canyon[-][-]
+
+end
+1
+[ffebad] Huh, the power of nature is still so full. The melody you need has been solidified on this harp, take it, and break the gate of the Canyon of Sighs. [-]
+[voice]Audio/VO/lines/lines94
+0
+[ffebad] OK! Now that I think about it... I don't seem to know how to go to the Canyon of Sighs. [-]
+[voice]Audio/VO/Academic/academic12
+1
+[ffebad] Oh, unfortunately, the Canyon of Sighs is surrounded by thorns and monsters, I don't think anyone here has been there. [-]
+[voice]Audio/VO/lines/lines95
+1
+[ffebad] But... Pope, a profiteer who just came from out of town, has traveled around, and it is said that he knows the way to the Canyon of Sighs. [-]
+[voice]Audio/VO/lines/lines96
+
+prof 6
+
+begin
+0
+[ffebad] Teacher Adeline, do you know how to use a harp to open the entrance to the Canyon of Sighs? [-]
+[voice]Audio/VO/Assassin/assassin28
+1
+[ffebad] The harp... so nostalgic. I haven't played since that guy left. [-]
+[voice]Audio/VO/lines/lines88
+0
+[ffebad] Teacher Adeline, what did you just say? [-]
+[voice]Audio/VO/Assassin/Assassin15
+1
+[ffebad] Please don't mind it, it's just the ravings of a sentimental elf. [-]
+[voice]Audio/VO/lines/lines89
+1
+[ffebad] It's not that I don't want to teach you, it's just that it's not easy to play the harp. [-]
+[voice]Audio/VO/lines/lines90
+1
+[ffebad] Take the harp with me [0096ff] to the depths of the canyon[-], I will call the wind fairies in the depths of the canyon, they will gather the most powerful voices, and solidify the melody on this harp. [-]
+[voice]Audio/VO/lines/lines91
+
+in progress
+1
+[ffebad] go [0096ff] to the depths of the canyon[-][-]
+
+end
+1
+[ffebad] Huh, the power of nature is still so full. The melody you need has been solidified on this harp, take it, and break the gate of the Canyon of Sighs. [-]
+[voice]Audio/VO/lines/lines94
+0
+[ffebad] OK! However, I don't know how to get to the Canyon of Sighs. [-]
+[voice]Audio/VO/Assassin/Assassin12
+1
+[ffebad] Oh, unfortunately, the Canyon of Sighs is surrounded by thorns and monsters, I don't think anyone here has been there. [-]
+[voice]Audio/VO/lines/lines95
+1
+[ffebad] But... Pope, a profiteer who just came from out of town, has traveled around, and it is said that he knows the way to the Canyon of Sighs. [-]
+[voice]Audio/VO/lines/lines96
+
+prof 7
+
+begin
+0
+[ffebad] Teacher Adeline, do you know how to use a harp to open the entrance to the Canyon of Sighs? [-]
+[voice]Audio/VO/kali/kali14
+1
+[ffebad] The harp... so nostalgic. I haven't played since that guy left. [-]
+[voice]Audio/VO/lines/lines88
+0
+[ffebad] Teacher Adeline, what did you just say? [-]
+[voice]Audio/VO/kali/kali15
+1
+[ffebad] Please don't mind it, it's just the ravings of a sentimental elf. [-]
+[voice]Audio/VO/lines/lines89
+1
+[ffebad] It's not that I don't want to teach you, it's just that it's not easy to play the harp. [-]
+[voice]Audio/VO/lines/lines90
+1
+[ffebad] Take the harp with me [0096ff] to the depths of the canyon[-], I will call the wind fairies in the depths of the canyon, they will gather the most powerful voices, and solidify the melody on this harp. [-]
+[voice]Audio/VO/lines/lines91
+
+in progress
+1
+[ffebad] go [0096ff] to the depths of the canyon[-][-]
+
+end
+1
+[ffebad] Huh, the power of nature is still so full. The melody you need has been solidified on this harp, take it, and break the gate of the Canyon of Sighs. [-]
+[voice]Audio/VO/lines/lines94
+0
+[ffebad] OK! However, I don't know how to get to the Canyon of Sighs. [-]
+[voice]Audio/VO/kali/kali16
+1
+[ffebad] Oh, unfortunately, the Canyon of Sighs is surrounded by thorns and monsters, I don't think anyone here has been there. [-]
+[voice]Audio/VO/lines/lines95
+1
+[ffebad] But... Pope, a profiteer who just came from out of town, has traveled around, and it is said that he knows the way to the Canyon of Sighs. [-]
+[voice]Audio/VO/lines/lines96

@@ -1,0 +1,197 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad] Calm down, calm down! This is an unprecedented event! Adventurers, we must strike first and disrupt their deployment. Let me see, the point is... [0096ff] Shrine Chapel[-]! [-]
+[voice]Audio/VO/lines/lines169
+1
+[ffebad] That's right, the [0096ff] Temple Chapel[-] is an excellent strategic stronghold, we must take it first! [-]
+[voice]Audio/VO/lines/lines170
+0
+[ffebad] Let me be the pioneer! [-]
+[voice]Audio/VO/Warrior/warrior17
+
+in progress
+1
+[ffebad] Go to the [0096ff] Temple Chapel[-]. [-]
+
+end
+1
+[ffebad] Brat! Look at your stupid face! It's just that he is so proud of winning a battle or two, but he will suffer a lot in the future. [-]
+[voice]Audio/VO/lines/lines171
+0
+[ffebad] I know, you're saying that out of concern for me. Argenta is such a gentle person. [-]
+[voice]Audio/VO/Warrior/warrior26
+1
+[ffebad] Stop being self righteous! Hmph, I just think you are quite qualified to be my servant. After working for so long, you haven't even seen the shadow of the Prophet! [-]
+[voice]Audio/VO/lines/lines172
+
+prof 2
+
+begin
+1
+[ffebad] Calm down, calm down! This is an unprecedented event! Adventurers, we must strike first and disrupt their deployment. Let me see, the point is... [0096ff] Shrine Chapel[-]! [-]
+[voice]Audio/VO/lines/lines169
+1
+[ffebad] That's right, the [0096ff] Temple Chapel[-] is an excellent strategic stronghold, we must take it first! [-]
+[voice]Audio/VO/lines/lines170
+0
+[ffebad] Let me be the pioneer! [-]
+[voice]Audio/VO/Archer/archer17
+
+in progress
+1
+[ffebad] Go to the [0096ff] Temple Chapel[-]. [-]
+
+end
+1
+[ffebad] Brat! Look at your stupid face! It's just that he is so proud of winning a battle or two, but he will suffer a lot in the future. [-]
+[voice]Audio/VO/lines/lines171
+0
+[ffebad] I know, you're saying that out of concern for me. Argenta is such a gentle person. [-]
+[voice]Audio/VO/Archer/archer26
+1
+[ffebad] Stop being self righteous! Hmph, I just think you are quite qualified to be my servant. After working for so long, you haven't even seen the shadow of the Prophet! [-]
+[voice]Audio/VO/lines/lines172
+
+prof 3
+
+begin
+1
+[ffebad] Calm down, calm down! This is an unprecedented event! Adventurers, we must strike first and disrupt their deployment. Let me see, the point is... [0096ff] Shrine Chapel[-]! [-]
+[voice]Audio/VO/lines/lines169
+1
+[ffebad] That's right, the [0096ff] Temple Chapel[-] is an excellent strategic stronghold, we must take it first! [-]
+[voice]Audio/VO/lines/lines170
+0
+[ffebad] Let me be the pioneer! [-]
+[voice]Audio/VO/Sorceress/Sorceress17
+
+in progress
+1
+[ffebad] Go to the [0096ff] Temple Chapel[-]. [-]
+
+end
+1
+[ffebad] Brat! Look at your stupid face! It's just that he is so proud of winning a battle or two, but he will suffer a lot in the future. [-]
+[voice]Audio/VO/lines/lines171
+0
+[ffebad] I know, you're saying that out of concern for me. Argenta is such a gentle person. [-]
+[voice]Audio/VO/Sorceress/Sorceress26
+1
+[ffebad] Stop being self righteous! Hmph, I just think you are quite qualified to be my servant. After working for so long, you haven't even seen the shadow of the Prophet! [-]
+[voice]Audio/VO/lines/lines172
+
+prof 4
+
+begin
+1
+[ffebad] Calm down, calm down! This is an unprecedented event! Adventurers, we must strike first and disrupt their deployment. Let me see, the point is... [0096ff] Shrine Chapel[-]! [-]
+[voice]Audio/VO/lines/lines169
+1
+[ffebad] That's right, the [0096ff] Temple Chapel[-] is an excellent strategic stronghold, we must take it first! [-]
+[voice]Audio/VO/lines/lines170
+0
+[ffebad] Let me be the pioneer! [-]
+[voice]Audio/VO/Cleric/cleric17
+
+in progress
+1
+[ffebad] go to [0096ff] Shrine Chapel [-] bar. [-]
+
+end
+1
+[ffebad] Brat! Look at your stupid face! It's just that he is so proud of winning a battle or two, but he will suffer a lot in the future. [-]
+[voice]Audio/VO/lines/lines171
+0
+[ffebad] I know, you're saying that out of concern for me. Argenta is such a gentle person. [-]
+[voice]Audio/VO/Cleric/cleric26
+1
+[ffebad] Stop being self righteous! Hmph, I just think you are quite qualified to be my servant. After working for so long, you haven't even seen the shadow of the Prophet! [-]
+[voice]Audio/VO/lines/lines172
+
+Prof 5
+
+begin
+1
+[ffebad] Calm down, calm down! This is an unprecedented event! Adventurers, we must strike first and disrupt their deployment. Let me see, the point is... [0096ff] Shrine Chapel[-]! [-]
+[voice]Audio/VO/lines/lines169
+1
+[ffebad] That's right, the [0096ff] Temple Chapel[-] is an excellent strategic stronghold, we must take it first! [-]
+[voice]Audio/VO/lines/lines170
+0
+[ffebad] Let me be the pioneer! [-]
+[voice]Audio/VO/Academic/academic11
+
+in progress
+1
+[ffebad] Go to the [0096ff] Temple Chapel[-]. [-]
+
+end
+1
+[ffebad] Brat! Look at your stupid face! It's just that he is so proud of winning a battle or two, but he will suffer a lot in the future. [-]
+[voice]Audio/VO/lines/lines171
+0
+[ffebad] I know, you're saying that out of concern for me. Argenta is such a gentle person. [-]
+[voice]Audio/VO/Academic/academic26
+1
+[ffebad] Stop being self righteous! Hmph, I just think you are quite qualified to be my servant. After working for so long, you haven't even seen the shadow of the Prophet! [-]
+[voice]Audio/VO/lines/lines172
+
+prof 6
+
+begin
+1
+[ffebad] Calm down, calm down! This is an unprecedented event! Adventurers, we must strike first and disrupt their deployment. Let me see, the point is... [0096ff] Shrine Chapel[-]! [-]
+[voice]Audio/VO/lines/lines169
+1
+[ffebad] That's right, the [0096ff] Temple Chapel[-] is an excellent strategic stronghold, we must take it first! [-]
+[voice]Audio/VO/lines/lines170
+0
+[ffebad] Let me be the pioneer! [-]
+[voice]Audio/VO/Assassin/assassin11
+
+in progress
+1
+[ffebad] Go to the [0096ff] Temple Chapel[-]. [-]
+
+end
+1
+[ffebad] Brat! Look at your stupid face! It's just that he is so proud of winning a battle or two, but he will suffer a lot in the future. [-]
+[voice]Audio/VO/lines/lines171
+0
+[ffebad] I know, you're saying that out of concern for me. I can feel your tender heart. [-]
+[voice]Audio/VO/Assassin/assassin26
+1
+[ffebad] Stop being self righteous! Hmph, I just think you are quite qualified to be my servant. After working for so long, you haven't even seen the shadow of the Prophet! [-]
+[voice]Audio/VO/lines/lines172
+
+prof 7
+
+begin
+1
+[ffebad] Calm down, calm down! This is an unprecedented event! Adventurers, we must strike first and disrupt their deployment. Let me see, the point is... [0096ff] Shrine Chapel[-]! [-]
+[voice]Audio/VO/lines/lines169
+1
+[ffebad] That's right, the [0096ff] Temple Chapel[-] is an excellent strategic stronghold, we must take it first! [-]
+[voice]Audio/VO/lines/lines170
+0
+[ffebad] Let me be the pioneer! [-]
+[voice]Audio/VO/kali/kali11
+
+in progress
+1
+[ffebad] Go to the [0096ff] Temple Chapel[-]. [-]
+
+end
+1
+[ffebad] Brat! Look at your stupid face! It's just that he is so proud of winning a battle or two, but he will suffer a lot in the future. [-]
+[voice]Audio/VO/lines/lines171
+0
+[ffebad] I know, you're saying that out of concern for me. I can feel your tender heart. [-]
+[voice]Audio/VO/kali/kali10
+1
+[ffebad] Stop being self righteous! Hmph, I just think you are quite qualified to be my servant. After working for so long, you haven't even seen the shadow of the Prophet! [-]
+[voice]Audio/VO/lines/lines172

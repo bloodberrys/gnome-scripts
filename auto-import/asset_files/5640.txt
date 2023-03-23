@@ -1,0 +1,27 @@
+start
+
+prof 0
+
+begin
+0
+[ffebad] Wow, it's so lively here, what happened? [-]
+1
+[ffebad] Hee hee, adventurer, don’t you know that the loli festival is here, and my fans have come from all over the world to celebrate me these days. [-]
+0
+[ffebad] Loli Festival, is Xia Luoli your idea? [-]
+1
+[ffebad] Huh, how could it be, it's a festival spontaneously formed by passionate fans! [-]
+
+in progress
+1
+[ffebad] hee hee [-]
+
+end
+0
+[ffebad] Looks like Xia Luoli, you are really popular! [-]
+1
+[ffebad] Of course, when I'm on tour, even orcs in battle put down their swords and sing. I have always had a dream to use singing to call for peace in the continent of Altria. Let's sing and dance together, and never fight again. [-]
+0
+[ffebad] It's a great ideal, I hope there will be such a day, when the time comes, the Loli Festival must be the most festive festival! [-]
+1
+[ffebad] Thank you, adventurer, for your support. Come on, this is a fan gift for Loli Festival, and you have one too. [-]

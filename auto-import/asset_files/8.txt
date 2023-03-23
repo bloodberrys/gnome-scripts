@@ -1,0 +1,209 @@
+start
+
+Prof 1
+
+begin
+0
+[ffebad] Looks like Timothy and Rose are in real danger! I need to find them right now! [-]
+[voice]Audio/VO/Warrior/warrior29
+1
+[ffebad] Young man, go to the center of the excavation site! Let those monsters know that the weapon I made is no joke! [-]
+[voice]Audio/VO/lines/lines58
+
+in progress
+1
+[ffebad] go to the center of the [0096ff] excavation site[-][-]
+
+end
+1
+[ffebad] Brat, soldiers can't cry... why are you crying like this? [-]
+[voice]Audio/VO/lines/lines59
+0
+[ffebad] Woo...Timothy's dead, and Rose got caught by a red harpy again...[-]
+[voice]Audio/VO/Warrior/warrior20
+1
+[ffebad] Well... well, let's make an exception and let you cry for a while. But the situation is not good now, you need to cheer up as soon as possible! [-]
+[voice]Audio/VO/lines/lines63
+1
+[ffebad] Go visit Deckard of the Adventurer's Guild, he seems to have got some information about Rose. [-]
+[voice]Audio/VO/lines/lines67
+
+prof 2
+
+begin
+0
+[ffebad] Looks like Timothy and Rose are in real danger! I need to find them right now! [-]
+[voice]Audio/VO/Archer/archer29
+1
+[ffebad] Young man, go to the center of the excavation site! Let those monsters know that the weapon I made is no joke! [-]
+[voice]Audio/VO/lines/lines58
+
+in progress
+1
+[ffebad] go to the center of the [0096ff] excavation site[-][-]
+
+end
+1
+[ffebad] Child, the fairy of the wind is a little disturbed... whose life has fallen? [-]
+[voice]Audio/VO/lines/lines60
+0
+[ffebad] Woo...Timothy's dead, and Rose got caught by a red harpy again...[-]
+[voice]Audio/VO/Archer/archer20
+1
+[ffebad] All life comes to an end, and Timothy's end is beautiful. In order not to face more tragedies, we must fight! [-]
+[voice]Audio/VO/lines/lines64
+1
+[ffebad] Go visit Deckard of the Adventurer's Guild, he seems to have got some information about Rose. [-]
+[voice]Audio/VO/lines/lines68
+
+prof 3
+
+begin
+0
+[ffebad] Looks like Timothy and Rose are in real danger! I need to find them right now! [-]
+[voice]Audio/VO/Sorceress/Sorceress29
+1
+[ffebad] Young man, go to the center of the excavation site! Let those monsters know that the weapon I made is no joke! [-]
+[voice]Audio/VO/lines/lines58
+
+in progress
+1
+[ffebad] go to the center of the [0096ff] excavation site[-][-]
+
+end
+1
+[ffebad] Apprentice, I'm not very good at comforting people... What happened? [-]
+[voice]Audio/VO/lines/lines61
+0
+[ffebad] Woo...Timothy's dead, and Rose got caught by a red harpy again...[-]
+[voice]Audio/VO/Sorceress/Sorceress20
+1
+[ffebad] Damn it! I couldn't hold back my tears after what you said... No matter what banshee or monster, burn them all with anger! [-]
+[voice]Audio/VO/lines/lines65
+1
+[ffebad] Go visit Deckard of the Adventurer's Guild, he seems to have got some information about Rose. [-]
+[voice]Audio/VO/lines/lines69
+
+prof 4
+
+begin
+0
+[ffebad] Looks like Timothy and Rose are in real danger! I need to find them right now! [-]
+[voice]Audio/VO/Cleric/cleric29
+1
+[ffebad] Young man, go to the center of the excavation site! Let those monsters know that the weapon I made is no joke! [-]
+[voice]Audio/VO/lines/lines58
+
+in progress
+1
+[ffebad] go to the center of the [0096ff] excavation site[-][-]
+
+end
+1
+[ffebad] Your face is full of sadness and anger, I don't want to see you like this... What's wrong? [-]
+[voice]Audio/VO/lines/lines62
+0
+[ffebad] Woo...Timothy's dead, and Rose got caught by a red harpy again...[-]
+[voice]Audio/VO/Cleric/cleric20
+1
+[ffebad] Don't be sad about my child, the goddess will lead him to sleep in a sweet dream. The top priority is to get Rose back. [-]
+[voice]Audio/VO/lines/lines66
+1
+[ffebad] to visit the adventurerDeckard from the guild, he seems to have got some information about Rose. [-]
+[voice]Audio/VO/lines/lines70
+
+Prof 5
+
+begin
+0
+[ffebad] It seems that Timothy and Rose are in danger, don't worry, Grandpa Dorian, I'll start right away. [-]
+[voice]Audio/VO/Academic/academic11
+1
+[ffebad] Young man, go to the center of the excavation site! Let those monsters know that the weapon I made is no joke! [-]
+[voice]Audio/VO/lines/lines58
+
+in progress
+1
+[ffebad] go to the center of the [0096ff] excavation site[-][-]
+
+end
+1
+[ffebad] How's the situation? Was the Prophet rescue successful? [-]
+[voice]Audio/VO/lines/lines239
+0
+[ffebad] No, Timothy is dead, and there is a red harpy who took Rose to nowhere! [-]
+[voice]Audio/VO/Academic/academic6
+1
+[ffebad] Can history really not be changed? No, we have to work harder. You should go to President Deckard of the Adventurer's Guild. He should be the most well-informed person at this time. [-]
+[voice]Audio/VO/lines/lines240
+
+prof 6
+
+begin
+0
+[ffebad] It seems that Timothy and Rose are in danger, don't worry, Grandpa Dorian, I'll start right away. [-]
+[voice]Audio/VO/Assassin/assassin11
+1
+[ffebad] Young man, go to the center of the excavation site! Let those monsters know that the weapon I made is no joke! [-]
+[voice]Audio/VO/lines/lines58
+
+in progress
+1
+[ffebad] go to the center of the [0096ff] excavation site[-][-]
+
+end
+1
+[ffebad] How's the situation meow? Has the little girl been rescued? [-]
+[voice]Audio/VO/lines/lines239
+0
+[ffebad] No, Timothy is dead, and there is a red harpy who took Rose to nowhere! [-]
+[voice]Audio/VO/Assassin/assassin6
+1
+[ffebad] Assassin's way, never give up! Don't be sad, you still need to work hard, meow. Teacher, let me help you again, go find President Deckard of the Adventurer's Guild, he likes to help with troublesome things the most. [-]
+[voice]Audio/VO/lines/lines249
+
+prof 7
+
+begin
+0
+[ffebad] Looks like they're really in danger! I need to find them right now! [-]
+[voice]Audio/VO/kali/kali29
+1
+[ffebad] Young man, go to the center of the excavation site! Let those monsters know that the weapon I made is no joke! [-]
+[voice]Audio/VO/lines/lines58
+
+in progress
+1
+[ffebad] go to the center of the [0096ff] excavation site[-][-]
+
+end
+1
+[ffebad] what happened and why are you so sad? [-]
+[voice]Audio/VO/lines/lines263
+0
+[ffebad] Woo... Rose was captured by a red harpy... Timothy died, just like that day, I watched my people being attacked, I could only hide, this time, I didn't either can save him. woo woo woo...[-]
+[voice]Audio/VO/kali/kali20
+1
+[ffebad] Alas... child, you still haven't escaped the shadow of our death! [-]
+[voice]Audio/VO/lines/lines250
+1
+[ffebad] Let me tell you about your mission, boy, you know we are descended from the ancients. According to the prophecy, a descendant of an ancient person will awaken his power and become the primordial star to save the world. [-]
+[voice]Audio/VO/lines/lines251
+0
+[ffebad] The Star of the Beginning, is that girl named Rose? She is called a prophet by monsters. [-]
+[voice]Audio/VO/kali/kali15
+1
+[ffebad] Yes, she is supposed to be our diaspora, the prophet of the awakening power in the prophecy. But there is still a part of the prophecy that only our tribe knows. [-]
+[voice]Audio/VO/lines/lines252
+1
+[ffebad] At the same time as the star of the beginning, her shadow star will be awakened. The shadow star will protect the prophet. If the prophet deviates from the way of protecting the world, her power will be lost. And the shadow star is responsible for eliminating the traitors, taking over the hope of this world, and replacing the position of the prophet. [-]
+[voice]Audio/VO/lines/lines253
+0
+[ffebad] Am I the shadow star? Could it be that the deaths of the clansmen were all to protect me? [-]
+[voice]Audio/VO/kali/kali20
+1
+[ffebad] No, boy, I don't know why Lambert attacked us, but it certainly wasn't yours. And you can survive, this is also the arrangement of fate. You already know your mission, promise me, get it done! Compared with protecting the mainland, our sacrifices are insignificant. [-]
+[voice]Aaudio/VO/lines/lines254
+1
+[ffebad] My strength is getting weaker and weaker, maybe it will dissipate soon, you must be strong. Go visit Deckard of the Adventurer's Guild. I knew this man before he was alive. He is very well-informed, and he may have some information about Rose. [-]
+[voice]Audio/VO/lines/lines255

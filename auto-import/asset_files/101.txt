@@ -1,0 +1,19 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] The power of the Prophet is weakening... I hope this is temporary, we still need her help in many things, and now it seems that we can only rely on our own strength to find Barna. [-]
+1
+[ffebad] My temple knights have already been dispatched, can I trouble you to search around the Queen's Canyon, that area is very dangerous, no one can enter without a strong adventurer like you. [-]
+
+in progress
+1
+[ffebad] Go to [0096ff] Queens Canyon [-]
+
+end
+1
+[ffebad] Did you find anything? Well, are there any footprints similar to Barna? It seems that we need to focus on searching around there. By the way, you go to see the prophet first, she said that she has something to ask you. [-]
+1
+[ffebad] Although she is called a prophet, she is only a young girl. She is also quite pitiful. If you talk to her more, maybe she will feel better. [-]

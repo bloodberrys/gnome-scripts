@@ -1,0 +1,21 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] The Dark Boulder is one of the ways to the Dark Ruins, but there is a Golem wandering there all year round. [-]
+0
+[ffebad] Is there anything special about that stone goblin, can't you just kill it and pass it? [-]
+1
+[ffebad] That stone demon is as hard as steel, it is very difficult to eliminate at once, the best way is to conquer him! This is a potion that affects the mind of monsters. You can use it on stone demons at critical times. [-]
+
+in progress
+1
+[ffebad] Conquer the monsters in the dark boulder[-]
+xunz
+end
+0
+[ffebad] I have conquered the Stone Demon according to your arrangement. [-]
+1
+[ffebad] You did a good job, after passing the dark boulder is the forest of mist, you go to destroy the monsters there! [-]

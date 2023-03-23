@@ -1,0 +1,93 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad] Brat, I've heard a lot about your deeds, it's not bad, it's good for me. [-]
+
+in progress
+1
+[ffebad] Meet the test[-]
+
+end
+1
+[ffebad] Hahaha, my good apprentice! Come, come back once in a while, this is your gift, don't be polite to the teacher! [-]
+
+prof 2
+
+begin
+1
+[ffebad] Son, long time no see. In a dangerous battle, pay attention to your own safety. [-]
+
+in progress
+1
+[ffebad] listen carefully[-]
+
+end
+1
+[ffebad] boy, I send you some gifts, I hope you will become stronger and stronger. [-]
+
+prof 3
+
+begin
+1
+[ffebad] My little genius magical girl, news of you has been coming in frequently recently. [-]
+
+in progress
+1
+[ffebad] listen carefully[-]
+
+end
+1
+[ffebad] Your growth is amazing! Here's a gift from you, let me see your future! [-]
+
+prof 4
+
+begin
+1
+[ffebad] Oh, Goddess, long time no see. Have you been on an adventure lately? [-]
+0
+[ffebad] Of course, protecting the peace of the mainland is an unstoppable responsibility. [-]
+
+in progress
+1
+[ffebad] listen carefully[-]
+
+end
+1
+[ffebad] I have some gifts here, I hope your name will be recited by everyone in the mainland in the future, may the goddess bless you. [-]
+
+prof 5
+
+begin
+1
+[ffebad] My dear sister, how is it going. [-]
+0
+[ffebad] I've been running tasks and everything works fine. [-]
+1
+[ffebad] Don't forget the mission, and don't take too many risks! You are alone and I am concerned for your safety. [-]
+
+in progress
+1
+[ffebad] listen carefully[-]
+
+end
+1
+[ffebad] I'm relieved that your strength recovered so quickly. Come, give you some presents, don't forget my sister. [-]
+
+prof 6
+
+begin
+1
+[ffebad] Long time no see, meow. Don't even visit the teacher. [-]
+0
+[ffebad] Adventures take time, and I haven't forgotten my teacher. [-]
+
+in progress
+1
+[ffebad] listen carefully[-]
+
+end
+1
+[ffebad] I knew you wouldn't forget my meow. Give you some gifts, don't embarrass me. [-]

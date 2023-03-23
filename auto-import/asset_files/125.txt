@@ -1,0 +1,155 @@
+start
+
+Prof 1
+
+begin
+0
+[ffebad] Was your former officer called Lily? Is she the leader of the future army? To be able to invade a city so easily and hijack civilians is really not to be underestimated! [-]
+1
+[ffebad] Lord Lily's army is powerful, but it is impossible to destroy the residents of your era. That girl named Daisy must have an extraordinary meaning. The direction of their retreat is the disappearing Full Moon Desert. , Don't sigh, let's act quickly. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] disappearing full moon desert[-]
+
+end
+1
+[ffebad] How is Daisy saved? [-]
+0
+[ffebad] A group of monsters and bandits stopped me. When I passed by, the future army was gone. [-]
+1
+[ffebad] What can I do, I am alone... By the way, you can ask your army, they should be more informed. [-]
+0
+[ffebad] Speaking of well-informed, I do know someone, and I'm going to find him. [-]
+
+prof 2
+
+begin
+0
+[ffebad] Was your former officer called Lily? Is she the leader of the future army? To be able to invade a city so easily and hijack civilians is really not to be underestimated! [-]
+1
+[ffebad] Lord Lily's army is powerful, but it is impossible to destroy the residents of your era. That girl named Daisy must have an extraordinary meaning. The direction of their retreat is the disappearing Full Moon Desert. , Don't sigh, let's act quickly. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] disappearing full moon desert[-]
+
+end
+1
+[ffebad] How is Daisy saved? [-]
+0
+[ffebad] A group of monsters and bandits stopped me. When I passed by, the future army was gone. [-]
+1
+[ffebad] What can I do, I am alone... By the way, you can ask your army, they should be more informed. [-]
+0
+[ffebad] Speaking of well-informed, I do know someone, and I'm going to find him. [-]
+
+prof 3
+
+begin
+0
+[ffebad] Was your former officer called Lily? Is she the leader of the future army? To be able to invade a city so easily and hijack civilians is really not to be underestimated! [-]
+1
+[ffebad] Lord Lily's army is powerful, but it is impossible to destroy the residents of your era. That girl named Daisy must have an extraordinary meaning. The direction of their retreat is the disappearing Full Moon Desert. , Don't sigh, let's act quickly. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] disappearing full moon desert[-]
+
+end
+1
+[ffebad] How is Daisy saved? [-]
+0
+[ffebad] A group of monsters and bandits stopped me. When I passed by, the future army was gone. [-]
+1
+[ffebad] What can I do, I am alone... By the way, you can ask your army, they should be more informed. [-]
+0
+[ffebad] Speaking of well-informed, I do know someone, and I'm going to find him. [-]
+
+prof 4
+
+begin
+0
+[ffebad] Was your former officer called Lily? Is she the leader of the future army? To be able to invade a city so easily and hijack civilians is really not to be underestimated! [-]
+1
+[ffebad] Lord Lily's army is powerful, but it is impossible to destroy the residents of your era. That girl named Daisy must have an extraordinary meaning. The direction of their retreat is the disappearing Full Moon Desert. , Don't sigh, let's act quickly. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] disappearing full moon desert[-]
+
+end
+1
+[ffebad] How is Daisy saved? [-]
+0
+[ffebad] A group of monsters and bandits stopped me. When I passed by, the future army was gone. [-]
+1
+[ffebad] What can I do, I am alone... By the way, you can ask your army, they should be more informed. [-]
+0
+[ffebad] Speaking of well-informed, I do know someone, and I'm going to find him. [-]
+
+prof 5
+
+begin
+0
+[ffebad] Sister Lily's legion is powerful, but it is impossible to wipe out the residents of this era. The girl named Daisy must have an extraordinary meaning. Where are they now? [-]
+1
+[ffebad] The direction of retreat is the disappearing full moon desert, let's act quickly. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] disappearing full moon desert[-]
+
+end
+1
+[ffebad] How is Daisy saved? [-]
+0
+[ffebad] A group of monster bandits stopped me, and when I passed by, the legion had disappeared. [-]
+1
+[ffebad] What can I do, I am alone... By the way, you can ask the church army, they should be more informed. [-]
+0
+[ffebad] Speaking of well-informed, I do know someone, and I'm going to find him. [-]
+
+prof 6
+
+begin
+0
+[ffebad] Was your former officer called Lily? Is she the leader of the future army? To be able to invade a city so easily and hijack civilians is really not to be underestimated! [-]
+1
+[ffebad] hundredAlthough Master Hehua's army is powerful, it is impossible to destroy the residents of your era. That girl named Daisy must have extraordinary meaning. The direction of their retreat is the disappearing Full Moon Desert. Don't sigh Alright, let's hurry up. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] disappearing full moon desert[-]
+
+end
+1
+[ffebad] How is Daisy saved? [-]
+0
+[ffebad] A group of monsters and bandits stopped me. When I passed by, the future army was gone. [-]
+1
+[ffebad] What can I do, I am alone... By the way, you can ask your army, they should be more informed. [-]
+0
+[ffebad] Speaking of well-informed, I do know someone, and I'm going to find him. [-]
+
+prof 7
+
+begin
+0
+[ffebad] Was your former officer called Lily? Is she the leader of the future army? To be able to invade a city so easily and hijack civilians is really not to be underestimated! [-]
+1
+[ffebad] Lord Lily's army is powerful, but it is impossible to destroy the residents of your era. That girl named Daisy must have an extraordinary meaning. The direction of their retreat is the disappearing Full Moon Desert. , Don't sigh, let's act quickly. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] disappearing full moon desert[-]
+
+end
+1
+[ffebad] How is Daisy saved? [-]
+0
+[ffebad] A group of monsters and bandits stopped me. When I passed by, the future army was gone. [-]
+1
+[ffebad] What can I do, I am alone... By the way, you can ask your army, they should be more informed. [-]
+0
+[ffebad] Speaking of well-informed, I do know someone, and I'm going to find him. [-]

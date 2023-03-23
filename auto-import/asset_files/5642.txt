@@ -1,0 +1,19 @@
+start
+
+prof 0
+
+begin
+0
+[ffebad] Your Majesty the Pope, why did you change all the goddess statues, is it to celebrate Halloween right away? [-]
+1
+[ffebad] Yeah, it's a rare carnival. In times of peace, ghosts and monsters are extraordinarily cute. Adventurers, the carnival crowd will inevitably have some accidents, can you please go and see those children, don't let them be overwhelmed. [-]
+
+in progress
+1
+[ffebad] go take a turn[-]
+
+end
+0
+[ffebad] His Majesty the Pope, it's getting late, you go to rest, everyone is in order, no accident happened. [-]
+1
+[ffebad] That's good, a happy holiday should have a happy end, adventurer, thank you for your hard work, this is your reward. [-]

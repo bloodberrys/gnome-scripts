@@ -1,0 +1,155 @@
+start
+
+Prof 1
+
+begin
+0
+[ffebad] Those future people are haunted and haunted, and they can't find where their lair is? President Deckard, do you have any news here? [-]
+1
+[ffebad] Of course, this is an excellent challenge for me. I have launched all the scouts to collect information. According to my analysis, those future people must be near the petrified palace. Unfortunately, I can't produce any evidence. The army Will not be easily dispatched. [-]
+0
+[ffebad] Leave it to me, if it is in the petrified palace, I will definitely find them out. [-]
+
+in progress
+1
+[ffebad] Go to [0096ff] Temple of Petrification[-]
+
+end
+1
+[ffebad] You are here, you are worthy of being the head of the six heroes of the new generation in the future, but unfortunately, the girl you wanted to save no longer exists. We've restored her to Dragon Orb. [-]
+0
+[ffebad] what! You, you... Damn it, I won't let you go! [-]
+1
+[ffebad] Don't let me go? Don't insult Lady Daisy's sacrifice, you guys don't understand the horror of the doomsday at all! I won't let you waste your precious time, get ready to meet my army! [-]
+
+prof 2
+
+begin
+0
+[ffebad] Those future people are haunted and haunted, and they can't find where their lair is? President Deckard, do you have any news here? [-]
+1
+[ffebad] Of course, this is an excellent challenge for me. I have launched all the scouts to collect information. According to my analysis, those future people must be near the petrified palace. Unfortunately, I can't produce any evidence. The army Will not be easily dispatched. [-]
+0
+[ffebad] Leave it to me, if it is in the petrified palace, I will definitely find them out. [-]
+
+in progress
+1
+[ffebad] Go to [0096ff] Temple of Petrification[-]
+
+end
+1
+[ffebad] You are here, you are worthy of being the head of the six heroes of the new generation in the future, but unfortunately, the girl you wanted to save no longer exists. We've restored her to Dragon Orb. [-]
+0
+[ffebad] what! You, you... Damn it, I won't let you go! [-]
+1
+[ffebad] Don't let me go? Don't insult Lady Daisy's sacrifice, you guys don't understand the horror of the doomsday at all! I won't let you waste your precious time, get ready to meet my army! [-]
+
+prof 3
+
+begin
+0
+[ffebad] Those future people are haunted and haunted, and they can't find where their lair is? President Deckard, do you have any news here? [-]
+1
+[ffebad] Of course, this is an excellent challenge for me. I have launched all the scouts to collect information. According to my analysis, those future people must be near the petrified palace. Unfortunately, I can't produce any evidence. The army Will not be easily dispatched. [-]
+0
+[ffebad] Leave it to me, if it is in the petrified palace, I will definitely find them out. [-]
+
+in progress
+1
+[ffebad] Go to [0096ff] Temple of Petrification[-]
+
+end
+1
+[ffebad] You are here, you are worthy of being the head of the six heroes of the new generation in the future, but unfortunately, the girl you wanted to save no longer exists. We've restored her to Dragon Orb. [-]
+0
+[ffebad] what! You, you... Damn it, I won't let you go! [-]
+1
+[ffebad] Don't let me go? Don't insult Lady Daisy's sacrifice, you guys don't understand the horror of the doomsday at all! I won't let you waste your precious time, get ready to meet my army! [-]
+
+prof 4
+
+begin
+0
+[ffebad] Those future people are haunted and haunted, and they can't find where their lair is? President Deckard, do you have any news here? [-]
+1
+[ffebad] Of course, this is an excellent challenge for me. I have launched all the scouts to collect information. According to my analysis, those future people must be near the petrified palace. Unfortunately, I can't produce any evidence. The army Will not be easily dispatched. [-]
+0
+[ffebad] Leave it to me, if it is in the petrified palace, I will definitely find them out. [-]
+
+in progress
+1
+[ffebad] Go to [0096ff] Temple of Petrification[-]
+
+end
+1
+[ffebad] You are here, you are worthy of being the head of the six heroes of the new generation in the future, but unfortunately, the girl you wanted to save no longer exists. We've restored her to Dragon Orb. [-]
+0
+[ffebad] what! You, you... Damn it, I won't let you go! [-]
+1
+[ffebad] Don't let me go? Don't insult Lady Daisy's sacrifice, you guys don't understand the horror of the doomsday at all! I won't let you waste your precious time, get ready to meet my army! [-]
+
+Prof 5
+
+begin
+0
+[ffebad] My sister has been avoiding me, can't find where is their headquarters? President Deckard, do you have any news here? [-]
+1
+[ffebad] Of course, this is an excellent challenge for me. I have launched all the scouts to collect information. According to my analysis, those future people must be near the petrified palace. Unfortunately, I can't produce any evidence. The army Will not be easily dispatched. [-]
+0
+[ffebad] Leave it to me, if it's in the Temple of Petrification. [-]
+
+in progress
+1
+[ffebad] Go to [0096ff] Temple of Petrification[-]
+
+end
+1
+[ffebad] You're here, don't waste your time. We've restored Daisy to Dragon Orb. [-]
+0
+[ffebad] what! Sister, you...how could you put her...[-]
+1
+[ffebad] What happened to her? don't insult daisySacrifice, it was indeed a mistake to send you to this era early, you have already forgotten the horror of the end! I won't waste precious time, get ready to meet my army! [-]
+
+prof 6
+
+begin
+0
+[ffebad] Those future people are haunted and haunted, and they can't find where their lair is? President Deckard, do you have any news here? [-]
+1
+[ffebad] Of course, this is an excellent challenge for me. I have launched all the scouts to collect information. According to my analysis, those future people must be near the petrified palace. Unfortunately, I can't produce any evidence. The army Will not be easily dispatched. [-]
+0
+[ffebad] Leave it to me, if it is in the petrified palace, I will definitely find them out. [-]
+
+in progress
+1
+[ffebad] Go to [0096ff] Temple of Petrification[-]
+
+end
+1
+[ffebad] You are here, you are worthy of being the head of the six heroes of the new generation in the future, but unfortunately, the girl you wanted to save no longer exists. We've restored her to Dragon Orb. [-]
+0
+[ffebad] what! You, you... Damn it, I won't let you go! [-]
+1
+[ffebad] Don't let me go? Don't insult Lady Daisy's sacrifice, you guys don't understand the horror of the doomsday at all! I won't let you waste your precious time, get ready to meet my army! [-]
+
+prof 7
+
+begin
+0
+[ffebad] Those future people are haunted and haunted, and they can't find where their lair is? President Deckard, do you have any news here? [-]
+1
+[ffebad] Of course, this is an excellent challenge for me. I have launched all the scouts to collect information. According to my analysis, those future people must be near the petrified palace. Unfortunately, I can't produce any evidence. The army Will not be easily dispatched. [-]
+0
+[ffebad] Leave it to me, if it is in the petrified palace, I will definitely find them out. [-]
+
+in progress
+1
+[ffebad] Go to [0096ff] Temple of Petrification[-]
+
+end
+1
+[ffebad] You are here, you are worthy of being the head of the six heroes of the new generation in the future, but unfortunately, the girl you wanted to save no longer exists. We've restored her to Dragon Orb. [-]
+0
+[ffebad] what! You, you... Damn it, I won't let you go! [-]
+1
+[ffebad] Don't let me go? Don't insult Lady Daisy's sacrifice, you guys don't understand the horror of the doomsday at all! I won't let you waste your precious time, get ready to meet my army! [-]

@@ -1,0 +1,30 @@
+start
+
+prof 0
+
+step 1
+1
+[ffebad] 1. Holy Paradise is currently preparing for a new dragon lair. Do you know what kind of dragon this new enemy is? [-]
+[branch]2=Hurricane Dragon|3=Waterfall Dragon|4=Forest Dragon
+
+step 2
+1
+[ffebad] Sorry for the wrong answer, come on[-]
+
+step 3
+1
+[ffebad] Sorry for the wrong answer, come on[-]
+
+step 4
+1
+[ffebad] That's right, smart adventurer[-]
+
+step 5
+1
+[ffebad] Are you ready for the next question~[-]
+[branch]6=Come on ~ get ready
+
+step 6
+1
+[ffebad] Next question, let’s start[-]
+break

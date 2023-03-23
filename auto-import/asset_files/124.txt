@@ -1,0 +1,15 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] Please go to the Tanual Temple and meet the girl again. Her news is very important to us, but she seems to be very wary and refuses to contact our people. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] Tainuar Temple[-]
+
+end
+1
+[ffebad] I don't know what Chief Lily is going to do. Her direct troops have just been dispatched and kidnapped a girl named Daisy. Chief Lily never does meaningless things, we must rescue that girl. [-]

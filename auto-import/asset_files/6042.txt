@@ -1,0 +1,23 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] Adventurer, I see signs in you, can I ask what you have done recently? [-]
+0
+[ffebad] Recently, a group of ancient undead were revived a few days ago, and I participated in the battle. [-]
+1
+[ffebad] Looks right, I foresaw terrible disasters, dangers that endangered the world, I saw the ancient horror demon king, and a large number of undead. [-]
+0
+[ffebad] Could it be that those undead still have a powerful leader? [-]
+
+in progress
+1
+[ffebad] Adventurer, thank you. [-]
+
+end
+0
+[ffebad] His Majesty the Pope is still fighting those undead, I'm going to find him now! [-]
+1
+[ffebad] Thank you, it is related to the safety of the mainland, I hope you must be cautious. [-]

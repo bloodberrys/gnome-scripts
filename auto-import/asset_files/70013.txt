@@ -1,0 +1,33 @@
+start
+
+prof 0
+
+step 1
+1
+[ffebad] (calmly) The only one who can save the situation now is that one person. [-]
+1
+[ffebad] Lubinate, he is the red dragon, only he knows the red dragon gem best. [-]
+[branch]2=You are right
+
+step 2
+1
+[ffebad] We also need to enter the gate of the monolith again to find Rubinath. [-]
+[branch]3=Are you okay|3=OK
+
+step 3
+1
+[ffebad] (breathing with eyes closed) When my sister and I were born, we used to fly in the sky. Flying over vast mountains, skimming over clear lakes, passing through green forests and endless deserts...[-]
+1
+[ffebad] Later, there were more and more monsters... We were running around to protect the world, and we never flew together again... Later, my sister used most of her power to seal the gate of the giant stone monument, and the endless fighting made her more and more silent . [-]
+1
+[ffebad] (opens eyes) I think, she must be very tired...now, she can finally rest. [-]
+
+step 4
+1
+[ffebad] Let's go, the future depends on us. [-]
+
+step 5
+1
+[ffebad] Unexpectedly, you will be required to bear everything in the end. [-]
+1
+[ffebad] I'm so useless... (Geraint falls silent) [-]

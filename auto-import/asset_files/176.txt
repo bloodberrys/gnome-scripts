@@ -1,0 +1,21 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] I'll go to track down the powerful aura first, you go to the Underdark Swamp to clean up the mutated creatures that appear there! [-]
+0
+[ffebad] I'm going now! [-]
+1
+[ffebad] The creatures in the Underbog have mutated, be careful of the swamp there! [-]
+
+in progress
+1
+[ffebad] Clearing the Underbog of Mutant Creatures[-]
+xunz
+end
+0
+[ffebad] The creatures of the Dark Swamp have mutated and possessed super fighting power. It seems that there is a hidden force behind the Dark Forest? [-]
+1
+[ffebad] You're right! Wherever I traced the powerful breath, the monsters became extremely powerful! And that breath seemed to be looking for little Geraint too! [-]

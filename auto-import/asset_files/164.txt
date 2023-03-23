@@ -1,0 +1,23 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] Tch, wasting energy on the red dragon for nothing. Now that Rose has recovered her prophetic power, it seems that she can only use force to stop her from going to the monument. [-]
+0
+[ffebad] force? With little Geraint? [-]
+1
+[ffebad] Ah yes. Tch, that bastard Yovansibell made it so bad. [-]
+1
+[ffebad] Huh? You are actually interested in the birth of the race with long ears, it is hopeless, go find Adeline! [-]
+
+in progress
+1zh
+[ffebad] Finding Adeline at the Edge of the Exiled Lands Query[-]
+
+end
+1
+[ffebad] I feel it, the queen she... is about to go into hibernation. The next queen... No, I should call it the king, Yovansibel, the next generation king of the elves. [-]
+1
+[ffebad] When the elf and the tree become one, it is not just the elf body. [-]

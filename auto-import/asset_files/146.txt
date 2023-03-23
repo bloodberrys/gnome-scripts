@@ -1,0 +1,19 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] You said you saw the descendant of the ancients who would surrender? Hmph, these guys, although they don't know why she lost the power of the ancients, but it's not that easy to get it back. [-]
+1
+[ffebad] Instead of worrying about what plans they have, it's better to stop them first. Little ghost, follow the clues of the poisoning and look for the source of the poison to see if there is any news on the side of the golden tree stream. [-]
+
+in progress
+1
+[ffebad] Go to [0096ff] Golden Tree Stream [-]
+
+end
+0
+[ffebad] Algerta, I failed to find the source of the toxin. The dragon followers seem to have received the news and hid them all. [-]
+1
+[ffebad] What? I thought you were finally more reliable, but I didn't expect that you still can't do anything well. [-]

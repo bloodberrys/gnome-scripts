@@ -1,0 +1,127 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad] Future man? It sounds amazing, but I can't believe it lightly. The place where they haunt is too sensitive. I'm going to check the seal of the Dragon Jade again. Please keep in touch with that girl. Whether she is a future person or not, at least find out What do they want to do. [-]
+0
+[ffebad] Okay, I'm going to find her at the Disorder Center. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] disorder center [-]
+
+end
+1
+[ffebad] Why, how could it be like this... Operation Desert Storm has succeeded. [-]
+0
+[ffebad] What did you say? Is it related to the future people you mentioned? [-]
+
+prof 2
+
+begin
+1
+[ffebad] Future man? It sounds amazing, but I can't believe it lightly. The place where they haunt is too sensitive. I'm going to check the seal of the Dragon Jade again. Please keep in touch with that girl. Whether she is a future person or not, at least find out What do they want to do. [-]
+0
+[ffebad] Okay, I'm going to find her at the Disorder Center. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] disorder center [-]
+
+end
+1
+[ffebad] Why, how could it be like this... Operation Desert Storm has succeeded. [-]
+0
+[ffebad] What did you say? Is it related to the future people you mentioned? [-]
+
+prof 3
+
+begin
+1
+[ffebad] Future man? It sounds amazing, but I can't believe it lightly. The place where they haunt is too sensitive. I'm going to check the seal of the Dragon Jade again. Please keep in touch with that girl. Whether she is a future person or not, at least find out What do they want to do. [-]
+0
+[ffebad] Okay, I'm going to find her at the Disorder Center. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] disorder center [-]
+
+end
+1
+[ffebad] Why, how could it be like this... Operation Desert Storm has succeeded. [-]
+0
+[ffebad] What did you say? Is it related to the future people you mentioned? [-]
+
+prof 4
+
+begin
+1
+[ffebad] Future man? It sounds amazing, but I can't believe it lightly. The place where they haunt is too sensitive. I'm going to check the seal of the Dragon Jade again. Please keep in touch with that girl. Whether she is a future person or not, at least find out What do they want to do. [-]
+0
+[ffebad] Okay, I'm going to find her at the Disorder Center. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] disorder center [-]
+
+end
+1
+[ffebad] Why, how could it be like this... Operation Desert Storm has succeeded. [-]
+0
+[ffebad] What did you say? Is it related to the future people you mentioned? [-]
+
+prof 5
+
+begin
+1
+[ffebad] From the future like you? It sounds amazing, but the place they haunt is too sensitive, I'm going to check the seal of the Dragon Orb again, please keep in touch with that girl and find out what they want to do. [-]
+0
+[ffebad] Okay, I'm going to find her at the Disorder Center. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] disorder center [-]
+
+end
+1
+[ffebad] Why, how could it be like this... Operation Desert Storm has succeeded. [-]
+0
+[ffebad] This place was indeed attacked by the Legion, but Sister Lily, why are you so extreme! ? [-]
+
+prof 6
+
+begin
+1
+[ffebad] Future man? It sounds amazing, but I can't believe it lightly. The place where they haunt is too sensitive. I'm going to check the seal of the Dragon Jade again. Please keep in touch with that girl. Whether she is a future person or not, at least find out What do they want to do. [-]
+0
+[ffebad] Okay, I'm going to find her at the Disorder Center. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] disorder center [-]
+
+end
+1
+[ffebad] Why, how could it be like this... Operation Desert Storm has succeeded. [-]
+0
+[ffebad] What did you say? Is it related to the future people you mentioned? [-]
+
+prof 7
+
+begin
+1
+[ffebad] Future man? It sounds amazing, but I can't believe it lightly. The place where they haunt is too sensitive. I'm going to check the seal of the Dragon Jade again. Please keep in touch with that girl. Whether she is a future person or not, at least find out What do they want to do. [-]
+0
+[ffebad] Okay, I'm going to find her at the Disorder Center. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] disorder center [-]
+
+end
+1
+[ffebad] Why, how could it be like this... Operation Desert Storm has succeeded. [-]
+0
+[ffebad] What did you say? Is it related to the future people you mentioned? [-]

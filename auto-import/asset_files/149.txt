@@ -1,0 +1,25 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] I said how did the ancient human king live so long? He called himself a red dragon, so he must have obtained part of the power of a chaotic dragon, but the red dragon I know is not a human being. It’s just right for me to defeat this fake goods. [-]
+0
+[ffebad] Well, who are you? [-]
+1
+[ffebad] I, didn't I say I'm Geraint? [-]
+0
+[ffebad] What? Master Geraint, it's impossible, Geraint is already dead. [-]
+1
+[ffebad] I was born in Geraint's Baoyuli, and of course my name is Geraint, but I'm not the guy you know, hey, I'm going to wait for that guy in the Secret Road Canyon, don't come here and get in the way. [-]
+
+in progress
+1
+[ffebad] Go to [0096ff] Secret Road Canyon [-]
+
+end
+1
+[ffebad] Didn't I tell you not to come over? I almost got hold of that guy named Rose, and it was you who made a fool of yourself. [-]
+0
+[ffebad] I want to fight with you again! [-]

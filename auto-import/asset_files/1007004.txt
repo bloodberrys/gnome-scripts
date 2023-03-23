@@ -1,0 +1,26 @@
+start
+
+prof 0
+
+step 1
+1
+[ffebad] 4. Who created the ideal XD-27 in the Dragon Nest mobile game? [-]
+[branch]2=Mystery Girl|3=Blacksmith Dorian
+
+step 2
+1
+[ffebad] That's right, smart adventurer[-]
+
+step 3
+1
+[ffebad] Sorry for the wrong answer, come on[-]
+
+step 4
+1
+[ffebad] Are you ready for the next question~[-]
+[branch]5=Come on ~ ready
+
+step 5
+1
+[ffebad] Next question, let’s start[-]
+break

@@ -1,0 +1,133 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad] Adventurer, I'm looking for you, have you heard about the Ghost Festival? [-]
+0
+[ffebad] Hungry Ghost Festival? Is it the ghost festival in the legend of the far east? [-]
+1
+[ffebad] Yes, it is said that on this day, the ghosts in hell will return to the world. I thought it was nonsense, but in the past few days, it was suddenly reported that someone witnessed the existence of a devil in disguise. [-]
+0
+[ffebad] Let me go and see what's going on. [-]
+
+in progress
+1
+[ffebad] Meet the test[-]
+
+end
+0
+[ffebad] It was just some adventurers in demon costumes, we made a false alarm. [-]
+1
+[ffebad] Hahaha, let me just say, that's great, I'm really sorry, please come here, this is your reward! [-]
+
+prof 2
+
+begin
+1
+[ffebad] Adventurer, I'm looking for you, have you heard about the Ghost Festival? [-]
+0
+[ffebad] Hungry Ghost Festival? Is it the ghost festival in the legend of the far east? [-]
+1
+[ffebad] Yes, it is said that on this day, the ghosts in hell will return to the world. I thought it was nonsense, but in the past few days, it was suddenly reported that someone witnessed the existence of a devil in disguise. [-]
+0
+[ffebad] Let me go and see what's going on. [-]
+
+in progress
+1
+[ffebad] Meet the test[-]
+
+end
+0
+[ffebad] It was just some adventurers in demon costumes, we made a false alarm. [-]
+1
+[ffebad] Hahaha, let me just say, that's great, I'm really sorry, please come here, this is your reward! [-]
+
+prof 3
+
+begin
+1
+[ffebad] Adventurer, I'm looking for you, have you heard about the Ghost Festival? [-]
+0
+[ffebad] Hungry Ghost Festival? Is it the ghost festival in the legend of the far east? [-]
+1
+[ffebad] Yes, it is said that on this day, the ghosts in hell will return to the world. I thought it was nonsense, but in the past few days, it was suddenly reported that someone witnessed the existence of a devil in disguise. [-]
+0
+[ffebad] Let me go and see what's going on. [-]
+
+in progress
+1
+[ffebad] Meet the test[-]
+
+end
+0
+[ffebad] It was just some adventurers in demon costumes, we made a false alarm. [-]
+1
+[ffebad] Hahaha, let me just say, that's great, I'm really sorry, please come here, this is your reward! [-]
+
+prof 4
+
+begin
+1
+[ffebad] Adventurer, I'm looking for you, have you heard about the Ghost Festival? [-]
+0
+[ffebad] Hungry Ghost Festival? Is it the ghost festival in the legend of the far east? [-]
+1
+[ffebad] Yes, it is said that on this day, the ghosts in hell will return to the world. I thought it was nonsense, but in the past few days, it was suddenly reported that someone witnessed the existence of a devil in disguise. [-]
+0
+[ffebad] Let me go and see what's going on. [-]
+
+in progress
+1
+[ffebad] Meet the test[-]
+
+end
+0
+[ffebad] It was just some adventurers in demon costumes, we made a false alarm. [-]
+1
+[ffebad] Hahaha, let me just say, that's great, I'm really sorry, please come here, this is your reward! [-]
+
+Prof 5
+
+begin
+1
+[ffebad] Adventurer, I'm looking for you, have you heard about the Ghost Festival? [-]
+0
+[ffebad] Hungry Ghost Festival? Is it the ghost festival in the legend of the far east? [-]
+1
+[ffebad] Yes, it is said that on this day, the ghosts in hell will return to the world. I thought it was nonsense, but in the past few days, it was suddenly reported that someone witnessed the existence of a devil in disguise. [-]
+0
+[ffebad] Let me go and see what's going on. [-]
+
+in progress
+1
+[ffebad] Meet the test[-]
+
+end
+0
+[ffebad] It was just some adventurers in demon costumes, we made a false alarm. [-]
+1
+[ffebad] Hahaha, let me just say, that's great, I'm really sorry, please come here, this is your reward! [-]
+
+prof 6
+
+begin
+1
+[ffebad] Adventurer, I'm looking for you, have you heard about the Ghost Festival? [-]
+0
+[ffebad] Hungry Ghost Festival? Is it the ghost festival in the legend of the far east? [-]
+1
+[ffebad] Yes, it is said that on this day, the ghosts in hell will return to the world. I thought it was nonsense, but in the past few days, it was suddenly reported that someone witnessed the existence of a devil in disguise. [-]
+0
+[ffebad] Let me go and see what's going on. [-]
+
+in progress
+1
+[ffebad] Meet the test[-]
+
+end
+0
+[ffebad] It was just some adventurers in demon costumes, we made a false alarm. [-]
+1
+[ffebad] Hahaha, let me just say, that's great, I'm really sorry, please come here, this is your reward! [-]

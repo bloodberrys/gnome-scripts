@@ -1,0 +1,21 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] Little Geraint should be somewhere in the Dark Forest, there are other people looking for him, we need to speed up the search to protect the safety of Little Geraint! [-]
+0
+[ffebad] The dark forest is so big, where should we search next! [-]
+1
+[ffebad] There are powerful monsters on three sides of the Dark Swamp, and Little Geraint is most likely to go straight into the forest! I will go into the depths of the forest with you to investigate[-]
+
+in progress
+1
+[ffebad] Go deep into the forest to check for markers[-]
+xunz
+end
+0
+[ffebad] What is the mark we found in the depths of the forest, I can feel the powerful energy fluctuation? [-]
+1
+[ffebad] This mark is probably left by the group that is also looking for Little Geraint. I need to find the prophet to confirm! [-]

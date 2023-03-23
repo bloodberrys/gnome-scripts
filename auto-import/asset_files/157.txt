@@ -1,0 +1,25 @@
+start
+
+prof 0
+
+begin
+0
+[ffebad] I'll ask the elves about the situation, if there is a traitor, I will definitely not let him go! [-]
+1
+[ffebad] You were fooled by Ignacio back then? Forget it, it's better to ask Geraint to take a look, but I can't control this stubborn boy. [-]
+1
+[ffebad] I really can only count on you, what a headache, go to the dark training ground to have a look, there is only a possible connection point nearby. [-]
+
+in progress
+1
+[ffebad] go to the dark training ground[-]
+
+end
+0
+[ffebad] I failed to block their deal, but I snatched a secret letter. [-]
+1
+[ffebad] What kind of weird writing is this? I am proficient in hundreds of writings from ancient times to the present, but I don't know what it is written in. [-]
+0
+[ffebad] Should be the cipher text used by the traitor, right? [-]
+1
+[ffebad] Ah, what annoyance, you have to read the letter you brought. Go to the library, find someone, go soak and roast whatever you want, and decipher it. [-]

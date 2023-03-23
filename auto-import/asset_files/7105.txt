@@ -1,0 +1,155 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad] Hi adventurers, I've been researching how Sigils contain energy and greatly enhance the abilities of the wearer. [-]
+0
+[ffebad] It sounds amazing, and I want to wear a coat of arms too. [-]
+1
+[ffebad] The coat of arms is obtained through the exchange of coat of arms fragments, and the coat of arms fragments can only be obtained by challenging powerful BOSS. [-]
+0
+[ffebad] I'm the best at challenging bosses~[-]
+
+in progress
+1
+[ffebad] Brave adventurer, come on. [-]
+
+end
+0
+[ffebad] The challenge was successful, and I really got a lot of heraldry fragments. [-]
+1
+[ffebad] The more powerful the boss, the more heraldry fragments will drop, and remember that the heraldry fragments must be exchanged for heraldry before they can be worn! [-]
+
+prof 2
+
+begin
+1
+[ffebad] Hi adventurers, I've been researching how Sigils contain energy and greatly enhance the abilities of the wearer. [-]
+0
+[ffebad] It sounds amazing, and I want to wear a coat of arms too. [-]
+1
+[ffebad] The coat of arms is obtained through the exchange of coat of arms fragments, and the coat of arms fragments can only be obtained by challenging powerful BOSS. [-]
+0
+[ffebad] I'm the best at challenging bosses~[-]
+
+in progress
+1
+[ffebad] Brave adventurer, come on. [-]
+
+end
+0
+[ffebad] The challenge was successful, and I really got a lot of heraldry fragments. [-]
+1
+[ffebad] The more powerful the boss, the more heraldry fragments will drop, and remember that the heraldry fragments must be exchanged for heraldry before they can be worn! [-]
+
+prof 3
+
+begin
+1
+[ffebad] Hi adventurers, I've been researching how Sigils contain energy and greatly enhance the abilities of the wearer. [-]
+0
+[ffebad] It sounds amazing, and I want to wear a coat of arms too. [-]
+1
+[ffebad] The coat of arms is obtained through the exchange of coat of arms fragments, and the coat of arms fragments can only be obtained by challenging powerful BOSS. [-]
+0
+[ffebad] I'm the best at challenging bosses~[-]
+
+in progress
+1
+[ffebad] Brave adventurer, come on. [-]
+
+end
+0
+[ffebad] The challenge was successful, and I really got a lot of heraldry fragments. [-]
+1
+[ffebad] The more powerful the boss, the more heraldry fragments will drop, and remember that the heraldry fragments must be exchanged for heraldry before they can be worn! [-]
+
+prof 4
+
+begin
+1
+[ffebad] Hi adventurers, I've been researching how Sigils contain energy and greatly enhance the abilities of the wearer. [-]
+0
+[ffebad] It sounds amazing, and I want to wear a coat of arms too. [-]
+1
+[ffebad] The coat of arms is obtained through the exchange of coat of arms fragments, and the coat of arms fragments can only be obtained by challenging powerful BOSS. [-]
+0
+[ffebad] I'm the best at challenging bosses~[-]
+
+in progress
+1
+[ffebad] Brave adventurer, come on. [-]
+
+end
+0
+[ffebad] The challenge was successful, and I really got a lot of heraldry fragments. [-]
+1
+[ffebad] The more powerful the boss, the more heraldry fragments will drop, and remember that the heraldry fragments must be exchanged for heraldry before they can be worn! [-]
+
+Prof 5
+
+begin
+1
+[ffebad] Hi adventurers, I've been researching how Sigils contain energy and greatly enhance the abilities of the wearer. [-]
+0
+[ffebad] It sounds amazing, and I want to wear a coat of arms too. [-]
+1
+[ffebad] The coat of arms is obtained through the exchange of coat of arms fragments, and the coat of arms fragments can only be obtained by challenging powerful BOSS. [-]
+0
+[ffebad] I'm the best at challenging bosses~[-]
+
+in progress
+1
+[ffebad] Brave adventurer, come on. [-]
+
+end
+0
+[ffebad] The challenge was successful, and I really got a lot of heraldry fragments. [-]
+1
+[ffebad] The more powerful the boss, the more heraldry fragments will drop, and remember that the heraldry fragments must be exchanged for heraldry before they can be worn! [-]
+
+prof 6
+
+begin
+1
+[ffebad] Hi adventurers, I've been researching how Sigils contain energy and greatly enhance the abilities of the wearer. [-]
+0
+[ffebad] It sounds amazing, and I want to wear a coat of arms too. [-]
+1
+[ffebad] The coat of arms is obtained through the exchange of coat of arms fragments, and the coat of arms fragments can only be obtained by challenging powerful BOSS. [-]
+0
+[ffebad] I'm the best at challenging bosses~[-]
+
+in progress
+1
+[ffebad] Brave adventurer, come on. [-]
+
+end
+0
+[ffebad] The challenge was successful, and I really got a lot of heraldry fragments. [-]
+1
+[ffebad] The more powerful the boss, the more heraldry fragments will drop, and remember that the heraldry fragments must be exchanged for heraldry before they can be worn! [-]
+
+prof 7
+
+begin
+1
+[ffebad] Hi adventurers, I've been researching how Sigils contain energy and greatly enhance the abilities of the wearer. [-]
+0
+[ffebad] It sounds amazing, and I want to wear a coat of arms too. [-]
+1
+[ffebad] The coat of arms is obtained through the exchange of coat of arms fragments, and the coat of arms fragments can only be obtained by challenging powerful BOSS. [-]
+0
+[ffebad] I'm the best at challenging bosses~[-]
+
+in progress
+1
+[ffebad] brave adventurer, come on. [-]
+
+end
+0
+[ffebad] The challenge was successful, and I really got a lot of heraldry fragments. [-]
+1
+[ffebad] The more powerful the boss, the more heraldry fragments will drop, and remember that the heraldry fragments must be exchanged for heraldry before they can be worn! [-]

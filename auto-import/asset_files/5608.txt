@@ -1,0 +1,133 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad] Adventurer, I met you again, thank you very much last time! [-]
+0
+[ffebad] You're welcome, beautiful Miss Joey is with us on this adventure, and everyone is more than happy to help. [-]
+1
+[ffebad] Thank you everyone, it was really fun to go on an adventure with you all. Adventurer, we are killing the poisonous mushrooms that block the road recently, but those ghosts keep disturbing us, please help us too. [-]
+0
+[ffebad] No problem, just watch mine. [-]
+
+in progress
+1
+[ffebad] Adventurer, thank you. [-]
+
+end
+0
+[ffebad] Miss Zuer, the road to adventure is now clear! [-]
+1
+[ffebad] Thank you, it was such a pleasure to have an adventure with you. This is my wish, please accept it. [-]
+
+prof 2
+
+begin
+1
+[ffebad] Adventurer, I met you again, thank you very much last time! [-]
+0
+[ffebad] You're welcome, beautiful Miss Joey is with us on this adventure, and everyone is more than happy to help. [-]
+1
+[ffebad] Thank you everyone, it was really fun to go on an adventure with you all. Adventurer, we are killing the poisonous mushrooms that block the road recently, but those ghosts keep disturbing us, please help us too. [-]
+0
+[ffebad] No problem, just watch mine. [-]
+
+in progress
+1
+[ffebad] Adventurer, thank you. [-]
+
+end
+0
+[ffebad] Miss Zuer, the road to adventure is now clear! [-]
+1
+[ffebad] Thank you, it was such a pleasure to have an adventure with you. This is my wish, please accept it. [-]
+
+prof 3
+
+begin
+1
+[ffebad] Adventurer, I met you again, thank you very much last time! [-]
+0
+[ffebad] You're welcome, beautiful Miss Joey is with us on this adventure, and everyone is more than happy to help. [-]
+1
+[ffebad] Thank you everyone, it was really fun to go on an adventure with you all. Adventurer, we are killing the poisonous mushrooms that block the road recently, but those ghosts keep disturbing us, please help us too. [-]
+0
+[ffebad] No problem, just watch mine. [-]
+
+in progress
+1
+[ffebad] Adventurer, thank you. [-]
+
+end
+0
+[ffebad] Miss Zuer, the road to adventure is now clear! [-]
+1
+[ffebad] Thank you, it was such a pleasure to have an adventure with you. This is my wish, please accept it. [-]
+
+prof 4
+
+begin
+1
+[ffebad] Adventurer, I met you again, thank you very much last time! [-]
+0
+[ffebad] You're welcome, beautiful Miss Joey is with us on this adventure, and everyone is more than happy to help. [-]
+1
+[ffebad] Thank you everyone, it was really fun to go on an adventure with you all. Adventurer, we are killing the poisonous mushrooms that block the road recently, but those ghosts keep disturbing us, please help us too. [-]
+0
+[ffebad] No problem, just watch mine. [-]
+
+in progress
+1
+[ffebad] Adventurer, thank you. [-]
+
+end
+0
+[ffebad] Miss Zuer, the road to adventure is now clear! [-]
+1
+[ffebad] Thank you, it was such a pleasure to have an adventure with you. This is my wish, please accept it. [-]
+
+Prof 5
+
+begin
+1
+[ffebad] Adventurer, I met you again, thank you very much last time! [-]
+0
+[ffebad] You're welcome, beautiful Miss Joey is with us on this adventure, and everyone is more than happy to help. [-]
+1
+[ffebad] Thank you everyone, it was really fun to go on an adventure with you all. Adventurer, we are killing the poisonous mushrooms that block the road recently, but those ghosts keep disturbing us, please help us too. [-]
+0
+[ffebad] No problem, just watch mine. [-]
+
+in progress
+1
+[ffebad] Adventurer, thank you. [-]
+
+end
+0
+[ffebad] Miss Zuer, the road to adventure is now clear! [-]
+1
+[ffebad] Thank you, it was such a pleasure to have an adventure with you. This is my wish, please accept it. [-]
+
+prof 6
+
+begin
+1
+[ffebad] Adventurer, I met you again, thank you very much last time! [-]
+0
+[ffebad] You're welcome, beautiful Miss Joey is with us on this adventure, and everyone is more than happy to help. [-]
+1
+[ffebad] Thank you everyone, it was really fun to go on an adventure with you all. Adventurer, we are killing the poisonous mushrooms that block the road recently, but those ghosts keep disturbing us, please help us too. [-]
+0
+[ffebad] No problem, just watch mine. [-]
+
+in progress
+1
+[ffebad] Adventurer, thank you. [-]
+
+end
+0
+[ffebad] Miss Zuer, the road to adventure is now clear! [-]
+1
+[ffebad] Thank you, it was such a pleasure to have an adventure with you. This is my wish, please accept it. [-]

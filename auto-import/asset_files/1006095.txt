@@ -1,0 +1,25 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] The adventurer! come here~~[-]
+0
+[ffebad] Me? call me? [-]
+1
+[ffebad] I see that your complexion is ruddy, it is a hit and miss, why don't you let my little love god Eros count it for you! [-]
+0
+[ffebad]? ? ? This, you... are you serious? This... this is not nonsense! [-]
+1
+[ffebad] Is the title of my little cupid for nothing? This is a matter of course, no one is fooled. [-]
+1
+[ffebad] Well, let's see if you have someone you like, I'll give you some flowers, after all, the one you can hug will return! [-]
+
+end
+1
+[ffebad] If not? That's okay, I, Eros, promise to distribute the package for you! Well, I have already assigned your CP to you. [-]
+1
+[ffebad] You take this kit, open it and you can get your CP. The magic only lasts for a week, go and spend your sweet time~[-]
+0
+[ffebad] ok thanks! (I hope Pope will not be assigned to me)~[-]

@@ -1,0 +1,25 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] Ah, you're not hurt, are you? Sorry for putting you at such a risk. I have assembled all the magicians, and this time, even if it is the honor of Peorista, we must stop Callahan! [-]
+0
+[ffebad] I'm fine, I'll go with you to deal with Callahan, he should still be in the Green Dragon Forest, this megalomaniac. [-]
+
+in progress
+1
+[ffebad] Go to [0096ff] Green Dragon Forest [-]
+
+end
+1
+[ffebad] I'm really sorry this time, but in the end it was thanks to you that Callahan's ambition was stopped. [-]
+0
+[ffebad] No need to apologize, if it weren't for everyone's efforts, I wouldn't be able to destroy Callahan by myself. [-]
+1
+[ffebad] Finally, the vengeance has been avenged, and Peorista has washed away her shame. Teacher Karaqiu will be happy in heaven, right? [-]
+1
+[ffebad] Originally, we should hold a thank you banquet, but the teacher's funeral has not yet been held, so we are really busy. By the way, the warrior mentor has come to me many times to find you, and he seems to have something urgent to tell you. [-]
+0
+[ffebad] Well, there is no need for a banquet. Sidelle, come on, I'll go see what's going on. [-]

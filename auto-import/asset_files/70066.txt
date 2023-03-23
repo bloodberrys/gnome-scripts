@@ -1,0 +1,31 @@
+start
+
+prof 0
+
+step 1
+0
+[ffebad] I thought the people written in the history books were already...[-]
+
+step 2
+1
+[ffebad] He is indeed different from ordinary people. Even when he was only human, he was strong enough to rival dragons. [-]
+
+step 3
+0
+[ffebad] So now he...? [-]
+
+step 4
+1
+[ffebad] He has half the power of the Dragon Jade, although he can't transform into a dragon, but that power is already so strong... you know. He should also use this power to win over the followers of the dragon. [-]
+
+step 5
+0
+[ffebad] So, we're going to stop Peda at the Gate of the Stone Monument now, eh? [-]
+
+step 6
+1
+[ffebad] is worthy of my fancy slave, and has indeed grown. [-]
+
+step 7
+0
+[ffebad] I said I'm not! [-]

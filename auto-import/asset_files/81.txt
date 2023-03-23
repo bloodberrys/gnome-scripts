@@ -1,0 +1,25 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] Come back so soon, what's going on? Oh, those aborigines said the followers of the dragon captured them? [-]
+1
+[ffebad] Huh, it's obvious, Callahan must be with the followers of the dragon secretly, I know his purpose. Legend has it that the jade that was sealed in the green dragon near here! Those aborigines must have known about the Green Dragon Jade. [-]
+0
+[ffebad] Really? Is the green dragon the descendant of the sealed chaotic dragon? Geraint's seal was broken, could it be that the green dragon will be resurrected? [-]
+0
+[ffebad] By the way, Chati's hand is suddenly deformed, Sidel is very worried... [-]
+1
+[ffebad] Cough... It sounds like it was contaminated by dragon's blood. If you can, you can bring that girl here, maybe my medicine can help. By the way, I also think about how to prevent the ambitious Callahan from gaining the power of the dragon. [-]
+
+in progress
+1
+[ffebad] go
+
+end
+1
+[ffebad] That's right, but it's not easy to convince Chati. When I saw Chati's hand just now, I reacted too aggressively. I have to apologize to her. [-]
+0
+[ffebad] Let's go together, and I hope you two get back together soon. [-]

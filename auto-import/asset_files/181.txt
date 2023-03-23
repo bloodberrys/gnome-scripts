@@ -1,0 +1,21 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] After the dark boulder is the forest of mist, where a large number of monsters have been found, can you help the guards to eliminate those monsters? [-]
+0
+[ffebad] Little joke, I'll go right away. [-]
+1
+[ffebad] I need to prepare some potions and prepare to go to the dark ruins. [-]
+
+in progress
+1
+[ffebad] Destroy the monsters in the Mist Forest[-]
+xunz
+end
+0
+[ffebad] The monsters in the Mist Forest are gone, but I found the same mark there as in the depths of the forest. [-]
+1
+[ffebad] what! It seems that the enemy is faster than us, we have to go to the dark ruins quickly! [-]

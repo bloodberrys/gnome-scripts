@@ -1,0 +1,260 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad] Is this pendant the key to the sanctuary? Hmm... I can really feel the power of the ancients, kid, you are still a bit useful. [-]
+[voice]Audio/VO/lines/lines143
+1
+[ffebad] Huh? By the way, I thought of a good idea! Just go ahead and be the bait. [-]
+[voice]Audio/VO/lines/lines144
+0
+[ffebad] When, when bait? I? ! [-]
+[voice]Audio/VO/Warrior/warrior24
+1
+[ffebad] Crap! Do you have any value other than being a bait? You go to attract Bethkind's attention, I'll take the opportunity to attack again, go to [0096ff] sanctuary center[-], don't dawdle. [-]
+[voice]Audio/VO/lines/lines145
+
+in progress
+1
+[ffebad] go to [0096ff] sanctuary center [-] let's [-]
+
+end
+0
+[ffebad] Algerta, how is your injury? [-]
+[voice]Audio/VO/Warrior/warrior28
+1
+[ffebad] Ahem...it's okay. Beth Kede has the black dragon gem in his body, so he must want to use the power of the prophet to become a real black dragon. [-]
+[voice]Audio/VO/lines/lines146
+1
+[ffebad] Fifty years ago, humans, elves and dragons worked together to barely wipe out the resurrected black dragon... If you don't stop that guy quickly, the consequences will be disastrous... [-]
+[voice]Audio/VO/lines/lines147
+1
+[ffebad] Geraint was the main force in defeating the Black Dragon back then... Now he is the only one who can defeat Beth Keld! Go tell him the news...[-]
+[voice]Audio/VO/lines/lines148
+0
+[ffebad] Algerta... you can rest easy! I must find the hero named Geraint! [-]
+[voice]Audio/VO/Warrior/warrior2
+
+prof 2
+
+begin
+1
+[ffebad] Is this pendant the key to the sanctuary? Hmm... I can really feel the power of the ancients, kid, you are still a bit useful. [-]
+[voice]Audio/VO/lines/lines143
+1
+[ffebad] Huh? By the way, I thought of a good idea! Just go ahead and be the bait. [-]
+[voice]Audio/VO/lines/lines144
+0
+[ffebad] When, when bait? I? ! [-]
+[voice]Audio/VO/Archer/archer24
+1
+[ffebad] Crap! Do you have any value other than being a bait? You go to attract Bethkind's attention, I'll take the opportunity to attack again, go to [0096ff] sanctuary center[-], don't dawdle. [-]
+[voice]Audio/VO/lines/lines145
+
+in progress
+1
+[ffebad] go to [0096ff] sanctuary center [-] let's [-]
+
+end
+0
+[ffebad] Algerta, how is your injury? [-]
+[voice]Audio/VO/Archer/archer28
+1
+[ffebad] Ahem...it's okay. Beth Kede has the black dragon gem in his body, so he must want to use the power of the prophet to become a real black dragon. [-]
+[voice]Audio/VO/lines/lines146
+1
+[ffebad] Fifty years ago, humans, elves and dragons worked together to barely wipe out the resurrected black dragon... If you don't stop that guy quickly, the consequences will be disastrous... [-]
+[voice]Audio/VO/lines/lines147
+1
+[ffebad] Geraint was the main force in defeating the Black Dragon back then... Now he is the only one who can defeat Beth Keld! Go tell him the news...[-]
+[voice]Audio/VO/lines/lines148
+0
+[ffebad] Algerta... you can rest easy! I must find the hero named Geraint! [-]
+[voice]Audio/VO/Archer/archer2
+
+prof 3
+
+begin
+1
+[ffebad] Is this pendant the key to the sanctuary? Hmm... I can really feel the power of the ancients, kid, you are still a bit useful. [-]
+[voice]Audio/VO/lines/lines143
+1
+[ffebad] Huh? By the way, I thought of a good idea! Just go ahead and be the bait. [-]
+[voice]Audio/VO/lines/lines144
+0
+[ffebad] When, when bait? I? ! [-]
+[voice]Audio/VO/Sorceress/Sorceress24
+1
+[ffebad] Crap! Do you have any value other than being a bait? You go to attract Bethkind's attention, I'll take the opportunity to attack again, go to [0096ff] sanctuary center[-], don't dawdle. [-]
+[voice]Audio/VO/lines/lines145
+
+in progress
+1
+[ffebad] go to [0096ff] sanctuary center [-] let's [-]
+
+end
+0
+[ffebad] Algerta, how is your injury? [-]
+[voice]Audio/VO/Sorceress/sorceress28
+1
+[ffebad] Ahem...it's okay. Beth Kede has the black dragon gem in his body, so he must want to use the power of the prophet to become a real black dragon. [-]
+[voice]Audio/VO/lines/lines146
+1
+[ffebad] Fifty years ago, humans, elves and dragons worked together to barely wipe out the resurrected black dragon... If you don't stop that guy quickly, the consequences will be disastrous...[-]
+[voice]Audio/VO/lines/lines147
+1
+[ffebad] Geraint was the main force in defeating the Black Dragon back then... Now he is the only one who can defeat Beth Keld! Go tell him the news...[-]
+[voice]Audio/VO/lines/lines148
+0
+[ffebad] Algerta... you can rest easy! I must find the hero named Geraint! [-]
+[voice]Audio/VO/Sorceress/Sorceress2
+
+prof 4
+
+begin
+1
+[ffebad] Is this pendant the key to the sanctuary? Hmm... I can really feel the power of the ancients, kid, you are still a bit useful. [-]
+[voice]Audio/VO/lines/lines143
+1
+[ffebad] Huh? By the way, I thought of a good idea! Just go ahead and be the bait. [-]
+[voice]Audio/VO/lines/lines144
+0
+[ffebad] When, when bait? I? ! [-]
+[voice]Audio/VO/Cleric/cleric24
+1
+[ffebad] Crap! Do you have any value other than being a bait? You go to attract Bethkind's attention, I'll take the opportunity to attack again, go to [0096ff] sanctuary center[-], don't dawdle. [-]
+[voice]Audio/VO/lines/lines145
+
+in progress
+1
+[ffebad] go to [0096ff] sanctuary center [-] let's [-]
+
+end
+0
+[ffebad] Algerta, how is your injury? [-]
+[voice]Audio/VO/Cleric/cleric28
+1
+[ffebad] Ahem...it's okay. Beth Kede has the black dragon gem in his body, so he must want to use the power of the prophet to become a real black dragon. [-]
+[voice]Audio/VO/lines/lines146
+1
+[ffebad] Fifty years ago, humans, elves and dragons worked together to barely wipe out the resurrected black dragon... If you don't stop that guy quickly, the consequences will be disastrous...[-]
+[voice]Audio/VO/lines/lines147
+1
+[ffebad] Geraint was the main force in defeating the Black Dragon back then... Now he is the only one who can defeat Beth Keld! Go tell him the news...[-]
+[voice]Audio/VO/lines/lines148
+0
+[ffebad] Algerta... you can rest easy! I must find the hero named Geraint! [-]
+[voice]Audio/VO/Cleric/cleric2
+
+prof 5
+
+begin
+1
+[ffebad] Is this pendant the key to the sanctuary? Hmm... I can really feel the power of the ancients, kid, you are still a bit useful. [-]
+[voice]Audio/VO/lines/lines143
+1
+[ffebad] Huh? By the way, I thought of a good idea! Just go ahead and be the bait. [-]
+[voice]Audio/VO/lines/lines144
+0
+[ffebad] When, when bait? I? ! [-]
+[voice]Audio/VO/Academic/academic24
+1
+[ffebad] Crap! Do you have any value other than being a bait? You go to attract Bethkind's attention, I'll take the opportunity to attack again, go to [0096ff] sanctuary center[-], don't dawdle. [-]
+[voice]Audio/VO/lines/lines145
+
+in progress
+1
+[ffebad] go to [0096ff] sanctuary center [-] let's [-]
+
+end
+0
+[ffebad] Algerta, how is your injury? [-]
+[voice]Audio/VO/Academic/academic28
+1
+[ffebad] Ahem...it's okay. Beth Kede has the black dragon gem in his body, so he must want to use the power of the prophet to become a real black dragon. [-]
+[voice]Audio/VO/lines/lines146
+1
+[ffebad] Fifty years ago, humans, elves and dragons worked together to barely wipe out the resurrected black dragon... If you don't stop that guy quickly, the consequences will be disastrous...[-]
+[voice]Audio/VO/lines/lines147
+1
+[ffebad] Geraint was the main force in defeating the Black Dragon back then... Now he is the only one who can defeat Beth Keld! Go tell him the news...[-]
+[voice]Audio/VO/lines/lines148
+0
+[ffebad] Master Geraint! Yes, he is still alive in this era. Argenta... you can rest easy! I must find him! [-]
+[voice]Audio/VO/Academic/academic2
+
+prof 6
+
+begin
+1
+[ffebad] Is this pendant the key to the sanctuary? Hmm... I can indeed feel the power of the ancients, kid,You're pretty useful. [-]
+[voice]Audio/VO/lines/lines143
+1
+[ffebad] Huh? By the way, I thought of a good idea! Just go ahead and be the bait. [-]
+[voice]Audio/VO/lines/lines144
+0
+[ffebad] Be the bait! ? [-]
+[voice]Audio/VO/Assassin/assassin24
+1
+[ffebad] Crap! Do you have any value other than being a bait? You go to attract Bethkind's attention, I'll take the opportunity to attack again, go to [0096ff] sanctuary center[-], don't dawdle. [-]
+[voice]Audio/VO/lines/lines145
+
+in progress
+1
+[ffebad] go to [0096ff] sanctuary center [-] let's [-]
+
+end
+0
+[ffebad] Algerta, how is your injury? [-]
+[voice]Audio/VO/Assassin/assassin28
+1
+[ffebad] Ahem...it's okay. Beth Kede has the black dragon gem in his body, so he must want to use the power of the prophet to become a real black dragon. [-]
+[voice]Audio/VO/lines/lines146
+1
+[ffebad] Fifty years ago, humans, elves and dragons worked together to barely wipe out the resurrected black dragon... If you don't stop that guy quickly, the consequences will be disastrous...[-]
+[voice]Audio/VO/lines/lines147
+1
+[ffebad] Geraint was the main force in defeating the Black Dragon back then... Now he is the only one who can defeat Beth Keld! Go tell him the news...[-]
+[voice]Audio/VO/lines/lines148
+0
+[ffebad] Geraint? Argenta... you can rest easy! I must find him! [-]
+[voice]Audio/VO/Assassin/assassin2
+
+prof 7
+
+begin
+1
+[ffebad] Is this pendant the key to the sanctuary? Hmm... I can really feel the power of the ancients, kid, you are still a bit useful. [-]
+[voice]Audio/VO/lines/lines143
+1
+[ffebad] Huh? By the way, I thought of a good idea! Just go ahead and be the bait. [-]
+[voice]Audio/VO/lines/lines144
+0
+[ffebad] Be the bait! ? [-]
+[voice]Audio/VO/kali/kali16
+1
+[ffebad] Crap! Do you have any value other than being a bait? You go to attract Bethkind's attention, I'll take the opportunity to attack again, go to [0096ff] sanctuary center[-], don't dawdle. [-]
+[voice]Audio/VO/lines/lines145
+
+in progress
+1
+[ffebad] go to [0096ff] sanctuary center [-] let's [-]
+
+end
+0
+[ffebad] Algerta, how is your injury? [-]
+[voice]Audio/VO/kali/kali25
+1
+[ffebad] Ahem...it's okay. Beth Kede has the black dragon gem in his body, so he must want to use the power of the prophet to become a real black dragon. [-]
+[voice]Audio/VO/lines/lines146
+1
+[ffebad] Fifty years ago, humans, elves and dragons worked together to barely wipe out the resurrected black dragon... If you don't stop that guy quickly, the consequences will be disastrous...[-]
+[voice]Audio/VO/lines/lines147
+1
+[ffebad] Geraint was the main force in defeating the Black Dragon back then... Now he is the only one who can defeat Beth Keld! Go tell him the news...[-]
+[voice]Audio/VO/lines/lines148
+0
+[ffebad] Geraint? Don't worry! I must find him! [-]
+[voice]Audio/VO/kali/kali11

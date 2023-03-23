@@ -1,0 +1,19 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] Ah, little hero, here you come! I couldn't find you everywhere before, so I had no choice but to quietly go around to check for traces of the black dragon. It turned out that [0096ff] the territory of the dark elves [-] emanates a creepy evil aura faintly. This must be related to the black dragon! [-]
+0
+[ffebad] Sorry for putting the archbishop at risk... I'll check this time. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] dark elf land[-]
+
+end
+0
+[ffebad] I saw it with my own eyes. The dark elves were collecting the wounded pieces of the black dragon. I don't know what they are trying to do. [-]
+1
+[ffebad] Humph! What else can I try! Those evil monsters, they must be coveting the power of the black dragon, trying to resurrect the black dragon! [-]

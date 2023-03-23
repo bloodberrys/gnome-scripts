@@ -1,0 +1,35 @@
+start
+
+prof 0
+
+step 1
+1
+[ffebad] (Gaze) Adventurer, you are very similar to Ibel, you are both gentle and powerful human beings who uphold the justice in your heart. [-]
+1
+[ffebad] (request) Please give Ibel my dragon jade. [-]
+
+step 2
+1
+[ffebad] (meditated)...[-]
+1
+[ffebad] I can help you go back in time and give the Dragon Jade to Ibel. [-]
+1
+[ffebad] (examine) If Ibel didn't give the dragon jade to her, she couldn't transform into an ice dragon, can you make the [0096ff]right choice[-]? [-]
+[branch]3=give it to her|4=don't give it to her
+
+step 3
+1
+[ffebad] (smiling) You're a kind, good boy. [-]
+
+step 4
+1
+[ffebad] Sometimes, for the benefit of humanity, we may have to abandon the justice we stand for. [-]
+break
+
+step 5
+1
+[ffebad] I've cast the time spell, go ahead. [-]
+
+step 6
+1
+[ffebad] You go back to the past, and it is an unchangeable destiny to give the jade of the ice dragon to Iber, and the future should also be written by you. [-]

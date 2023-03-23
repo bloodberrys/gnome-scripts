@@ -1,0 +1,121 @@
+start
+
+Prof 1
+
+begin
+0
+[ffebad] Don't look at me with that wretched look, I have a mission! [-]
+1
+[ffebad] I understand everything, hehehe, come on, let me help you choose one. [-]
+
+in progress
+1
+[ffebad] Go ahead, little warrior. [-]
+
+end
+1
+[ffebad] Hello, adventurer, long time no see. [-]
+0
+[ffebad] Miss Zuer, this is a gift, please accept it. [-]
+1
+[ffebad] Let me see, flowers, chocolates, diamond rings? ! [-]
+
+prof 2
+
+begin
+0
+[ffebad] Don't look at me with that wretched look, I have a mission! [-]
+1
+[ffebad] I understand everything, hehehe, come on, let me help you choose one. [-]
+
+in progress
+1
+[ffebad] Go ahead, little warrior. [-]
+
+end
+1
+[ffebad] Hello, adventurer, long time no see. [-]
+0
+[ffebad] Miss Zuer, this is a gift, please accept it. [-]
+1
+[ffebad] Let me see, flowers, chocolates, diamond rings? ! [-]
+
+prof 3
+
+begin
+0
+[ffebad] Don't look at me with that wretched look, I have a mission! [-]
+1
+[ffebad] I understand everything, hehehe, come on, let me help you choose one. [-]
+
+in progress
+1
+[ffebad] Go ahead, little warrior. [-]
+
+end
+1
+[ffebad] Hello, adventurer, long time no see. [-]
+0
+[ffebad] Miss Zuer, this is a gift, please accept it. [-]
+1
+[ffebad] Let me see, flowers, chocolates, diamond rings? ! [-]
+
+prof 4
+
+begin
+0
+[ffebad] Don't look at me with that wretched look, I have a mission! [-]
+1
+[ffebad] I understand everything, hehehe, come on, let me help you choose one. [-]
+
+in progress
+1
+[ffebad] Go ahead, little warrior. [-]
+
+end
+1
+[ffebad] Hello, adventurer, long time no see. [-]
+0
+[ffebad] Miss Zuer, this is a gift, please accept it. [-]
+1
+[ffebad] Let me see, flowers, chocolates, diamond rings? ! [-]
+
+prof 5
+
+begin
+0
+[ffebad] Don't look at me with that wretched look, I have a mission! [-]
+1
+[ffebad] I understand everything, hehehe, come on, let me help you choose one. [-]
+
+in progress
+1
+[ffebad] Go ahead, little warrior. [-]
+
+end
+1
+[ffebad] Hello, adventurer, long time no see. [-]
+0
+[ffebad] Miss Zuer, this is a gift, please accept it. [-]
+1
+[ffebad] Let me see, flowers, chocolates, diamond rings? ! [-]
+
+prof 6
+
+begin
+0
+[ffebad] Don't look at me with that wretched look, I have a mission! [-]
+1
+[ffebad] I understand everything, hehehe, come on, let me help you choose one. [-]
+
+in progress
+1
+[ffebad] Go ahead, little warrior. [-]
+
+end
+1
+[ffebad] Hello, adventurer, long time no see. [-]
+0
+[ffebad] Miss Zuer, this is a gift, please accept it. [-]
+1
+[ffebad] Let me see, flowers, chocolates, diamond rings? ! [-]

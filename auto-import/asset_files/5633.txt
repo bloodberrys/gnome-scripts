@@ -1,0 +1,21 @@
+start
+
+prof 0
+
+begin
+0
+[ffebad] Grandpa Dorian, have you heard of that distant eastern country, their National Day is coming soon! [-]
+1
+[ffebad] Kid, I eat more salt than you eat vegetables, of course I heard, it is a very beautiful country. [-]
+0
+[ffebad] Yes, this time their National Day, His Majesty the Pope is going to let us celebrate together, Grandpa Dorian, you should also take a good rest for a few days. [-]
+
+in progress
+1
+[ffebad] hahahaha[-]
+
+end
+1
+[ffebad] Young man, my energy is full and I don't need to rest! But this festival needs to be lively. [-]
+1
+[ffebad] Young man, it's rare to come to me this time, so grab something before you go, remember to come and see me when there are festivals! [-]

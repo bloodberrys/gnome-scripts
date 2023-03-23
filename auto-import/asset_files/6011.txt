@@ -1,0 +1,27 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] Adventurer, you came just in time, I'm thinking about how to solve this problem! [-]
+0
+[ffebad] Is it the undead thing? [-]
+1
+[ffebad] Adventurer, you are also very well informed. That's right, alas, it was a soldier of our church who touched the seal of an ancient relic while chasing down those followers of the dragon. Unexpectedly, a large number of undead ran out from there, and we had to send troops to suppress it. [-]
+0
+[ffebad] I can also go to the front to help, His Excellency the Pope. [-]
+1
+[ffebad] I will go to the front line myself, adventurer, you have another mission! The magic crystal that guards the sacred heaven has been invaded by a small wave of undead. It is a forbidden area, which can only be guarded by the strong, and no large army can be sent. Can you destroy the undead who destroy the guardian crystal? [-]
+0
+[ffebad] Guaranteed to complete the task, His Excellency. [-]
+
+in progress
+1
+[ffebad] Adventurer, thank you. [-]
+
+end
+0
+[ffebad] Your Excellency, the undead near the guardian crystal have been cleared away! [-]
+1
+[ffebad] Thank you, this is the reward you deserve, please accept it. [-]

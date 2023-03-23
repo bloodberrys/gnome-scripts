@@ -1,0 +1,17 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] Huh, I'm not going to help you. But it seems that the old bishop fled to the direction of the magic disorder wasteland. [-]
+0
+[ffebad] Talking to himself like this, did Geraint become tsundere, let's go and see first. [-]
+
+in progress
+1
+[ffebad] Go to [0096ff] Magic Disorder Wasteland[-]
+
+end
+1
+[ffebad] Didn't capture Ignacio, but eliminated his men? Thank you, this has helped us a lot. [-]

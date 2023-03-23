@@ -1,0 +1,23 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] Oh, here you come. How is the situation now? [-]
+0
+[ffebad] The pollution of the forest is not serious, but an important ancient relic has been lost, and the red dragon has also appeared, and Algerta and Geraint are chasing it. [-]
+1
+[ffebad] Is Geraint reborn? That's great. Before we face the Red Dragon, let's eliminate his subordinates. First, we must eliminate the traitor Ignacio. I got news that the depths of the secret forest may be his hiding place. Please go and have a look. Bar. [-]
+
+in progress
+1
+[ffebad] to [0096ff] deep in the secret forest [-]
+
+end
+0
+[ffebad] What a trouble, there is no trace of Ignacio at all! [-]
+1
+[ffebad] Weak human beings, I deliberately spared the lives of the Red Dragon's subordinates, can't you catch them? [-]
+0
+[ffebad] uh. Obviously you let it go by mistake... [-]

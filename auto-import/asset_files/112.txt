@@ -1,0 +1,21 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] This is not easy. His body was seriously injured, and he forcibly pulled out the Dragon Jade. The damage caused is beyond your imagination. Although I suppressed his injury, the pain of losing strength can It broke his spirits. How about this, you go to the herb jungle and find some blue mallow for me, I can make some secret medicine to give him anesthesia and pain relief. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] herb jungle[-]
+
+end
+1
+[ffebad] Thank you for your hard work. When I treated Beth Kede, I found that the situation was more serious than I imagined. His body is rapidly aging and decaying. It doesn’t look long. If you want to save him, you must It would only be necessary to inject power into his body no less than that of the Dragon's Jade. [-]
+0
+[ffebad] How can such a precious dragon jade be found so easily? Is there no other way? [-]
+1
+[ffebad] We have been collecting news about the Dragon Jewel, especially after Geraint died unfortunately, we are also looking for the Dragon Seal in the past. One seal has been very unstable recently, but the power of the dragon is far beyond our control, so we can only continue to strengthen the seal. [-]
+1
+[ffebad] However, the unstable and leaked power of the seal may condense into other creations, and it may be effective for Beth Kede's injury. You can go to the dark priestess, they are testing the broken seal, you go apply Let's see. [-]

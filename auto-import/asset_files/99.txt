@@ -1,0 +1,25 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] Warrior, my ability is limited, and now I can't see the trace of Barna. But I seem to see what Barner is chasing. [-]
+0
+[ffebad] What is Barna chasing after? No wonder he doesn't want to tangle with us every time. Is it the obsession of his body, or is the evil force behind him manipulating him to chase things? [-]
+1
+[ffebad] Well, I don't know. But what Barner is after, that is, the black knight... Bethkind, it is he...[-]
+1
+[ffebad] Anyway, to purify Barna, relying on my power is not enough, we need a stronger power to fight against the evil aura on him, for example, the power of the dragon[-]
+0
+[ffebad] It seems that no matter what, we need to find Beth Kede! I'm going to go to the depths of the recovery jungle where I found him last time. I hope he can stop doing evil, in that case, maybe he can help...[-]
+
+in progress
+1
+[ffebad] go to [0096ff] revive deep in the jungle [-]
+
+end
+0
+[ffebad] The Prophet said that Barna seems to be following Bethkind. To purify Barna, the power of a dragon may be needed, but I haven't found any trace of him. [-]
+1
+[ffebad] The Prophet also told me that my subordinates have found Beth Keld's trail. It seems that he is still obsessed with evil and unwilling to cooperate with us. Alas, I still have some things to do, please ask the Prophet if you have any new discoveries. [-]

@@ -1,0 +1,23 @@
+start
+
+prof 0
+
+step 1
+1
+[ffebad] kay he...[-]
+
+step 2
+0
+[ffebad] Did you already know...? Why is it at this time...[-]
+
+step 3
+1
+[ffebad] When I first heard that he joined the Brothers of Steel, I was very happy, thinking that the three of us could have fun together again. [-]
+
+step 4
+0
+[ffebad] I took him in when everyone abandoned him...you can't blame him[-]
+
+step 5
+1
+[ffebad] How heartbroken Atia would be if she found out about this...[-]

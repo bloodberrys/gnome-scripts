@@ -1,0 +1,217 @@
+start
+
+Prof 1
+
+begin
+0
+[ffebad] I'm going to Wilton Haru, is the airship available now? [-]
+[voice]Audio/VO/Warrior/warrior28
+1
+[ffebad] Didn't you see, the airship Albatro is completely broken, a black knight knocked down the airship, we are speeding up repairs. [-]
+[voice]Audio/VO/lines/lines149
+0
+[ffebad] Why is it a black knight again! Let me help too! [-]
+[voice]Audio/VO/Warrior/warrior19
+1
+[ffebad] Are you capable of such delicate work! When the airship fell, parts fell everywhere. If you want to help, go to [0096ff] Foggy Forest[-] and help pick up some parts. be careful! Don't fight with parts! [-]
+[voice]Audio/VO/lines/lines150
+
+in progress
+1
+[ffebad] Let's go to [0096ff] Foggy Forest[-]
+
+end
+0
+[ffebad] Voila! I brought back a large bag of parts, can you see if it can be used? [-]
+[voice]Audio/VO/Warrior/warrior10
+1
+[ffebad] oh oh! You did bring the parts back! But why are there so many scraps? [-]
+[voice]Audio/VO/lines/lines152
+1
+[ffebad] Don't worry! I can definitely fix the spaceship. But the energy in the suspension device, which is the driving part of the airship, has been exhausted, and it can't fly even after repairing it! The levitation device must be taken to the magic altar to replenish energy. [-]
+[voice]Audio/VO/lines/lines153
+
+prof 2
+
+begin
+0
+[ffebad] I'm going to Wilton Haru, is the airship available now? [-]
+[voice]Audio/VO/Archer/archer28
+1
+[ffebad] Didn't you see, the airship Albatro is completely broken, a black knight knocked down the airship, we are speeding up repairs. [-]
+[voice]Audio/VO/lines/lines149
+0
+[ffebad] Why is it a black knight again! Let me help too! [-]
+[voice]Audio/VO/Archer/archer19
+1
+[ffebad] Are you capable of such delicate work! When the airship fell, parts fell everywhere. If you want to help, go to [0096ff] Foggy Forest[-] and help pick up some parts. be careful! Don't fight with parts! [-]
+[voice]Audio/VO/lines/lines150
+
+in progress
+1
+[ffebad] Let's go to [0096ff] Foggy Forest[-]
+
+end
+0
+[ffebad] Voila! I brought back a large bag of parts, can you see if it can be used? [-]
+[voice]Audio/VO/Archer/archer10
+1
+[ffebad] oh oh! You did bring the parts back! But why are there so many scraps? [-]
+[voice]Audio/VO/lines/lines152
+1
+[ffebad] Don't worry! I can definitely fix the spaceship. But the energy in the suspension device, which is the driving part of the airship, has been exhausted, and it can't fly even after repairing it! The levitation device must be taken to the magic altar to replenish energy. [-]
+[voice]Audio/VO/lines/lines153
+
+prof 3
+
+begin
+0
+[ffebad] I'm going to Wilton Haru, is the airship available now? [-]
+[voice]Audio/VO/Sorceress/Sorceress28
+1
+[ffebad] Didn't you see, the airship Albatro is completely broken, a black knight knocked down the airship, we are speeding up repairs. [-]
+[voice]Audio/VO/lines/lines149
+0
+[ffebad] Why is it a black knight again! Let me help too! [-]
+[voice]Audio/VO/Sorceress/Sorceress19
+1
+[ffebad] Are you capable of such delicate work! When the airship fell, parts fell everywhere. If you want to help, go to [0096ff] Foggy Forest[-] and help pick up some parts. be careful! Don't fight with parts! [-]
+[voice]Audio/VO/lines/lines150
+
+in progress
+1
+[ffebad] Let's go to [0096ff] Foggy Forest[-]
+
+end
+0
+[ffebad] Voila! I brought back a large bag of parts, can you see if it can be used? [-]
+[voice]Audio/VO/Sorceress/Sorceress10
+1
+[ffebad] oh oh! You did bring the parts back! But why are there so many scraps? [-]
+[voice]Audio/VO/lines/lines152
+1
+[ffebad] Don't worry! I can definitely fix the spaceship. But the energy in the suspension device, which is the driving part of the airship, has been exhausted, and it can't fly even after repairing it! The levitation device must be taken to the magic altar to replenish energy. [-]
+[voice]Audio/VO/lines/lines153
+
+prof 4
+
+begin
+0[ffebad] I'm going to Wilton Haru, is the airship available now? [-]
+[voice]Audio/VO/Cleric/cleric28
+1
+[ffebad] Didn't you see, the airship Albatro is completely broken, a black knight knocked down the airship, we are speeding up repairs. [-]
+[voice]Audio/VO/lines/lines149
+0
+[ffebad] Why is it a black knight again! Let me help too! [-]
+[voice]Audio/VO/Cleric/cleric19
+1
+[ffebad] Are you capable of such delicate work! When the airship fell, parts fell everywhere. If you want to help, go to [0096ff] Foggy Forest[-] and help pick up some parts. be careful! Don't fight with parts! [-]
+[voice]Audio/VO/lines/lines150
+
+in progress
+1
+[ffebad] Let's go to [0096ff] Foggy Forest[-]
+
+end
+0
+[ffebad] Voila! I brought back a large bag of parts, can you see if it can be used? [-]
+[voice]Audio/VO/Cleric/cleric10
+1
+[ffebad] oh oh! You did bring the parts back! But why are there so many scraps? [-]
+[voice]Audio/VO/lines/lines152
+1
+[ffebad] Don't worry! I can definitely fix the spaceship. But the energy in the suspension device, which is the driving part of the airship, has been exhausted, and it can't fly even after repairing it! The levitation device must be taken to the magic altar to replenish energy. [-]
+[voice]Audio/VO/lines/lines153
+
+Prof 5
+
+begin
+0
+[ffebad] I'm going to Wilton Haru, is the airship available now? [-]
+[voice]Audio/VO/Academic/academic28
+1
+[ffebad] Didn't you see, the airship Albatro is completely broken, a black knight knocked down the airship, we are speeding up repairs. [-]
+[voice]Audio/VO/lines/lines149
+0
+[ffebad] Why is it a black knight again! Let me help too! [-]
+[voice]Audio/VO/Academic/academic19
+1
+[ffebad] Are you capable of such delicate work! When the airship fell, parts fell everywhere. If you want to help, go to [0096ff] Foggy Forest[-] and help pick up some parts. be careful! Don't fight with parts! [-]
+[voice]Audio/VO/lines/lines150
+
+in progress
+1
+[ffebad] Let's go to [0096ff] Foggy Forest[-]
+
+end
+0
+[ffebad] Voila! I brought back a large bag of parts, can you see if it can be used? [-]
+[voice]Audio/VO/Academic/academic5
+1
+[ffebad] oh oh! You did bring the parts back! But why are there so many scraps? [-]
+[voice]Audio/VO/lines/lines152
+1
+[ffebad] Don't worry! I can definitely fix the spaceship. But the energy in the suspension device, which is the driving part of the airship, has been exhausted, and it can't fly even after repairing it! The levitation device must be taken to the magic altar to replenish energy. [-]
+[voice]Audio/VO/lines/lines153
+
+prof 6
+
+begin
+0
+[ffebad] I'm going to Wilton Haru, is the airship available now? [-]
+[voice]Audio/VO/Assassin/assassin28
+1
+[ffebad] Didn't you see, the airship Albatro is completely broken, a black knight knocked down the airship, we are speeding up repairs. [-]
+[voice]Audio/VO/lines/lines149
+0
+[ffebad] Why is it a black knight again! Let me help too! [-]
+[voice]Audio/VO/Assassin/assassin19
+1
+[ffebad] Are you capable of such delicate work! When the airship fell, parts fell everywhere. If you want to help, go to [0096ff] Foggy Forest[-] and help pick up some parts. be careful! Don't fight with parts! [-]
+[voice]Audio/VO/lines/lines150
+
+in progress
+1
+[ffebad] Let's go to [0096ff] Foggy Forest[-]
+
+end
+0
+[ffebad] Voila! I brought back a large bag of parts, can you see if it can be used? [-]
+[voice]Audio/VO/Assassin/Assassin5
+1
+[ffebad] oh oh! You did bring the parts back! But why are there so many scraps? [-]
+[voice]Audio/VO/lines/lines152
+1
+[ffebad] Don't worry! I can definitely fix the spaceship. But the energy in the suspension device, which is the driving part of the airship, has been exhausted, and it can't fly even after repairing it! The levitation device must be taken to the magic altar to replenish energy. [-]
+[voice]Audio/VO/lines/lines153
+
+prof 7
+
+begin
+0
+[ffebad] I'm going to Wilton Haru, the airship is now available? [-]
+[voice]Audio/VO/kali/kali15
+1
+[ffebad] Didn't you see, the airship Albatro is completely broken, a black knight knocked down the airship, we are speeding up repairs. [-]
+[voice]Audio/VO/lines/lines149
+0
+[ffebad] Why is it a black knight again! Let me help too! [-]
+[voice]Audio/VO/kali/kali19
+1
+[ffebad] Are you capable of such delicate work! When the airship fell, parts fell everywhere. If you want to help, go to [0096ff] Foggy Forest[-] and help pick up some parts. be careful! Don't fight with parts! [-]
+[voice]Audio/VO/lines/lines150
+
+in progress
+1
+[ffebad] Let's go to [0096ff] Foggy Forest[-]
+
+end
+0
+[ffebad] I brought back a large bag of parts, can you see if it can be used? [-]
+[voice]Audio/VO/kali/kali5
+1
+[ffebad] oh oh! You did bring the parts back! But why are there so many scraps? [-]
+[voice]Audio/VO/lines/lines152
+1
+[ffebad] Don't worry! I can definitely fix the spaceship. But the energy in the suspension device, which is the driving part of the airship, has been exhausted, and it can't fly even after repairing it! The levitation device must be taken to the magic altar to replenish energy. [-]
+[voice]Audio/VO/lines/lines153

@@ -1,0 +1,31 @@
+start
+
+prof 0
+
+begin
+0
+[ffebad] who are you? His Excellency Pope Tramay? [-]
+1
+[ffebad] Hehe, I can actually recognize the old man. I've heard a lot about you from that vicious traitor, and though we've all been misled by him, there's no question that you're a true hero of good. In the future, I hope you can help me a lot. [-]
+0
+[ffebad] Hey, the Pope is very polite, you are also one of the legendary six heroes, if you need my help, just ask. [-]
+1
+[ffebad] Well, I know you're looking for Barna. In fact, Barnarta has passed away long ago...[-]
+0
+[ffebad] Ah! So what did I see? [-]
+1
+[ffebad] I think what you saw was indeed Barna, but now it is the death knight Barna. It's really sad. After the death of a great hero, he was turned into an undead creature by evil forces. I came here this time to mourn Karaqiu, and also to prevent Barna from being used by evil forces... [-]
+0
+[ffebad] Damn it, it turned out to be like this, I will definitely help you prevent this from happening! It's just that Barna doesn't know where to go now. [-]
+1
+[ffebad] Hehe, hope will not be cut off. You can go to the Recovery Forest. When you come back, I will tell you how we got the news. You will be very happy. The Goddess' compassionate care is always with us. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] recovery jungle [-]
+
+end
+1
+[ffebad] is going to run away? It seems that Barna is not wandering around now. There must be evil forces behind him. [-]
+1
+[ffebad] It seems that we have to ask for help again, hehe, when I heard about the traitor Ignacio, I went there in person. Rescued a person back. [-]

@@ -1,0 +1,33 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] Little devil, get out of here, even if you die, you don't want to see me in despair! [-]
+0
+[ffebad] Beth Kede, I can heal your wounds, but you will stop blindly chasing power, I hope you can become a partner of justice. [-]
+1
+[ffebad] Ridiculous, do you know what is good and what is evil? However, I can feel the power of the things in your hands. If you cure me, as long as you don't stop my revenge, I will not embarrass you again. [-]
+0
+[ffebad] This is a piece of Dragon Jewel obtained by accident, Beth Kede, I hope you will remember your promise. [-]
+1
+[ffebad] What a powerful force, brat, if you leave it to me like this, aren't you afraid that I will turn my back on you? [-]
+0
+[ffebad] Geraint has always taught me to trust my partner, I have fought with you, and I am willing to trust you. [-]
+1
+[ffebad] Stupid, same as that guy... Sigh, kid, my injury is too serious, I can't directly absorb this piece of gem now, you go to the shadow sand and help me find some shadow grass roots, I need to suppress the injury. [-]
+
+in progress
+1
+[ffebad] Go to [0096ff] Shadow Sands[-]
+
+end
+0
+[ffebad] Beth Kede, I picked a lot back, you can see if you have enough. [-]
+1
+[ffebad] Enough, kid, I'm going to absorb this gem, don't regret it. [-]
+0
+[ffebad] I believe in you, and together we have to face the threat of followers of the dragon. You will be a good comrade in arms. [-]
+1
+[ffebad] Simple and ridiculous brat, I need time to recover, get out, and come to me again if you have something to do. [-]

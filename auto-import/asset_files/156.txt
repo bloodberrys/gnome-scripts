@@ -1,0 +1,25 @@
+start
+
+prof 0
+
+begin
+0
+[ffebad] Monolith? What is that place? [-]
+1
+[ffebad] That's something I built with the ancients back then, to protect the important base of this world, that's not something you should think about. Damn Peda, his current strength is really troublesome. [-]
+1
+[ffebad] Those disgusting guys definitely want to mess up the queen's election meeting so that they can go to the tree of life. I can guess a few places where they sneaked in. You can go to the depths of the Black Mountain trail to check, it's best to block them. [-]
+
+in progress
+1
+[ffebad] Go to the depths of the Black Mountain Trail[-]
+
+end
+0
+[ffebad] All the followers of the dragon there have been wiped out, and they have been yelling about Lord Roselind, the relics and so on. [-]
+1
+[ffebad] Is anyone looking for the relics of the ancients? It seems that the fallen prophet wants to restore his power. [-]
+0
+[ffebad] I have to stop Rose from making the same mistake again. [-]
+1
+[ffebad] How could that Rose be so clear about the queen's election meeting? There shouldn't be any traitors among the elves, right? [-]

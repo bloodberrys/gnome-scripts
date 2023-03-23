@@ -1,0 +1,25 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] Yeah, I didn't expect to see the same symptoms again in my life. The battle was horrific that year, and many soldiers were infected with evil diseases because of the blood of the black dragon that was poured all over the sky. This was called "the rain of disasters". Unfortunately, there is no cure for this cursed disease...[-]
+1
+[ffebad] Don't be so depressed. Although there is no cure, there are still ways to relieve it with medication. It's just that there are some extremely rare materials that I'm afraid you have to go to [0096ff] Dead City[-] to find them. [-]
+0
+[ffebad] As long as there is still a way, I will definitely try it! [-]
+
+in progress
+1
+[ffebad] go to [0096ff] dead city [-]
+
+end
+1
+[ffebad] I know you're worried, but don't make yourself sick too. Don't worry, developing potions can be regarded as my unique skill. However, no matter how much I research these years, I can only relieve the symptoms, and there is still no way to restore them to health...[-]
+1
+[ffebad] I will try as hard as you. Oh, by the way, a woman in red just asked me to send you a message, saying that she must go to the Lotus Swamp first if she has something to do, and see you later. Is it your acquaintance? [-]
+0
+[ffebad] Algeta left? Ah... It's not so much acquaintance... It's better to say... In short, she is an awkward and nice person. [-]
+0
+[ffebad] It suddenly occurred to me... Maybe the cult can use holy magic to cure this strange disease. Anyway, I'll ask the Archbishop first. [-]

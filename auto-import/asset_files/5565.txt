@@ -1,0 +1,101 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad] Adventurer, come and sit down. The last time I told the story of Lord Jinlong, did you take any adventures together afterwards? [-]
+0
+[ffebad] Afterwards, Lord Geraint's injury has not healed, but after hearing the news about Safintra, he is still worried about my safety and insists on accompanying me to investigate the news. [-]
+1
+[ffebad] What a gentle dragon, how did you take the risk that time? [-]
+
+in progress
+1
+[ffebad] I'm listening to your memories, adventurer. [-]
+
+end
+0
+[ffebad] Master Geraint protected me all the way, eliminated many vicious pirates, and finally found the news. Later, later... woo woo woo [-]
+1
+[ffebad] I guessed the later story, don't be sad. Let’s talk about the story of Master Jinlong’s sacrifice next time. Please keep this sacrificial gift bag, and we will sacrifice to Master Jinlong together tomorrow. [-]
+
+prof 2
+
+begin
+1
+[ffebad] Adventurer, come and sit down. The last time I told the story of Lord Jinlong, did you take any adventures together afterwards? [-]
+0
+[ffebad] Afterwards, Lord Geraint's injury has not healed, but after hearing the news about Safintra, he is still worried about my safety and insists on accompanying me to investigate the news. [-]
+1
+[ffebad] What a gentle dragon, how did you take the risk that time? [-]
+
+in progress
+1
+[ffebad] I'm listening to your memories, adventurer. [-]
+
+end
+0
+[ffebad] Master Geraint protected me all the way, eliminated many vicious pirates, and finally found the news. Later, later... woo woo woo [-]
+1
+[ffebad] I guessed the later story, don't be sad. Let’s talk about the story of Master Jinlong’s sacrifice next time. Please keep this sacrificial gift bag, and we will sacrifice to Master Jinlong together tomorrow. [-]
+
+prof 3
+
+begin
+1
+[ffebad] Adventurer, come and sit down. The last time I told the story of Lord Jinlong, did you take any adventures together afterwards? [-]
+0
+[ffebad] Afterwards, Lord Geraint's injury has not healed, but after hearing the news about Safintra, he is still worried about my safety and insists on accompanying me to investigate the news. [-]
+1
+[ffebad] What a gentle dragon, how did you take the risk that time? [-]
+
+in progress
+1
+[ffebad] I'm listening to your memories, adventurer. [-]
+
+end
+0
+[ffebad] Master Geraint protected me all the way, eliminated many vicious pirates, and finally found the news. Later, later... woo woo woo [-]
+1
+[ffebad] I guessed the later story, don't be sad. Let’s talk about the story of Master Jinlong’s sacrifice next time. Please keep this sacrificial gift bag, and we will sacrifice to Master Jinlong together tomorrow. [-]
+
+prof 4
+
+begin
+1
+[ffebad] Adventurer, come and sit down. The last time I told the story of Lord Jinlong, did you take any adventures together afterwards? [-]
+0
+[ffebad] Afterwards, Lord Geraint's injury has not healed, but after hearing the news about Safintra, he is still worried about my safety and insists on accompanying me to investigate the news. [-]
+1
+[ffebad] What a gentle dragon, how did you take the risk that time? [-]
+
+in progress
+1
+[ffebad] I'm listening to your memories, adventurer. [-]
+
+end
+0
+[ffebad] Master Geraint protected me all the way, eliminated many vicious pirates, and finally found the news. Later, later... woo woo woo [-]
+1
+[ffebad] I guessed the later story, don't be sad. Let’s talk about the story of Master Jinlong’s sacrifice next time. Please keep this sacrificial gift bag, and we will sacrifice to Master Jinlong together tomorrow. [-]
+
+prof 5
+
+begin
+1
+[ffebad] Adventurer, come and sit down. The last time I told the story of Lord Jinlong, did you take any adventures together afterwards? [-]
+0
+[ffebad] Afterwards, Lord Geraint's injury has not healed, but after hearing the news about Safintra, he is still worried about my safety and insists on accompanying me to investigate the news. [-]
+1
+[ffebad] What a gentle dragon, how did you take the risk that time? [-]
+
+in progress
+1
+[ffebad] I'm listening to your memories, adventurer. [-]
+
+end
+0
+[ffebad] Master Geraint protected me all the way, eliminated many vicious pirates, and finally found the news. Later, later... woo woo woo [-]
+1
+[ffebad] I guessed the later story, don't be sad. Let’s talk about the story of Master Jinlong’s sacrifice next time. Please keep this sacrificial gift bag, and we will sacrifice to Master Jinlong together tomorrow. [-]

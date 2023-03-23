@@ -1,0 +1,21 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] Is this human? It seems nothing special, I really can't figure out why they have to protect them and sacrifice so many things... [-]
+0
+[ffebad] who are you? Looks familiar... [-]
+1
+[ffebad] Well, let's turn our attention back to the poisoning incident. The purification ability of the forest is jointly maintained by the tree of life and the relics of the ancients. Compared with the venom, it is more important to confirm whether the relics in the elf treasure house have been taken away! [-]
+
+in progress
+1
+[ffebad] Go to [0096ff] Elf Vault[-]
+
+end
+1
+[ffebad] You ran away before you finished talking just now, did you go to see the relics of ancient people? What a trouble, have you confirmed that there is no problem there? [-]
+0
+[ffebad] There are indeed traces of a group of dragon followers there, but they don't seem to have taken anything. [-]

@@ -1,0 +1,25 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] Little hero, I heard the prophet disappeared along with the archbishop? Now Wangcheng has turned upside down, and all the troops set off to track it down. [-]
+0
+[ffebad] Where did the army go, I will go too, I must save the prophet! [-]
+1
+[ffebad] That, I heard it went in the direction of [0096ff] Tomb of the Unknown Tyrant[-]...[-]
+
+in progress
+1
+[ffebad] go to [0096ff] Tomb of the Unknown Tyrant [-]
+
+end
+1
+[ffebad] Little hero, you are finally back, did you find the Prophet? [-]
+0
+[ffebad]...Damn it, I, we got nothing! [-]
+1
+[ffebad] Archbishop... No, since that traitor Ignacio has fooled everyone, don't blame yourself too much. [-]
+1
+[ffebad] Your hard work has been seen by everyone, but it is a pity that it has been used... Alas, how can you not let people sigh. [-]

@@ -1,0 +1,21 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] Adventurer, long time no see, this time I want to invite you to our celebration! [-]
+0
+[ffebad] What kind of celebration? [-]
+1
+[ffebad] Last time the missions from the far east advertised their festivals, most recently their Double Ninth Festival, which is a festival to celebrate autumn and a festival to love the elderly. [-]
+
+in progress
+1
+[ffebad] hahahaha[-]
+
+end
+0
+[ffebad] Your Excellency, then this is your holiday. I wish you a happy Double Ninth Festival! [-]
+1
+[ffebad] Hahaha, adventurer, although I am not young, I don't want to be an old man. But it's a holiday, so I'll accept your congratulations, come on, I'll give you a gift too. [-]

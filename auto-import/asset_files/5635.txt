@@ -1,0 +1,25 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] Hey, adventurer, come have a drink or two with me. [-]
+0
+[ffebad] Chairman, do you have any new stories? Seeing how happy you are drinking! [-]
+1
+[ffebad] Haha, thank you very much, the mainland has become much more peaceful recently, and I have more time to read books for entertainment. Isn’t it the National Day in the far east recently? I found a lot of stories about their country. [-]
+
+in progress
+1
+[ffebad] listen carefully[-]
+
+end
+1
+[ffebad] Do you know that a long time ago, there were also plundering monsters in that country, there were ten huge flame crows, they burned the whole earth like the sun, and almost destroyed the world. [-]
+1
+[ffebad] There is a powerful hero who wiped out nine flame crows and saved the whole world! He also received the medicine rewarded by the goddess, and he could live forever if he took it. later……[-]
+0
+[ffebad] Then what? What's the story? [-]
+1
+[ffebad] Haha, I haven't read it yet, I'll talk about the rest of the story tomorrow. Oh, don't be angry, come, I have prepared a gift for you. [-]

@@ -1,0 +1,21 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] There are many monsters in the dark ruins, be careful when you go in alone? [-]
+0
+[ffebad] OK. [-]
+1
+[ffebad] There is residual poisonous mist of miasma in the ruins. You can drink this potion to be protected from miasma. [-]
+
+in progress
+1
+[ffebad] Destroy the monsters in the dark ruins[-]
+xunz
+end
+0
+[ffebad] Although I found traces of Little Geraint in the ruins. But he was not found! [-]
+1
+[ffebad] It seems that Little Geraint passed the Dark Forest, we can only continue to investigate! [-]

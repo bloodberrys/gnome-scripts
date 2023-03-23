@@ -1,0 +1,59 @@
+start
+
+prof 0
+
+step 1
+1
+[ffebad] I don't remember anything about the past, it's almost useless to play with me. [-]
+[branch]2=I miss you|2=...|2=You have changed
+
+step 2
+1
+[ffebad] (blushing) Don't say so many things! [-]
+1
+[ffebad] Elven archers in the forest have spotted [0096ff] Peda[-] and [0096ff] Lunaria[-] heading towards the gate of the monolith. [-]
+1
+[0096ff] Sister [-] [ffebad] has entered the forest ahead of time, are you ready? [-]
+[branch]3=ready|4=no
+
+step 3
+1
+[ffebad] Peda does whatever it takes to carry out his plans, he doesn't care about the life of anything. [-]
+1
+[ffebad] Tramay seems to have something to tell you, go find him. [-]
+
+step 4
+1
+[ffebad] Don't be afraid, sister will protect you. [-]
+break
+
+step 5
+1
+[ffebad] I heard that you will accompany Algerta against Peda. [-]
+1
+[ffebad] Goddess Light guides your direction. Children, don't be afraid in the dark, look at the morning star in the night sky, that is the signal of the coming dawn. [-]
+1
+[ffebad] Lily heard about you, and has been worrying about you for the past few days, so go see her. [-]
+
+step 6
+1
+[ffebad] I heard that you are going to fight with Sister Yinlong, are you afraid? [-]
+[branch]7=not afraid|7=somewhat
+
+step 7
+1
+[ffebad] The day before yesterday, I had a dream. I dreamed that Sister Rose told me that she was in a very dark place and she was very scared...[-]
+1
+[ffebad] You're going to save her, right? I will pray for you both! [-]
+
+step 8
+1
+[ffebad] Death is not the end of everything, it's just another beginning. [-]
+
+step 9
+1
+[ffebad] Don't be afraid, just move forward. [-]
+
+step 10
+1
+[ffebad] Damn it! Let Peda open the door of the monolith, is there any hope for us? [-]

@@ -1,0 +1,91 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad] Warrior, I'm looking for you! Lord Jinlong has been troubled by some trivial matters recently, and he entrusted me to find someone to help him deal with them. [-]
+0
+[ffebad] Are there any monsters making trouble again, I will destroy them right now! [-]
+1
+[ffebad] It's not a task of combat, but some chores of labor. Don't look down on labor. You must know that in the legendary ancient oriental country, labor is called the most glorious task, and there is a special labor festival. [-]
+
+in progress
+1
+[ffebad] Go ahead, little warrior. [-]
+
+end
+1
+[ffebad] Master Jinlong told me that he is very satisfied, hehe, I really did not find the wrong person. Come on, this is the reward you deserve, take it away. [-]
+
+prof 2
+
+begin
+1
+[ffebad] Warrior, I'm looking for you! Lord Jinlong has been troubled by some trivial matters recently, and he entrusted me to find someone to help him deal with them. [-]
+0
+[ffebad] Are there any monsters making trouble again, I will destroy them right now! [-]
+1
+[ffebad] It's not a task of combat, but some chores of labor. Don't look down on labor. You must know that in the legendary ancient oriental country, labor is called the most glorious task, and there is a special labor festival. [-]
+
+in progress
+1
+[ffebad] Go ahead, little warrior. [-]
+
+end
+1
+[ffebad] Master Jinlong told me that he is very satisfied, hehe, I really did not find the wrong person. Come on, this is the reward you deserve, take it away. [-]
+
+prof 3
+
+begin
+1
+[ffebad] Warrior, I'm looking for you! Lord Jinlong has been troubled by some trivial matters recently, and he entrusted me to find someone to help him deal with them. [-]
+0
+[ffebad] Are there any monsters making trouble again, I will destroy them right now! [-]
+1
+[ffebad] It's not a task of combat, but some chores of labor. Don't look down on labor. You must know that in the legendary ancient oriental country, labor is called the most glorious task, and there is a special labor festival. [-]
+
+in progress
+1
+[ffebad] Go ahead, little warrior. [-]
+
+end
+1
+[ffebad] Master Jinlong told me that he is very satisfied, hehe, I really did not find the wrong person. Come on, this is the reward you deserve, take it away. [-]
+
+prof 4
+
+begin
+1
+[ffebad] Warrior, I'm looking for you! Lord Jinlong has been troubled by some trivial matters recently, and he entrusted me to find someone to help him deal with them. [-]
+0
+[ffebad] Are there any monsters making trouble again, I will destroy them right now! [-]
+1
+[ffebad] It's not a task of combat, but some chores of labor. Don't look down on labor. You must know that in the legendary ancient oriental country, labor is called the most glorious task, and there is a special labor festival. [-]
+
+in progress
+1
+[ffebad] Go ahead, little warrior. [-]
+
+end
+1
+[ffebad] Master Jinlong told me that he is very satisfied, hehe, I really did not find the wrong person. Come on, this is the reward you deserve, take it away. [-]
+
+prof 5
+
+begin
+1
+[ffebad] Warrior, I'm looking for you! Lord Jinlong has been troubled by some trivial matters recently, and he entrusted me to find someone to help him deal with them. [-]
+0
+[ffebad] Are there any monsters making trouble again, I will destroy them right now! [-]
+1
+[ffebad] It's not a task of combat, but some chores of labor. Don't look down on labor. You must know that in the legendary ancient oriental country, labor is called the most glorious task, and there is a special labor festival. [-]
+
+in progress
+1
+[ffebad] Go ahead, little warrior. [-]
+
+end
+1
+[ffebad] Master Jinlong told me that he is very satisfied, hehe, I really did not find the wrong person. Come on, this is the reward you deserve, take it away. [-]

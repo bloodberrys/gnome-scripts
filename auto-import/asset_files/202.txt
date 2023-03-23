@@ -1,0 +1,41 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] When I was very young, I heard something about Vestine. [-]
+1
+[ffebad] Once, she was a close sister to the goddess Altea. [-]
+1
+[ffebad] In Protoss, she is a weak and timid girl who always follows behind her energetic older sister. [-]
+0
+[ffebad] Then why did she become the way she is now? [-]
+1
+[ffebad] is jealousy. [-]
+1
+[ffebad] God of Creation favors his brave and strong eldest daughter Althea. [-]
+1
+[ffebad] Vestine, who has always been compared by her sister, can't let go of her inner anger and jealousy. [-]
+1
+[ffebad] At last her heart was corrupted by hatred, and she put the deadly poison into Althea's goblet. [-]
+0
+[ffebad] Do gods get jealous too? [-]
+1
+[ffebad] Yes, humans always think that the Protoss is omnipotent and carefree. [-]
+1
+[ffebad] That's not really the case, is it? [-]
+1
+[ffebad] Maybe so...[-]
+1
+[ffebad] Well, stop thinking about the past and think about how to solve the problems of the present. [-]
+1
+[ffebad] Clean up the monsters in the desert so that I can return to the Dark Continent. [-]
+
+in progress
+1
+[ffebad] Enter the checkpoint to clean up desert monsters. [-]
+
+end
+1
+[ffebad] Nubinat has gone back. [-]

@@ -1,0 +1,29 @@
+start
+
+prof 0
+
+begin
+0
+[ffebad] There must be some misunderstanding here, how about this, I will help you send the jungle bracken there, and also ask Chati if there is any misunderstanding about your teacher. [-]
+1
+[ffebad] can you? Well, thank you so much, Chati lives in the [0096ff] aboriginal tribe [-]. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] aboriginal tribes [-]
+
+end
+1
+[ffebad] Who are you, strangers are not welcome here. [-]
+0
+[ffebad] I'm Siddell's friend who sent me to you. Here, here is the jungle bracken he prepared for you. [-]
+1
+[ffebad] Siddell... well, huh, but foreigner, I won't take you as a friend lightly. [-]
+0
+[ffebad] Chati, why are you so hostile to us? Sidel doesn't want you to be hostile to Lord Karaqiu either. [-]
+1
+[ffebad] Hmph, look at the ruins, my people are missing one by one, let alone that old witch Karaqiu! Hmph, if it weren't for Siddell, I wouldn't have told you so much! [-]
+0
+[ffebad] missing? Why do you say Master Karaqiu did it! [-]
+1
+[ffebad] And it's not because she covets... well, anyway, that's what I know from a trustworthy person. Come on, that coward Sydell, if you protect that devil old woman as much as he does, please go back! [-]

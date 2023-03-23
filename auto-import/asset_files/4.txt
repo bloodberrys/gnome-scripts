@@ -1,0 +1,218 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad] Ah, you're the adventurer who saved Lily? I should have thanked you very much! But now I really don't have that mood... Rose may be in danger now. [-]
+[voice]Audio/VO/lines/lines18
+0
+[ffebad] Don't panic, although I don't know why the monster didn't directly attack humans, but since Rose was taken away, the monster must have some purpose, and her life will definitely not be in danger in a short time. [-]
+[voice]Audio/VO/Warrior/warrior2
+1
+[ffebad] Well said, but I've just searched around and can't find a clue...[-]
+[voice]Audio/VO/lines/lines19
+0
+[ffebad] By the way, the monster I missed seems to have fled in the direction of the [0096ff] temple excavation site[-], maybe we can find clues there! [-]
+[voice]Audio/VO/Warrior/warrior13
+
+in progress
+1
+[ffebad] Let's go to the [0096ff] temple excavation site[-]
+
+end
+1
+[ffebad] Brat! What happened! ? That little girl Rose was kidnapped? [-]
+[voice]Audio/VO/lines/lines25
+0
+[ffebad] We've got a clue, now we're going to [0096ff] Forest Sanctuary[-], we're sure to find something! [-]
+[voice]Audio/VO/Warrior/warrior13
+1
+[ffebad] Well done! This time we will wipe out these monsters! Ha ha ha ha! [-]
+[voice]Audio/VO/lines/lines29
+
+prof 2
+
+begin
+1
+[ffebad] Ah, you're the adventurer who saved Lily? I should have thanked you very much! But now I really don't have that mood... Rose may be in danger now. [-]
+[voice]Audio/VO/lines/lines18
+0
+[ffebad] Don't panic, although I don't know why the monster didn't directly attack humans, but since Rose was taken away, the monster must have some purpose, and her life will definitely not be in danger in a short time. [-]
+[voice]Audio/VO/Archer/archer2
+1
+[ffebad] Well said, but I've just searched around and can't find a clue...[-]
+[voice]Audio/VO/lines/lines19
+0
+[ffebad] By the way, the monster I missed seems to have fled in the direction of the [0096ff] temple excavation site[-], maybe we can find clues there! [-]
+[voice]Audio/VO/Archer/archer13
+
+in progress
+1
+[ffebad] Let's go to the [0096ff] temple excavation site[-]
+
+end
+1
+[ffebad] The worrying thing has finally happened... boy, it's more serious than you think. What are you going to do now? [-]
+[voice]Audio/VO/lines/lines26
+0
+[ffebad] We've got a clue, now we're going to [0096ff] Forest Sanctuary[-], we're sure to find something! [-]
+[voice]Audio/VO/Archer/archer13
+1
+[ffebad] Good boy, with the blessing of the tree of life, you will be safe and sound. [-]
+[voice]Audio/VO/lines/lines30
+
+prof 3
+
+begin
+1
+[ffebad] Ah, you're the adventurer who saved Lily? I should have thanked you very much! But now I really don't have that mood... Rose may be in danger now. [-]
+[voice]Audio/VO/lines/lines18
+0
+[ffebad] Don't panic, although I don't know why the monster didn't directly attack humans, but since Rose was taken away, the monster must have some purpose, and her life will definitely not be in danger in a short time. [-]
+[voice]Audio/VO/Sorceress/Sorceress2
+1
+[ffebad] Well said, but I've just searched around and can't find a clue...[-]
+[voice]Audio/VO/lines/lines19
+0
+[ffebad] By the way, the monster I missed seems to have fled in the direction of the [0096ff] temple excavation site[-], maybe we can find clues there! [-]
+[voice]Audio/VO/Sorceress/Sorceress13
+
+in progress
+1
+[ffebad] Let's go to the [0096ff] temple excavation site[-]
+
+end
+1
+[ffebad] Lily's sister was taken away? Why didn't you snatch her back! Stupid apprentice! [-]
+[voice]Audio/VO/lines/lines27
+0
+[ffebad] We've got a clue, now we're going to [0096ff] Forest Sanctuary[-], we're sure to find something! [-]
+[voice]Audio/VO/Sorceress/Sorceress13
+1
+[ffebad] Well, it looks a bit like that. Those monsters are a piece of cake for me, it may be a bit difficult for you. Be careful, don't lose my face. [-]
+[voice]Audio/VO/lines/lines31
+
+prof 4
+
+begin
+1
+[ffebad] Ah, you're the adventurer who saved Lily? I should have thanked you very much! But now I really don't have that mood... Rose may be in danger now. [-]
+[voice]Audio/VO/lines/lines18
+0
+[ffebad] Don't panic, although I don't know why the monster didn't directly attack humans, but since Rose was taken away, the monster must have some purpose, and her life will definitely not be in danger in a short time. [-]
+[voice]Audio/VO/Cleric/cleric2
+1
+[ffebad] Well said, but I've just searched around and can't find a clue...[-]
+[voice]Audio/VO/lines/lines19
+0
+[ffebad] By the way, the monster I missed seems to have fled in the direction of the [0096ff] temple excavation site[-], maybe we can find clues there! [-]
+[voice]Audio/VO/Cleric/cleric13
+
+in progress
+1
+[ffebad] Let's go to the [0096ff] temple excavation site[-]
+
+end
+1
+[ffebad] What happened? May the Goddess bless Miss Rose... Do you know her whereabouts now? [-]
+[voice]Audio/VO/lines/lines28
+0
+[ffebad] We've got a clue, now we're going to [0096ff] Forest Sanctuary[-], we're sure to find something! [-]
+[voice]Audio/VO/Cleric/cleric13
+1
+[ffebad] May the goddess bless you, the monsters there are very dangerous, don't shrink back and don't underestimate the enemy! [-]
+[voice]Audio/VO/lines/lines32
+
+Prof 5
+
+begin
+1
+[ffebad] Ah, you're the adventurer who saved Lily? I should have thanked you very much! But now I really don't have that mood... Rose may be in danger now. [-]
+[voice]Audio/VO/lines/lines18
+0
+[ffebad] Don't panic, although I don't know why the monster didn't directly attack humans, but since Rose was taken away, the monster must have some purpose, and her life will definitely not be in danger in a short time. [-]
+[voice]Audio/VO/Academic/academic25
+1
+[ffebad] Well said, but I've just searched around and can't find a clue...[-]
+[voice]Audio/VO/lines/lines19
+0
+[ffebad] By the way, the monster I missed seems to have fled in the direction of the [0096ff] temple excavation site[-], maybe we can find clues there! [-]
+[voice]Audio/VO/Academic/academic28
+
+in progress
+1
+[ffebad] Let's go to the [0096ff] temple excavation site[-]
+
+end
+1
+[ffebad] Have you made contact with the Prophet's sister? Now the time node can be determined. The history of the past is missing many details, if you can save the Prophet, many of our attempts may succeed! [-]
+[voice]Audio/VO/lines/lines234
+0
+[ffebad] I've found some news, now I'm going to the [0096ff] Forest Sanctuary[-], I'm sure I'll find something! [-]
+[voice]Audio/VO/Academic/academic28
+1
+[ffebad] Traveling through time and space makes you a lot weaker. Your strength needs to be recovered slowly. Be careful! [-]
+[voice]Audio/VO/lines/lines235
+
+prof 6
+
+begin
+1
+[ffebad] Ah, you're the adventurer who saved Lily? I should have thanked you very much! But now I really don't have that mood... Rose may be in danger now. [-]
+[voice]Audio/VO/lines/lines18
+0
+[ffebad] Don't panic, although I don't know why the monster didn't directly attack humans, but since Rose was taken away, the monster must have some purpose, and her life will definitely not be in danger in a short time. [-]
+[voice]Audio/VO/Assassin/assassin25
+1
+[ffebad] Well said, but I've just searched around and can't find a clue...[-]
+[voice]Audio/VO/lines/lines19
+0
+[ffebad] By the way, the monster I missed seems to have fled in the direction of the [0096ff] temple excavation site[-], maybe we can find clues there! [-]
+[voice]Audio/VO/Assassin/assassin28
+
+in progress
+1
+[ffebad] Let's go to the [0096ff] temple excavation site[-]
+
+end
+1
+[ffebad] Those bold monsters, I am going to be angry! Since you are very grateful to Ben Meow for accepting you as his apprentice, I will give you a mission this time, to rescue him quickly Meow! [-]
+[voice]Audio/VO/lines/lines243
+0
+[ffebad] Obviously you forcibly recruited disciples, well, I'm going to the [0096ff] Forest Sanctuary[-] now, I'm sure I'll find something! [-]
+[voice]Audio/VO/Assassin/assassin28
+1
+[ffebad] No need to thank me for your kindness, hurry up meow! [-]
+[voice]Audio/VO/lines/lines244
+
+prof 7
+
+begin
+1
+[ffebad] Ah, you're the adventurer who saved Lily? I should have thanked you very much! But now I really don't have that mood... Rose may be in danger now. [-]
+[voice]Audio/VO/lines/lines18
+0
+[ffebad] Don't panic, although I don't know why the monster didn't directly attack humans, but since Rose was taken away, the monster must have some purpose, and her life will definitely not be in danger in a short time. [-]
+[voice]Audio/VO/kali/kali25
+1
+[ffebad] Well said, but I've just searched around and can't find a clue...[-]
+[voice]Audio/VO/lines/lines19
+0
+[ffebad] The monster I missed seems to have fled in the direction of the [0096ff] temple excavation site[-], maybe we can find clues there! [-]
+[voice]Audio/VO/kali/kali23
+
+in progress
+1
+[ffebad] Let's go to the [0096ff] temple excavation site[-]
+
+end
+1
+[ffebad] I really doubt that girl is the star of the beginning, but unfortunately I am just a ghost now, I can't confirm it, you go and save her, it's very important! [-]
+[voice]Audio/VO/lines/lines258
+0
+[ffebad] The star of the beginning? I seem to have heard of it in the legends of the clan. Is she related to the annihilation of our entire clan? [-]
+[voice]Audio/VO/kali/kali14
+1
+[ffebad] I'm not sure yet, boy, don't be tortured by sad memories. As for your mission, I will tell you when your emotions have calmed down a bit. [-]
+[voice]Audio/VO/lines/lines259

@@ -1,0 +1,34 @@
+start
+
+prof 0
+
+step 1
+1
+[ffebad] Adventurer, during this period of time, the villages around the holy paradise have been missing livestock. [-]
+1
+[0096ff] Scholar Sydell [ffebad] once found traces of monsters in the main city, all of which may be related to the gate of the megalithic monument. [-]
+1
+[ffebad] Please contact [0096ff] Sydell[-] for details as soon as possible! [-]
+
+step 2
+1
+[ffebad] Yes, it's you...adventurer, who surprised me! [-]
+1
+[ffebad] Oh~ Master Tramay invited you to understand the situation? Indeed, I saw a few furtive figures hovering at the [0096ff] gate[-] the other night. [-]
+1
+[ffebad] Those figures, they don't look, they don't look human, it's scary! [-]
+[branch]3=Comfort Sydale
+
+step 3
+1
+[ffebad] (smiling) I'm fine, I'm not so timid - what's that voice? ! [-]
+1
+[ffebad] There's screaming over there! ! [-]
+
+step 4
+1
+[ffebad] Go check it out! [-]
+
+step 5
+1
+[ffebad] There are monsters that can break through the defense line of the soldiers of the holy heaven and enter our city! [-]

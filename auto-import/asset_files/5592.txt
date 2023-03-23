@@ -1,0 +1,91 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad] Warrior, I'm looking for you! Recently, there are some troubles bothering everyone. It is inconvenient to travel. Could you please help? [-]
+0
+[ffebad] Are there any monsters making trouble again, I will destroy them right now! [-]
+1
+[ffebad] It's not monsters, it's some crazy ducks, they are too noisy, and they keep refusing to leave, please drive them away. I haven't had a good night's sleep for days. [-]
+
+in progress
+1
+[ffebad] Go ahead, little warrior. [-]
+
+end
+1
+[ffebad] Ah, finally there is no noisy duck quacking, little warrior, this is a thank you gift for you, please be sure to accept it. [-]
+
+prof 2
+
+begin
+1
+[ffebad] Warrior, I'm looking for you! Recently, there are some troubles bothering everyone. It is inconvenient to travel. Could you please help? [-]
+0
+[ffebad] Are there any monsters making trouble again, I will destroy them right now! [-]
+1
+[ffebad] It's not monsters, it's some crazy ducks, they are too noisy, and they keep refusing to leave, please drive them away. I haven't had a good night's sleep for days. [-]
+
+in progress
+1
+[ffebad] Go ahead, little warrior. [-]
+
+end
+1
+[ffebad] Ah, finally there is no noisy duck quacking, little warrior, this is a thank you gift for you, please be sure to accept it. [-]
+
+prof 3
+
+begin
+1
+[ffebad] Warrior, I'm looking for you! Recently, there are some troubles bothering everyone. It is inconvenient to travel. Could you please help? [-]
+0
+[ffebad] Are there any monsters making trouble again, I will destroy them right now! [-]
+1
+[ffebad] It's not monsters, it's some crazy ducks, they are too noisy, and they keep refusing to leave, please drive them away. I haven't had a good night's sleep for days. [-]
+
+in progress
+1
+[ffebad] Go ahead, little warrior. [-]
+
+end
+1
+[ffebad] Ah, finally there is no noisy duck quacking, little warrior, this is a thank you gift for you, please be sure to accept it. [-]
+
+prof 4
+
+begin
+1
+[ffebad] Warrior, I'm looking for you! Recently, there are some troubles bothering everyone. It is inconvenient to travel. Could you please help? [-]
+0
+[ffebad] Are there any monsters making trouble again, I will destroy them right now! [-]
+1
+[ffebad] It's not monsters, it's some crazy ducks, they are too noisy, and they keep refusing to leave, please drive them away. I haven't had a good night's sleep for days. [-]
+
+in progress
+1
+[ffebad] Go ahead, little warrior. [-]
+
+end
+1
+[ffebad] Ah, finally there is no noisy duck quacking, little warrior, this is a thank you gift for you, please be sure to accept it. [-]
+
+prof 5
+
+begin
+1
+[ffebad] Warrior, I'm looking for you! Recently, there are some troubles bothering everyone. It is inconvenient to travel. Could you please help? [-]
+0
+[ffebad] Are there any monsters making trouble again, I will destroy them right now! [-]
+1
+[ffebad] It's not monsters, it's some crazy ducks, they are too noisy, and they keep refusing to leave, please drive them away. I haven't had a good night's sleep for days. [-]
+
+in progress
+1
+[ffebad] Go ahead, little warrior. [-]
+
+end
+1
+[ffebad] Ah, finally there is no noisy duck quacking, little warrior, this is a thank you gift for you, please be sure to accept it. [-]

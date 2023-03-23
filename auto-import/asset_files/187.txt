@@ -1,0 +1,25 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] (reading aloud) In fact, Peda did not have the qualifications to become a conquering king from the beginning. At first, he had a bad reputation. That's because no matter where he goes, his origins and character always cause him problems. Especially the origin...[-]
+1
+[ffebad] (reading aloud) He was born as a slave in Moon Township. Although only a mere slave, he was born with strength and talent that cannot be hidden. Relying on the strength he grew up in this way, he left the Moon Township country openly, and won the title of knight in the later country. [-]
+1
+[ffebad] (reading aloud) Although everyone is talking about this slave-born knight and doubts his strength... But unexpectedly, he is very knowledgeable and understands politics very well. [-]
+1
+[ffebad] (reading aloud) However, when everyone's evaluation of him improved, the knights including him received... The attack was called "Night of Fire" or "Catastrophe" in the past The mission of Yuexiang Kingdom that completely failed due to the incident. Under their attack, Yuexiang Kingdom finally perished. [-]
+0
+[ffebad] It turns out that Peda once destroyed the Moon Country. Why did he choose to do this? [-]
+1
+[ffebad] This is the end of the manuscript, if we hope to find the truth, we need more clues. There may be some secrets buried in the bottom of the Shadow Forest, go dig it. [-]
+
+in progress
+1
+[ffebad] Go deep beneath the Shadowwood to find a new manuscript. [-]
+
+end
+1
+[ffebad] (disgusted) only these fragments of memory? [-]

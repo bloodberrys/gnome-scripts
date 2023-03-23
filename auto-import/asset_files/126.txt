@@ -1,0 +1,157 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad] The girl who was kidnapped by the future army? Ah, there is indeed news of this, let me see...[-]
+1
+[ffebad] Well, the direction for those future people to retreat is the oasis island. As for where in the depths, it is not clear. [-]
+0
+[ffebad] I'll go check there and get that girl back. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] oasis islands [-]
+
+end
+1
+[ffebad] Are you a helper of that traitor? If you can lurk to me, you still have some skills. [-]
+0
+[ffebad] Where's Daisy? Why did you take that girl away? Hand her over now! [-]
+1
+[ffebad] Girls? It turned out that the traitor didn't know anything either. As a fragmented creation, couldn't he tell the difference in the face of the complete body? Hehehe, you just struggle, before the final perish...[-]
+
+prof 2
+
+begin
+1
+[ffebad] The girl who was kidnapped by the future army? Ah, there is indeed news of this, let me see...[-]
+1
+[ffebad] Well, the direction for those future people to retreat is the oasis island. As for where in the depths, it is not clear. [-]
+0
+[ffebad] I'll go check there and get that girl back. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] oasis islands [-]
+
+end
+1
+[ffebad] Are you a helper of that traitor? If you can lurk to me, you still have some skills. [-]
+0
+[ffebad] Where's Daisy? Why did you take that girl away? Hand her over now! [-]
+1
+[ffebad] Girls? It turned out that the traitor didn't know anything either. As a fragmented creation, couldn't he tell the difference in the face of the complete body? Hehehe, you just struggle, before the final perish...[-]
+
+prof 3
+
+begin
+1
+[ffebad] The girl who was kidnapped by the future army? Ah, there is indeed news of this, let me see...[-]
+1
+[ffebad] Well, the direction for those future people to retreat is the oasis island. As for where in the depths, it is not clear. [-]
+0
+[ffebad] I'll go check there and get that girl back. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] oasis islands [-]
+
+end
+1
+[ffebad] Are you a helper of that traitor? If you can lurk to me, you still have some skills. [-]
+0
+[ffebad] Where's Daisy? Why did you take that girl away? Hand her over now! [-]
+1
+[ffebad] Girls? It turned out that the traitor didn't know anything either. As a fragmented creation, couldn't he tell the difference in the face of the complete body? Hehehe, you just struggle, before the final perish...[-]
+
+prof 4
+
+begin
+1
+[ffebad] The girl who was kidnapped by the future army? Ah, there is indeed news of this, let me see...[-]
+1
+[ffebad] Well, the direction for those future people to retreat is the oasis island. As for where in the depths, it is not clear. [-]
+0
+[ffebad] I'll go check there and get that girl back. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] oasis islands [-]
+
+end
+1
+[ffebad] Are you a helper of that traitor? If you can lurk to me, you still have some skills. [-]
+0
+[ffebad] Where's Daisy? Why did you take that girl away? Hand her over now! [-]
+1
+[ffebad] Girls? It turned out that the traitor didn't know anything either. As a fragmented creation, couldn't he tell the difference in the face of the complete body? Hehehe, you just struggle, before the final perish...[-]
+
+prof 5
+
+begin
+1
+[ffebad] The girl who was kidnapped by the future army? Ah, there is indeed news of this, let me see...[-]
+1
+[ffebad] Well, the direction for those future people to retreat is the oasis island. As for where in the depths, it is not clear. [-]
+0
+[ffebad] I'll go check it out there. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] oasis islands [-]
+
+end
+1
+[ffebad] My dear sister, you have grown up a lot, and you are able to sneak into me. [-]
+0
+[ffebad] Sister, why are you starting a war? where is daisy [-]
+1
+[ffebad] Have you forgotten what the end of our lives is like? What qualifications do these human beings who don't know how to cherish have to occupy this world? And as a creation of fragments, can't you tell the difference when facing the complete body? [-]
+1
+[ffebad] I'm really disappointed in you, dear sister, next time you are with these modern people who don't want to make progress, I won't show mercy to you. [-]
+
+prof 6
+
+begin
+1
+[ffebad] The girl who was kidnapped by the future army? Ah, there is indeed news of this, let me see...[-]
+1
+[ffebad] Well, the direction for those future people to retreat is the oasis island. As for where in the depths, it is not clear. [-]
+0
+[ffebad] I'll go check there and get that girl back. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] oasis islands [-]
+
+end
+1
+[ffebad] Are you a helper of that traitor? If you can lurk to me, you still have some skills. [-]
+0
+[ffebad] Where's Daisy? why are youWhy do you want to snatch that girl away? Hand her over now! [-]
+1
+[ffebad] Girls? It turned out that the traitor didn't know anything either. As a fragmented creation, couldn't he tell the difference in the face of the complete body? Hehehe, you just struggle, before the final perish...[-]
+
+prof 7
+
+begin
+1
+[ffebad] The girl who was kidnapped by the future army? Ah, there is indeed news of this, let me see...[-]
+1
+[ffebad] Well, the direction for those future people to retreat is the oasis island. As for where in the depths, it is not clear. [-]
+0
+[ffebad] I'll go check there and get that girl back. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] oasis islands [-]
+
+end
+1
+[ffebad] Are you a helper of that traitor? If you can lurk to me, you still have some skills. [-]
+0
+[ffebad] Where's Daisy? Why did you take that girl away? Hand her over now! [-]
+1
+[ffebad] Girls? It turned out that the traitor didn't know anything either. As a fragmented creation, couldn't he tell the difference in the face of the complete body? Hehehe, you just struggle, before the final perish...[-]

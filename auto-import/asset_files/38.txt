@@ -1,0 +1,217 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad] Hero...hehe...what does the word hero mean to human beings? Well done this time. [-]
+[voice]Audio/VO/lines/lines206
+1
+[ffebad] Although the matter has come to an end, now is not the time to relax, the airship should have been repaired, go to [0096ff] Welton Haru[-] to find Geraint! [-]
+[voice]Audio/VO/lines/lines207
+0
+[ffebad] The life and death of the Prophet is uncertain, and Beth Keld may gain the power of the dragon at any time, so I will rush there right away! [-]
+[voice]Audio/VO/Warrior/warrior26
+
+in progress
+1
+[ffebad] go to [0096ff] Welton Haru[-]
+
+end
+1
+[ffebad] Look at your appearance... Did you see Geraint? [-]
+[voice]Audio/VO/lines/lines208
+0
+[ffebad] Well, Geraint is also looking for the whereabouts of Beth Keld. He seems to be heading towards Montenegro. I'll hurry there! [-]
+[voice]Audio/VO/Warrior/warrior26
+1
+[ffebad] What can you do as a brat? Apart from passing on a message, maybe it can only hinder Geraint, right? [-]
+[voice]Audio/VO/lines/lines209
+1
+[ffebad] I advise you to try your luck in the palace. The matter of the Black Knight was full of uproar, and the princes and ministers may also have a headache. Give them information and see if they want to send troops. [-]
+[voice]Audio/VO/lines/lines210
+
+prof 2
+
+begin
+1
+[ffebad] Hero...hehe...what does the word hero mean to human beings? Well done this time. [-]
+[voice]Audio/VO/lines/lines206
+1
+[ffebad] Although the matter has come to an end, now is not the time to relax, the airship should have been repaired, go to [0096ff] Welton Haru[-] to find Geraint! [-]
+[voice]Audio/VO/lines/lines207
+0
+[ffebad] The life and death of the Prophet is uncertain, and Beth Keld may gain the power of the dragon at any time, so I will rush there right away! [-]
+[voice]Audio/VO/Archer/archer26
+
+in progress
+1
+[ffebad] go to [0096ff] Welton Haru[-]
+
+end
+1
+[ffebad] Look at your appearance... Did you see Geraint? [-]
+[voice]Audio/VO/lines/lines208
+0
+[ffebad] Well, Geraint is also looking for the whereabouts of Beth Keld. He seems to be heading towards Montenegro. I'll hurry there! [-]
+[voice]Audio/VO/Archer/archer26
+1
+[ffebad] What can you do as a brat? Apart from passing on a message, maybe it can only hinder Geraint, right? [-]
+[voice]Audio/VO/lines/lines209
+1
+[ffebad] I advise you to try your luck in the palace. The matter of the Black Knight was full of uproar, and the princes and ministers may also have a headache. Give them information and see if they want to send troops. [-]
+[voice]Audio/VO/lines/lines210
+
+prof 3
+
+begin
+1
+[ffebad] Hero...hehe...what does the word hero mean to human beings? Well done this time. [-]
+[voice]Audio/VO/lines/lines206
+1
+[ffebad] Although the matter has come to an end, now is not the time to relax, the airship should have been repaired, go to [0096ff] Welton Haru[-] to find Geraint! [-]
+[voice]Audio/VO/lines/lines207
+0
+[ffebad] The life and death of the Prophet is uncertain, and Beth Keld may gain the power of the dragon at any time, so I will rush there right away! [-]
+[voice]Audio/VO/Sorceress/Sorceress26
+
+in progress
+1
+[ffebad] go to [0096ff] Welton Haru[-]
+
+end
+1
+[ffebad] Look at your appearance... Did you see Geraint? [-]
+[voice]Audio/VO/lines/lines208
+0
+[ffebad] Well, Geraint is also looking for the whereabouts of Beth Keld. He seems to be heading towards Montenegro. I'll hurry there! [-]
+[voice]Audio/VO/Sorceress/Sorceress26
+1
+[ffebad] What can you do as a brat? Apart from passing on a message, maybe it can only hinder Geraint, right? [-]
+[voice]Audio/VO/lines/lines209
+1
+[ffebad] I advise you to try your luck in the palace. The matter of the Black Knight was full of uproar, and the princes and ministers may also have a headache. Give them information and see if they want to send troops. [-]
+[voice]Audio/VO/lines/lines210
+
+prof 4
+
+begin
+1
+[ffebad] Hero...hehe...what does the word hero mean to human beings? Well done this time. [-]
+[voice]Audio/VO/lines/lines206
+1
+[ffebad] Although the matter has come to an end, now is not the time to relax, the airship should have been repaired, go to [0096ff] Welton Haru[-] to find Geraint! [-]
+[voice]Audio/VO/lines/lines207
+0
+[ffebad] The life and death of the Prophet is uncertain, and Beth Keld may gain the power of the dragon at any time, so I will rush there right away! [-]
+[voice]Audio/VO/Cleric/cleric26
+
+in progress
+1
+[ffebad] go to [0096ff] Welton Haru[-]
+
+end
+1
+[ffebad] Look at your appearance... Did you see Geraint? [-]
+[voice]Audio/VO/lines/lines208
+0
+[ffebad] Well, Geraint is also looking for the whereabouts of Beth Keld. He seems to be heading towards Montenegro. I'll hurry there! [-]
+[voice]Audio/VO/Cleric/cleric26
+1
+[ffebad] What can you do as a brat? Apart from passing on a message, maybe it can only hinder Geraint, right? [-]
+[voice]Audio/VO/lines/lines209
+1
+[ffebad] I advise you to try your luck in the palace. The matter of the Black Knight was full of uproar, and the princes and ministers may also have a headache. Give them information and see if they want to send troops. [-]
+[voice]Audio/VO/lines/lines210
+
+prof 5
+
+begin
+1
+[ffebad] Hero...hehe...what does the word hero mean to human beings? Well done this time. [-]
+[voice]Audio/VO/lines/lines206
+1
+[ffebad] Although the matter has come to an end, now is not the time to relax, the airship should have been repaired, go to [0096ff] Welton Haru[-] to find Geraint! [-]
+[voice]Audio/VO/lines/lines207
+0
+[ffebad] The life and death of the prophet is uncertain, I will rush there immediately! [-]
+[voice]Audio/VO/Academic/academic26
+
+in progress
+1
+[ffebad] go to [0096ff] Welton Haru[-]
+
+end
+1
+[ffebad] Look at your appearance... Did you see Geraint? [-]
+[voice]Audio/VO/lines/lines208
+0
+[ffebad] Well, Geraint is also looking for the whereabouts of Beth Keld. He seems to be heading towards Montenegro. I'll hurry there! [-]
+[voice]Audio/VO/Academic/academic28
+1
+[ffebad] What can you do as a brat? Apart from passing on a message, maybe it can only hinder Geraint, right? [-]
+[voice]Audio/VO/lines/lines209
+1
+[ffebad] I advise you to try your luck in the palace. The matter of the Black Knight was full of uproar, and the princes and ministers may also have a headache. Give them information and see if they want to send troops. [-]
+[voice]Audio/VO/lines/lines210
+
+prof 6
+
+begin
+1
+[ffebad] Hero...hehe...what does the word hero mean to human beings? Well done this time. [-]
+[voice]Audio/VO/lines/lines206
+1
+[ffebad] Although the matter has come to an end, now is not the time to relax, the airship should have been repaired, go to [0096ff] Welton Haru[-] to find Geraint! [-]
+[voice]Audio/VO/lines/lines207
+0
+[ffebad] The life and death of the prophet is uncertain, I will rush there immediately! [-]
+[voice]Audio/VO/Assassin/assassin26
+
+in progress
+1
+[ffebad] go to [0096ff] Welton Haru[-]
+
+end
+1
+[ffebad] Look at your appearance... Did you see Geraint? [-]
+[voice]Audio/VO/lines/lines208
+0
+[ffebad] Well, Geraint is also looking for the whereabouts of Beth Keld. He seems to be heading towards Montenegro. I'll hurry there! [-]
+[voice]Audio/VO/Assassin/assassin28
+1
+[ffebad] What can you do as a brat? Apart from passing on a message, maybe it can only hinder Geraint, right? [-]
+[voice]Audio/VO/lines/lines209
+1
+[ffebad] I advise you to try your luck in the palace. The matter of the Black Knight was full of uproar, and the princes and ministers may also have a headache. Give them information and see if they want to send troops. [-]
+[voice]Audio/VO/lines/lines210
+
+prof 7
+
+begin
+1
+[ffebad] Hero...hehe...what does the word hero mean to human beings? Well done this time. [-]
+[voice]Audio/VO/lines/lines206
+1
+[ffebad] Although the matter has come to an end, now is not the time to relax, the airship should have been repaired, go to [0096ff] Welton Haru[-] to find Geraint! [-][voice]Audio/VO/lines/lines207
+0
+[ffebad] I'll be right there! [-]
+[voice]Audio/VO/kali/kali17
+
+in progress
+1
+[ffebad] go to [0096ff] Welton Haru[-]
+
+end
+1
+[ffebad] Look at your appearance... Did you see Geraint? [-]
+[voice]Audio/VO/lines/lines208
+0
+[ffebad] Well, Geraint is also looking for the whereabouts of Beth Keld. He seems to be heading towards Montenegro. I'll hurry there! [-]
+[voice]Audio/VO/kali/kali13
+1
+[ffebad] What can you do as a brat? Apart from passing on a message, maybe it can only hinder Geraint, right? [-]
+[voice]Audio/VO/lines/lines209
+1
+[ffebad] I advise you to try your luck in the palace. The matter of the Black Knight was full of uproar, and the princes and ministers may also have a headache. Give them information and see if they want to send troops. [-]
+[voice]Audio/VO/lines/lines210

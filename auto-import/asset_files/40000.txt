@@ -1,0 +1,23 @@
+start
+
+prof 0
+
+begin
+0
+[ffebad] Teacher, I had a dream! In the dream, I touched a poison of corruption, and the powerful darkness almost swallowed me. [-]
+0
+[ffebad] But when I was about to lose to black power, it seemed like a silver hunter saved me, her face looked familiar, but I didn't recognize her. [-]
+1
+[ffebad] Little ghost, you have such a dream, it may indicate something. Dark power? I seem to have heard it somewhere. [-]
+1
+[ffebad] It might just be a dream hahaha, relax, let’s go to the border of the mainland to relax, your brows are furrowed recently, I will break it for you. [-]
+
+in progress
+1
+[ffebad] go find the answer[-]
+
+end
+0
+[ffebad] Teacher, I can use this dark power! That dream is not just an illusion, teacher, do you know that? [-]
+1
+[ffebad] The darkness and the power of darkness in the dream... Maybe things are not as simple as we thought. Presumably the priestesses guarding the border of darkness will know the answer. [-]

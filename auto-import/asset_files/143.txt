@@ -1,0 +1,19 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] Huh, is it similar to the one used by Elena? They really don't even have the creativity of a harpy's pores! Hey, you idiot, why are you still in a daze! Go to the polluted golden woodland and continue chasing them, at least get rid of the guy who transported the poison! Remember to bring me some poison samples. [-]
+
+in progress
+1
+[ffebad] to [0096ff] polluted golden woodlands [-]
+
+end
+0
+[ffebad] Algerta, those guys are gone, I found some venom they spilled on the way. [-]
+1
+[ffebad] Be careful, if you get a little bit of this thing, your life will be gone! Well, I'll try...[-]
+0
+[ffebad] Algerta! That is highly poisonous, how can you eat it! [-]

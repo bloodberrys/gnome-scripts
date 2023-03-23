@@ -1,0 +1,161 @@
+start
+
+Prof 1
+
+begin
+0
+[ffebad] Mentor, my power has become more and more violent recently, what's wrong? [-]
+1
+[ffebad] I'm not mistaken, kid, I didn't expect you to be so strong, I think, only the legendary second turn can control your power. [-]
+0
+[ffebad] There is even a second job change! So good, I can't wait. [-]
+1
+[ffebad] Then go to the legendary [0096ff] Trial Hell[-]. Only by surviving there can you master the legendary power. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] trial hell [-] let's [-]
+
+end
+1
+[ffebad] You really succeeded, it seems that you have completely surpassed me. [-]
+0
+[ffebad] Teacher, I will use this power to protect the peace of the mainland, so you can be proud of me. [-]
+
+prof 2
+
+begin
+0
+[ffebad] Teacher, my strength is constantly fluctuating, is it because nature no longer favors me? [-]
+1
+[ffebad] Child, you are indeed nature's favorite. Don't worry, I think you may have touched the power of the second job transfer. [-]
+1
+[ffebad] Son, go to [0096ff] Trial Hell[-], feel the blessing of Mother Nature in the most dangerous place, it will help you to control new power. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] trial hell [-] let's [-]
+
+end
+1
+[ffebad] Child, the power in you is so powerful, have you mastered the power of the second job transfer yet? [-]
+0
+[ffebad] Yes, thank you mentor, I have mastered the second job transfer, it is really a powerful force. [-]
+
+prof 3
+
+begin
+0
+[ffebad] Teacher, is there any legendary magic you can teach me, I can't run out of magic power! [-]
+1
+[ffebad] Brat, as proud as I am, I have to admit that you are a genius. It seems that you need the power of a second job change. [-]
+0
+[ffebad] There is even a second job change, mentor, teach me quickly! [-]
+1
+[ffebad] You need to learn the power of the second job transfer by yourself, go to [0096ff] trial hell[-], it is said that you can master the power of the second job transfer if you come back from there. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] trial hell [-] let's [-]
+
+end
+1
+[ffebad] You came back so soon, don't tell me you have mastered the second job transfer. [-]
+0
+[ffebad] Of course, what a powerful force, you have also said, my mentor, that I am a true genius. [-]
+
+prof 4
+
+begin
+0
+[ffebad] Goddess, my power is turbulent, please guide me in the direction I am going. [-]
+1
+[ffebad] I heard your distress, maybe this is a sign of the legendary second job change. [-]
+0
+[ffebad] Second job change? I need to master this power and protect the continent of Altria! [-]
+1
+[ffebad] I've heard that in the [0096ff] Trial Hell[-], you can feel the power of the second job change. But it's very dangerous there, so be careful. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] trial hell [-] let's [-]
+
+end
+1
+[ffebad] You're back safe and sound, thank you goddess. [-]
+0
+[ffebad] Thanks to the goddess, I came back smoothly, and I also mastered the power of the second job transfer. [-]
+
+prof 5
+
+begin
+0
+[ffebad] My power has become more and more violent recently, what's wrong? [-]
+1
+[ffebad] Let me break it down. Well, according to the data, it seems that your strength has broken through the legendary threshold. [-]
+0
+[ffebad] What? Could it be the rumored second job change? [-]
+1
+[ffebad] Well, probably, go to [0096ff] Trial Hell[-] to train yourself, I hope you can break through your limits. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] trial hell [-] let's [-]
+
+end
+1
+[ffebad] Scanned data, congratulations, my dear sister, you have successfully changed jobs for the second time. [-]
+0
+[ffebad] It's incredible, I feel more confident about changing the future. [-]
+
+prof 6
+
+begin
+0
+[ffebad] That dark shadow inside me, that power of his has gone berserk again lately. How is this going? [-]
+1
+[ffebad] Let me see how you are meow. Um, no way, your strength has already broken through the legendary barrier, meow. [-]
+0
+[ffebad] What? Could it be the rumored second job change? [-]
+1
+[ffebad] Damn it, in this way, isn't your talent surpassing my master meow. Hmph, go to [0096ff] Trial Hell[-] to break through your limit. Maybe you can still figure out what's going on with the mysterious black shadow in your body, meow. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] trial hell [-] let's [-]
+
+end
+1
+[ffebad] It really succeeded, faster than meow back then, really sad, meow. [-]
+0
+[ffebad] I finally understand the identity of the mysterious shadow that possesses me! [-]
+1
+What is [ffebad]? Teacher, I am also very curious meow. [-]
+0
+[ffebad] He is me, who came back from another time and space by accident, the future me. Now I'm one with him, noDon't worry about being occupied anymore. [-]
+1
+[ffebad] The future you possessed the present you? It's unbelievable, meow. [-]
+
+prof 7
+
+begin
+0
+[ffebad] My powers are growing uncontrollably again. [-]
+1
+[ffebad] The Prophet's depravity caused her to lose the favor of the Dawn Star, and you, as the Shadow Star, are officially taking over her destiny to save the continent. You need to better grasp your own strength and complete your mission. [-]
+0
+[ffebad] Is it necessary to carry out the legendary second transfer? [-]
+1
+[ffebad] Yes, I have never seen that kind of powerful force before my life, let alone now, I can only hope that you will awaken yourself in the [0096ff]Trial Hell[-]. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] trial hell [-] let's [-]
+
+end
+1
+[ffebad] You made it, it seems that this is really your destiny. [-]
+0
+[ffebad] If this is my destined fate, I will not be afraid, I will not let my teacher and clansmen down! [-]
+1
+[ffebad] boy, I'm proud of you, don't put too much pressure on yourself. Now, even if I dissipate, I will not have any regrets. The souls of the clansmen must also think so. [-]

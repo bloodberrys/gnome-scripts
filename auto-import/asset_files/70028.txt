@@ -1,0 +1,22 @@
+start
+
+prof 0
+
+step 1
+1
+[ffebad] Those Chards, they threw Ibel's body into the ice cave. [-]
+1
+[ffebad] I searched for her for a long time, until I lost all feeling in my hands, and then I dug her out of the stone pile. [-]
+[branch]2=What about later?
+
+step 2
+1
+[ffebad] Later, Ibel came back to life...she was different...[-]
+
+step 3
+1
+[ffebad] Go into my memory and have a look. [-]
+
+step 4
+1
+[ffebad] Ibel as a human has died, and despair and hatred fermented in her heart, allowing her to be reborn as Chard. [-]

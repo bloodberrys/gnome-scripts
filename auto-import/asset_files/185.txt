@@ -1,0 +1,19 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] I feel the power of the red dragon from this manuscript, which is covered with a layer of magic seal. I need special herbs in the Shadow Forest to break the seal. [-]
+0
+[ffebad] Okay, I'm going to pick them in the forest. [-]
+1
+[ffebad] Little ghost, don't be frightened by the monsters in the Shadow Forest. [-]
+
+in progress
+1
+[ffebad] Enter the Shadow Forest to pick special herbs. [-]
+
+end
+1
+[ffebad] Yes, these herbs, let me break the magic barrier. [-]

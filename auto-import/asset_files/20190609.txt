@@ -1,0 +1,19 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] Warriors, Happy Dragon Boat Festival! There is still a third level waiting for you in the adventure of the brave, do you have confidence? [-]
+0
+[ffebad] If Irene cheers me on, I'll be motivated! [-]
+1
+[ffebad] I'll be here waiting for you to come back from your adventure, blow kisses! [-]
+
+in progress
+1
+[ffebad] Go ahead, little warrior. [-]
+
+end
+1
+[ffebad] Congratulations to the Warriors for completing all levels of this year's Brave Adventures! Come on, this is the reward you deserve, take it away. [-]

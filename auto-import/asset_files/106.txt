@@ -1,0 +1,29 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad] Hmph, that is to say, Beth Keld intends to handle Barna's matter personally? Did he want to hurt Barna? [-]
+1
+[ffebad] Beth Kede, although we were teammates with sincerity 50 years ago, but now we are different. Barna guards this continent. He cannot praise this hero, but wants to brutally destroy and desecrate his body. I absolutely agree! [-]
+1
+[ffebad] When you went to see Siddell, we were also investigating. Although we don't have the power of dragons, there may be other ways to curb the evil curse on Barna. It is said that long, long ago, in this land , the ancients had wars, and the kind ancients would purify those corrupted ancients. [-]
+0
+[ffebad] Let's look for the ancient people's purification methods to purify the curse on Barna? [-]
+1
+[ffebad] Yes, the ancients used a treasure called the mirror of truth. It is said that as long as you look at the mirror of truth, it will reflect the false appearance and absorb the unreal appearance. Perhaps the evil power that manipulated Barna could be locked in the mirror as well. [-]
+0
+[ffebad] Great, so where do we find this mirror of reality? [-]
+1
+[ffebad] The Knights Templar are on the prowl. Can I trouble you to go to the False Swamp? If you find a mirror exuding divine power there, bring it back. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] false swamp [-]
+
+end
+0
+[ffebad] I've been looking around there for a long time, but I can't find any mirrors. [-]
+1
+[ffebad] It doesn't look as easy as imagined, but the mirror of reality should be around here. Well, it seems that we still have to trouble Peorista and the others. You can go to Sydell to inquire about the news. [-]

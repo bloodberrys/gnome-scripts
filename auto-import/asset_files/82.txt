@@ -1,0 +1,29 @@
+start
+
+prof 0
+
+begin
+0
+[ffebad] Chati, I finally found you, Sidel said he was sorry, let's go to Karaqiu to heal your hand. [-]
+1
+[ffebad] Well, Sydell, I didn't forgive him, I just didn't want to see him cry. Also, I don't want that old woman's help! [-]
+0
+[ffebad] What, isn't this already forgiving him? Chati, Master Karaqiu is not what you think. [-]
+1
+[ffebad] I don't, I don't want that old woman's help! You go back, I have to treat my people, they seem to be poisoned. [-]
+0
+[ffebad] Master Karaqiu really wants to... Hey, Chati, why did you leave. [-]
+0
+[ffebad] Chati seems to have gone to the east of the [0096ff] ancient library[-], I'd better go and have a look. [-]
+
+in progress
+1
+[ffebad] go to [0096ff] east of ancient library[-]
+
+end
+1
+[ffebad] Adventurer, have you seen Chati? [-]
+0
+[ffebad] Chati took the medicine that Callahan made and went to heal her people. [-]
+1
+[ffebad] The teacher said that Callahan is not trustworthy... I can't go away, please go to Chaqian and ask. [-]

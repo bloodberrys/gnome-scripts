@@ -1,0 +1,113 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad] What Beth Kede owns is the precious jade of the black dragon, and the black dragon is a dragon created by the ancients... Go to [0096ff] the withered land[-], where the ancients used to do experiments, Presumably there will be some relics of ancient people. [-]
+[voice]Audio/VO/lines/lines219
+
+in progress
+1
+[ffebad] to [0096ff] Blight[-]
+
+end
+0
+[ffebad] Algerta, I've collected these things...[-]
+[voice]Audio/VO/Warrior/warrior12
+
+prof 2
+
+begin
+1
+[ffebad] What Beth Kede owns is the precious jade of the black dragon, and the black dragon is a dragon created by the ancients... Go to [0096ff] the withered land[-], where the ancients used to do experiments, Presumably there will be some relics of ancient people. [-]
+[voice]Audio/VO/lines/lines219
+
+in progress
+1
+[ffebad] to [0096ff] Blight[-]
+
+end
+0
+[ffebad] Algerta, I've collected these things...[-]
+[voice]Audio/VO/Archer/archer12
+
+prof 3
+
+begin
+1
+[ffebad] What Beth Kede owns is the precious jade of the black dragon, and the black dragon is a dragon created by the ancients... Go to [0096ff] the withered land[-], where the ancients used to do experiments, Presumably there will be some relics of ancient people. [-]
+[voice]Audio/VO/lines/lines219
+
+in progress
+1
+[ffebad] to [0096ff] Blight[-]
+
+end
+0
+[ffebad] Algerta, I've collected these things...[-]
+[voice]Audio/VO/Sorceress/Sorceress12
+
+prof 4
+
+begin
+1
+[ffebad] What Beth Kede owns is the precious jade of the black dragon, and the black dragon is a dragon created by the ancients... Go to [0096ff] the withered land[-], where the ancients used to do experiments, Presumably there will be some relics of ancient people. [-]
+[voice]Audio/VO/lines/lines219
+
+in progress
+1
+[ffebad] to [0096ff] Blight[-]
+
+end
+0
+[ffebad] Algerta, I've collected these things...[-]
+[voice]Audio/VO/Cleric/cleric12
+
+Prof 5
+
+begin
+1
+[ffebad] What Beth Kede owns is the precious jade of the black dragon, and the black dragon is a dragon created by the ancients... Go to [0096ff] the withered land[-], where the ancients used to do experiments, Presumably there will be some relics of ancient people. [-]
+[voice]Audio/VO/lines/lines219
+
+in progress
+1
+[ffebad] to [0096ff] Blight[-]
+
+end
+0
+[ffebad] Algerta, I've collected these things...[-]
+[voice]Audio/VO/Academic/academic5
+
+prof 6
+
+begin
+1
+[ffebad] What Beth Kede owns is the precious jade of the black dragon, and the black dragon is a dragon created by the ancients... Go to [0096ff] the withered land[-], where the ancients used to do experiments, Presumably there will be some relics of ancient people. [-]
+[voice]Audio/VO/lines/lines219
+
+in progress
+1
+[ffebad] to [0096ff] Blight[-]
+
+end
+0
+[ffebad] Algerta, I've collected these things...[-]
+[voice]Audio/VO/Assassin/Assassin5
+
+prof 7
+
+begin
+1
+[ffebad] What Beth Kede owns is the precious jade of the black dragon, and the black dragon is a dragon created by the ancients... Go to [0096ff] the withered land[-], where the ancients used to do experiments, Presumably there will be some relics of ancient people. [-]
+[voice]Audio/VO/lines/lines219
+
+in progress
+1
+[ffebad] to [0096ff] Blight[-]
+
+end
+0
+[ffebad] Algerta, I've collected these things...[-]
+[voice]Audio/VO/kali/kali5

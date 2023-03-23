@@ -1,0 +1,15 @@
+start
+
+prof 0
+
+step 1
+1
+[ffebad] Did you hear that? Since the Conqueror King Peda was eliminated, the gate behind the megalithic monument has become very unstable, and the Chards wantonly destroyed it, which will soon affect our continent of Altria[-]
+
+step 2
+0
+[ffebad] Really? I'm off to kill these damn Childe! [-]
+
+step 3
+1
+[ffebad] Coincidentally, Peorista is researching new fire magic, this power may help you [-]
