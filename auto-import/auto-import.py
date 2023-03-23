@@ -2,6 +2,20 @@ import pyautogui
 import os
 import time
 import xml.etree.ElementTree as ET
+import tensorflow as tf
+
+device_name = tf.test.gpu_device_name()
+if device_name != '/device:GPU:0':
+    raise SystemError('GPU device not found')
+print('Found GPU at: {}'.format(device_name))
+
+device_name = tf.test.gpu_device_name()
+if device_name != '/device:GPU:0':
+    print(
+        '\n\nThis error most likely means that this notebook is not '
+        'configured to use a GPU.  Change this in Notebook Settings via the '
+        'command palette (cmd/ctrl-shift-P) or the Edit menu.\n\n')
+    raise SystemError('GPU device not found')
 
 # os.startfile("C:\\Users\\User\\Documents\\GitHub\\gnome-scripts\\auto-import\\UABE\\64bit\\AssetBundleExtractor.exe")
 # time.sleep(2)
@@ -25,12 +39,18 @@ def find_file_position(file_path,center=False):
     for attempt in range(max_attempts):
         print(f'[Find Location] Attempt {attempt}')
         print(f'Primary File check: {file_path}')
-        file_location = pyautogui.locateOnScreen(file_path, grayscale=True)
-        filename, file_extension = os.path.splitext(file_path)
-        if file_location == None and os.path.exists("imagelocate/"+os.path.basename(filename)+str(2)+file_extension):
-            print(f'Secondary File check: {"imagelocate/"+os.path.basename(filename)+str(2)+file_extension}')
-            file_location = pyautogui.locateOnScreen("imagelocate/"+os.path.basename(filename)+str(2)+file_extension, grayscale=True)
-            pass
+        with tf.compat.v1.Session() as sess:
+            with tf.device("/device:GPU:0"):
+                # Your code here
+                file_location = pyautogui.locateOnScreen(file_path, grayscale=True)
+                filename, file_extension = os.path.splitext(file_path)
+                if file_location == None and os.path.exists("imagelocate/"+os.path.basename(filename)+str(2)+file_extension):
+                    print(f'Secondary File check: {"imagelocate/"+os.path.basename(filename)+str(2)+file_extension}')
+                    with tf.compat.v1.Session() as sess:
+                        with tf.device("/device:GPU:0"):
+                            # Your code here
+                            file_location = pyautogui.locateOnScreen("imagelocate/"+os.path.basename(filename)+str(2)+file_extension, grayscale=True)
+                    pass
 
         print(file_location)
         if file_location is not None:
@@ -90,7 +110,7 @@ for filename in os.listdir(folder):
     source_filename = os.path.basename(source)
 
     print("[GET ASSET BUNDLE]\n")
-    click_file(clickType="double", duration=0.1, file_path="imagelocate/APK_AB_DATA.png")
+    click_file(clickType="double", duration=0, file_path="imagelocate/APK_AB_DATA.png")
 
     pyautogui.press('tab')
     pyautogui.press('tab')
