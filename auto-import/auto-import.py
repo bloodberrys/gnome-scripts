@@ -6,7 +6,7 @@ import xml.etree.ElementTree as ET
 # os.startfile("C:\\Users\\User\\Documents\\GitHub\\gnome-scripts\\auto-import\\UABE\\64bit\\AssetBundleExtractor.exe")
 # time.sleep(2)
 
-def click_file(clickType="single", file_path="", center=False, duration=0.5, add_left=0, add_top=0):
+def click_file(clickType="double", file_path="", center=False, duration=0, add_left=0, add_top=0):
     time.sleep(duration)
     left, top = find_file_position(file_path, center=center)
     pyautogui.moveTo(left+add_left, top+add_top, duration=0, tween=pyautogui.easeInOutQuad)
@@ -64,7 +64,7 @@ asset_xml = "assetslocation/apk/textassets.xml"
 
 #loop over the files in the directory
 for filename in os.listdir(folder):
-    left, top = click_file(clickType="single", file_path="imagelocate/UABE.png", duration=0, add_left=-10, add_top=35)
+    left, top = click_file(clickType="double", file_path="imagelocate/UABE.png", duration=0, add_left=-10, add_top=35)
     pyautogui.moveTo(left-10, top+55, duration=0, tween=pyautogui.easeInOutQuad)
     pyautogui.click()
 
@@ -90,7 +90,7 @@ for filename in os.listdir(folder):
     source_filename = os.path.basename(source)
 
     print("[GET ASSET BUNDLE]\n")
-    click_file(clickType="single", file_path="imagelocate/APK_AB_DATA.png")
+    click_file(clickType="double", duration=0.2, file_path="imagelocate/APK_AB_DATA.png")
 
     pyautogui.press('tab')
     pyautogui.press('tab')
@@ -100,7 +100,7 @@ for filename in os.listdir(folder):
     pyautogui.press('enter')
 
     click_file(clickType="double", file_path="imagelocate/TEXTAS.png",add_left=-290, add_top=10)
-    click_file(clickType="single", file_path="imagelocate/PLUGIN.png", center=True)
+    click_file(clickType="double", file_path="imagelocate/PLUGIN.png", center=True)
     click_file(clickType="double", file_path="imagelocate/IMPORT_TXT.png", center=True)
     click_file(clickType="double", file_path="imagelocate/ASSET_FILES.png")
 
@@ -113,12 +113,12 @@ for filename in os.listdir(folder):
     pyautogui.press('enter')
 
     time.sleep(0.5)
-    click_file(clickType="single", file_path="imagelocate/OK.png", center=True)
+    click_file(clickType="double", file_path="imagelocate/OK.png", center=True)
     pyautogui.press('enter')
 
     time.sleep(0.5)
     print(f"[SAVE] Saving new assetbundle {filename}")
-    click_file(clickType="single", file_path="imagelocate/RESULTS.png", center=True)
+    click_file(clickType="double", file_path="imagelocate/RESULTS.png", center=True)
     pyautogui.press('tab')
     pyautogui.press('tab')
     pyautogui.press('tab')

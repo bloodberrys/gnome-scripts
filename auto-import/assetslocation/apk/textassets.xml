@@ -1649,27 +1649,11 @@
     <Size>5412</Size>
   </Asset>
   <Asset>
-    <Name>1112</Name>
-    <Container>pure/table/task/1112</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\e46fb60214e4b8244a6035e6ccb120e9</Source>
-    <Size>5412</Size>
-  </Asset>
-  <Asset>
     <Name>1113</Name>
     <Container>table/task/1113</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\4c740125ce91a3b44b3235be0cdb00c8</Source>
-    <Size>5856</Size>
-  </Asset>
-  <Asset>
-    <Name>1113</Name>
-    <Container>pure/table/task/1113</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\5e862087d86ddcd47a1a10a1bbe833e2</Source>
     <Size>5856</Size>
   </Asset>
   <Asset>
@@ -1679,22 +1663,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\87b87fd0f15e0a848ba231bc320a6b1c</Source>
     <Size>9000</Size>
-  </Asset>
-  <Asset>
-    <Name>1114</Name>
-    <Container>pure/table/task/1114</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\0bccfd5f69cd71c49b3379628991502c</Source>
-    <Size>9000</Size>
-  </Asset>
-  <Asset>
-    <Name>1115</Name>
-    <Container>pure/table/task/1115</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\cc3f136183a4a2342a5ad5c3cdd03170</Source>
-    <Size>4904</Size>
   </Asset>
   <Asset>
     <Name>1115</Name>
