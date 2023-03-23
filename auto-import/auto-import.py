@@ -90,7 +90,7 @@ for filename in os.listdir(folder):
     source_filename = os.path.basename(source)
 
     print("[GET ASSET BUNDLE]\n")
-    click_file(clickType="double", duration=0.2, file_path="imagelocate/APK_AB_DATA.png")
+    click_file(clickType="double", duration=0.1, file_path="imagelocate/APK_AB_DATA.png")
 
     pyautogui.press('tab')
     pyautogui.press('tab')
@@ -112,11 +112,9 @@ for filename in os.listdir(folder):
     pyautogui.typewrite(f'{filename}')
     pyautogui.press('enter')
 
-    time.sleep(0.5)
     click_file(clickType="double", file_path="imagelocate/OK.png", center=True)
     pyautogui.press('enter')
 
-    time.sleep(0.5)
     print(f"[SAVE] Saving new assetbundle {filename}")
     click_file(clickType="double", file_path="imagelocate/RESULTS.png", center=True)
     pyautogui.press('tab')
