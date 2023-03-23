@@ -1,0 +1,136 @@
+[
+    {
+      "name": "#1 - 💎 Diamond x20000",
+      "value": "1",
+      "itemId": "1_1000",
+      "qty": "20",
+      "bonus": true
+    },
+    {
+      "name": "#2 - 🍭 Leisure Points (mount grade S/L material) x450",
+      "value": "2",
+      "itemId": "800",
+      "qty": "450",
+      "bonus": false
+
+    },
+    {
+      "name": "#3 - 🔥 Stove Fire (Fairy Gears Material) x15000",
+      "value": "3",
+      "itemId": "15",
+      "qty": "15000",
+      "bonus": false
+    },
+    {
+      "name": "#4 - 📜 Inscription SUPERB (Prasasti) x250",
+      "value": "4",
+      "itemId": "2113",
+      "qty": "250",
+      "bonus": true
+    },
+    {
+      "name": "#5 - 📦 Pandora Packs\\tx2500",
+      "value": "5",
+      "itemId": "612",
+      "qty": "2500",
+      "bonus": true
+    },
+    {
+      "name": "#6 - 🎂 Fairy Upgrade Material x1500",
+      "value": "6",
+      "itemId": ["602","603","604"],
+      "qty": ["1500","1500","1500"],
+      "bonus": true
+    },
+    {
+      "name": "#7a - 🔑 Treasury Keys* x1000",
+      "value": "7a",
+      "itemId": "8533",
+      "qty": "1000",
+      "bonus": true
+    },
+    {
+      "name": "#7b - 🎟️ Capsule Toy Tickets* x1000",
+      "value": "7b",
+      "itemId": "3558",
+      "qty": "1000",
+      "bonus": true
+    },
+    {
+      "name": "#8 - 🗃️ All Quality Chests (🆕)\\tx150",
+      "value": "8",
+      "itemId": ["204","205","206"],
+      "qty": ["150","150","150"],
+      "bonus": false
+    },
+    {
+      "name": "#9 - 🦋 L-grade coupons x10",
+      "value": "9",
+      "itemId": "63033",
+      "qty": "10",
+      "bonus": false
+    },
+    {
+      "name": "#10a - ✨ Mayday Surround Effect (+Bonus Footprint) x1",
+      "value": "10a",
+      "itemId": ["2758","2759"],
+      "qty": ["1","1"],
+      "bonus": false
+
+    },
+    {
+      "name": "#10b - ✨ College Life (+Bonus Footprint) x1",
+      "value": "10b",
+      "itemId": ["2769","2770"],
+      "qty": ["1","1"],
+      "bonus": false
+    },
+    {
+      "name": "#10c - ✨ Chinese Valentine's day (+Bonus Footprint) x1",
+      "value": "10c",
+      "itemId": ["2765","2766"],
+      "qty": ["1","1"],
+      "bonus": false
+    },
+    {
+      "name": "#10d - ✨ Love Confession (+Bonus Footprint) x1",
+      "value": "10d",
+      "itemId": ["2761","2762"],
+      "qty": ["1","1"],
+      "bonus": false
+    },
+    {
+      "name": "#10e - ✨ Post-rain Rainbow (+Bonus Footprint) x1",
+      "value": "10e",
+      "itemId": ["2763","2764"],
+      "qty": ["1","1"],
+      "bonus": false
+    },
+    {
+      "name": "#10f - ✨ Pool Summer (+Bonus Footprint) x1",
+      "value": "10f",
+      "itemId": ["2767","2768"],
+      "qty": ["1","1"],
+      "bonus": false
+    },
+    {
+      "name": "#10g - ✨ Full Moon Blossom (+Bonus Footprint) x1",
+      "value": "10g",
+      "itemId": ["63021","63022"],
+      "qty": ["1","1"],
+      "bonus": false
+    },
+    {
+      "name": "#11 - 🧚 All L-Grade Fairy / Peri (+bonus package) x1",
+      "value": "11",
+      "itemId": ["3506","3512","3513","3514","602","603","604","15"],
+      "qty": ["1","1","1","1","3000","3000","3000","3000"],
+      "bonus": false
+    },
+    {
+      "name": "#12 - 👑 Kingdom Privilege bundle",
+      "value": "12",
+      "qty": "1",
+      "bonus": false
+    }
+  ]
