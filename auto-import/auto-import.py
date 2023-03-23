@@ -18,15 +18,24 @@ def click_file(clickType="single", file_path="", center=False, duration=0.5, add
     return left, top
 
 def find_file_position(file_path,center=False):
-    if os.path.exists(file_path):
-        # The file exists
-        pass
-    else:
-        # The file does not exist
-        print("File not found.")
-
     # Get the coordinates of the file on the screen
-    file_location = pyautogui.locateOnScreen(file_path, grayscale=True)
+    file_location = None
+    
+    max_attempts = 5
+    for attempt in range(max_attempts):
+        print(f'[Find Location] Attempt {attempt}')
+        print(f'Primary File check: {file_path}')
+        file_location = pyautogui.locateOnScreen(file_path, grayscale=True)
+        filename, file_extension = os.path.splitext(file_path)
+        if file_location == None and os.path.exists("imagelocate/"+os.path.basename(filename)+str(2)+file_extension):
+            print(f'Secondary File check: {"imagelocate/"+os.path.basename(filename)+str(2)+file_extension}')
+            file_location = pyautogui.locateOnScreen("imagelocate/"+os.path.basename(filename)+str(2)+file_extension, grayscale=True)
+            pass
+
+        print(file_location)
+        if file_location is not None:
+            break
+
     if center == True:
         file_location = pyautogui.center(file_location)
 
@@ -45,6 +54,7 @@ def find_file_position(file_path,center=False):
 
     else:
         print("File not found on the screen.")
+        exit(1)
 
     return left, top
 
@@ -54,11 +64,7 @@ asset_xml = "assetslocation/apk/textassets.xml"
 
 #loop over the files in the directory
 for filename in os.listdir(folder):
-    time.sleep(1)
-    file_path = "imagelocate/UABE.png"
-    left, top = find_file_position(file_path)
-    pyautogui.moveTo(left-10, top+35, duration=0, tween=pyautogui.easeInOutQuad)
-    pyautogui.click()
+    left, top = click_file(clickType="single", file_path="imagelocate/UABE.png", duration=0, add_left=-10, add_top=35)
     pyautogui.moveTo(left-10, top+55, duration=0, tween=pyautogui.easeInOutQuad)
     pyautogui.click()
 
@@ -83,22 +89,22 @@ for filename in os.listdir(folder):
 
     source_filename = os.path.basename(source)
 
-    print("[GET ASSET BUNDLE]\\n")
-    click_file(clickType="single", file_path="imagelocate/APK_AB_DATA.png", duration=1)
+    print("[GET ASSET BUNDLE]\n")
+    click_file(clickType="single", file_path="imagelocate/APK_AB_DATA.png")
 
     pyautogui.press('tab')
     pyautogui.press('tab')
     pyautogui.press('tab')
-    print(f'[PROCESS] Assetbundle Name: {source_filename}\\n')
+    print(f'[PROCESS] Assetbundle Name: {source_filename}\n')
     pyautogui.typewrite(f'{source_filename}')
     pyautogui.press('enter')
 
-    click_file(clickType="double", file_path="imagelocate/TEXTAS.png", duration=1.5,add_left=-290, add_top=10)
+    click_file(clickType="double", file_path="imagelocate/TEXTAS.png",add_left=-290, add_top=10)
     click_file(clickType="single", file_path="imagelocate/PLUGIN.png", center=True)
     click_file(clickType="double", file_path="imagelocate/IMPORT_TXT.png", center=True)
-    click_file(clickType="double", file_path="imagelocate/ASSET_FILES.png", duration=1.5)
+    click_file(clickType="double", file_path="imagelocate/ASSET_FILES.png")
 
-    print("[IMPORT] Importing asset file\\n")
+    print("[IMPORT] Importing asset file\n")
     pyautogui.press('tab')
     pyautogui.press('tab')
     pyautogui.press('tab')
@@ -111,7 +117,7 @@ for filename in os.listdir(folder):
     pyautogui.press('enter')
 
     time.sleep(0.5)
-    print("[SAVE] Saving new assetbundle {filename}")
+    print(f"[SAVE] Saving new assetbundle {filename}")
     click_file(clickType="single", file_path="imagelocate/RESULTS.png", center=True)
     pyautogui.press('tab')
     pyautogui.press('tab')
