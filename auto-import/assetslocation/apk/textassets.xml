@@ -6168,22 +6168,14 @@
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\be50d9b19d72037498d70315447d6f39</Source>
     <Size>43224</Size>
   </Asset>
-  <Asset>
-    <Name>BossRush</Name>
-    <Container>pure/table/bossrush</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\e6c2a28e316a9ac4ab9d307708d0abf1</Source>
-    <Size>15828</Size>
-  </Asset>
-  <Asset>
+  <!-- <Asset>
     <Name>BossRush</Name>
     <Container>table/bossrush</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\b44bb1c556f5c6e4f9e993af1c1a0387</Source>
     <Size>81068</Size>
-  </Asset>
+  </Asset> -->
   <Asset>
     <Name>BossRush</Name>
     <Container>table/tutorial/bossrush</Container>
@@ -7434,14 +7426,6 @@
   </Asset>
   <Asset>
     <Name>Dash</Name>
-    <Container>pure/table/tutorial/dash</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\5f20fac777ed87144a7b0295c11d9a0d</Source>
-    <Size>660</Size>
-  </Asset>
-  <Asset>
-    <Name>Dash</Name>
     <Container>table/tutorial/dash</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -7872,22 +7856,14 @@
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\bea2d3f283d619e4091aebd1112b0979</Source>
     <Size>312</Size>
   </Asset>
-  <Asset>
-    <Name>DNExpedition</Name>
-    <Container>pure/table/dnexpedition</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\8f7227f39c45e8141902c5d8ffd943c5</Source>
-    <Size>238644</Size>
-  </Asset>
-  <Asset>
+  <!-- <Asset>
     <Name>DNExpedition</Name>
     <Container>table/dnexpedition</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\0e08bda5547a41f468ca3efef9ed56a2</Source>
     <Size>242336</Size>
-  </Asset>
+  </Asset> -->
   <Asset>
     <Name>DNExpedition</Name>
     <Container>table/tutorial/dnexpedition</Container>
@@ -11066,14 +11042,6 @@
   </Asset>
   <Asset>
     <Name>Home</Name>
-    <Container>pure/table/tutorial/home</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\aa49f65a03fa4b542b8476f5294dd42a</Source>
-    <Size>2256</Size>
-  </Asset>
-  <Asset>
-    <Name>Home</Name>
     <Container>table/tutorial/home</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -13154,27 +13122,11 @@
   </Asset>
   <Asset>
     <Name>LearnSkill</Name>
-    <Container>pure/table/tutorial/learnskill</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\fbced554bd1761445941c4f8fd74c1b7</Source>
-    <Size>2584</Size>
-  </Asset>
-  <Asset>
-    <Name>LearnSkill</Name>
     <Container>table/tutorial/learnskill</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\d3d54926316687d4ea0a5483f77c3bb6</Source>
     <Size>2592</Size>
-  </Asset>
-  <Asset>
-    <Name>LearnSkill2</Name>
-    <Container>pure/table/tutorial/learnskill2</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\181ba02b99bb91b4787ae18ca464f155</Source>
-    <Size>1508</Size>
   </Asset>
   <Asset>
     <Name>LearnSkill2</Name>
@@ -17416,14 +17368,14 @@
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\fa8ad2af413973d4e8aeb54637414edf</Source>
     <Size>12992</Size>
   </Asset>
-  <Asset>
+  <!-- <Asset>
     <Name>MobaHero</Name>
     <Container>table/mobahero</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\305425c87980c284398fc57ce7fa8c6d</Source>
     <Size>18892</Size>
-  </Asset>
+  </Asset> -->
   <Asset>
     <Name>MobaHero</Name>
     <Container>table/tutorial/mobahero</Container>
@@ -20449,14 +20401,6 @@
     <Size>2184</Size>
   </Asset>
   <Asset>
-    <Name>Mounts</Name>
-    <Container>pure/table/tutorial/mounts</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\839ff74080f563440b84f2b26d095db6</Source>
-    <Size>1000</Size>
-  </Asset>
-  <Asset>
     <Name>MulActivity</Name>
     <Container>table/tutorial/mulactivity</Container>
     <Type id="49">TextAsset</Type>
@@ -20561,14 +20505,6 @@
     <Size>708</Size>
   </Asset>
   <Asset>
-    <Name>NestTaskGuide</Name>
-    <Container>pure/table/tutorial/nesttaskguide</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\e5bc8ca7376af0941bed0f9581dea1be</Source>
-    <Size>840</Size>
-  </Asset>
-  <Asset>
     <Name>NestType</Name>
     <Container>table/nesttype</Container>
     <Type id="49">TextAsset</Type>
@@ -20607,14 +20543,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\eb2cb838342d84c2c9fd1c3bf6312eb8</Source>
     <Size>356</Size>
-  </Asset>
-  <Asset>
-    <Name>NewbieLevel</Name>
-    <Container>pure/table/tutorial/newbielevel</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\27b2a8181ad44f64f98d5da3ed3364ae</Source>
-    <Size>3792</Size>
   </Asset>
   <Asset>
     <Name>NewbieLevel</Name>
@@ -21825,14 +21753,6 @@
     <Size>2428</Size>
   </Asset>
   <Asset>
-    <Name>Promote</Name>
-    <Container>pure/table/tutorial/promote</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\b9c19a845b0c6984d874146e8e3594a5</Source>
-    <Size>2432</Size>
-  </Asset>
-  <Asset>
     <Name>Promote1</Name>
     <Container>table/tutorial/promote1</Container>
     <Type id="49">TextAsset</Type>
@@ -22225,14 +22145,6 @@
     <Size>360</Size>
   </Asset>
   <Asset>
-    <Name>QuickEquip</Name>
-    <Container>pure/table/tutorial/quickequip</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\b27f46474fd272044bda5823161a5a20</Source>
-    <Size>592</Size>
-  </Asset>
-  <Asset>
     <Name>QuickReply</Name>
     <Container>table/quickreply</Container>
     <Type id="49">TextAsset</Type>
@@ -22367,14 +22279,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\ab21aaa12a1bc694c8704fd682d67f48</Source>
     <Size>800</Size>
-  </Asset>
-  <Asset>
-    <Name>RankingMatch</Name>
-    <Container>pure/table/tutorial/rankingmatch</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\2dd7e431664a10348816b3cf9c180720</Source>
-    <Size>884</Size>
   </Asset>
   <Asset>
     <Name>RankList</Name>
@@ -31202,14 +31106,6 @@
   </Asset>
   <Asset>
     <Name>Sprite</Name>
-    <Container>pure/table/tutorial/sprite</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\edad2de7509f41742be2eebb362e081b</Source>
-    <Size>1620</Size>
-  </Asset>
-  <Asset>
-    <Name>Sprite</Name>
     <Container>table/tutorial/sprite</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -31722,14 +31618,6 @@
   </Asset>
   <Asset>
     <Name>SuperAomor</Name>
-    <Container>pure/table/tutorial/superaomor</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\ae2fe0512db771a478f9a32eabe7e585</Source>
-    <Size>1156</Size>
-  </Asset>
-  <Asset>
-    <Name>SuperAomor</Name>
     <Container>table/tutorial/superaomor</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -31928,7 +31816,7 @@
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\bebc3e29efd15ee4d855c93378e0a9fd</Source>
     <Size>816</Size>
   </Asset>
-  <Asset>
+  <!-- <Asset>
     <Name>TeamTower</Name>
     <Container>table/teamtower</Container>
     <Type id="49">TextAsset</Type>
@@ -31943,7 +31831,7 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\be685865b10ddb84486e89f07212bdac</Source>
     <Size>4952</Size>
-  </Asset>
+  </Asset> -->
   <Asset>
     <Name>TeamTowerCircle</Name>
     <Container>table/tutorial/teamtowercircle</Container>
@@ -31951,14 +31839,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\494ec76fc2727294281af8e41bb86c70</Source>
     <Size>436</Size>
-  </Asset>
-  <Asset>
-    <Name>TeamTowerTask</Name>
-    <Container>pure/table/tutorial/teamtowertask</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\7a047e7820d23cf41b038004bc8050bb</Source>
-    <Size>844</Size>
   </Asset>
   <Asset>
     <Name>TeamTowerTask</Name>
