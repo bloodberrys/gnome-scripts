@@ -9482,14 +9482,6 @@
   </Asset>
   <Asset>
     <Name>FriendSystemConfig</Name>
-    <Container>pure/table/friendsystemconfig</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\5acfda3530cc290439197e7a4ea7e19e</Source>
-    <Size>648</Size>
-  </Asset>
-  <Asset>
-    <Name>FriendSystemConfig</Name>
     <Container>table/friendsystemconfig</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -21650,27 +21642,11 @@
   </Asset>
   <Asset>
     <Name>Profession</Name>
-    <Container>pure/table/profession</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\1f3bb19124784414e98a7975203c3d34</Source>
-    <Size>48440</Size>
-  </Asset>
-  <Asset>
-    <Name>Profession</Name>
     <Container>table/profession</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\ba023072a6b1d894a9d8a25d04ad1ef0</Source>
     <Size>2836</Size>
-  </Asset>
-  <Asset>
-    <Name>ProfessionalRankReward</Name>
-    <Container>pure/table/professionalrankreward</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\1077a02a069871f4f9f1ae578ecf035d</Source>
-    <Size>1192</Size>
   </Asset>
   <Asset>
     <Name>ProfessionalRankReward</Name>
@@ -21711,14 +21687,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\44e5b6cfc14b63442aae14e62ccbc003</Source>
     <Size>28460</Size>
-  </Asset>
-  <Asset>
-    <Name>ProfessionSkill</Name>
-    <Container>pure/table/professionskill</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\a54c1b0fa214e9d4fb0a523cd5373ea6</Source>
-    <Size>27764</Size>
   </Asset>
   <Asset>
     <Name>ProfessionStrategy</Name>
@@ -33575,14 +33543,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\79c92e7f453d0704aa867296e7021a8f</Source>
     <Size>26748</Size>
-  </Asset>
-  <Asset>
-    <Name>XNpcList</Name>
-    <Container>pure/table/xnpclist</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\acbaaeb31bb92d2419d04955621d92e3</Source>
-    <Size>27848</Size>
   </Asset>
   <Asset>
     <Name>XNSelectOne_pb.lua</Name>
