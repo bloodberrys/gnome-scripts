@@ -21,7 +21,7 @@ if device_name != '/device:GPU:0':
 # time.sleep(2)
 
 def click_file(clickType="double", file_path="", center=False, duration=0, add_left=0, add_top=0):
-    time.sleep(duration)
+    # time.sleep(duration)
     left, top = find_file_position(file_path, center=center)
     pyautogui.moveTo(left+add_left, top+add_top, duration=0, tween=pyautogui.easeInOutQuad)
     if clickType == "single":
@@ -50,11 +50,11 @@ def find_file_position(file_path,center=False):
                         with tf.device("/device:GPU:0"):
                             # Your code here
                             file_location = pyautogui.locateOnScreen("imagelocate/"+os.path.basename(filename)+str(2)+file_extension, grayscale=True)
-                    pass
+                            pass
 
-        print(file_location)
-        if file_location is not None:
-            break
+                print(file_location)
+                if file_location is not None:
+                    break
 
     if center == True:
         file_location = pyautogui.center(file_location)
@@ -82,65 +82,68 @@ def find_file_position(file_path,center=False):
 folder = "asset_files"
 asset_xml = "assetslocation/apk/textassets.xml"
 
-#loop over the files in the directory
-for filename in os.listdir(folder):
-    left, top = click_file(clickType="double", file_path="imagelocate/UABE.png", duration=0, add_left=-10, add_top=35)
-    pyautogui.moveTo(left-10, top+55, duration=0, tween=pyautogui.easeInOutQuad)
-    pyautogui.click()
+with tf.compat.v1.Session() as sess:
+    with tf.device("/device:GPU:0"):
+        # Your code here
+        #loop over the files in the directory
+        for filename in os.listdir(folder):
+            left, top = click_file(clickType="double", file_path="imagelocate/UABE.png", duration=0, add_left=-10, add_top=35)
+            pyautogui.moveTo(left-10, top+55, duration=0, tween=pyautogui.easeInOutQuad)
+            pyautogui.click()
 
-    # get assetbundle from filename location mapping xml
-    tree = ET.parse(asset_xml)
-    # Get the root element
-    root = tree.getroot()
+            # get assetbundle from filename location mapping xml
+            tree = ET.parse(asset_xml)
+            # Get the root element
+            root = tree.getroot()
 
-    # Find the Asset element with the specified Name
-    name_input = os.path.splitext(filename)[0]
-    asset = None
-    for a in root.findall('Asset'):
-        if a.find('Name').text == name_input:
-            asset = a
-            break
+            # Find the Asset element with the specified Name
+            name_input = os.path.splitext(filename)[0]
+            asset = None
+            for a in root.findall('Asset'):
+                if a.find('Name').text == name_input:
+                    asset = a
+                    break
 
-    # Extract the Source element and print its text
-    if asset is not None:
-        source = asset.find('Source').text
-    else:
-        print(f"No asset found with Name '{name_input}'")
+            # Extract the Source element and print its text
+            if asset is not None:
+                source = asset.find('Source').text
+            else:
+                print(f"No asset found with Name '{name_input}'")
 
-    source_filename = os.path.basename(source)
+            source_filename = os.path.basename(source)
 
-    print("[GET ASSET BUNDLE]\n")
-    click_file(clickType="double", duration=0, file_path="imagelocate/APK_AB_DATA.png")
+            print("[GET ASSET BUNDLE]\n")
+            click_file(clickType="double", file_path="imagelocate/APK_AB_DATA.png", center=True)
 
-    pyautogui.press('tab')
-    pyautogui.press('tab')
-    pyautogui.press('tab')
-    print(f'[PROCESS] Assetbundle Name: {source_filename}\n\n')
-    pyautogui.typewrite(f'{source_filename}')
-    pyautogui.press('enter')
+            pyautogui.press('tab')
+            pyautogui.press('tab')
+            pyautogui.press('tab')
+            print(f'[PROCESS] Assetbundle Name: {source_filename}\n\n')
+            pyautogui.typewrite(f'{source_filename}')
+            pyautogui.press('enter')
 
-    click_file(clickType="double", file_path="imagelocate/TEXTAS.png",add_left=-290, add_top=10)
-    click_file(clickType="double", file_path="imagelocate/PLUGIN.png", center=True)
-    click_file(clickType="double", file_path="imagelocate/IMPORT_TXT.png", center=True)
-    click_file(clickType="double", file_path="imagelocate/ASSET_FILES.png")
+            click_file(clickType="double", file_path="imagelocate/TEXTAS.png",add_left=-290, add_top=10)
+            click_file(clickType="double", file_path="imagelocate/PLUGIN.png", center=True)
+            click_file(clickType="double", file_path="imagelocate/IMPORT_TXT.png", center=True)
+            click_file(clickType="double", file_path="imagelocate/ASSET_FILES.png", center=True)
 
-    print("[IMPORT] Importing asset file\n\n")
-    pyautogui.press('tab')
-    pyautogui.press('tab')
-    pyautogui.press('tab')
-    print(filename)
-    pyautogui.typewrite(f'{filename}')
-    pyautogui.press('enter')
+            print("[IMPORT] Importing asset file\n\n")
+            pyautogui.press('tab')
+            pyautogui.press('tab')
+            pyautogui.press('tab')
+            print(filename)
+            pyautogui.typewrite(f'{filename}')
+            pyautogui.press('enter')
 
-    click_file(clickType="double", file_path="imagelocate/OK.png", center=True)
-    pyautogui.press('enter')
+            click_file(clickType="double", file_path="imagelocate/OK.png", center=True)
+            pyautogui.press('enter')
 
-    print(f"[SAVE] Saving new assetbundle {filename}\n\n")
-    click_file(clickType="double", file_path="imagelocate/RESULTS.png", center=True)
-    pyautogui.press('tab')
-    pyautogui.press('tab')
-    pyautogui.press('tab')
-    pyautogui.press('enter')
+            print(f"[SAVE] Saving new assetbundle {filename}\n\n")
+            click_file(clickType="double", file_path="imagelocate/RESULTS.png", center=True)
+            pyautogui.press('tab')
+            pyautogui.press('tab')
+            pyautogui.press('tab')
+            pyautogui.press('enter')
 
 
 
