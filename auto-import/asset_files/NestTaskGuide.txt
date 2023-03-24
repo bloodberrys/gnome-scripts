@@ -1,0 +1,27 @@
+start tutorial
+
+--step switch
+--skip MenuBtnInState1
+--scond inlevel 1
+--forceclick HallDlg_canvas/BottomRight/MenuSwitchBtn 1.4
+
+step click on daily gameplay
+scond nostackui
+second inlevel 1
+--scond MainUI
+forceclick HallDlg_canvas/BottomRight/MainMenuFrame/MainMenu/Panel2/SysGridV1/APlay 1 1 0 25
+internal delay 0.3
+text Click here to enter the gameplay -200 0
+
+step click on the lair
+second inlevel 1
+forceclick MobaActivityDlg_Pure Bg/PVPActivityFrame/item0/Grid/daily520 1
+internal delay 0.3
+
+step Irene explains activation
+second inlevel 1
+empty
+ailin [301b0a] Do adventurers know? Challenge the lair team dungeon to get more powerful [7100ff]A-level quality equipment[-]yo~[-] -200
+internal delay 0.3
+
+end tutorial

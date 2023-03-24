@@ -1,0 +1,99 @@
+start tutorial
+
+step switch
+skip MenuBtnInState1
+second inlevel 1
+forceclick HallDlg_canvas/BottomRight/MenuSwitchBtn 1.4
+
+step open skill system
+scond nostackui
+second inlevel 1
+scond MainUI
+directsys 13
+second SysOpened
+
+step Open the skill interface
+second inlevel 1
+scond item 5=1
+forceclick HallDlg_canvas/BottomRight/Panel1/SysGridH1/SysBSkill 1
+internal delay 0.5
+--text open skill interface -200 0
+
+step select skill 3
+second inlevel 1
+forceclick SkillTree Bg/SkillTreeFrame/SkillTree/Skill/Skill4 1 1 0 1
+text Select a skill 210 0
+internal delay 0.3
+
+step hides the learn skill button
+second inlevel 1
+showbutton LearnSkillButton 0
+
+step Click to preview skills
+second inlevel 1
+forceclick SkillTree Bg/SkillTreeFrame/DetailWindow/DetailSkillBg/Snapshot/Play 2
+--onlyCopyItem SkillTree Bg/SkillTreeFrame/DetailWindow/DetailSkillBg/Snapshot 0 353 130
+text Click to open skill preview -210 0
+internal delay 0.3
+
+step play skill preview
+second inlevel 1
+onlyCopyItem SkillTree Bg/SkillTreeFrame/DetailWindow/DetailSkillBg/Snapshot 0 353 130 0.5
+internal delay 0.3
+
+step shows learn skill button
+second inlevel 1
+showbutton LearnSkillButton 1
+
+step click to learn
+second inlevel 1
+forceclick SkillTree Bg/SkillTreeFrame/DetailWindow/DetailSkillBg/LearnButton 1
+nodestroyoverlay
+text Consumes skill points to learn -210 0
+internal delay 2.0
+second Skill Levelup
+
+step Click the equip button
+second inlevel 1
+forceclick SkillTree Bg/SkillTreeFrame/DetailWindow/DetailSkillBg/CatchButton 1
+--text spend skill points to learn -210 0
+internal delay 0.1
+
+step equipment
+second inlevel 1
+forceclick SkillTree Bg/SkillTreeFrame/CatchWindow/BaseSkill/Skill4 1
+audio Audio/VO/guide/guide31
+internal delay 1.5
+--text Click to equip skills -210 0
+second SkillBind
+
+--step Click to upgrade skills
+--scond inlevel 1
+--forceclick SkillTree Bg/DetailFrame/Bg1/LevelUpButton 1
+--internaldelay 0.3
+--text Consume skill points to upgrade to increase skill power -200 0
+--second SkillLevelup
+
+--step close the skill details interface
+--scond inlevel 1
+--forceclick SkillTree Bg/DetailFrame/Bg3/Close 1
+--internaldelay 0.2
+--text close learning interface -210 0
+
+step guide
+second inlevel 1
+empty
+ailin [301b0a] You can learn, equip, and upgrade skills here. Irene hopes to see adventurers become stronger. [-] -200
+internal delay 0.3
+
+step close the skill interface
+second inlevel 1
+forceclick SkillTree Bg/bg/Close 1
+internal delay 0.2
+text returns main city 210 0
+
+step point task
+the scond inlevel 1
+noforceclick HallDlg_canvas/TaskNaviPanel/HallTaskNaviFrame/Main/TaskFrame/Bg 1.4
+
+end tutorial

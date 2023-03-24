@@ -1,0 +1,92 @@
+start tutorial
+
+step fashion
+second inlevel 1
+forceclick HallDlg _canvas/MainMenu/Panel1/SysGridH1/SysDFashion 1
+internal delay 0.1
+--text open fashion interface -200 0
+
+step choose fashion
+second inlevel 1
+forceclick FashionDlg Bg/WardrobePanel/SuitListFrame/Bg/Panel/suit9/Bg 1
+internal delay 0.3
+--text select ancients costume -200 0
+
+step select dragon warrior helmet
+second inlevel 1
+forceclick FashionDlg Bg/WardrobePanel/SuitViewFrame/SuitFrame/ListFrame/{4}/Plus 1
+internal delay 0.3
+--text select gloves -200 0
+
+step select dragon warrior helmet
+second inlevel 1
+forceclick FashionDlg Bg/WardrobePanel/ComposeFrame/Compose/Compose 1
+internal delay 0.3
+second Compose Fashion
+--text synthetic gloves -200 0
+
+step select dragon warrior helmet
+second inlevel 1
+forceclick FashionDlg Bg/WardrobePanel/ComposeFrame/Place/Place 1
+internal delay 0.3
+--text put into wardrobe -200 0
+second UseItem
+
+step into
+genericclick 500 135
+internal delay 0.3
+text Collect all 3 costumes and get the set effect -200 0
+
+--step select dragon warrior helmet
+--scond inlevel 1
+--forceclick FashionDlg Bg/WardrobePanel/SuitViewFrame/Close 1
+--internaldelay 0.3
+
+--step select dragon warrior helmet
+--scond inlevel 1
+--forceclick FashionDlg Bg/Close 1
+--internaldelay 0.3
+
+step select dragon warrior helmet
+second inlevel 1
+forceclick FashionDlg Bg/WardrobePanel/SuitViewFrame/SuitFrame/ListFrame/{5}/Icon 1
+internal delay 0.3
+--text select shoes -200 0
+
+step select dragon warrior helmet
+second inlevel 1
+forceclick FashionDlg Bg/WardrobePanel/ComposeFrame/Compose/{13}/Box 1
+internal delay 0.3
+--text select shoes -200 0
+
+step select dragon warrior helmet
+second inlevel 1
+forceclick ItemAccessDlg Bg/ListPanel/access103/goto 1
+internal delay 0.3
+text Go to Abyss Dungeon -200 0
+
+step select level
+overlay
+second WorldMapShow
+
+step Abyss Difficulty
+forceclick Dungeon Select Bg/Hard 1
+internal delay 0.3
+text Select Abyss Difficulty -200 0
+
+step selection level
+forceclick Dungeon Select Bg/LevelFrame/114/SprBtn 1
+internal delay 0.3
+--text Please select level 200 0
+
+step into
+generic click 470 245
+--forceclick DungeonSelect Bg/DetailFrame/Bg/First3Star 1
+internal delay 0.3
+text Abyss dungeon drop costume -200 0
+
+step into
+forceclick Dungeon Select Bg/DetailFrame/Bg/GoBattle 1
+--text enter battle -240 0
+
+end tutorial

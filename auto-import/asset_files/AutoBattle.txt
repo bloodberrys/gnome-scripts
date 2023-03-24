@@ -1,0 +1,9 @@
+start tutorial
+
+--step click auto battle
+--scond inlevel 203
+--noforceclick BattleDlg _canvas/AutoPlayContent/AutoPlayBoard/AutoPlay
+--internal delay 3
+--text start auto battle 200 0
+
+end tutorial

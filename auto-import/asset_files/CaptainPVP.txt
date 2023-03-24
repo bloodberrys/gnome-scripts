@@ -1,0 +1,29 @@
+start tutorial
+
+--step click
+--scond nostackui
+--scond inlevel 1
+--scond MainUI
+--forceclick HallDlg _canvas/BottomRight/MainMenuFrame/MainMenu/Panel2/SysGridV1/SysAActivity 1 1 0 25
+--internaldelay 0.2
+--text Click here to enter daily gameplay -200 0
+
+step Click the PVP activity tab
+second inlevel 1
+forceclick HallDlg_canvas/BottomRight/MainMenuFrame/MainMenu/Panel2/SysGridV1/SysEPVP 1 1 0 0
+internal delay 0.2
+
+step into the protection captain
+second inlevel 1
+forceclick MobaActivityDlg Bg/PVPActivityFrame/Panel/item4
+internal delay 0.2
+text This is the entrance to protect the captain -200 0
+
+step guide
+second inlevel 1
+empty
+ailin [301b0a] Multiplayer competition, protect your captain and win the team battle [-] -200
+audio Audio/VO/guide/guide16
+internal delay 0.3
+
+end tutorial

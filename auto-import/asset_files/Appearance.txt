@@ -1,0 +1,41 @@
+start tutorial
+
+step switch
+skip MenuBtnInState1
+second inlevel 1
+forceclick HallDlg_canvas/BottomRight/MenuSwitchBtn 1.4
+
+step open explicit
+scond nostackui
+second inlevel 1
+directsys 120
+second SysOpened
+
+step Open the role interface
+scond item 16375=1
+second inlevel 1
+forceclick HallDlg_canvas/BottomRight/Panel1/SysGridH1/SysAItem
+internal delay 0.5
+text Open the crafting interface -200 0
+
+step click on a weapon
+second inlevel 1
+forceclick ItemNewDlg Bg/RightPanel/Items/Panel/WrapContent/equip216375/Icon
+internal delay 0.5
+
+step Click the equip button
+second inlevel 1
+forceclick EquipToolTipDlg Bg/Bg/main/FuncFrame/Button1
+internal delay 0.5
+
+step Click the display button
+second inlevel 1
+forceclick ItemNewDlg Bg/RightPanel/EquipListPanel/ShowWearing
+internal delay 0.5
+
+step tick the display
+second inlevel 1
+forceclick ItemNewDlg Bg/RightPanel/WearingPanel/Panel/Weapon_equip
+internal delay 0.5
+
+end tutorial

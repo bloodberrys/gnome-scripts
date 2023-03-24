@@ -1,0 +1,59 @@
+start tutorial
+
+step Open the role interface
+scond nostackui
+second inlevel 1
+scond MainUI
+scond hasbody mainweapon
+scond item 1=10000
+scond item 93=4
+ailin [301b0a] Now you can strengthen [7100ff] equipment [-], Irene hopes you can strengthen the powerful equipment. [-] -220
+forceclick HallDlg_canvas/BottomRight/Panel1/SysGridH1/SysAItem 1
+audio Audio/VO/guide/guide29
+--text click character interface 190 0
+
+step Click on the equipment system
+second inlevel 1
+forceclick ItemNewDlg Bg/Tabs/XSys_Item_Equip/Bg 1
+internal delay 0.5
+
+--step Open the step-up page
+--scond inlevel 1
+--forceclick ItemDlg Bg/Tabs/XSys_Item_Enhance/Bg 1
+--internaldelay 0.3
+--text switch to advanced pagination -200 0
+
+step select equipment
+second inlevel 1
+forceclick ItemNewDlg Bg/LeftPanel/EquipFrame/item5/Icon 1
+internal delay 0.5
+--text select a piece of equipment -200 0
+
+step click to strengthen
+second inlevel 1
+forceclick EquipToolTipDlg Bg/Bg/main/FuncFrame/Button2 1
+--text strengthen 1 try -200 0
+internal delay 0.3
+
+step Click the Strengthen button
+second inlevel 1
+forceclick ItemNewDlg Bg/RightPanel/EnhanceFrame/Bg/Enhance/Bottom/EnhanceBtn 1
+text Strengthen 1 try -200 0
+audio Audio/VO/guide/guide30
+internal delay 0.3
+second EnhanceItem
+
+--step Click the harden button
+--scond inlevel 1
+--forceclick ItemDlg Bg/EnhancePanel/BtnEnhance 1
+--internaldelay 0.3
+--text try to strengthen 1 more times -200 0
+--second EnhanceItem
+
+--step close the equipment interface
+--scond level 1
+--forceclick ItemDlg Bg/Close 1
+--internaldelay 2.5
+--text close equipment interface -200 0
+
+end tutorial

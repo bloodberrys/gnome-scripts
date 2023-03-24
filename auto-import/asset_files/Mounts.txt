@@ -1,0 +1,84 @@
+start tutorial
+
+step switch
+skip MenuBtnInState1
+second inlevel 1
+forceclick HallDlg_canvas/BottomRight/MenuSwitchBtn 1.4
+
+step open mount system
+scond nostackui
+second inlevel 1
+directsys 15
+second SysOpened
+
+step Open the role interface
+scond item 702=1
+second inlevel 1
+forceclick HallDlg_canvas/BottomRight/Panel1/SysGridH1/SysAItem 1
+internal delay 0.5
+--text open skill interface -200 0
+
+step Open the backpack interface
+second inlevel 1
+forceclick ItemNewDlg Bg/Tabs/XSys_Bag_Item/Bg 1
+internal delay 0.5
+--text open skill interface -200 0
+
+step Click the gift package tab
+second inlevel 1
+forceclick ItemNewDlg Bg/RightPanel/BagListPanel/TabsFrame/item2/Bg 1
+internal delay 0.5
+
+step click on the horse sign
+second inlevel 1
+forceclick ItemNewDlg Bg/RightPanel/BagListPanel/Items/Panel/WrapContent/item702/Icon 1
+internal delay 0.3
+--text select a skill 210 0
+
+step click to call
+second inlevel 1
+forceclick ItemToolTipDlg Bg/Bg/main/FuncFrame/Button1 1
+--internaldelay 0.8
+--text select a skill 210 0
+
+step click to ride
+second inlevel 1
+forceclick PetMainDlg Bg/ContentFrame1/ContentFrame/Right/BtnMount 1
+internal delay 0.5
+--text select a skill 210 0
+
+--step click feed
+--scond inlevel 1
+--forceclick PetMainDlg Bg/ContentFrame/FeedFrame/BtnFeed 1
+--internaldelay 0.3
+--text select a skill 210 0
+
+--step boot
+--scond inlevel 1
+--empty
+--ailin [301b0a] The level of the mount can be improved through feeding, if the mount is kept hungry, the mood value will be reduced by [-] -300
+--audio Audio/VO/guide/guide20
+--internaldelay 0.3
+
+--step click feed
+--scond inlevel 1
+--forceclick PetMainDlg Bg/ContentFrame/FeedFrame/ItemPanel/Panel/WrapContent/item0/Item/Icon 1
+--internaldelay 0.3
+--text select a skill 210 0
+
+--step boot
+--scond inlevel 1
+--notewindow PetMainDlg Bg/ContentFrame/Right/DetailTip/Skill/Skill0 15|15|2000
+--ailin [301b0a] After the mount reaches a fixed level, you can learn fixed skills. You can also learn new skills by learning the skill book [-] -300
+--audio Audio/VO/guide/guide21
+--internaldelay 0.3
+
+--step click ride
+--scond inlevel 1
+--forceclick PetMainDlg Bg/ContentFrame/Right/BtnMount 1
+--internaldelay 0.3
+--text You can't wait to ride it~ Let's get on the road now! 210 0
+
+
+
+end tutorial

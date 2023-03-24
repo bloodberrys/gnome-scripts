@@ -1,0 +1,14 @@
+start tutorial
+
+step task 2 enter the battle
+noforceclick HallDlg _canvas/MainMenuFrame/MainMenu/Icon/Icon 1.4
+second WorldMapShow
+--text Click here to enter the copy -210 0
+
+--step into the abyss (instructions for gaining experience points)
+--forceclick DungeonSelect Bg/DetailFrame/Bg/GoTeamBattle 1
+--text The current abyss is accessible -220 0
+--internaldelay 0.2
+
+
+end tutorial

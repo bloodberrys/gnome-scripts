@@ -1,0 +1,28 @@
+start tutorial
+
+step task 2 enter the battle
+scond nostackui
+noforceclick HallDlg_canvas/TaskNaviPanel/HallTaskNaviFrame/Main/TaskFrame/Bg 1.4
+second WorldMapShow
+--text click here to go to level -200 0
+
+--step select chapter
+--forceclick WorldMap Bg/Panel/Maps/Map1 2
+--text Please select the first chapter 250 0
+
+step selection level
+forceclick DungeonSelect Bg/PlayTween/LevelFramePanel/chapter1/Levels/102/SprBtn 1
+internal delay 0.5
+text The monster that stole Rose appeared here 210 0
+
+--step enter
+--notewindow DungeonSelect Bg/DetailFrame/Bg/First3Star 3.5|2|-10|5
+--ailin [301b0a] You can get [7100ff] skill points for the first three-star clearance [-] Oh. [-] -200
+--audio Audio/xinshouyingdao/irin-3stargivesskillpoint
+--pause
+
+step into
+forceclick Dungeon Select Bg/DetailFrame/Bg/GoBattle 1
+text Go to level to find message -240 0
+
+end tutorial

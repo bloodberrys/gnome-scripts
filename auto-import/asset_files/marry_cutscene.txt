@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XCutSceneData>
+  <TotalFrame>430.000031</TotalFrame>
+  <CameraClip>Animation/Main_Camera/Cut_Scene/marry_cutscene</CameraClip>
+  <Name>marry_cutscene</Name>
+  <Script />
+  <Scene>Assets/XScene/Scenelib/DN_FB/gaojigu/gaojigu</Scene>
+  <TypeMask>0</TypeMask>
+  <OverrideBGM>true</OverrideBGM>
+  <Mourningborder>true</Mourningborder>
+  <AutoEnd>true</AutoEnd>
+  <Length>14.333334</Length>
+  <FieldOfView>45</FieldOfView>
+  <Trigger>ToEffect</Trigger>
+  <GeneralShow>false</GeneralShow>
+  <GeneralBigGuy>false</GeneralBigGuy>
+  <Actors>
+    <XActorDataClip>
+      <Type>Actor</Type>
+      <TimeLineAt>0</TimeLineAt>
+      <Prefab>Prefabs/NPC_bishop</Prefab>
+      <Clip>Animation/NPC_bishop/NPC_bishop_cutscene_marry</Clip>
+      <AppearX>44.80542</AppearX>
+      <AppearY>0</AppearY>
+      <AppearZ>152.6873</AppearZ>
+      <StatisticsID>0</StatisticsID>
+      <bUsingID>false</bUsingID>
+      <bToCommonPool>false</bToCommonPool>
+      <Tag />
+    </XActorDataClip>
+  </Actors>
+  <Player />
+  <Fxs />
+  <Audios>
+    <XAudioDataClip>
+      <Type>Audio</Type>
+      <TimeLineAt>0</TimeLineAt>
+      <Clip>Audio/cut_scene/wedding</Clip>
+      <BindIdx>0</BindIdx>
+      <Channel>Skill</Channel>
+    </XAudioDataClip>
+  </Audios>
+  <SubTitle>
+    <XSubTitleDataClip>
+      <Type>SubTitle</Type>
+      <TimeLineAt>5</TimeLineAt>
+      <Context>Today, under the witness of the great goddess, I declare:</Context>
+      <Duration>75</Duration>
+    </XSubTitleDataClip>
+    <XSubTitleDataClip>
+      <Type>SubTitle</Type>
+      <TimeLineAt>90</TimeLineAt>
+      <Context>This handsome gentleman, and this beautiful lady, you are officially partners! </Context>
+      <Duration>130</Duration>
+    </XSubTitleDataClip>
+    <XSubTitleDataClip>
+      <Type>SubTitle</Type>
+      <TimeLineAt>260</TimeLineAt>
+      <Context>May the goddess bless you, you will always be in love and grow old together! </Context>
+      <Duration>150</Duration>
+    </XSubTitleDataClip>
+  </SubTitle>
+  <Slash />
+</XCutSceneData>

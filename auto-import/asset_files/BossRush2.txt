@@ -1,0 +1,32 @@
+start tutorial
+
+--step switch
+--skip MenuBtnInState1
+--scond inlevel 1
+--forceclick HallDlg_canvas/BottomRight/MenuSwitchBtn 1.4
+
+step click on daily gameplay
+scond nostackui
+second inlevel 1
+--scond MainUI
+noforceclick HallDlg _canvas/BottomRight/MainMenuFrame/MainMenu/Panel2/SysGridV1/APlay 1 1 0 0 0 0 0
+internal delay 0.3
+text Click here to enter the gameplay -170 0
+
+step automatically selects the copy tab
+second inlevel 1
+autoclick MobaActivityDlg_Pure Bg/PVPActivityFrame/Up/PurePlayTab0
+internal delay 0.2
+
+step click bossrush
+second inlevel 1
+noforceclick MobaActivityDlg_Pure Bg/PVPActivityFrame/Panel/item0/daily48 1
+internal delay 0.3
+
+step Irene explains activation
+second inlevel 1
+empty
+ailin [301b0a] Dear adventurer, you can get [7100ff] heraldry fragments [-] to exchange for powerful heraldry if you clear BossRush every day~[-] -200
+internal delay 0.3
+
+end tutorial

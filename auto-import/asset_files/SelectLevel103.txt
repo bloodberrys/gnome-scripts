@@ -1,0 +1,22 @@
+start tutorial
+
+step task 4 enter the battle
+scond nostackui
+noforceclick HallDlg_canvas/TaskNaviPanel/HallTaskNaviFrame/Main/TaskFrame/Bg 1.4
+second WorldMapShow
+--text click here to go to level -200 0
+
+--step select chapter
+--forceclick WorldMap Bg/Panel/Maps/Map1 2
+--text Please select the first chapter 250 0
+
+step selection level
+forceclick DungeonSelect Bg/PlayTween/LevelFramePanel/chapter1/Levels/103/SprBtn 1
+internal delay 0.5
+text Lily ran to this direction -210 0
+
+step into
+forceclick Dungeon Select Bg/DetailFrame/Bg/GoBattle 1
+text Go to the level to find Lily -240 0
+
+end tutorial

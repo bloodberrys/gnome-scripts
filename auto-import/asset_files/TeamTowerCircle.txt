@@ -1,0 +1,16 @@
+start tutorial
+
+step click task tab
+skip InTaskTab
+second inlevel 1
+noforceclick HallDlg_canvas/TaskNaviPanel/HallTaskNaviFrame/Main/TabList/Task 1.4
+
+step Find Irene to accept the task
+scond cutsceneover
+second inlevel 1
+function tasktop 7101
+noforceclick HallDlg_canvas/TaskNaviPanel/HallTaskNaviFrame/Main/TaskFrame/Bg 1.4
+text Let's see what new tasks have been received~ 250 0
+second Talking Npc
+
+end tutorial

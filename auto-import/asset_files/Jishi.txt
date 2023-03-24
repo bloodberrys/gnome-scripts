@@ -1,0 +1,31 @@
+start tutorial
+
+
+step bazaar
+scond nostackui
+second inlevel 1
+scond MainUI
+directsys 572
+second SysOpened
+
+step click benefits
+second inlevel 1
+forceclick HallDlg_canvas/SecondMenuFrame/SecondMenu/H2/SysGridH2_1/SysGWelfare 1
+internal delay 0.5
+
+step click foreign domain
+second inlevel 1
+forceclick WelfareDlg Bg/TabList/TabGrid/item2 1
+internal delay 0.5
+
+
+step guide
+second inlevel 1
+empty
+ailin [301b0a] Mr. Pope has imported a new batch of goods from foreign lands. You can use gold coins, dragon coins, and diamonds to buy them. [-] -200
+--audio Audio/VO/guide/guide11
+internal delay 0.5
+
+
+
+end tutorial

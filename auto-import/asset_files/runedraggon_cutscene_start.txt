@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XCutSceneData>
+  <TotalFrame>365</TotalFrame>
+  <CameraClip>Animation/Main_Camera/Cut_Scene/runedragon_cutscene_start</CameraClip>
+  <Name>runedraggon_cutscene_start</Name>
+  <Script />
+  <Scene>Assets/XScene/Scenelib/DN_FB/runedragon06_boss/runedragon06_boss</Scene>
+  <TypeMask>-1</TypeMask>
+  <OverrideBGM>true</OverrideBGM>
+  <Mourningborder>true</Mourningborder>
+  <AutoEnd>true</AutoEnd>
+  <Length>12.166667</Length>
+  <FieldOfView>45</FieldOfView>
+  <Trigger>ToEffect</Trigger>
+  <GeneralShow>false</GeneralShow>
+  <GeneralBigGuy>false</GeneralBigGuy>
+  <Actors>
+    <XActorDataClip>
+      <Type>Actor</Type>
+      <TimeLineAt>0</TimeLineAt>
+      <Prefab>Prefabs/Monster_runedragon</Prefab>
+      <Clip>Animation/Monster_runedragon/Monster_runedragon_cutscene_start</Clip>
+      <AppearX>75.85</AppearX>
+      <AppearY>0</AppearY>
+      <AppearZ>70.56</AppearZ>
+      <StatisticsID>0</StatisticsID>
+      <bUsingID>false</bUsingID>
+      <bToCommonPool>false</bToCommonPool>
+      <Tag />
+    </XActorDataClip>
+  </Actors>
+  <Player />
+  <Fxs />
+  <Audios />
+  <SubTitle />
+  <Slash>
+    <XSlashDataClip>
+      <Type>Slash</Type>
+      <TimeLineAt>75</TimeLineAt>
+      <Duration>9.5</Duration>
+      <Name>Rune Dragon Mammon</Name>
+      <Discription />
+      <AnchorX>0</AnchorX>
+      <AnchorY>-200</AnchorY>
+    </XSlashDataClip>
+  </Slash>
+</XCutSceneData>

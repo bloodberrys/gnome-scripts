@@ -1,0 +1,33 @@
+start tutorial
+
+--step press left button
+--scond inlevel 201
+--scond bossshow
+--notewindow BattleQTEDlg Bg/Bind/Bg 8.5|5|0
+--ailin [301b0a] Oops, got tangled in vines! Come on, alternately tap the keys to break free. [-] -200
+--buttomtext Alternately click the left and right buttons to get rid of the winding.
+--pause
+
+step press the left button
+scond nostackui
+second inlevel 201
+forceclick BattleQTEDlg Bg/Bind/Left/Light/Bg 1.5
+--text Click the left button 200 0
+ailin [301b0a] Oops, got entangled in vines! Come on, alternately tap the keys to break free. [-] 0
+pause
+
+step right click
+second inlevel 201
+forceclick BattleQTEDlg Bg/Bind/Right/Light/Bg 1.5
+--text Click the right button -200 0
+--ailin [301b0a] Click [7100ff] the right button [-]. [-] -200
+pause
+
+step press the left button
+second inlevel 201
+forceclick BattleQTEDlg Bg/Bind/Left/Light/Bg 1.5
+--text Click the left button 200 0
+pause
+
+
+end tutorial
