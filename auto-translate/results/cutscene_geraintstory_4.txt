@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XCutSceneData>
+  <TotalFrame>580</TotalFrame>
+  <CameraClip>Animation/Main_Camera/Main_camera_cutscene_geraintstory_4</CameraClip>
+  <Name>cutscene_geraintstory_4</Name>
+  <Script />
+  <Scene>Assets/XScene/Scenelib/DN_Lv_3/DN_Lv3_3_6/DN_Lv3_3_6</Scene>
+  <TypeMask>-1</TypeMask>
+  <OverrideBGM>true</OverrideBGM>
+  <Mourningborder>true</Mourningborder>
+  <AutoEnd>true</AutoEnd>
+  <Length>19.333334</Length>
+  <FieldOfView>45</FieldOfView>
+  <Trigger>ToEffect</Trigger>
+  <GeneralShow>false</GeneralShow>
+  <GeneralBigGuy>false</GeneralBigGuy>
+  <Actors>
+    <XActorDataClip>
+      <Type>Actor</Type>
+      <TimeLineAt>0</TimeLineAt>
+      <Prefab>Prefabs/Monster_shadow_npc</Prefab>
+      <Clip>Animation/Monster_shadow/Monster_shadow_attack</Clip>
+      <AppearX>0</AppearX>
+      <AppearY>0</AppearY>
+      <AppearZ>0</AppearZ>
+      <StatisticsID>0</StatisticsID>
+      <bUsingID>false</bUsingID>
+      <bToCommonPool>false</bToCommonPool>
+      <Tag />
+    </XActorDataClip>
+    <XActorDataClip>
+      <Type>Actor</Type>
+      <TimeLineAt>100</TimeLineAt>
+      <Prefab>Prefabs/NPC_Velskud</Prefab>
+      <Clip>Animation/NPC_Velskud/NPC_velskud_cutscene_geraintstory_4</Clip>
+      <AppearX>67.72</AppearX>
+      <AppearY>0</AppearY>
+      <AppearZ>145.61</AppearZ>
+      <StatisticsID>0</StatisticsID>
+      <bUsingID>false</bUsingID>
+      <bToCommonPool>false</bToCommonPool>
+      <Tag />
+    </XActorDataClip>
+    <XActorDataClip>
+      <Type>Actor</Type>
+      <TimeLineAt>200</TimeLineAt>
+      <Prefab>Prefabs/NPC_geraint</Prefab>
+      <Clip>Animation/NPC_geraint/NPC_geraint_cutscene_geraintstory_4</Clip>
+      <AppearX>67.96</AppearX>
+      <AppearY>0</AppearY>
+      <AppearZ>166.78</AppearZ>
+      <StatisticsID>0</StatisticsID>
+      <bUsingID>false</bUsingID>
+      <bToCommonPool>false</bToCommonPool>
+      <Tag />
+    </XActorDataClip>
+  </Actors>
+  <Player />
+  <Fxs>
+    <XFxDataClip>
+      <Type>Fx</Type>
+      <TimeLineAt>0</TimeLineAt>
+      <Fx>Effects/FX_Particle/Scene/Lzg_CutScene/cutscene_geraint_goldenloop</Fx>
+      <BindIdx>-1</BindIdx>
+      <Bone />
+      <Scale>1</Scale>
+      <Follow>true</Follow>
+      <Destroy_Delay>0</Destroy_Delay>
+      <AppearX>67.96</AppearX>
+      <AppearY>5.915</AppearY>
+      <AppearZ>166.78</AppearZ>
+      <Face>0</Face>
+    </XFxDataClip>
+    <XFxDataClip>
+      <Type>Fx</Type>
+      <TimeLineAt>296</TimeLineAt>
+      <Fx>Effects/FX_Particle/Scene/Lzg_CutScene/cutscene_Velskud_step</Fx>
+      <BindIdx>-1</BindIdx>
+      <Bone />
+      <Scale>1</Scale>
+      <Follow>true</Follow>
+      <Destroy_Delay>0</Destroy_Delay>
+      <AppearX>67.475</AppearX>
+      <AppearY>5.915</AppearY>
+      <AppearZ>165.484</AppearZ>
+      <Face>0</Face>
+    </XFxDataClip>
+    <XFxDataClip>
+      <Type>Fx</Type>
+      <TimeLineAt>480</TimeLineAt>
+      <Fx>Effects/FX_Particle/Scene/Lzg_CutScene/cutscene_geraint_burning</Fx>
+      <BindIdx>-1</BindIdx>
+      <Bone />
+      <Scale>1</Scale>
+      <Follow>true</Follow>
+      <Destroy_Delay>0</Destroy_Delay>
+      <AppearX>0</AppearX>
+      <AppearY>0</AppearY>
+      <AppearZ>0</AppearZ>
+      <Face>0</Face>
+    </XFxDataClip>
+  </Fxs>
+  <Audios>
+    <XAudioDataClip>
+      <Type>Audio</Type>
+      <TimeLineAt>0</TimeLineAt>
+      <Clip>Audio/cut_scene/cutscene_geraintstory_4</Clip>
+      <BindIdx>0</BindIdx>
+      <Channel>Skill</Channel>
+    </XAudioDataClip>
+  </Audios>
+  <SubTitle>
+    <XSubTitleDataClip>
+      <Type>SubTitle</Type>
+      <TimeLineAt>210</TimeLineAt>
+      <Context>Geraint...</Context>
+      <Duration>60</Duration>
+    </XSubTitleDataClip>
+    <XSubTitleDataClip>
+      <Type>SubTitle</Type>
+      <TimeLineAt>420</TimeLineAt>
+      <Context>My friend...</Context>
+      <Duration>60</Duration>
+    </XSubTitleDataClip>
+    <XSubTitleDataClip>
+      <Type>SubTitle</Type>
+      <TimeLineAt>510</TimeLineAt>
+      <Context>Farewell to...</Context>
+      <Duration>60</Duration>
+    </XSubTitleDataClip>
+  </SubTitle>
+  <Slash />
+</XCutSceneData>

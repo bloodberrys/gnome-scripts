@@ -1,0 +1,27 @@
+start tutorial
+
+step 打开角色界面
+scond inlevel 1
+forceclick HallDlg _canvas/MainMenuFrame/MainMenu/Panel1/SysGridH1/SysAChar 1
+internaldelay 1
+text 打开角色界面 -200 0
+
+step 打开纹章页面
+scond inlevel 1
+forceclick CharacterDlg Bg/Tabs/XSys_Char_Emblem/Bg 1
+internaldelay 0.3
+text 切换到纹章分页 -200 0
+
+step 选择纹章
+scond inlevel 1
+forceclick CharacterDlg Bg/EmblemListPanel/Panel/WrapContent/{1}/Icon 1
+internaldelay 0.3
+text 选择纹章 -200 0
+
+step 装备纹章
+scond inlevel 1
+forceclick AttrToolTipDlg Bg/main/FuncFrame/Button1 1
+internaldelay 0.3
+text 装备纹章 -200 0
+
+end tutorial

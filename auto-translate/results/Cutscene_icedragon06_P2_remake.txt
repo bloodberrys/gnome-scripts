@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XCutSceneData>
+  <TotalFrame>455</TotalFrame>
+  <CameraClip>Animation/Main_Camera/Main_camera_icedragon_S7_6_6_start</CameraClip>
+  <Name>Cutscene_icedragon06_P2_remake</Name>
+  <Script />
+  <Scene>Assets/XScene/Scenelib/DN_FB/icedragon_S7/icedragon_S7</Scene>
+  <TypeMask>-1</TypeMask>
+  <OverrideBGM>true</OverrideBGM>
+  <Mourningborder>true</Mourningborder>
+  <AutoEnd>true</AutoEnd>
+  <Length>15.166667</Length>
+  <FieldOfView>45</FieldOfView>
+  <Trigger>ToEffect</Trigger>
+  <GeneralShow>false</GeneralShow>
+  <GeneralBigGuy>false</GeneralBigGuy>
+  <Actors>
+    <XActorDataClip>
+      <Type>Actor</Type>
+      <TimeLineAt>0</TimeLineAt>
+      <Prefab>Prefabs/NPC_hiver2</Prefab>
+      <Clip>Animation/NPC_hiver2/Npc_Hiver2_camera_icedragon_S7_6_3_start</Clip>
+      <AppearX>114.182358</AppearX>
+      <AppearY>0</AppearY>
+      <AppearZ>160.903885</AppearZ>
+      <StatisticsID>0</StatisticsID>
+      <bUsingID>false</bUsingID>
+      <bToCommonPool>false</bToCommonPool>
+      <Tag />
+    </XActorDataClip>
+    <XActorDataClip>
+      <Type>Actor</Type>
+      <TimeLineAt>0</TimeLineAt>
+      <Prefab>Prefabs/NPC_assassin_gui</Prefab>
+      <Clip>Animation/NPC_assassin/Npc_Assassin_camera_icedragon_S7_6_3_start</Clip>
+      <AppearX>120.332161</AppearX>
+      <AppearY>0</AppearY>
+      <AppearZ>161.673</AppearZ>
+      <StatisticsID>0</StatisticsID>
+      <bUsingID>false</bUsingID>
+      <bToCommonPool>false</bToCommonPool>
+      <Tag />
+    </XActorDataClip>
+  </Actors>
+  <Player />
+  <Fxs>
+    <XFxDataClip>
+      <Type>Fx</Type>
+      <TimeLineAt>300</TimeLineAt>
+      <Fx>Effects/FX_Particle/Scene/Lzg_CutScene/Monster_icedragon_midcutscene_Clip01</Fx>
+      <BindIdx>0</BindIdx>
+      <Bone>Bip01_hiver2/Bip01 Spine_hiver2/Bip01 Spine1_hiver2/Bip01 Neck_hiver2/Bip01 L Clavicle_hiver2/Bip01 L UpperArm_hiver2/Bip01 L Forearm_hiver2/Bip01 L Hand_hiver2</Bone>
+      <Scale>1</Scale>
+      <Follow>true</Follow>
+      <Destroy_Delay>0</Destroy_Delay>
+      <AppearX>0</AppearX>
+      <AppearY>0</AppearY>
+      <AppearZ>0</AppearZ>
+      <Face>0</Face>
+    </XFxDataClip>
+    <XFxDataClip>
+      <Type>Fx</Type>
+      <TimeLineAt>355</TimeLineAt>
+      <Fx>Effects/FX_Particle/Scene/Lzg_CutScene/Monster_icedragon_midcutscene_Clip03</Fx>
+      <BindIdx>0</BindIdx>
+      <Bone>Bip01_hiver2/Bip01 Spine_hiver2/Bip01 Spine1_hiver2/Bip01 Neck_hiver2/Bip01 L Clavicle_hiver2/Bip01 L UpperArm_hiver2/Bip01 L Forearm_hiver2/Bip01 L Hand_hiver2</Bone>
+      <Scale>1</Scale>
+      <Follow>true</Follow>
+      <Destroy_Delay>0</Destroy_Delay>
+      <AppearX>0</AppearX>
+      <AppearY>0</AppearY>
+      <AppearZ>0</AppearZ>
+      <Face>0</Face>
+    </XFxDataClip>
+  </Fxs>
+  <Audios />
+  <SubTitle>
+    <XSubTitleDataClip>
+      <Type>SubTitle</Type>
+      <TimeLineAt>75</TimeLineAt>
+      <Context>Guy...</Context>
+      <Duration>45</Duration>
+    </XSubTitleDataClip>
+    <XSubTitleDataClip>
+      <Type>SubTitle</Type>
+      <TimeLineAt>150</TimeLineAt>
+      <Context>Enough is enough...you have a good rest..</Context>
+      <Duration>60</Duration>
+    </XSubTitleDataClip>
+    <XSubTitleDataClip>
+      <Type>SubTitle</Type>
+      <TimeLineAt>245</TimeLineAt>
+      <Context>I will continue your power....</Context>
+      <Duration>70</Duration>
+    </XSubTitleDataClip>
+  </SubTitle>
+  <Slash />
+</XCutSceneData>

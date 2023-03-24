@@ -1,0 +1,22 @@
+start tutorial
+
+step Irene comes out bb
+scond nostackui
+second inlevel 1
+scond MainUI
+skip RadioNoCanOpen
+--empty
+--ailin [301b0a] Dragon Nest Radio is on, come and listen! [-] -200
+forceclick RadioDlg Btn 1
+text Click here to start radio -200 0
+internal delay 0.2
+
+step click on the task point
+second inlevel 1
+noforceclick HallDlg_canvas/TaskNaviPanel/HallTaskNaviFrame/Main/TaskFrame/Bg 1.4
+
+step click on the task point
+second inlevel 1
+noforceclick HallDlg_canvas/TaskNaviPanel/HallTaskNaviFrame/Main/TaskFrame/Bg 1.4
+
+end tutorial

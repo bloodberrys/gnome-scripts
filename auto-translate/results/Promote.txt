@@ -1,0 +1,87 @@
+start tutorial
+
+step switch
+skip MenuBtnInState1
+second inlevel 1
+forceclick HallDlg_canvas/BottomRight/MenuSwitchBtn 1.4
+
+step Open the skill interface
+scond nostackui
+second inlevel 1
+scond MainUI
+ailin [301b0a] is awesome! You have met the conditions for [7100ff] job change[-], please follow me later. [-] -200
+forceclick HallDlg_canvas/BottomRight/Panel1/SysGridH1/SysBSkill 1
+audio Audio/VO/guide/guide7
+internal delay 0.2
+--text open skill interface -200 0
+
+step Click to turn to the tab
+second inlevel 1
+forceclick SkillTree Bg/Tabs/item1 1
+internal delay 0.3
+--text Click here to start job transfer -200 0
+
+step guide
+second inlevel 1
+empty
+ailin [301b0a] You can view different career information here, "accept the trial" and you can start the journey of changing careers[-] -200
+audio Audio/VO/guide/guide8
+internal delay 0.3
+
+step Click on job transfer trial
+second inlevel 1
+forceclick SkillTree Bg/TransferFrame/Bg/TurnProBtn 1
+internal delay 0.3
+text Click here to start job transfer -200 0
+
+--step select career orientation
+--scond inlevel 1
+--ailin [301b0a] Warrior, please review [7100ff] career direction [-]. Each post-change job has its own [7100ff]skill characteristics[-]. [-] -450
+--forceclick SkillTree Bg/PromoteFrame/ShowFrame/Tab1 1
+--internaldelay 0.2
+--text open skill interface -200 0
+
+step Click the task shrink button
+skip HasTaskTab
+second inlevel 1
+scond dotaskbattle 21
+noforceclick HallDlg_canvas/TaskNaviPanel/HallTaskNaviFrame/TaskSwitchBtn 1.4
+internal delay 0.7
+
+step Enter the trial level
+--skip HasTaskTab
+second inlevel 1
+scond dotaskbattle 21
+function tasktop 1
+forceclick HallDlg_canvas/TaskNaviPanel/HallTaskNaviFrame/Main/TaskFrame/Panel/WrapContent/item0/BackDrop 1
+internal delay 0.7
+
+step Click the task shrink button
+skip HasTaskTab
+second inlevel 1
+scond tasks scene finished 1
+forceclick HallDlg_canvas/TaskNaviPanel/HallTaskNaviFrame/TaskSwitchBtn 1.4
+internal delay 0.7
+
+step Complete job transfer task
+second inlevel 1
+scond tasks scene finished 1
+function tasktop 1
+forceclick HallDlg_canvas/TaskNaviPanel/HallTaskNaviFrame/Main/TaskFrame/Panel/WrapContent/item0/BackDrop 1
+internal delay 0.7
+
+step Click the task shrink button
+skip HasTaskTab
+second inlevel 1
+scond taskover 1
+forceclick HallDlg_canvas/TaskNaviPanel/HallTaskNaviFrame/TaskSwitchBtn 1.4
+internal delay 0.7
+
+step choose a career
+second inlevel 1
+empty
+ailin [301b0a] Dear adventurer, you can change jobs now, choose your favorite job! [-] -200
+audio Audio/VO/guide/guide9
+internal delay 0.7
+
+end tutorial

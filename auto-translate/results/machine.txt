@@ -1,0 +1,43 @@
+start tutorial
+
+step switch
+skip MenuBtnInState1
+second inlevel 1
+forceclick HallDlg_canvas/BottomRight/MenuSwitchBtn 1.4
+
+step open mech system
+scond nostackui
+second inlevel 1
+directsys 705
+second SysOpened
+
+step Open the role interface
+scond item 829=10
+second inlevel 1
+forceclick HallDlg_canvas/BottomRight/Panel1/SysGridH1/SysAItem 1
+internal delay 0.5
+
+step Open the backpack interface
+second inlevel 1
+forceclick ItemNewDlg Bg/Tabs/XSys_Bag_Item/Bg 1
+internal delay 0.5
+
+step click black mountain sluggers
+second inlevel 1
+forceclick ItemNewDlg Bg/RightPanel/BagListPanel/Items/Panel/WrapContent/item829/Icon 1
+internal delay 0.5
+
+step Click to use
+second inlevel 1
+forceclick ItemToolTipDlg Bg/Bg/main/FuncFrame/Button1 1
+internal delay 0.3
+
+step click black mountain sluggers
+second inlevel 1
+forceclick MachineArmorDlg Bg/MachineScrollview/Wrapcontent/19000 1
+
+step Click to activate
+second inlevel 1
+forceclick MachineArmorDlg Bg/Right/Btn2/ActivationBtn 1
+
+end tutorial

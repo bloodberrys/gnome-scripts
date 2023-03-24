@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XCutSceneData>
+  <TotalFrame>900.000061</TotalFrame>
+  <CameraClip>Animation/Main_Camera/Main_camera_icedragon_1_6_cutscene</CameraClip>
+  <Name>Icedragon_1_6_cutscene</Name>
+  <Script />
+  <Scene>Assets/XScene/Scenelib/DN_FB/snowmountain01/snowmountain01</Scene>
+  <TypeMask>-1</TypeMask>
+  <OverrideBGM>true</OverrideBGM>
+  <Mourningborder>true</Mourningborder>
+  <AutoEnd>true</AutoEnd>
+  <Length>30.0000019</Length>
+  <FieldOfView>45</FieldOfView>
+  <Trigger>ToEffect</Trigger>
+  <GeneralShow>false</GeneralShow>
+  <GeneralBigGuy>false</GeneralBigGuy>
+  <Actors>
+    <XActorDataClip>
+      <Type>Actor</Type>
+      <TimeLineAt>0</TimeLineAt>
+      <Prefab>Prefabs/NPC_hiver2</Prefab>
+      <Clip>Animation/NPC_hiver/NPC_hiver_icedragon_1_6_cutscene</Clip>
+      <AppearX>71.04912</AppearX>
+      <AppearY>0</AppearY>
+      <AppearZ>168.176346</AppearZ>
+      <StatisticsID>0</StatisticsID>
+      <bUsingID>false</bUsingID>
+      <bToCommonPool>false</bToCommonPool>
+      <Tag />
+    </XActorDataClip>
+    <XActorDataClip>
+      <Type>Actor</Type>
+      <TimeLineAt>0</TimeLineAt>
+      <Prefab>Prefabs/Monster_darkelf_blue</Prefab>
+      <Clip>Animation/Monster_darkelf/Monster_darkelf_icedragon_1_6_cutscene01</Clip>
+      <AppearX>68.02985</AppearX>
+      <AppearY>0</AppearY>
+      <AppearZ>163.557373</AppearZ>
+      <StatisticsID>0</StatisticsID>
+      <bUsingID>false</bUsingID>
+      <bToCommonPool>false</bToCommonPool>
+      <Tag />
+    </XActorDataClip>
+    <XActorDataClip>
+      <Type>Actor</Type>
+      <TimeLineAt>0</TimeLineAt>
+      <Prefab>Prefabs/Monster_darkelf_blue</Prefab>
+      <Clip>Animation/Monster_darkelf/Monster_darkelf_icedragon_1_6_cutscene02</Clip>
+      <AppearX>71.19284</AppearX>
+      <AppearY>0</AppearY>
+      <AppearZ>161.504578</AppearZ>
+      <StatisticsID>0</StatisticsID>
+      <bUsingID>false</bUsingID>
+      <bToCommonPool>false</bToCommonPool>
+      <Tag />
+    </XActorDataClip>
+    <XActorDataClip>
+      <Type>Actor</Type>
+      <TimeLineAt>0</TimeLineAt>
+      <Prefab>Prefabs/Monster_darkelf_blue</Prefab>
+      <Clip>Animation/Monster_darkelf/Monster_darkelf_icedragon_1_6_cutscene03</Clip>
+      <AppearX>74.81545</AppearX>
+      <AppearY>0</AppearY>
+      <AppearZ>162.988388</AppearZ>
+      <StatisticsID>0</StatisticsID>
+      <bUsingID>false</bUsingID>
+      <bToCommonPool>false</bToCommonPool>
+      <Tag />
+    </XActorDataClip>
+    <XActorDataClip>
+      <Type>Actor</Type>
+      <TimeLineAt>0</TimeLineAt>
+      <Prefab>Prefabs/Monster_icedragon</Prefab>
+      <Clip>Animation/Monster_icedragon/Monster_icedragon_icedragon_1_6_cutscene</Clip>
+      <AppearX>69.81867</AppearX>
+      <AppearY>0</AppearY>
+      <AppearZ>176.501312</AppearZ>
+      <StatisticsID>0</StatisticsID>
+      <bUsingID>false</bUsingID>
+      <bToCommonPool>false</bToCommonPool>
+      <Tag />
+    </XActorDataClip>
+  </Actors>
+  <Player />
+  <Fxs>
+    <XFxDataClip>
+      <Type>Fx</Type>
+      <TimeLineAt>265</TimeLineAt>
+      <Fx>Effects/FX_Particle/Scene/Lzg_CutScene/story_icedragon_coldair_03</Fx>
+      <BindIdx>0</BindIdx>
+      <Bone>Bip01_hiver2/Bip01 Spine_hiver2/Bip01 Spine1_hiver2/Bip01 Neck_hiver2/Bip01 R Clavicle_hiver2/Bip01 R UpperArm_hiver2/Bip01 R Forearm_hiver2/Bip01 R Hand_hiver2/Bip01 R Finger0_hiver2</Bone>
+      <Scale>1</Scale>
+      <Follow>true</Follow>
+      <Destroy_Delay>0</Destroy_Delay>
+      <AppearX>0</AppearX>
+      <AppearY>0</AppearY>
+      <AppearZ>0</AppearZ>
+      <Face>0</Face>
+    </XFxDataClip>
+    <XFxDataClip>
+      <Type>Fx</Type>
+      <TimeLineAt>270</TimeLineAt>
+      <Fx>Effects/FX_Particle/Scene/Lzg_CutScene/story_icedragon_coldair_01</Fx>
+      <BindIdx>-1</BindIdx>
+      <Bone />
+      <Scale>1</Scale>
+      <Follow>true</Follow>
+      <Destroy_Delay>0</Destroy_Delay>
+      <AppearX>71.08</AppearX>
+      <AppearY>25.741</AppearY>
+      <AppearZ>168.044</AppearZ>
+      <Face>0</Face>
+    </XFxDataClip>
+    <XFxDataClip>
+      <Type>Fx</Type>
+      <TimeLineAt>315</TimeLineAt>
+      <Fx>Effects/FX_Particle/Scene/Lzg_CutScene/story_icedragon_coldair_02</Fx>
+      <BindIdx>-1</BindIdx>
+      <Bone />
+      <Scale>1</Scale>
+      <Follow>true</Follow>
+      <Destroy_Delay>0</Destroy_Delay>
+      <AppearX>71.08</AppearX>
+      <AppearY>25.741</AppearY>
+      <AppearZ>168.044</AppearZ>
+      <Face>0</Face>
+    </XFxDataClip>
+    <XFxDataClip>
+      <Type>Fx</Type>
+      <TimeLineAt>333</TimeLineAt>
+      <Fx>Effects/FX_Particle/Scene/Lzg_CutScene/story_icedragon_freezed_01</Fx>
+      <BindIdx>-1</BindIdx>
+      <Bone />
+      <Scale>1</Scale>
+      <Follow>true</Follow>
+      <Destroy_Delay>0</Destroy_Delay>
+      <AppearX>70.175</AppearX>
+      <AppearY>25.199</AppearY>
+      <AppearZ>164.935</AppearZ>
+      <Face>0</Face>
+    </XFxDataClip>
+    <XFxDataClip>
+      <Type>Fx</Type>
+      <TimeLineAt>337</TimeLineAt>
+      <Fx>Effects/FX_Particle/Scene/Lzg_CutScene/story_icedragon_freezed_02</Fx>
+      <BindIdx>-1</BindIdx>
+      <Bone />
+      <Scale>1</Scale>
+      <Follow>true</Follow>
+      <Destroy_Delay>0</Destroy_Delay>
+      <AppearX>71.11</AppearX>
+      <AppearY>25.199</AppearY>
+      <AppearZ>164.652</AppearZ>
+      <Face>0</Face>
+    </XFxDataClip>
+    <XFxDataClip>
+      <Type>Fx</Type>
+      <TimeLineAt>342</TimeLineAt>
+      <Fx>Effects/FX_Particle/Scene/Lzg_CutScene/story_icedragon_freezed_03</Fx>
+      <BindIdx>-1</BindIdx>
+      <Bone />
+      <Scale>1</Scale>
+      <Follow>true</Follow>
+      <Destroy_Delay>0</Destroy_Delay>
+      <AppearX>72.202</AppearX>
+      <AppearY>25.372</AppearY>
+      <AppearZ>165.149</AppearZ>
+      <Face>0</Face>
+    </XFxDataClip>
+  </Fxs>
+  <Audios />
+  <SubTitle>
+    <XSubTitleDataClip>
+      <Type>SubTitle</Type>
+      <TimeLineAt>100</TimeLineAt>
+      <Context>Ice Dragon, you have no escape! </Context>
+      <Duration>100</Duration>
+    </XSubTitleDataClip>
+    <XSubTitleDataClip>
+      <Type>SubTitle</Type>
+      <TimeLineAt>300</TimeLineAt>
+      <Context>Just rely on you bastards? </Context>
+      <Duration>100</Duration>
+    </XSubTitleDataClip>
+    <XSubTitleDataClip>
+      <Type>SubTitle</Type>
+      <TimeLineAt>400</TimeLineAt>
+      <Context>I really don't know the heights of the sky and the earth...</Context>
+      <Duration>100</Duration>
+    </XSubTitleDataClip>
+    <XSubTitleDataClip>
+      <Type>SubTitle</Type>
+      <TimeLineAt>500</TimeLineAt>
+      <Context>Ice Dragon, are you calling me? </Context>
+      <Duration>100</Duration>
+    </XSubTitleDataClip>
+    <XSubTitleDataClip>
+      <Type>SubTitle</Type>
+      <TimeLineAt>685</TimeLineAt>
+      <Context>A long time ago, people didn't call me Ice Dragon, they called me Ibel...</Context>
+      <Duration>60</Duration>
+    </XSubTitleDataClip>
+  </SubTitle>
+  <Slash />
+</XCutSceneData>

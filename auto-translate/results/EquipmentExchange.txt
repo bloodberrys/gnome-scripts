@@ -1,0 +1,32 @@
+start tutorial
+
+--step switch
+--skip MenuBtnInState1
+--scond inlevel 1
+--forceclick HallDlg_canvas/BottomRight/MenuSwitchBtn 1.4
+
+step Click on the mall
+scond nostackui
+second inlevel 1
+--scond MainUI
+noforceclick HallDlg _canvas/SecondMenuFrame/SecondMenu/H2/SysGridH2_1/SysCGameMall_Pure 1 1 0 0 0 0 0
+internal delay 0.3
+text open mall -170 0
+
+step Click the store tab
+second inlevel 1
+noforceclick GameMall Bg/Tabs/XSys_Mall/Bg 1
+internal delay 0.3
+
+step Click on the equipment store
+second inlevel 1
+noforceclick GameMall Bg/ShopFrame/Bg/RechargeFrame/ScrollView/Grid/item0 1
+internal delay 0.3
+
+step Irene explains activation
+second inlevel 1
+empty
+ailin [301b0a] Dear adventurer, the equipment materials obtained by clearing the lair and dragon books can be exchanged for powerful equipment here [7100ff] [-] Oh~ [-] -200
+internal delay 0.3
+
+end tutorial

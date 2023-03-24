@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XCutSceneData>
+  <TotalFrame>533.000061</TotalFrame>
+  <CameraClip>Animation/Main_Camera/Main_Camera_RedDragon_1_4_cutscene_start</CameraClip>
+  <Name>RedDragon_1_4_cutscene</Name>
+  <Script />
+  <Scene>Assets/XScene/Scenelib/DN_Lv_1/DN_Lv1_1_5/DN_Lv1_1_5</Scene>
+  <TypeMask>-1</TypeMask>
+  <OverrideBGM>true</OverrideBGM>
+  <Mourningborder>true</Mourningborder>
+  <AutoEnd>true</AutoEnd>
+  <Length>17.7666683</Length>
+  <FieldOfView>45</FieldOfView>
+  <Trigger>ToEffect</Trigger>
+  <GeneralShow>false</GeneralShow>
+  <GeneralBigGuy>false</GeneralBigGuy>
+  <Actors>
+    <XActorDataClip>
+      <Type>Actor</Type>
+      <TimeLineAt>0</TimeLineAt>
+      <Prefab>Prefabs/NPC_pether</Prefab>
+      <Clip>Animation/NPC_pether/NPC_pether_cutscene_RedDragon_1_4_start</Clip>
+      <AppearX>39.67242</AppearX>
+      <AppearY>0</AppearY>
+      <AppearZ>50.40505</AppearZ>
+      <StatisticsID>0</StatisticsID>
+      <bUsingID>false</bUsingID>
+      <bToCommonPool>false</bToCommonPool>
+      <Tag />
+    </XActorDataClip>
+    <XActorDataClip>
+      <Type>Actor</Type>
+      <TimeLineAt>210</TimeLineAt>
+      <Prefab>Prefabs/NPC_herobattle_argenta</Prefab>
+      <Clip>Animation/NPC_argent/NPC_argent_cutscene_RedDragon_1_4_start</Clip>
+      <AppearX>33.92641</AppearX>
+      <AppearY>0</AppearY>
+      <AppearZ>46.98542</AppearZ>
+      <StatisticsID>0</StatisticsID>
+      <bUsingID>false</bUsingID>
+      <bToCommonPool>false</bToCommonPool>
+      <Tag />
+    </XActorDataClip>
+  </Actors>
+  <Player />
+  <Fxs>
+    <XFxDataClip>
+      <Type>Fx</Type>
+      <TimeLineAt>335</TimeLineAt>
+      <Fx>Effects/FX_Particle/Scene/Lzg_CutScene/RedDragon_1_4_Clip01</Fx>
+      <BindIdx>0</BindIdx>
+      <Bone>Bip01_pether/Bip01 Pelvis_pether/~BoxBone01_pether</Bone>
+      <Scale>1</Scale>
+      <Follow>true</Follow>
+      <Destroy_Delay>0</Destroy_Delay>
+      <AppearX>0</AppearX>
+      <AppearY>0</AppearY>
+      <AppearZ>0</AppearZ>
+      <Face>0</Face>
+    </XFxDataClip>
+  </Fxs>
+  <Audios>
+    <XAudioDataClip>
+      <Type>Audio</Type>
+      <TimeLineAt>0</TimeLineAt>
+      <Clip>Audio/cut_scene/RedDragon_1_4_cutscene</Clip>
+      <BindIdx>0</BindIdx>
+      <Channel>Skill</Channel>
+    </XAudioDataClip>
+  </Audios>
+  <SubTitle>
+    <XSubTitleDataClip>
+      <Type>SubTitle</Type>
+      <TimeLineAt>45</TimeLineAt>
+      <Context>Is that you? ! Argenta...</Context>
+      <Duration>60</Duration>
+    </XSubTitleDataClip>
+    <XSubTitleDataClip>
+      <Type>SubTitle</Type>
+      <TimeLineAt>350</TimeLineAt>
+      <Context>Peda, do you know what you're doing? </Context>
+      <Duration>80</Duration>
+    </XSubTitleDataClip>
+    <XSubTitleDataClip>
+      <Type>SubTitle</Type>
+      <TimeLineAt>450</TimeLineAt>
+      <Context>I am well aware. </Context>
+      <Duration>60</Duration>
+    </XSubTitleDataClip>
+  </SubTitle>
+  <Slash />
+</XCutSceneData>

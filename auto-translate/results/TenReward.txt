@@ -1,0 +1,23 @@
+start tutorial
+
+step lottery
+scond nostackui
+directsys 31
+--newsys 31
+--second SysOpened
+
+step Ten consecutive draws
+second inlevel 1
+scond MainUI
+ailin [301b0a] tells you a secret, you can quickly get [7100ff] fashion[-] through dragon eggs, let's have a look. [-] -200
+forceclick HallDlg_canvas/SecondMenuFrame/SecondMenu/SysGridH2/SysCDraw 1
+internal delay 0.3
+
+
+step free draw
+second inlevel 1
+forceclick Lottery Bg/SpecialLottery/Bg/Free/LotteryFree 1
+internal delay 0.5
+text Free Dragon Egg Draw Reward -200 0
+
+end tutorial

@@ -1,0 +1,11 @@
+start tutorial
+
+step Mushroom Hints
+second inlevel 105
+scond betransfer
+--text [301b0a] Breaking the mushrooms in the scene can cancel the transformation! -200
+--puretext
+empty
+ailin [301b0a] Oops, you're cursed to be a goblin! Quickly [7100ff] smashing mushrooms [-] can [7100ff] temporarily restore human form [-]. [-] -200
+
+end tutorial

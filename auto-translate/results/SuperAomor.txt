@@ -1,0 +1,30 @@
+start tutorial
+
+Step Armor Bar Description
+second inlevel 101
+scond bossexist
+notewindow BattleDlg _canvas/EnemyInfoFrame/item0/Bg/SuperArmor/Foreground 3|1|-10
+ailin [301b0a] Adventurer, pay attention to the yellow [7100ff] super armor bar [-] under the BOSS health bar. [-] -200 [301b0a] When the super armor bar is present, you will not be able to interrupt any skills of the boss. [-]
+audio Audio/VO/guide/guide3
+pause
+
+After the step boss is broken, it means that the attack has been improved
+second inlevel 101
+scond bossexist
+scond superarmor0
+notewindow BattleDlg _canvas/EnemyInfoFrame/item0/Bg/SuperArmor/Foreground 3|1|-10
+ailin [301b0a] The BOSS has entered the [7100ff] armor-piercing stun state[-]. At this time, the skill CDs are all cooled down and the BOSS will suffer a lot of damage. Hurry up and attack it. [-] -200
+audio Audio/VO/guide/guide4
+pause
+
+step Resume the big move teaching
+second inlevel 101
+--scond castskill Monster_goblin_recovery_skill_one
+scond castskill Monster_orc_assaultstrik
+internal delay 0.4
+notewindow BattleDlg _canvas/EnemyInfoFrame/item0/Bg/SuperArmor/Foreground 3|1|-10
+ailin [301b0a] After the super armor of the BOSS is fully restored, it will release [7100ff] nirvana[-] immediately, so be careful to avoid it at this time. [-] -200
+audio Audio/VO/guide/guide5
+pause
+
+end tutorial

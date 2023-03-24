@@ -1,0 +1,16 @@
+start tutorial
+
+step 点任务页签
+skip InTaskTab
+scond inlevel 1
+noforceclick HallDlg _canvas/TaskNaviPanel/HallTaskNaviFrame/Main/TabList/Task 1.4
+
+step 找艾琳接任务
+scond cutsceneover
+scond inlevel 1
+function tasktop 7101
+noforceclick HallDlg _canvas/TaskNaviPanel/HallTaskNaviFrame/Main/TaskFrame/Bg 1.4
+text 来看看接到了什么新任务吧~ 250 0
+econd TalkingNpc
+
+end tutorial

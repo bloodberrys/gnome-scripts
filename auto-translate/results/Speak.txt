@@ -1,0 +1,16 @@
+start tutorial
+
+step click voice
+second inlevel 1016
+forceclick BattleDlg YuyinDlg(Clone)/leftRoot/pool/4/SPEAK 0 0 0 0
+internal delay 0.5
+text click here 140 0
+
+step guide
+second inlevel 1016
+empty
+ailin [301b0a] Click the microphone to enable real-time voice, and you can check the activation status of players from the team or ranking [-] -200
+audio Audio/VO/guide/guide27
+internal delay 0.3
+
+end tutorial

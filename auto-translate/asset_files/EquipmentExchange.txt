@@ -1,0 +1,32 @@
+start tutorial
+
+--step 切换
+--skip MenuBtnInState1
+--scond inlevel 1
+--forceclick HallDlg _canvas/BottomRight/MenuSwitchBtn 1.4
+
+step 点击商城
+scond nostackui
+scond inlevel 1
+--scond MainUI
+noforceclick HallDlg _canvas/SecondMenuFrame/SecondMenu/H2/SysGridH2_1/SysCGameMall_Pure 1 1 0 0 0 0 0
+internaldelay 0.3
+text 打开商城 -170 0
+
+step 点击商店页签
+scond inlevel 1
+noforceclick GameMall Bg/Tabs/XSys_Mall/Bg 1
+internaldelay 0.3
+
+step 点击装备商店
+scond inlevel 1
+noforceclick GameMall Bg/ShopFrame/Bg/RechargeFrame/ScrollView/Grid/item0 1
+internaldelay 0.3
+
+step 艾琳讲解激活
+scond inlevel 1
+empty
+ailin [301b0a]亲爱的冒险家，通关巢穴、龙本获得的装备材料可以在这里[7100ff]兑换强力装备[-]哦~[-] -200
+internaldelay 0.3
+
+end tutorial

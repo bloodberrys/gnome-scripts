@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XCutSceneData>
+  <TotalFrame>301</TotalFrame>
+  <CameraClip>Animation/Main_Camera/Main_camera_honglong_S6_2_start</CameraClip>
+  <Name>cutscene_honglong1_remake2</Name>
+  <Script />
+  <Scene>Assets/XScene/Scenelib/DN_FB/honglong_S6/honglong_S6</Scene>
+  <TypeMask>-1</TypeMask>
+  <OverrideBGM>false</OverrideBGM>
+  <Mourningborder>true</Mourningborder>
+  <AutoEnd>true</AutoEnd>
+  <Length>10.0333338</Length>
+  <FieldOfView>45</FieldOfView>
+  <Trigger>ToEffect</Trigger>
+  <GeneralShow>false</GeneralShow>
+  <GeneralBigGuy>false</GeneralBigGuy>
+  <Actors>
+    <XActorDataClip>
+      <Type>Actor</Type>
+      <TimeLineAt>0</TimeLineAt>
+      <Prefab>Prefabs/Monster_pterosaur</Prefab>
+      <Clip>Animation/Monster_pterosaur/Monster_pterosaur_cutscene_S6_2_start</Clip>
+      <AppearX>72.71665</AppearX>
+      <AppearY>0</AppearY>
+      <AppearZ>41.70089</AppearZ>
+      <StatisticsID>0</StatisticsID>
+      <bUsingID>false</bUsingID>
+      <bToCommonPool>false</bToCommonPool>
+      <Tag />
+    </XActorDataClip>
+  </Actors>
+  <Player />
+  <Fxs>
+    <XFxDataClip>
+      <Type>Fx</Type>
+      <TimeLineAt>45</TimeLineAt>
+      <Fx>Effects/FX_Particle/NPC/Lzg_Boss/Monster_pterosaur_red_flydown_reddragon_03</Fx>
+      <BindIdx>0</BindIdx>
+      <Bone>Monster_pterosaur_red</Bone>
+      <Scale>1</Scale>
+      <Follow>true</Follow>
+      <Destroy_Delay>5</Destroy_Delay>
+      <AppearX>0</AppearX>
+      <AppearY>0</AppearY>
+      <AppearZ>0</AppearZ>
+      <Face>0</Face>
+    </XFxDataClip>
+    <XFxDataClip>
+      <Type>Fx</Type>
+      <TimeLineAt>180</TimeLineAt>
+      <Fx>Effects/FX_Particle/NPC/Lzg_Boss/Monster_minotauros_black_charge_boss_firstchapter_02</Fx>
+      <BindIdx>0</BindIdx>
+      <Bone>Monster_pterosaur_red</Bone>
+      <Scale>1</Scale>
+      <Follow>true</Follow>
+      <Destroy_Delay>5</Destroy_Delay>
+      <AppearX>0</AppearX>
+      <AppearY>0</AppearY>
+      <AppearZ>0</AppearZ>
+      <Face>0</Face>
+    </XFxDataClip>
+  </Fxs>
+  <Audios />
+  <SubTitle>
+    <XSubTitleDataClip>
+      <Type>SubTitle</Type>
+      <TimeLineAt>0</TimeLineAt>
+      <Context>Barbatos flies to the opposite island, and is about to burn the island where the adventurer is! </Context>
+      <Duration>150</Duration>
+    </XSubTitleDataClip>
+    <XSubTitleDataClip>
+      <Type>SubTitle</Type>
+      <TimeLineAt>150</TimeLineAt>
+      <Context>Please attack [FF0000] Hero's Sword[-] to activate the stone bridge and chase Barbatos to the opposite island! </Context>
+      <Duration>150</Duration>
+    </XSubTitleDataClip>
+  </SubTitle>
+  <Slash />
+</XCutSceneData>

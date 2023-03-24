@@ -1,0 +1,26 @@
+start tutorial
+
+step lottery
+directsys 31
+second SysOpened
+
+--step ten consecutive draws
+--scond inlevel 1
+--ailin warrior! You can quickly obtain fashion through dragon eggs, let's take a look.
+--noforceclick HallDlg _canvas/SecondMenu/SysGridH2/SysBDraw 1
+--internaldelay 0.2
+
+
+--step free extraction
+--scond inlevel 1
+--noforceclick Lottery Bg/SpecialLottery/Bg 1
+--internaldelay 0.2
+--text Free dragon egg draw reward -200 0
+
+
+--step into extraction
+--noforceclick Lottery Bg/LotteryChoose/LotteryFree 1
+--internaldelay 0.2
+--text Click here to extract -200 0
+
+end tutorial

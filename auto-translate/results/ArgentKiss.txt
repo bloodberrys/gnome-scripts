@@ -1,0 +1,8 @@
+start tutorial
+
+step start cutscene
+scond nostackui
+second inlevel 1
+cutscene CutScene/argent_kiss true
+
+end tutorial

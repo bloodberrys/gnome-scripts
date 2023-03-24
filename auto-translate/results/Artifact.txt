@@ -1,0 +1,63 @@
+start tutorial
+
+step switch
+skip MenuBtnInState1
+second inlevel 1
+forceclick HallDlg_canvas/BottomRight/MenuSwitchBtn 1.4
+
+step open dragon device system
+skip Profession No1Turn 1
+scond nostackui
+second inlevel 1
+directsys 370
+second SysOpened
+
+
+step Open the role interface
+scond nostackui
+second inlevel 1
+scond item 455=1
+forceclick HallDlg_canvas/BottomRight/Panel1/SysGridH1/SysAItem 1
+internal delay 0.5
+
+step Click the backpack tab
+second inlevel 1
+forceclick ItemNewDlg Bg/Tabs/XSys_Bag_Item/Bg 1
+internal delay 0.3
+
+step Click the gift package tab
+second inlevel 1
+forceclick ItemNewDlg Bg/RightPanel/BagListPanel/TabsFrame/item2/Bg 1
+internal delay 0.5
+
+step Click on the dragon device package
+second inlevel 1
+forceclick ItemNewDlg Bg/RightPanel/BagListPanel/Items/Panel/WrapContent/item455/Icon
+internal delay 0.2
+
+step click to open
+second inlevel 1
+forceclick ItemToolTipDlg Bg/Bg/main/FuncFrame/Button1
+second UseItem
+--internaldelay 0.2
+
+step Click the Dragon Tool tab
+second inlevel 1
+forceclick ItemNewDlg Bg/Tabs/XSys_Artifact/Bg 1
+internal delay 0.3
+
+step Click on a dragon device
+second inlevel 1
+forceclick ItemNewDlg Bg/RightPanel/ArtifactListPanel/Panel/WrapContent/artifact?profession1turn?/Icon
+--internaldelay 0.2
+--second UseItem
+
+
+step Click to equip dragon weapon
+second inlevel 1
+forceclick ArtifactToolTipDlg Bg/Bg/main/FuncFrame/Button1
+second UseItem
+--internaldelay 0.2
+
+
+end tutorial

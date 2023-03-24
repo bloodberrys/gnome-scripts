@@ -1,0 +1,21 @@
+start tutorial
+
+step fly icon
+--scond inlevel 1
+directsys 35
+--newsys 35
+--second SysOpened
+
+--step open liveness interface
+--scond inlevel 1
+--forceclick HallDlg _canvas/SecondMenu/SysGridH2/SysReward 1
+--internaldelay 0.3
+--text open liveness interface -200 0
+
+--step switch to the login bonus interface
+--scond inlevel 1
+--forceclick RewardDlg Bg/Tabs/XSys_Reward_Login/Bg 1
+--internaldelay 0.3
+--text switch to login bonus interface -200 0
+
+end tutorial

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XCutSceneData>
+  <TotalFrame>550</TotalFrame>
+  <CameraClip>Animation/Main_Camera/Main_Camera_icedragon_3_2_cutscene</CameraClip>
+  <Name>Icedragon_3_2_cutscene</Name>
+  <Script />
+  <Scene>Assets/XScene/Scenelib/DN_FB/snowmountain01/snowmountain01</Scene>
+  <TypeMask>-1</TypeMask>
+  <OverrideBGM>true</OverrideBGM>
+  <Mourningborder>true</Mourningborder>
+  <AutoEnd>true</AutoEnd>
+  <Length>18.333334</Length>
+  <FieldOfView>45</FieldOfView>
+  <Trigger>ToEffect</Trigger>
+  <GeneralShow>false</GeneralShow>
+  <GeneralBigGuy>false</GeneralBigGuy>
+  <Actors>
+    <XActorDataClip>
+      <Type>Actor</Type>
+      <TimeLineAt>0</TimeLineAt>
+      <Prefab>Prefabs/NPC_assassin_gui</Prefab>
+      <Clip>Animation/NPC_assassin/NPC_assassin_gui_icedragon_3-2_cutscene</Clip>
+      <AppearX>74.67995</AppearX>
+      <AppearY>0</AppearY>
+      <AppearZ>95</AppearZ>
+      <StatisticsID>0</StatisticsID>
+      <bUsingID>false</bUsingID>
+      <bToCommonPool>false</bToCommonPool>
+      <Tag />
+    </XActorDataClip>
+  </Actors>
+  <Player />
+  <Fxs>
+    <XFxDataClip>
+      <Type>Fx</Type>
+      <TimeLineAt>0</TimeLineAt>
+      <Fx>Effects/FX_Particle/Scene/Lzg_CutScene/story_qiyi_bleed</Fx>
+      <BindIdx>0</BindIdx>
+      <Bone>Npc_assassin_gui</Bone>
+      <Scale>1</Scale>
+      <Follow>true</Follow>
+      <Destroy_Delay>0</Destroy_Delay>
+      <AppearX>0</AppearX>
+      <AppearY>0</AppearY>
+      <AppearZ>0</AppearZ>
+      <Face>0</Face>
+    </XFxDataClip>
+    <XFxDataClip>
+      <Type>Fx</Type>
+      <TimeLineAt>400</TimeLineAt>
+      <Fx>Effects/FX_Particle/Scene/Lzg_CutScene/story_qiyi_bleed_1</Fx>
+      <BindIdx>-1</BindIdx>
+      <Bone />
+      <Scale>1</Scale>
+      <Follow>true</Follow>
+      <Destroy_Delay>0</Destroy_Delay>
+      <AppearX>0</AppearX>
+      <AppearY>0</AppearY>
+      <AppearZ>0</AppearZ>
+      <Face>0</Face>
+    </XFxDataClip>
+  </Fxs>
+  <Audios />
+  <SubTitle>
+    <XSubTitleDataClip>
+      <Type>SubTitle</Type>
+      <TimeLineAt>0</TimeLineAt>
+      <Context>Can't...can't die here...</Context>
+      <Duration>45</Duration>
+    </XSubTitleDataClip>
+    <XSubTitleDataClip>
+      <Type>SubTitle</Type>
+      <TimeLineAt>150</TimeLineAt>
+      <Context>What sound...</Context>
+      <Duration>45</Duration>
+    </XSubTitleDataClip>
+    <XSubTitleDataClip>
+      <Type>SubTitle</Type>
+      <TimeLineAt>385</TimeLineAt>
+      <Context>It's you, adventurer...can you help me deliver the Dragon Jade to Ibel? </Context>
+      <Duration>45</Duration>
+    </XSubTitleDataClip>
+  </SubTitle>
+  <Slash />
+</XCutSceneData>

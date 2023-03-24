@@ -1,0 +1,18 @@
+start tutorial
+
+step task 6 enter the battle
+scond nostackui
+noforceclick HallDlg_canvas/TaskNaviPanel/HallTaskNaviFrame/Main/TaskFrame/Bg 1.4
+second WorldMapShow
+
+
+step selection level
+forceclick DungeonSelect Bg/PlayTween/LevelFramePanel/chapter2/Levels/201/SprBtn 1
+internal delay 0.5
+--text go find Rose and Timothy -210 0
+
+step into
+forceclick Dungeon Select Bg/DetailFrame/Bg/GoBattle 1
+--text go to level to find them -240 0
+
+end tutorial

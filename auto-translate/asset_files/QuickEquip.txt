@@ -1,0 +1,19 @@
+start tutorial
+
+step 切换
+skip MenuBtnInState1
+scond inlevel 1
+forceclick HallDlg _canvas/BottomRight/MenuSwitchBtn 1.4
+
+step 发放副武器
+scond nostackui
+scond inlevel 1
+scond playerlevel 5
+scond item 50846=1
+
+step 引导点击副武器
+scond item 50846=1
+scond inlevel 1
+forceclick ItemIconListBattleDlg Bg/Bg/Open 1
+
+end tutorial

@@ -1,0 +1,159 @@
+start tutorial
+
+-------------------------------------------------- ------------------
+--step hidden skills
+--scond inlevel 100
+--hideskills 2 3
+-------------------------------------------------- ------------------
+
+-------------------------------------------------- ------------------
+--step hide dodge
+--scond nostackui
+--scond inlevel 100
+--hideskills 1
+-------------------------------------------------- ------------------
+
+step hidden skills
+scond nostackui
+second inlevel 100
+hideskills 1
+
+step hidden skills
+scond nostackui
+second inlevel 100
+hideskills 2 3
+
+step hidden skills
+scond nostackui
+second inlevel 100
+hideskills 4 5 6
+
+step hidden skills
+scond nostackui
+second inlevel 100
+hideskills 7 8
+
+step hidden skills
+scond nostackui
+second inlevel 100
+hideskills 9
+
+step holding capital
+scond nostackui
+second inlevel 100
+scond cutsceneover
+--scond battleNPCtalkend
+showprefab UI/Common/TutorialDevicePic PlayFinished
+internal delay 0.5
+pause
+
+step the first button
+second inlevel 100
+buttomtext Adventurer, slide the joystick and try to walk into the blue light circle
+audio Audio/VO/guide/guide36
+move tutorial
+second time 3
+
+step screen buttom text
+second inlevel 100
+scond exstring set tutorial3
+good job buttomtext, let's do it again, let's go to the next blue light circle
+audio Audio/VO/guide/guide37
+move tutorial
+second time 3
+
+--step 3D sliding perspective teaching
+--scond inlevel 100
+--skip SelectSight2.5D
+--showprefab UI/Common/TutorialSlidePic Time 3.5
+--internaldelay 0.1
+
+--step mobile teaching
+--scond inlevel 100
+--scond cutsceneover
+--scond battleNPCtalkend
+--empty
+--ailin [301b0a] Slide the joystick at the left end of the screen to start. [-] -300
+
+step basic attack teaching
+second inlevel 100
+scond exstring settutorial1
+showskills 0
+
+step screen button prompts basic attack
+second inlevel 100
+buttomtext Adventurer, be careful of monsters, click the basic attack button to attack monsters
+audio Audio/VO/guide/guide38
+noforceclick BattleDlg _canvas/SkillFrame/Skill0/Bg 1
+second time 3
+
+step skill teaching
+second inlevel 100
+scond exstring settutorial2
+show skills 1
+
+step skill teaching
+second inlevel 100
+showskills 2 3
+
+step skill teaching
+second inlevel 100
+showskills 4 5 6
+
+step skill teaching
+second inlevel 100
+showskills9
+
+step skill teaching
+second inlevel 100
+scond exstring set tutorial4
+buttomtext Another group of monsters appeared, try the power of new skills
+audio Audio/VO/guide/guide39
+noforceclick BattleDlg _canvas/SkillFrame/Skill2/Bg1
+second time 3
+
+step tips
+second inlevel 100
+scond exstring settutorial5
+buttomtext There is a cry for help ahead, go and see what's going on!
+move tutorial
+second time 3
+
+step player comes out to prompt
+second inlevel 100
+scond exstring set tutorial6
+buttomtext adventurer, we help you deal with it
+audio Audio/VO/guide/guide41
+move tutorial
+second time 3
+
+--step basic attack teaching
+--scond inlevel 100
+--scond hastarget
+--ailin [301b0a] When the red lock box appears, you can use [7100ff] basic attack [-] to hit the monster. [-] The [7100ff] green halo[-] on the -200 [301b0a] skill is a sign that the monster can be hit. [-]
+--noforceclick BattleDlg _canvas/SkillFrame/Skill0 1
+--audio Audio/xinshouyingdao/demo3new
+--pause
+
+-------------------------------------------------- ------------------
+--step skill teaching
+--scond enemy ground
+--showskills 2 3
+-------------------------------------------------- ------------------
+
+-------------------------------------------------- ------------------
+--step skill teaching
+--ailin [301b0a] Normal attack can't hit [7100ff] downed[-] monsters, try with [7100ff] skills[-][-] -200
+--forceclick BattleDlg _canvas/SkillFrame/Skill3 1
+--audio Audio/xinshouyingdao/demo4new
+--pause
+-------------------------------------------------- ------------------
+
+--step job transfer skill tips
+--scond inlevel 100
+--scond bossexist
+--scond exstring ultraskill
+--noforceclick BattleDlg _canvas/SkillFrame/Skill9 1
+--second time 3
+
+end tutorial

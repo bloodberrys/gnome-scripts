@@ -1,0 +1,26 @@
+start tutorial
+
+step 切换
+skip MenuBtnInState2
+scond inlevel 1
+forceclick HallDlg _canvas/BottomRight/MenuSwitchBtn 1.4
+
+step 开放圣物系统
+scond MainUI
+scond nostackui
+scond inlevel 1
+directsys 703
+econd SysOpened
+
+step 打开圣物
+scond inlevel 1
+forceclick HallDlg _canvas/BottomRight/Panel1/SysGridH0/SysE_NPCFavor
+internaldelay 0.8
+
+step 打开圣物界面
+scond inlevel 1
+empty
+ailin [301b0a]开启圣物后可以向NPC赠送礼物增加好感度，不同的NPC组合达到指定等级后还将激活羁绊效果！[-] -220
+internaldelay 0.8
+
+end tutorial

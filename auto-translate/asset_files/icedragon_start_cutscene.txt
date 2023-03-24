@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XCutSceneData>
+  <TotalFrame>290</TotalFrame>
+  <CameraClip>Animation/Main_Camera/Main_Camera_icedragon_cutscene_start</CameraClip>
+  <Name>icedragon_start_cutscene</Name>
+  <Script />
+  <Scene>Assets/XScene/Scenelib/DN_FB/icedragon06/icedragon06</Scene>
+  <TypeMask>-1</TypeMask>
+  <OverrideBGM>true</OverrideBGM>
+  <Mourningborder>true</Mourningborder>
+  <AutoEnd>true</AutoEnd>
+  <Length>9.666667</Length>
+  <FieldOfView>45</FieldOfView>
+  <Trigger>ToEffect</Trigger>
+  <GeneralShow>false</GeneralShow>
+  <GeneralBigGuy>false</GeneralBigGuy>
+  <Actors>
+    <XActorDataClip>
+      <Type>Actor</Type>
+      <TimeLineAt>0</TimeLineAt>
+      <Prefab>Prefabs/Monster_icedragon</Prefab>
+      <Clip>Animation/Monster_icedragon/Monster_icedragon_cutscene_start</Clip>
+      <AppearX>45.31316</AppearX>
+      <AppearY>0</AppearY>
+      <AppearZ>75.35302</AppearZ>
+      <StatisticsID>0</StatisticsID>
+      <bUsingID>false</bUsingID>
+      <bToCommonPool>false</bToCommonPool>
+      <Tag />
+    </XActorDataClip>
+  </Actors>
+  <Player />
+  <Fxs />
+  <Audios />
+  <SubTitle />
+  <Slash>
+    <XSlashDataClip>
+      <Type>Slash</Type>
+      <TimeLineAt>150</TimeLineAt>
+      <Duration>6</Duration>
+      <Name>冰龙奇伊</Name>
+      <Discription />
+      <AnchorX>0</AnchorX>
+      <AnchorY>0</AnchorY>
+    </XSlashDataClip>
+  </Slash>
+</XCutSceneData>

@@ -1,0 +1,35 @@
+start tutorial
+
+step task 4 enter the battle
+scond nostackui
+noforceclick HallDlg_canvas/TaskNaviPanel/HallTaskNaviFrame/Main/TaskFrame/Bg 1.4
+second WorldMapShow
+--text click here to go to level -200 0
+
+step Receive chapter star rewards
+skip Chapter1Star8Box
+forceclick Dungeon Select Bg/StarBar/{3} 1
+text There are rewards to receive 200 0
+internal delay 0.5
+
+step Click to receive
+skip Chapter1Star8Box
+second inlevel 1
+forceclick DungeonSelect Bg/BoxFrame/Fetch 1
+text The reward is very attractive -200 0
+internal delay 0.2
+
+--step select chapter
+--forceclick WorldMap Bg/Panel/Maps/Map1 2
+--text Please select the first chapter 250 0
+
+step selection level
+forceclick DungeonSelect Bg/PlayTween/LevelFramePanel/chapter1/Levels/104/SprBtn 1
+internal delay 0.5
+text Follow the map to the Tomb Temple -200 0
+
+step into
+forceclick Dungeon Select Bg/DetailFrame/Bg/GoBattle 1
+text Go to the level to find Rose -240 0
+
+end tutorial

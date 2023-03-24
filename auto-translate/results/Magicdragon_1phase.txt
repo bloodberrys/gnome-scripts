@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XCutSceneData>
+  <TotalFrame>264</TotalFrame>
+  <CameraClip>Animation/Main_Camera/Main_camera_magicdragon_1phase_start</CameraClip>
+  <Name>Magicdragon_1phase</Name>
+  <Script />
+  <Scene>Assets/XScene/Scenelib/DN_FB/molong_s4/molong_s4</Scene>
+  <TypeMask>-1</TypeMask>
+  <OverrideBGM>true</OverrideBGM>
+  <Mourningborder>true</Mourningborder>
+  <AutoEnd>true</AutoEnd>
+  <Length>8.8</Length>
+  <FieldOfView>45</FieldOfView>
+  <Trigger>ToEffect</Trigger>
+  <GeneralShow>false</GeneralShow>
+  <GeneralBigGuy>false</GeneralBigGuy>
+  <Actors>
+    <XActorDataClip>
+      <Type>Actor</Type>
+      <TimeLineAt>0</TimeLineAt>
+      <Prefab>Prefabs/Monster_karahan_dark</Prefab>
+      <Clip>Animation/Monster_karahan/Monster_karahan_magicdragon_1phase_start</Clip>
+      <AppearX>19.1597</AppearX>
+      <AppearY>0</AppearY>
+      <AppearZ>176.529465</AppearZ>
+      <StatisticsID>0</StatisticsID>
+      <bUsingID>false</bUsingID>
+      <bToCommonPool>false</bToCommonPool>
+      <Tag />
+    </XActorDataClip>
+    <XActorDataClip>
+      <Type>Actor</Type>
+      <TimeLineAt>0</TimeLineAt>
+      <Prefab>Prefabs/Monster_magicdragon_towphase</Prefab>
+      <Clip>Animation/Monster_greendragon/Monster_greendragon_magicdragon_1phase_start</Clip>
+      <AppearX>26.89184</AppearX>
+      <AppearY>0</AppearY>
+      <AppearZ>179.276642</AppearZ>
+      <StatisticsID>0</StatisticsID>
+      <bUsingID>false</bUsingID>
+      <bToCommonPool>false</bToCommonPool>
+      <Tag />
+    </XActorDataClip>
+  </Actors>
+  <Player />
+  <Fxs />
+  <Audios>
+    <XAudioDataClip>
+      <Type>Audio</Type>
+      <TimeLineAt>60</TimeLineAt>
+      <Clip>Audio/cut_scene/Magicdragon_1phase</Clip>
+      <BindIdx>0</BindIdx>
+      <Channel>Skill</Channel>
+    </XAudioDataClip>
+  </Audios>
+  <SubTitle>
+    <XSubTitleDataClip>
+      <Type>SubTitle</Type>
+      <TimeLineAt>40</TimeLineAt>
+      <Context>Dirty bugs can come here! </Context>
+      <Duration>90</Duration>
+    </XSubTitleDataClip>
+    <XSubTitleDataClip>
+      <Type>SubTitle</Type>
+      <TimeLineAt>120</TimeLineAt>
+      <Context>Let you all see the true face of this uncle! </Context>
+      <Duration>120</Duration>
+    </XSubTitleDataClip>
+  </SubTitle>
+  <Slash />
+</XCutSceneData>

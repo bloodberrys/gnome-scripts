@@ -1,0 +1,36 @@
+start tutorial
+
+step click on daily gameplay
+scond nostackui
+second inlevel 1
+scond MainUI
+forceclick HallDlg_canvas/BottomRight/MainMenuFrame/MainMenu/Panel2/SysGridV1/SysAActivity 1 1 0 25
+internal delay 0.2
+text Click here to enter daily gameplay -200 0
+
+step click daily activities
+second inlevel 1
+forceclick DailyActivityDlg Bg/Tabs/XSys_Activity/Bg 1
+internal delay 0.2
+
+step Enter the demon lair
+second inlevel 1
+scond activityopen
+scroll activity 516
+forceclick DailyActivityDlg Bg/XActivityHandler/Bg/ActivityPanel/Item516/JoinBtn 1
+internal delay 0.5
+text Entrance to Enchanted Lair -200 0
+
+step guide
+second inlevel 1
+empty
+ailin [301b0a] Enchanted lair is a 4-player team game, call your friends to clear the level together to win the A-level suit! [-] -200
+internal delay 0.3
+
+step click instructions
+second inlevel 1
+forceclick TheAncientExpDlg Bg/Help 1
+text You can click here to view instructions 200
+internal delay 0.2
+
+end tutorial

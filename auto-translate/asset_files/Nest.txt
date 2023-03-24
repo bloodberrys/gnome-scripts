@@ -1,0 +1,93 @@
+start tutorial
+
+step 切换
+skip MenuBtnInState1
+scond inlevel 1
+forceclick HallDlg _canvas/BottomRight/MenuSwitchBtn 1.4
+
+step 艾琳解说头衔
+scond nostackui
+scond inlevel 1
+directsys 520
+empty
+ailin [301b0a]冒险家20级了呢，接下来看看有什么全新挑战等着您~[-] -200
+internaldelay 0.5
+
+step 点击日常玩法
+scond nostackui
+scond inlevel 1
+scond MainUI
+forceclick HallDlg _canvas/BottomRight/MainMenuFrame/MainMenu/Panel2/SysGridV1/SysAActivity 1 1 0 25
+internaldelay 0.2
+text 点击这里进入日常玩法 -200 0
+
+--step 点击任务点
+--scond inlevel 1
+--scond accepttask 9
+--noforceclick HallDlg _canvas/TaskNaviPanel/HallTaskNaviFrame/Main/TaskFrame/Bg 1.4
+--text 继续任务 -200 0
+--econd TalkingNpc
+
+step 副本参加按钮
+scond inlevel 1
+forceclick DailyActivityDlg Bg/XActivityHandler/Bg/ActivityPanel/Item110/JoinBtn 1
+internaldelay 0.3
+
+step 巢穴按钮
+scond inlevel 1
+forceclick DungeonSelect Bg/Hard 1
+internaldelay 0.3
+
+step 艾琳说明巢穴
+scond inlevel 1
+empty
+ailin [301b0a]亲爱的冒险家，巢穴是产出A级套装的重要途径，20级开始，每10级开放一个全新的巢穴副本，不要错过哦！[-] -220
+internaldelay 0.8
+
+--step 打开巢穴界面
+--scond inlevel 1
+--scond activityopen
+--scroll Activity 520
+--ailin [301b0a]吼啦，您的实力已经这么强啦，可以闯一下[7100ff]巢穴[-]了哦。[-] -200 [301b0a]巢穴中会掉落[7100ff]橙色装备[-]等稀有物品，注意收集哦。[-]
+--forceclick DailyActivityDlg Bg/ActivityFrame/Panel/item4 1
+--internaldelay 0.2
+--text 巢穴系统在这里 200 0
+
+--step 引导
+--scond inlevel 1
+--notewindow TheExpDlg Bg/Close 15|15|2000
+--ailin [301b0a]4人组队挑战，需要娴熟的操作，默契的配合，才能够战胜Boss赢取高品质装备[-] -200
+--audio Audio/VO/guide/guide11
+--internaldelay 0.3
+
+--step 切换巢穴
+--scond inlevel 1
+--forceclick ActivityDlg Bg/Tabs/XSys_Activity_Nest/Bg 1
+--internaldelay 0.3
+--text 点击切换巢穴 200 0
+
+--step 打开巢穴
+--scond inlevel 1
+--forceclick ActivityDlg Bg/NestFrame/Panel/{1} 1
+--internaldelay 0.3
+--text 进入地狱犬巢穴 -200 0
+
+--step 入场
+--scond inlevel 1
+--forceclick NestDlg Bg/GoBattle 1
+--internaldelay 0.3
+--text 入场 -200 0
+
+--step 关闭巢穴面板
+--scond inlevel 1
+--forceclick NestDlg Bg/Close 1
+--internaldelay 0.3
+--text 关闭巢穴界面 -200 0
+
+--step 关闭巢穴面板
+--scond inlevel 1
+--forceclick ActivityDlg Bg/Close 1
+--internaldelay 0.3
+--text 关闭巢穴界面 -200 0
+
+end tutorial
