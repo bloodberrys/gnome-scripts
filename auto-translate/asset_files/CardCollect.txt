@@ -1,7 +1,0 @@
-start tutorial
-
-step Collect Card
-scond inlevel 1
-directsys 25
-
-end tutorial

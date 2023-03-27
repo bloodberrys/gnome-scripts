@@ -1,9 +1,0 @@
-start tutorial
-
-step click on the task point
-second inlevel 1
-noforceclick HallDlg_canvas/SecondMenu/Icon 1.4
---text continue task -200 0
-second Talking Npc
-
-end tutorial

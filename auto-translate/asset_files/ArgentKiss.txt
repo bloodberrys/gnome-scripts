@@ -1,8 +1,0 @@
-start tutorial
-
-step 开始cutscene
-scond nostackui
-scond inlevel 1
-cutscene CutScene/argent_kiss true
-
-end tutorial

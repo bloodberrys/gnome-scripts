@@ -1,9 +1,0 @@
-start tutorial
-
-step 点击任务点
-scond inlevel 1
-noforceclick HallDlg _canvas/SecondMenu/Icon 1.4
---text 继续任务 -200 0
-econd TalkingNpc
-
-end tutorial

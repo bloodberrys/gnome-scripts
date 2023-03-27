@@ -1,7 +1,0 @@
-start tutorial
-
-step Gnome Carnival
-scond inlevel 1
-directsys 67
-
-end tutorial
