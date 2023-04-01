@@ -2,32 +2,33 @@ import pyautogui
 import os
 import time
 import xml.etree.ElementTree as ET
+import cv2
+import pathlib
+import mmap
 
 def find_ab_filename(cab_name):
-    keyword = bytes(cab_name,encoding="latin1")  # ask the user for keyword, use raw_input() on Python 2.x
+    start_time = time.time()
+    keyword = cab_name.encode("latin1")
+    root_dir = pathlib.Path("D:/DragonNestHurricane/project/assets/Raw/assetbundleOfficial-extracted")
     file_result = None
-    root_dir = "D:\\DragonNestHurricane\\project\\assets\Raw\\assetbundleOfficial-extracted"  # path to the root directory to search
-    for root, dirs, files in os.walk(root_dir, onerror=None):  # walk the root dir
-        for filename in files:  # iterate over the files in the current dir
-            file_path = os.path.join(root, filename)  # build the file path
-            try:
-                with open(file_path, "rb") as f:  # open the file for reading
-                    # read the file line by line
-                    for line in f:  # use: for i, line in enumerate(f) if you need line numbers
-                        try:
-                            line = line.decode("latin1")  # try to decode the contents to utf
-                        except ValueError:  # decoding failed, skip the line
-                            continue
-                        if keyword in bytes(line,encoding="latin1"):  # if the keyword exists on the current line...
-                            print(f"FOUND! {file_path}")
-                            file_result = file_path  # print the file path
-                            break  # no need to iterate over the rest of the file
-            except (IOError, OSError):  # ignore read and permission errors
-                pass
-    return file_result
 
-# tes = "cf280a610f1605fe437f9d01cd304e70"
-# find_ab_filename(tes)
+    for file_path in root_dir.glob("**/*"):
+        if file_path.is_file():
+            try:
+                with open(file_path, "rb") as f:
+                    with mmap.mmap(f.fileno(), 0, access=mmap.ACCESS_READ) as mm:
+                        if mm.find(keyword) != -1:
+                            print(f"FOUND! {file_path}")
+                            file_result = str(file_path)
+                            break
+            except (IOError, OSError):
+                pass
+        if file_result:
+            break
+    end_time = time.time()
+    elapsed_time = end_time - start_time
+    print(f"Elapsed time: {elapsed_time:.2f} seconds")
+    return file_result
 
 def click_file(clickType="double", file_path="", center=False, duration=0, add_left=0, add_top=0):
     # time.sleep(duration)
@@ -40,35 +41,38 @@ def click_file(clickType="double", file_path="", center=False, duration=0, add_l
 
     return left, top
 
-def find_file_position(file_path,center=False):
+def find_file_position(file_path, center=False):
+    # Load the image and preprocess it
+    img = cv2.imread(file_path)
+
     # Get the coordinates of the file on the screen
     file_location = None
+    grayscale = False
     
     max_attempts = 5
     for attempt in range(max_attempts):
         print(f'[Find Location] Attempt {attempt}')
         print(f'Primary File check: {file_path}')
 
-        file_location = pyautogui.locateOnScreen(file_path, grayscale=True)
+        file_location = pyautogui.locateOnScreen(img, grayscale=grayscale)
         filename, file_extension = os.path.splitext(file_path)
-        if file_location == None and os.path.exists("imagelocate/"+os.path.basename(filename)+str(2)+file_extension):
+        if file_location is None and os.path.exists("imagelocate/"+os.path.basename(filename)+str(2)+file_extension):
             print(f'Secondary File check: {"imagelocate/"+os.path.basename(filename)+str(2)+file_extension}')
-            file_location = pyautogui.locateOnScreen("imagelocate/"+os.path.basename(filename)+str(2)+file_extension, grayscale=True)
+            img2 = cv2.imread("imagelocate/"+os.path.basename(filename)+str(2)+file_extension)
+            file_location = pyautogui.locateOnScreen(img2, grayscale=grayscale)
             pass
 
         print(file_location)
         if file_location is not None:
             break
 
-    if center == True:
+    if center:
         file_location = pyautogui.center(file_location)
 
     # Click the file if it is found
     if file_location is not None:
-        # print(file_location)
-
         # Extract the left and top values from the location tuple
-        if center == True:
+        if center:
             left, top = file_location.x, file_location.y
         else:
             left, top = file_location.left, file_location.top
