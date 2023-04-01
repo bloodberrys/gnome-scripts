@@ -10,6 +10,7 @@ xmltodict = "*"
 opencv-python-headless = "*"
 pillow = "*"
 chardet = "*"
+pytesseract = "*"
 
 [dev-packages]
 
