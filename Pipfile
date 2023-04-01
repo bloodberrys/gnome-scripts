@@ -9,6 +9,7 @@ pyautogui = "*"
 xmltodict = "*"
 opencv-python-headless = "*"
 pillow = "*"
+chardet = "*"
 
 [dev-packages]
 

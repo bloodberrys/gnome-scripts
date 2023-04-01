@@ -8,6 +8,7 @@ import requests
 import signal
 import time
 import re
+import io
 import csv
 
 def sigterm_handler(signum, frame):
@@ -25,12 +26,16 @@ def keyboard_interrupt_handler(signal, frame):
 signal.signal(signal.SIGTERM, sigterm_handler)
 signal.signal(signal.SIGINT, keyboard_interrupt_handler)
 
-def readDirectoryFiles(folder, scriptFolder):
+def readDirectoryFiles(folder, scriptFolder, filetype):
     for filename in os.listdir(folder):
         print(f'File Name: {filename}')
         filename_edited = os.path.join(folder, filename)
         print(f'File Name: {filename_edited}')
-        result_translated = chunk_string(filename_edited)
+        if filetype == "plain":
+            result_translated = chunk_string(filename_edited)
+        else:
+            result_translated = chunk_string_delimiter(filename_edited)
+
         with open(os.path.join(scriptFolder, filename), 'w', encoding='utf-8') as f:
             f.write(result_translated)
         print(f'File {filename} Saved!\n')
@@ -69,13 +74,11 @@ def chunk_string(filename):
 
     return result_text
 
-
-
-
 def main():
     folder = "asset_files"
     scriptFolder = "results"
-    readDirectoryFiles(folder, scriptFolder)
+    filetype = 'tsv'
+    readDirectoryFiles(folder, scriptFolder, filetype)
     os.remove('proxy_used.txt')
     print('Done!')
 
