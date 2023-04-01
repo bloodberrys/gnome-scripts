@@ -1,0 +1,152 @@
+SceneID	UltimateLevel	Difficulty	RecommendPower	SuggestAttr	DragonNestAvatar	StageReward	Season	SeasonOpenDay	LevelPic	LevelName	RankType
+联机场景ID	关卡	难度选择（百分比）	推荐战力	推荐属性	BOSS模型	通关奖励（只配置在对应难度行，如难度85%有数据代表通关任意≥85%难度的关卡可以领取该奖励）	对应的赛季ID	赛季开启天数	列表图片（前端用）	关卡名（前端用）	排行榜ID 对应Ranklist的RankType
+81100	1	40	10000000		300015	1421=1	0		common/SmallAvatar/TXBOSSicon_34	黑山洞窟	300
+81101	1	80	20000000		300015	1421=1	0		common/SmallAvatar/TXBOSSicon_34	黑山洞窟	300
+81102	1	85	21000000		300015		0		common/SmallAvatar/TXBOSSicon_34	黑山洞窟	300
+81103	1	90	22000000		300015		0		common/SmallAvatar/TXBOSSicon_34	黑山洞窟	300
+81104	1	95	23000000		300015		0		common/SmallAvatar/TXBOSSicon_34	黑山洞窟	300
+81105	1	100	24000000		300015		0		common/SmallAvatar/TXBOSSicon_34	黑山洞窟	300
+81106	1	105	25000000		300015	1421=2	0		common/SmallAvatar/TXBOSSicon_34	黑山洞窟	300
+81107	1	110	26000000		300015		0		common/SmallAvatar/TXBOSSicon_34	黑山洞窟	300
+81108	1	115	27000000		300015		0		common/SmallAvatar/TXBOSSicon_34	黑山洞窟	300
+81109	1	120	28000000		300015		0		common/SmallAvatar/TXBOSSicon_34	黑山洞窟	300
+81110	1	125	29000000		300015		0		common/SmallAvatar/TXBOSSicon_34	黑山洞窟	300
+81111	1	130	30000000		300015	1421=2	0		common/SmallAvatar/TXBOSSicon_34	黑山洞窟	300
+81112	1	135	31000000		300015		0		common/SmallAvatar/TXBOSSicon_34	黑山洞窟	300
+81113	1	140	32000000		300015		0		common/SmallAvatar/TXBOSSicon_34	黑山洞窟	300
+81114	1	145	33000000		300015		0		common/SmallAvatar/TXBOSSicon_34	黑山洞窟	300
+81115	1	150	34000000		300015	1427=1	0		common/SmallAvatar/TXBOSSicon_34	黑山洞窟	300
+81116	1	155	35000000		300015	1421=3	0		common/SmallAvatar/TXBOSSicon_34	黑山洞窟	300
+81117	1	160	36000000		300015		0		common/SmallAvatar/TXBOSSicon_34	黑山洞窟	300
+81118	1	165	37000000		300015		0		common/SmallAvatar/TXBOSSicon_34	黑山洞窟	300
+81119	1	170	38000000		300015		0		common/SmallAvatar/TXBOSSicon_34	黑山洞窟	300
+81120	1	175	39000000		300015	1427=1	0		common/SmallAvatar/TXBOSSicon_34	黑山洞窟	300
+81121	1	180	42000000		300015	1421=3	0		common/SmallAvatar/TXBOSSicon_34	黑山洞窟	300
+81122	1	185	46000000		300015	1427=1	0		common/SmallAvatar/TXBOSSicon_34	黑山洞窟	300
+81123	1	190	50000000		300015	1421=4	0		common/SmallAvatar/TXBOSSicon_34	黑山洞窟	300
+81124	1	200	54000000		300015	1426=1	0		common/SmallAvatar/TXBOSSicon_34	黑山洞窟	300
+81200	2	40	10500000		300016	1421=1	0		common/SmallAvatar/TXBOSSicon_81	熔岩岛	301
+81201	2	80	20500000		300016	1421=1	0		common/SmallAvatar/TXBOSSicon_81	熔岩岛	301
+81202	2	85	21500000		300016		0		common/SmallAvatar/TXBOSSicon_81	熔岩岛	301
+81203	2	90	22500000		300016		0		common/SmallAvatar/TXBOSSicon_81	熔岩岛	301
+81204	2	95	23500000		300016		0		common/SmallAvatar/TXBOSSicon_81	熔岩岛	301
+81205	2	100	24500000		300016		0		common/SmallAvatar/TXBOSSicon_81	熔岩岛	301
+81206	2	105	25500000		300016	1421=2	0		common/SmallAvatar/TXBOSSicon_81	熔岩岛	301
+81207	2	110	26500000		300016		0		common/SmallAvatar/TXBOSSicon_81	熔岩岛	301
+81208	2	115	27500000		300016		0		common/SmallAvatar/TXBOSSicon_81	熔岩岛	301
+81209	2	120	28500000		300016		0		common/SmallAvatar/TXBOSSicon_81	熔岩岛	301
+81210	2	125	29500000		300016		0		common/SmallAvatar/TXBOSSicon_81	熔岩岛	301
+81211	2	130	30500000		300016	1421=2	0		common/SmallAvatar/TXBOSSicon_81	熔岩岛	301
+81212	2	135	31500000		300016		0		common/SmallAvatar/TXBOSSicon_81	熔岩岛	301
+81213	2	140	32500000		300016		0		common/SmallAvatar/TXBOSSicon_81	熔岩岛	301
+81214	2	145	33500000		300016		0		common/SmallAvatar/TXBOSSicon_81	熔岩岛	301
+81215	2	150	34500000		300016	1427=1	0		common/SmallAvatar/TXBOSSicon_81	熔岩岛	301
+81216	2	155	35500000		300016	1421=3	0		common/SmallAvatar/TXBOSSicon_81	熔岩岛	301
+81217	2	160	36500000		300016		0		common/SmallAvatar/TXBOSSicon_81	熔岩岛	301
+81218	2	165	37500000		300016		0		common/SmallAvatar/TXBOSSicon_81	熔岩岛	301
+81219	2	170	38500000		300016		0		common/SmallAvatar/TXBOSSicon_81	熔岩岛	301
+81220	2	175	39500000		300016	1427=1	0		common/SmallAvatar/TXBOSSicon_81	熔岩岛	301
+81221	2	180	42500000		300016	1421=3	0		common/SmallAvatar/TXBOSSicon_81	熔岩岛	301
+81222	2	185	46500000		300016	1427=1	0		common/SmallAvatar/TXBOSSicon_81	熔岩岛	301
+81223	2	190	50500000		300016	1421=4	0		common/SmallAvatar/TXBOSSicon_81	熔岩岛	301
+81224	2	200	54500000		300016	1426=1	0		common/SmallAvatar/TXBOSSicon_81	熔岩岛	301
+81300	3	40	11000000		300017	1421=1	0		common/SmallAvatar4/TXBOSSicon_175	蜥蜴人栖息地	302
+81301	3	80	21000000		300017	1421=1	0		common/SmallAvatar4/TXBOSSicon_175	蜥蜴人栖息地	302
+81302	3	85	22000000		300017		0		common/SmallAvatar4/TXBOSSicon_175	蜥蜴人栖息地	302
+81303	3	90	23000000		300017		0		common/SmallAvatar4/TXBOSSicon_175	蜥蜴人栖息地	302
+81304	3	95	24000000		300017		0		common/SmallAvatar4/TXBOSSicon_175	蜥蜴人栖息地	302
+81305	3	100	25000000		300017		0		common/SmallAvatar4/TXBOSSicon_175	蜥蜴人栖息地	302
+81306	3	105	26000000		300017	1421=2	0		common/SmallAvatar4/TXBOSSicon_175	蜥蜴人栖息地	302
+81307	3	110	27000000		300017		0		common/SmallAvatar4/TXBOSSicon_175	蜥蜴人栖息地	302
+81308	3	115	28000000		300017		0		common/SmallAvatar4/TXBOSSicon_175	蜥蜴人栖息地	302
+81309	3	120	29000000		300017		0		common/SmallAvatar4/TXBOSSicon_175	蜥蜴人栖息地	302
+81310	3	125	30000000		300017		0		common/SmallAvatar4/TXBOSSicon_175	蜥蜴人栖息地	302
+81311	3	130	31000000		300017	1421=2	0		common/SmallAvatar4/TXBOSSicon_175	蜥蜴人栖息地	302
+81312	3	135	32000000		300017		0		common/SmallAvatar4/TXBOSSicon_175	蜥蜴人栖息地	302
+81313	3	140	33000000		300017		0		common/SmallAvatar4/TXBOSSicon_175	蜥蜴人栖息地	302
+81314	3	145	34000000		300017		0		common/SmallAvatar4/TXBOSSicon_175	蜥蜴人栖息地	302
+81315	3	150	35000000		300017	1427=1	0		common/SmallAvatar4/TXBOSSicon_175	蜥蜴人栖息地	302
+81316	3	155	36000000		300017	1421=3	0		common/SmallAvatar4/TXBOSSicon_175	蜥蜴人栖息地	302
+81317	3	160	37000000		300017		0		common/SmallAvatar4/TXBOSSicon_175	蜥蜴人栖息地	302
+81318	3	165	38000000		300017		0		common/SmallAvatar4/TXBOSSicon_175	蜥蜴人栖息地	302
+81319	3	170	39000000		300017		0		common/SmallAvatar4/TXBOSSicon_175	蜥蜴人栖息地	302
+81320	3	175	40000000		300017	1427=1	0		common/SmallAvatar4/TXBOSSicon_175	蜥蜴人栖息地	302
+81321	3	180	43000000		300017	1421=3	0		common/SmallAvatar4/TXBOSSicon_175	蜥蜴人栖息地	302
+81322	3	185	47000000		300017	1427=1	0		common/SmallAvatar4/TXBOSSicon_175	蜥蜴人栖息地	302
+81323	3	190	51000000		300017	1421=4	0		common/SmallAvatar4/TXBOSSicon_175	蜥蜴人栖息地	302
+81324	3	200	55000000		300017	1426=1	0		common/SmallAvatar4/TXBOSSicon_175	蜥蜴人栖息地	302
+81400	4	40	11500000		300018	1421=1	0		common/SmallAvatar/TXBOSSicon_37	龙骨荒漠	303
+81401	4	80	21500000		300018	1421=1	0		common/SmallAvatar/TXBOSSicon_37	龙骨荒漠	303
+81402	4	85	22500000		300018		0		common/SmallAvatar/TXBOSSicon_37	龙骨荒漠	303
+81403	4	90	23500000		300018		0		common/SmallAvatar/TXBOSSicon_37	龙骨荒漠	303
+81404	4	95	24500000		300018		0		common/SmallAvatar/TXBOSSicon_37	龙骨荒漠	303
+81405	4	100	25500000		300018		0		common/SmallAvatar/TXBOSSicon_37	龙骨荒漠	303
+81406	4	105	26500000		300018	1421=2	0		common/SmallAvatar/TXBOSSicon_37	龙骨荒漠	303
+81407	4	110	27500000		300018		0		common/SmallAvatar/TXBOSSicon_37	龙骨荒漠	303
+81408	4	115	28500000		300018		0		common/SmallAvatar/TXBOSSicon_37	龙骨荒漠	303
+81409	4	120	29500000		300018		0		common/SmallAvatar/TXBOSSicon_37	龙骨荒漠	303
+81410	4	125	30500000		300018		0		common/SmallAvatar/TXBOSSicon_37	龙骨荒漠	303
+81411	4	130	31500000		300018	1421=2	0		common/SmallAvatar/TXBOSSicon_37	龙骨荒漠	303
+81412	4	135	32500000		300018		0		common/SmallAvatar/TXBOSSicon_37	龙骨荒漠	303
+81413	4	140	33500000		300018		0		common/SmallAvatar/TXBOSSicon_37	龙骨荒漠	303
+81414	4	145	34500000		300018		0		common/SmallAvatar/TXBOSSicon_37	龙骨荒漠	303
+81415	4	150	35500000		300018	1427=1	0		common/SmallAvatar/TXBOSSicon_37	龙骨荒漠	303
+81416	4	155	36500000		300018	1421=3	0		common/SmallAvatar/TXBOSSicon_37	龙骨荒漠	303
+81417	4	160	37500000		300018		0		common/SmallAvatar/TXBOSSicon_37	龙骨荒漠	303
+81418	4	165	38500000		300018		0		common/SmallAvatar/TXBOSSicon_37	龙骨荒漠	303
+81419	4	170	39500000		300018		0		common/SmallAvatar/TXBOSSicon_37	龙骨荒漠	303
+81420	4	175	40500000		300018	1427=1	0		common/SmallAvatar/TXBOSSicon_37	龙骨荒漠	303
+81421	4	180	43500000		300018	1421=3	0		common/SmallAvatar/TXBOSSicon_37	龙骨荒漠	303
+81422	4	185	47500000		300018	1427=1	0		common/SmallAvatar/TXBOSSicon_37	龙骨荒漠	303
+81423	4	190	51500000		300018	1421=4	0		common/SmallAvatar/TXBOSSicon_37	龙骨荒漠	303
+81424	4	200	55500000		300018	1426=1	0		common/SmallAvatar/TXBOSSicon_37	龙骨荒漠	303
+81500	5	40	12000000		300021	1421=1	0		common/SmallAvatar/TXBOSSicon_69	剧毒之森	304
+81501	5	80	22000000		300021	1421=1	0		common/SmallAvatar/TXBOSSicon_69	剧毒之森	304
+81502	5	85	23000000		300021		0		common/SmallAvatar/TXBOSSicon_69	剧毒之森	304
+81503	5	90	24000000		300021		0		common/SmallAvatar/TXBOSSicon_69	剧毒之森	304
+81504	5	95	25000000		300021		0		common/SmallAvatar/TXBOSSicon_69	剧毒之森	304
+81505	5	100	26000000		300021		0		common/SmallAvatar/TXBOSSicon_69	剧毒之森	304
+81506	5	105	27000000		300021	1421=2	0		common/SmallAvatar/TXBOSSicon_69	剧毒之森	304
+81507	5	110	28000000		300021		0		common/SmallAvatar/TXBOSSicon_69	剧毒之森	304
+81508	5	115	29000000		300021		0		common/SmallAvatar/TXBOSSicon_69	剧毒之森	304
+81509	5	120	30000000		300021		0		common/SmallAvatar/TXBOSSicon_69	剧毒之森	304
+81510	5	125	31000000		300021		0		common/SmallAvatar/TXBOSSicon_69	剧毒之森	304
+81511	5	130	32000000		300021	1421=2	0		common/SmallAvatar/TXBOSSicon_69	剧毒之森	304
+81512	5	135	33000000		300021		0		common/SmallAvatar/TXBOSSicon_69	剧毒之森	304
+81513	5	140	34000000		300021		0		common/SmallAvatar/TXBOSSicon_69	剧毒之森	304
+81514	5	145	35000000		300021		0		common/SmallAvatar/TXBOSSicon_69	剧毒之森	304
+81515	5	150	36000000		300021	1427=1	0		common/SmallAvatar/TXBOSSicon_69	剧毒之森	304
+81516	5	155	37000000		300021	1421=3	0		common/SmallAvatar/TXBOSSicon_69	剧毒之森	304
+81517	5	160	38000000		300021		0		common/SmallAvatar/TXBOSSicon_69	剧毒之森	304
+81518	5	165	39000000		300021		0		common/SmallAvatar/TXBOSSicon_69	剧毒之森	304
+81519	5	170	40000000		300021		0		common/SmallAvatar/TXBOSSicon_69	剧毒之森	304
+81520	5	175	41000000		300021	1427=1	0		common/SmallAvatar/TXBOSSicon_69	剧毒之森	304
+81521	5	180	44000000		300021	1421=3	0		common/SmallAvatar/TXBOSSicon_69	剧毒之森	304
+81522	5	185	48000000		300021	1427=1	0		common/SmallAvatar/TXBOSSicon_69	剧毒之森	304
+81523	5	190	52000000		300021	1421=4	0		common/SmallAvatar/TXBOSSicon_69	剧毒之森	304
+81524	5	200	56000000		300021	1426=1	0		common/SmallAvatar/TXBOSSicon_69	剧毒之森	304
+81000	6	40	12500000		300011	1421=1	0		common/SmallAvatar/TXBOSSicon_36	萨芬特拉之岛	305
+81001	6	80	22500000		300011	1421=1	0		common/SmallAvatar/TXBOSSicon_36	萨芬特拉之岛	305
+81002	6	85	23500000		300011		0		common/SmallAvatar/TXBOSSicon_36	萨芬特拉之岛	305
+81003	6	90	24500000		300011		0		common/SmallAvatar/TXBOSSicon_36	萨芬特拉之岛	305
+81004	6	95	25500000		300011		0		common/SmallAvatar/TXBOSSicon_36	萨芬特拉之岛	305
+81005	6	100	26500000		300011		0		common/SmallAvatar/TXBOSSicon_36	萨芬特拉之岛	305
+81006	6	105	27500000		300011	1421=2	0		common/SmallAvatar/TXBOSSicon_36	萨芬特拉之岛	305
+81007	6	110	28500000		300011		0		common/SmallAvatar/TXBOSSicon_36	萨芬特拉之岛	305
+81008	6	115	29500000		300011		0		common/SmallAvatar/TXBOSSicon_36	萨芬特拉之岛	305
+81009	6	120	30500000		300011		0		common/SmallAvatar/TXBOSSicon_36	萨芬特拉之岛	305
+81010	6	125	31500000		300011		0		common/SmallAvatar/TXBOSSicon_36	萨芬特拉之岛	305
+81011	6	130	32500000		300011	1421=2	0		common/SmallAvatar/TXBOSSicon_36	萨芬特拉之岛	305
+81012	6	135	33500000		300011		0		common/SmallAvatar/TXBOSSicon_36	萨芬特拉之岛	305
+81013	6	140	34500000		300011		0		common/SmallAvatar/TXBOSSicon_36	萨芬特拉之岛	305
+81014	6	145	35500000		300011		0		common/SmallAvatar/TXBOSSicon_36	萨芬特拉之岛	305
+81015	6	150	36500000		300011	1427=1	0		common/SmallAvatar/TXBOSSicon_36	萨芬特拉之岛	305
+81016	6	155	37500000		300011	1421=3	0		common/SmallAvatar/TXBOSSicon_36	萨芬特拉之岛	305
+81017	6	160	38500000		300011		0		common/SmallAvatar/TXBOSSicon_36	萨芬特拉之岛	305
+81018	6	165	39500000		300011		0		common/SmallAvatar/TXBOSSicon_36	萨芬特拉之岛	305
+81019	6	170	40500000		300011		0		common/SmallAvatar/TXBOSSicon_36	萨芬特拉之岛	305
+81020	6	175	41500000		300011	1427=1	0		common/SmallAvatar/TXBOSSicon_36	萨芬特拉之岛	305
+81021	6	180	44500000		300011	1421=3	0		common/SmallAvatar/TXBOSSicon_36	萨芬特拉之岛	305
+81022	6	185	48500000		300011	1427=1	0		common/SmallAvatar/TXBOSSicon_36	萨芬特拉之岛	305
+81023	6	190	52500000		300011	1421=4	0		common/SmallAvatar/TXBOSSicon_36	萨芬特拉之岛	305
+81024	6	200	56500000		300011	1426=1	0		common/SmallAvatar/TXBOSSicon_36	萨芬特拉之岛	305

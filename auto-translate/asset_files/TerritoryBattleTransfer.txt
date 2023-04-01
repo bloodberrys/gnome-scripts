@@ -1,0 +1,14 @@
+id	name	description	sceneid	max	icon
+系统ID	显示名称	描述说明	sceneid	最多人数	图标
+1	狂风战场	狂风战场	54	6	Door_thunder
+2	怒雷战场	怒雷战场	55	6	Door_wind
+3	寒霜战场	寒霜战场	56	6	Door_frost
+4	毒云战场	毒云战场	57	6	Door_clound
+5	焚炎战场	焚炎战场	58	6	Door_fire
+6	藤蔓战场	藤蔓战场	59	6	Door_sand
+7	狂风战场	狂风战场	54	6	Door_thunder
+8	怒雷战场	怒雷战场	55	6	Door_wind
+9	寒霜战场	寒霜战场	56	6	Door_frost
+10	毒云战场	毒云战场	57	6	Door_clound
+11	焚炎战场	焚炎战场	58	6	Door_fire
+12	藤蔓战场	藤蔓战场	59	6	Door_sand

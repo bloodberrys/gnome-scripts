@@ -1,0 +1,7 @@
+ID	Designation	Explanation	Effect	Color
+击杀个数	称号具体名称	文字说明	特效路径	称号颜色
+5	士兵	备用	Terrytory_wb	[fff7b4]
+10	副官	备用	Terrytory_fg	[fff7b4]
+15	队长	备用	Terrytory_dz	[fff7b4]
+20	骑士	备用	Terrytory_qs	[fff7b4]
+30	血龙	备用	Terrytory_xl	[fff7b4]

@@ -1,7 +1,0 @@
-start tutorial
-
-stepCollect Card
-second inlevel 1
-directsys 25
-
-end tutorial

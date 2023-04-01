@@ -1,0 +1,126 @@
+SpriteID	Breaknum	UplimitAdd	BuffId	NeedSpriteNum	NeedItemNum	TagAtlasPath	TagName	DecomposeAward	SpritEffect	SkillQuality	Attributes	Attributes	AttrID1	Qualification1	AttrID2	Qualification2	AttrID3	Qualification3	AttrID4	Qualification4	AttrID5	Qualification5
+精灵ID	精灵阶数(1=普通，2=优秀...)此行为1进阶到2	资质上限增加(%)	被动BUFFID	需求的精灵和数量，支持不同ID，总数量最大不超过3个	需求的道具和数量	阶数标签所在图集	阶数标签名	分解补偿	精灵特效	技能品质	属性加成											
+3506	0	0						4051=1	Effects\FX_Particle\Roles\Lzg_Ty\cash_iona_c_spirit_bandpose_Clip01													
+3506	1	50	2501|2502|2503	4051=1	1=200000|7=200	Common\work\Item6	Stage1	4051=2	Effects\FX_Particle\Roles\Lzg_Ty\cash_iona_c_spirit_bandpose_Clip01													
+3506	2	125	2511|2502|2503	4051=1	1=400000|7=400	Common\work\Item6	Stage2	4051=3	Effects\FX_Particle\Roles\Lzg_Ty\cash_iona_c_spirit_bandpose_Clip01													
+3506	3	225	2511|2512|2513	4051=2	1=600000|7=600	Common\work\Item6	Stage3	4051=5	Effects\FX_Particle\Roles\Lzg_Ty\cash_iona_c_spirit_bandpose_Clip01													
+3506	4	350	2521|2512|2513	4051=3	1=800000|7=800	Common\work\Item6	Stage4	4051=8	Effects\FX_Particle\Roles\Lzg_Ty\cash_iona_c_spirit_bandpose_Clip01													
+3506	5	500	2521|2522|2523	4051=5	1=1000000|7=1000	Common\work\Item6	Stage5	4051=13	Effects\FX_Particle\Roles\Lzg_Ty\cash_iona_c_spirit_bandpose_Clip01													
+3506	6	600	2531|2522|2523	4051=7	1=2000000|7=1500	Common\work\Item6	Stage6	4051=20	Effects\FX_Particle\Roles\Lzg_Ty\cash_iona_c_spirit_bandpose_Clip02													
+3506	7	630	2531|2532|2533	4051=7|8596=1	1=2000000|7=1500	Common\work\Item6	Stage7	4051=27|8596=1	Effects\FX_Particle\Roles\Lzg_Ty\cash_iona_c_spirit_bandpose_Clip02													
+3506	8	650	2541|2532|2533	4051=7|8596=3	1=2000000|7=1500	Common\work\Item6	Stage8	4051=34|8596=4	Effects\FX_Particle\Roles\Lzg_Ty\cash_iona_c_spirit_bandpose_Clip02													
+3506	9	660	2541|2542|2543	4051=8|8596=6	1=2000000|7=1500	Common\work\Item6	Stage9	4051=42|8596=10	Effects\FX_Particle\Roles\Lzg_Ty\cash_iona_c_spirit_bandpose_Clip02													
+3506	10	670	2551|2542|2543	4051=8|8596=10	1=2000000|7=1500	Common\work\Item6	Stage10	4051=50|8596=20	Effects\FX_Particle\Roles\Lzg_Ty\cash_iona_c_spirit_bandpose_Clip02													
+3512	0	0						4052=1	Effects\FX_Particle\Roles\Lzg_Ty\cash_rubinat_c_sprit_bandpose_Clip01													
+3512	1	50	2501|2502|2503	4052=1	1=200000|7=200	Common\work\Item6	Stage1	4052=2	Effects\FX_Particle\Roles\Lzg_Ty\cash_rubinat_c_sprit_bandpose_Clip01													
+3512	2	125	2511|2502|2503	4052=1	1=400000|7=400	Common\work\Item6	Stage2	4052=3	Effects\FX_Particle\Roles\Lzg_Ty\cash_rubinat_c_sprit_bandpose_Clip01													
+3512	3	225	2511|2512|2513	4052=2	1=600000|7=600	Common\work\Item6	Stage3	4052=5	Effects\FX_Particle\Roles\Lzg_Ty\cash_rubinat_c_sprit_bandpose_Clip01													
+3512	4	350	2521|2512|2513	4052=3	1=800000|7=800	Common\work\Item6	Stage4	4052=8	Effects\FX_Particle\Roles\Lzg_Ty\cash_rubinat_c_sprit_bandpose_Clip01													
+3512	5	500	2521|2522|2523	4052=5	1=1000000|7=1000	Common\work\Item6	Stage5	4052=13	Effects\FX_Particle\Roles\Lzg_Ty\cash_rubinat_c_sprit_bandpose_Clip01													
+3512	6	600	2531|2522|2523	4052=7	1=2000000|7=1500	Common\work\Item6	Stage6	4052=20	Effects\FX_Particle\Roles\Lzg_Ty\cash_rubinat_c_sprit_bandpose_Clip02													
+3512	7	630	2531|2532|2533	4052=7|8596=1	1=2000000|7=1500	Common\work\Item6	Stage7	4052=27|8596=1	Effects\FX_Particle\Roles\Lzg_Ty\cash_rubinat_c_sprit_bandpose_Clip02													
+3512	8	650	2541|2532|2533	4052=7|8596=3	1=2000000|7=1500	Common\work\Item6	Stage8	4052=34|8596=4	Effects\FX_Particle\Roles\Lzg_Ty\cash_rubinat_c_sprit_bandpose_Clip02													
+3512	9	660	2541|2542|2543	4052=8|8596=6	1=2000000|7=1500	Common\work\Item6	Stage9	4052=42|8596=10	Effects\FX_Particle\Roles\Lzg_Ty\cash_rubinat_c_sprit_bandpose_Clip02													
+3512	10	670	2551|2542|2543	4052=8|8596=10	1=2000000|7=1500	Common\work\Item6	Stage10	4052=50|8596=20	Effects\FX_Particle\Roles\Lzg_Ty\cash_rubinat_c_sprit_bandpose_Clip02													
+3513	0	0						4053=1	Effects\FX_Particle\Roles\Lzg_Ty\cash_unicorn_spirit_bandpose_Clip01													
+3513	1	50	2501|2502|2503	4053=1	1=200000|7=200	Common\work\Item6	Stage1	4053=2	Effects\FX_Particle\Roles\Lzg_Ty\cash_unicorn_spirit_bandpose_Clip01													
+3513	2	125	2511|2502|2503	4053=1	1=400000|7=400	Common\work\Item6	Stage2	4053=3	Effects\FX_Particle\Roles\Lzg_Ty\cash_unicorn_spirit_bandpose_Clip01													
+3513	3	225	2511|2512|2513	4053=2	1=600000|7=600	Common\work\Item6	Stage3	4053=5	Effects\FX_Particle\Roles\Lzg_Ty\cash_unicorn_spirit_bandpose_Clip01													
+3513	4	350	2521|2512|2513	4053=3	1=800000|7=800	Common\work\Item6	Stage4	4053=8	Effects\FX_Particle\Roles\Lzg_Ty\cash_unicorn_spirit_bandpose_Clip01													
+3513	5	500	2521|2522|2523	4053=5	1=1000000|7=1000	Common\work\Item6	Stage5	4053=13	Effects\FX_Particle\Roles\Lzg_Ty\cash_unicorn_spirit_bandpose_Clip01													
+3513	6	600	2531|2522|2523	4053=7	1=2000000|7=1500	Common\work\Item6	Stage6	4053=20	Effects\FX_Particle\Roles\Lzg_Ty\cash_unicorn_spirit_bandpose_Clip02													
+3513	7	630	2531|2532|2533	4053=7|8596=1	1=2000000|7=1500	Common\work\Item6	Stage7	4053=27|8596=1	Effects\FX_Particle\Roles\Lzg_Ty\cash_unicorn_spirit_bandpose_Clip02													
+3513	8	650	2541|2532|2533	4053=7|8596=3	1=2000000|7=1500	Common\work\Item6	Stage8	4053=34|8596=4	Effects\FX_Particle\Roles\Lzg_Ty\cash_unicorn_spirit_bandpose_Clip02													
+3513	9	660	2541|2542|2543	4053=8|8596=6	1=2000000|7=1500	Common\work\Item6	Stage9	4053=42|8596=10	Effects\FX_Particle\Roles\Lzg_Ty\cash_unicorn_spirit_bandpose_Clip02													
+3513	10	670	2551|2542|2543	4053=8|8596=10	1=2000000|7=1500	Common\work\Item6	Stage10	4053=50|8596=20	Effects\FX_Particle\Roles\Lzg_Ty\cash_unicorn_spirit_bandpose_Clip02													
+3514	0	0						4054=1	Effects\FX_Particle\Roles\Lzg_Ty\cash_religion_spirit_bandpose_Clip01													
+3514	1	50	2501|2502|2503	4054=1	1=200000|7=200	Common\work\Item6	Stage1	4054=2	Effects\FX_Particle\Roles\Lzg_Ty\cash_religion_spirit_bandpose_Clip01													
+3514	2	125	2511|2502|2503	4054=1	1=400000|7=400	Common\work\Item6	Stage2	4054=3	Effects\FX_Particle\Roles\Lzg_Ty\cash_religion_spirit_bandpose_Clip01													
+3514	3	225	2511|2512|2513	4054=2	1=600000|7=600	Common\work\Item6	Stage3	4054=5	Effects\FX_Particle\Roles\Lzg_Ty\cash_religion_spirit_bandpose_Clip01													
+3514	4	350	2521|2512|2513	4054=3	1=800000|7=800	Common\work\Item6	Stage4	4054=8	Effects\FX_Particle\Roles\Lzg_Ty\cash_religion_spirit_bandpose_Clip01													
+3514	5	500	2521|2522|2523	4054=5	1=1000000|7=1000	Common\work\Item6	Stage5	4054=13	Effects\FX_Particle\Roles\Lzg_Ty\cash_religion_spirit_bandpose_Clip01													
+3514	6	600	2531|2522|2523	4054=7	1=2000000|7=1500	Common\work\Item6	Stage6	4054=20	Effects\FX_Particle\Roles\Lzg_Ty\cash_religion_spirit_bandpose_Clip02													
+3514	7	630	2531|2532|2533	4054=7|8596=1	1=2000000|7=1500	Common\work\Item6	Stage7	4054=27|8596=1	Effects\FX_Particle\Roles\Lzg_Ty\cash_religion_spirit_bandpose_Clip02													
+3514	8	650	2541|2532|2533	4054=7|8596=3	1=2000000|7=1500	Common\work\Item6	Stage8	4054=34|8596=4	Effects\FX_Particle\Roles\Lzg_Ty\cash_religion_spirit_bandpose_Clip02													
+3514	9	660	2541|2542|2543	4054=8|8596=6	1=2000000|7=1500	Common\work\Item6	Stage9	4054=42|8596=10	Effects\FX_Particle\Roles\Lzg_Ty\cash_religion_spirit_bandpose_Clip02													
+3514	10	670	2551|2542|2543	4054=8|8596=10	1=2000000|7=1500	Common\work\Item6	Stage10	4054=50|8596=20	Effects\FX_Particle\Roles\Lzg_Ty\cash_religion_spirit_bandpose_Clip02													
+3501	0	0						4061=1														
+3501	1	50	2501	4061=1	1=100000|7=100	Common\work\Item6	Stage1	4061=2														
+3501	2	75	2501|2502	4061=1	1=200000|7=200	Common\work\Item6	Stage2	4061=3														
+3501	3	100	2501|2502|2503	4061=2	1=300000|7=300	Common\work\Item6	Stage3	4061=5														
+3501	4	125	2601|2602|2603	4061=3|8549=50	1=400000|7=400	Common\work\Item6	Stage4	4061=8|8549=50														
+3501	5	150	2611|2612|2613	4061=5|8549=100	1=500000|7=500	Common\work\Item6	Stage5	4061=13|8549=150														
+3501	6	175	2621|2622|2623	4061=7|8549=200	1=500000|7=500	Common\work\Item6	Stage6	4061=20|8549=350														
+3501	7	200	2631|2632|2633	4061=7|8549=300	1=500000|7=500	Common\work\Item6	Stage7	4061=27|8549=650														
+3502	0	0						4062=1														
+3502	1	50	2501	4062=1	1=100000|7=100	Common\work\Item6	Stage1	4062=2														
+3502	2	75	2501|2502	4062=1	1=200000|7=200	Common\work\Item6	Stage2	4062=3														
+3502	3	100	2501|2502|2503	4062=2	1=300000|7=300	Common\work\Item6	Stage3	4062=5														
+3502	4	125	2601|2602|2603	4062=3|8549=50	1=400000|7=400	Common\work\Item6	Stage4	4062=8|8549=50														
+3502	5	150	2611|2612|2613	4062=5|8549=100	1=500000|7=500	Common\work\Item6	Stage5	4062=13|8549=150														
+3502	6	175	2621|2622|2623	4062=7|8549=200	1=500000|7=500	Common\work\Item6	Stage6	4062=20|8549=350														
+3502	7	200	2631|2632|2633	4062=7|8549=300	1=500000|7=500	Common\work\Item6	Stage7	4062=27|8549=650														
+3503	0	0						4063=1														
+3503	1	50	2501	4063=1	1=100000|7=100	Common\work\Item6	Stage1	4063=2														
+3503	2	75	2501|2502	4063=1	1=200000|7=200	Common\work\Item6	Stage2	4063=3														
+3503	3	100	2501|2502|2503	4063=2	1=300000|7=300	Common\work\Item6	Stage3	4063=5														
+3503	4	125	2601|2602|2603	4063=3|8549=50	1=400000|7=400	Common\work\Item6	Stage4	4063=8|8549=50														
+3503	5	150	2611|2612|2613	4063=5|8549=100	1=500000|7=500	Common\work\Item6	Stage5	4063=13|8549=150														
+3503	6	175	2621|2622|2623	4063=7|8549=200	1=500000|7=500	Common\work\Item6	Stage6	4063=20|8549=350														
+3503	7	200	2631|2632|2633	4063=7|8549=300	1=500000|7=500	Common\work\Item6	Stage7	4063=27|8549=650														
+3504	0	0						4064=1														
+3504	1	50	2501	4064=1	1=100000|7=100	Common\work\Item6	Stage1	4064=2														
+3504	2	75	2501|2502	4064=1	1=200000|7=200	Common\work\Item6	Stage2	4064=3														
+3504	3	100	2501|2502|2503	4064=2	1=300000|7=300	Common\work\Item6	Stage3	4064=5														
+3504	4	125	2601|2602|2603	4064=3|8549=50	1=400000|7=400	Common\work\Item6	Stage4	4064=8|8549=50														
+3504	5	150	2611|2612|2613	4064=5|8549=100	1=500000|7=500	Common\work\Item6	Stage5	4064=13|8549=150														
+3504	6	175	2621|2622|2623	4064=7|8549=200	1=500000|7=500	Common\work\Item6	Stage6	4064=20|8549=350														
+3504	7	200	2631|2632|2633	4064=7|8549=300	1=500000|7=500	Common\work\Item6	Stage7	4064=27|8549=650														
+3505	0	0						4065=1														
+3505	1	50	2501	4065=1	1=100000|7=100	Common\work\Item6	Stage1	4065=2														
+3505	2	75	2501|2502	4065=1	1=200000|7=200	Common\work\Item6	Stage2	4065=3														
+3505	3	100	2501|2502|2503	4065=2	1=300000|7=300	Common\work\Item6	Stage3	4065=5														
+3505	4	125	2601|2602|2603	4065=3|8549=50	1=400000|7=400	Common\work\Item6	Stage4	4065=8|8549=50														
+3505	5	150	2611|2612|2613	4065=5|8549=100	1=500000|7=500	Common\work\Item6	Stage5	4065=13|8549=150														
+3505	6	175	2621|2622|2623	4065=7|8549=200	1=500000|7=500	Common\work\Item6	Stage6	4065=20|8549=350														
+3505	7	200	2631|2632|2633	4065=7|8549=300	1=500000|7=500	Common\work\Item6	Stage7	4065=27|8549=650														
+3507	0	0						4066=1														
+3507	1	50	2501	4066=1	1=100000|7=100	Common\work\Item6	Stage1	4066=2														
+3507	2	75	2501|2502	4066=1	1=200000|7=200	Common\work\Item6	Stage2	4066=3														
+3507	3	100	2501|2502|2503	4066=2	1=300000|7=300	Common\work\Item6	Stage3	4066=5														
+3507	4	125	2601|2602|2603	4066=3|8549=50	1=400000|7=400	Common\work\Item6	Stage4	4066=8|8549=50														
+3507	5	150	2611|2612|2613	4066=5|8549=100	1=500000|7=500	Common\work\Item6	Stage5	4066=13|8549=150														
+3507	6	175	2621|2622|2623	4066=7|8549=200	1=500000|7=500	Common\work\Item6	Stage6	4066=20|8549=350														
+3507	7	200	2631|2632|2633	4066=7|8549=300	1=500000|7=500	Common\work\Item6	Stage7	4066=27|8549=650														
+3508	0	0						4067=1														
+3508	1	50	2501	4067=1	1=100000|7=100	Common\work\Item6	Stage1	4067=2														
+3508	2	75	2501|2502	4067=1	1=200000|7=200	Common\work\Item6	Stage2	4067=3														
+3508	3	100	2501|2502|2503	4067=2	1=300000|7=300	Common\work\Item6	Stage3	4067=5														
+3508	4	125	2601|2602|2603	4067=3|8549=50	1=400000|7=400	Common\work\Item6	Stage4	4067=8|8549=50														
+3508	5	150	2611|2612|2613	4067=5|8549=100	1=500000|7=500	Common\work\Item6	Stage5	4067=13|8549=150														
+3508	6	175	2621|2622|2623	4067=7|8549=200	1=500000|7=500	Common\work\Item6	Stage6	4067=20|8549=350														
+3508	7	200	2631|2632|2633	4067=7|8549=300	1=500000|7=500	Common\work\Item6	Stage7	4067=27|8549=650														
+3509	0	0						4068=1														
+3509	1	50	2501	4068=1	1=100000|7=100	Common\work\Item6	Stage1	4068=2														
+3509	2	75	2501|2502	4068=1	1=200000|7=200	Common\work\Item6	Stage2	4068=3														
+3509	3	100	2501|2502|2503	4068=2	1=300000|7=300	Common\work\Item6	Stage3	4068=5														
+3509	4	125	2601|2602|2603	4068=3|8549=50	1=400000|7=400	Common\work\Item6	Stage4	4068=8|8549=50														
+3509	5	150	2611|2612|2613	4068=5|8549=100	1=500000|7=500	Common\work\Item6	Stage5	4068=13|8549=150														
+3509	6	175	2621|2622|2623	4068=7|8549=200	1=500000|7=500	Common\work\Item6	Stage6	4068=20|8549=350														
+3509	7	200	2631|2632|2633	4068=7|8549=300	1=500000|7=500	Common\work\Item6	Stage7	4068=27|8549=650														
+3510	0	0						4069=1														
+3510	1	50	2501	4069=1	1=100000|7=100	Common\work\Item6	Stage1	4069=2														
+3510	2	75	2501|2502	4069=1	1=200000|7=200	Common\work\Item6	Stage2	4069=3														
+3510	3	100	2501|2502|2503	4069=2	1=300000|7=300	Common\work\Item6	Stage3	4069=5														
+3510	4	125	2601|2602|2603	4069=3|8549=50	1=400000|7=400	Common\work\Item6	Stage4	4069=8|8549=50														
+3510	5	150	2611|2612|2613	4069=5|8549=100	1=500000|7=500	Common\work\Item6	Stage5	4069=13|8549=150														
+3510	6	175	2621|2622|2623	4069=7|8549=200	1=500000|7=500	Common\work\Item6	Stage6	4069=20|8549=350														
+3510	7	200	2631|2632|2633	4069=7|8549=300	1=500000|7=500	Common\work\Item6	Stage7	4069=27|8549=650														
+3511	0	0						4070=1														
+3511	1	50	2501	4070=1	1=100000|7=100	Common\work\Item6	Stage1	4070=2														
+3511	2	75	2501|2502	4070=1	1=200000|7=200	Common\work\Item6	Stage2	4070=3														
+3511	3	100	2501|2502|2503	4070=2	1=300000|7=300	Common\work\Item6	Stage3	4070=5														
+3511	4	125	2601|2602|2603	4070=3|8549=50	1=400000|7=400	Common\work\Item6	Stage4	4070=8|8549=50														
+3511	5	150	2611|2612|2613	4070=5|8549=100	1=500000|7=500	Common\work\Item6	Stage5	4070=13|8549=150														
+3511	6	175	2621|2622|2623	4070=7|8549=200	1=500000|7=500	Common\work\Item6	Stage6	4070=20|8549=350														
+3511	7	200	2631|2632|2633	4070=7|8549=300	1=500000|7=500	Common\work\Item6	Stage7	4070=27|8549=650														

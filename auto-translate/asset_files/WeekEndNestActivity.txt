@@ -1,0 +1,9 @@
+ParentTaskId	OpenSvrDay	BgTexName
+任务id(填父任务Id)	开服时间	背景图名称
+2136	0=20	Loading_23
+2138	21=40	Loading_20
+2140	41=100	Loading_22
+2142	101=150	Loading_30
+2144	151=220	Loading_09
+2146	221=300	Loading_10
+2148	301=2000	Loading_12

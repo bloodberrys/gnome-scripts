@@ -1,0 +1,4 @@
+VIPInfoID	VIPInfo
+InfoID	VIP显示内容
+1	每日可购买金币的次数提升至{0}次
+2	每日可购买体力的次数提升至{0}次

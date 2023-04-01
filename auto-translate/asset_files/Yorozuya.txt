@@ -1,0 +1,9 @@
+ID	SceneIDs	IconName	Name	IsOpen
+唯一id	场景列表(sceneID=权重|...)	图标名称	名字	是否开放（0：开 1：不开）
+7	51013=100	atlas/UI/GameSystem/PhotoStudio/wsw_6	圣诞夜景	0
+2	51004=100	atlas/UI/GameSystem/PhotoStudio/wsw_1	花海景观	0
+1	51003=100	atlas/UI/GameSystem/PhotoStudio/wsw_0	中国风情	0
+6	51008=100	atlas/UI/GameSystem/PhotoStudio/wsw_5	神秘飞艇	0
+3	51005=100	atlas/UI/GameSystem/PhotoStudio/wsw_2	敬请期待	1
+4	51006=100	atlas/UI/GameSystem/PhotoStudio/wsw_3	敬请期待	1
+5	51007=100	atlas/UI/GameSystem/PhotoStudio/wsw_4	敬请期待	1

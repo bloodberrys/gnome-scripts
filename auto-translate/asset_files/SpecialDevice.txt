@@ -1,0 +1,6 @@
+DeviceModelName	ScreenRect	OffsetX	OffsetY
+设备号型号名字	位置长宽	x轴偏移量	y轴偏移量
+iPhone10,3	0|0|2436|1125	96	0
+iPhone10,6	0|0|2436|1125	96	0
+vivo vivo Y85A	0|0|2280|1080	96	0
+Xiaomi MI 8	0|0|2248|1080	96	0

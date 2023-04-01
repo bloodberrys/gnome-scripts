@@ -1,0 +1,15 @@
+ID	territoryname	territorylevel	territorylevelname	territoryIcon	territoryLeagues
+领地ID	领地名称	领地等阶	领地等阶名称	领地图标（GameSystem/GuildTerritory）	领地宣战前提
+1	狂风森林	1	野外	Guild_icon04	0
+2	阴影森林	1	野外	Guild_icon04	0
+3	融解森林	1	野外	Guild_icon04	0
+4	雪霜坡道	1	野外	Guild_icon04	0
+5	水晶谷	1	野外	Guild_icon03	0
+6	灰色废墟	1	野外	Guild_icon03	0
+7	利物沃特	1	野外	Guild_icon03	0
+8	赫尔马岱	1	野外	Guild_icon03	0
+9	普雷利镇	2	城镇	Guild_icon02	1
+10	魔法山脊	2	城镇	Guild_icon02	1
+11	凯德拉	2	城镇	Guild_icon02	1
+12	莲花沼泽	2	城镇	Guild_icon02	1
+13	神圣天堂	3	主城	Guild_icon01	2

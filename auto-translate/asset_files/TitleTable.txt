@@ -1,0 +1,107 @@
+RankID	BasicProfession	RankName	RankAtlas	RankIcon	AffectRoute	NeedPowerPoint	NeedItem	Attribute	RankPath	desc	
+头衔ID	基础职业	头衔名称	头衔图集	头衔图标	特效路径	所需达到战力	所需物品	属性	头衔大图	显示文字	
+0	1	平民	common/Billboard	pm_n		0			atlas/UI/common/Pic/title_tex_0_0		
+0	2	平民	common/Billboard	pm_n		0			atlas/UI/common/Pic/title_tex_0_0		
+0	3	平民	common/Billboard	pm_n		0			atlas/UI/common/Pic/title_tex_0_0		
+0	4	平民	common/Billboard	pm_n		0			atlas/UI/common/Pic/title_tex_0_0		
+0	5	平民	common/Billboard	pm_n		0			atlas/UI/common/Pic/title_tex_0_0		
+0	6	平民	common/Billboard	pm_n		0			atlas/UI/common/Pic/title_tex_0_0		
+0	7	平民	common/Billboard	pm_n		0			atlas/UI/common/Pic/title_tex_0_0		
+1	1	游民	common/Billboard	ym_0		6000		11=25|13=2000	atlas/UI/common/Pic/title_tex_0	所需勋章	
+1	2	游民	common/Billboard	ym_0		6000		11=25|13=2000	atlas/UI/common/Pic/title_tex_0	所需勋章	
+1	3	游民	common/Billboard	ym_0		6000		21=25|13=2000	atlas/UI/common/Pic/title_tex_0	所需勋章	
+1	4	游民	common/Billboard	ym_0		6000		21=25|13=2000	atlas/UI/common/Pic/title_tex_0	所需勋章	
+1	5	游民	common/Billboard	ym_0		6000		21=25|13=2000	atlas/UI/common/Pic/title_tex_0	所需勋章	
+1	6	游民	common/Billboard	ym_0		6000		11=25|13=2000	atlas/UI/common/Pic/title_tex_0	所需勋章	
+1	7	游民	common/Billboard	ym_0		6000		21=25|13=2000	atlas/UI/common/Pic/title_tex_0	所需勋章	
+2	1	探险者	common/Billboard	txz_1		20000		11=75|13=6000	atlas/UI/common/Pic/title_tex_1	所需勋章	
+2	2	探险者	common/Billboard	txz_1		20000		11=75|13=6000	atlas/UI/common/Pic/title_tex_1	所需勋章	
+2	3	探险者	common/Billboard	txz_1		20000		21=75|13=6000	atlas/UI/common/Pic/title_tex_1	所需勋章	
+2	4	探险者	common/Billboard	txz_1		20000		21=75|13=6000	atlas/UI/common/Pic/title_tex_1	所需勋章	
+2	5	探险者	common/Billboard	txz_1		20000		21=75|13=6000	atlas/UI/common/Pic/title_tex_1	所需勋章	
+2	6	探险者	common/Billboard	txz_1		20000		11=75|13=6000	atlas/UI/common/Pic/title_tex_1	所需勋章	
+2	7	探险者	common/Billboard	txz_1		20000		21=75|13=6000	atlas/UI/common/Pic/title_tex_1	所需勋章	
+3	1	冒险家	common/Billboard	mxj_2		40000	301=2	11=250|13=20000	atlas/UI/common/Pic/title_tex_2	所需勋章	32
+3	2	冒险家	common/Billboard	mxj_2		40000	301=2	11=250|13=20000	atlas/UI/common/Pic/title_tex_2	所需勋章	32
+3	3	冒险家	common/Billboard	mxj_2		40000	301=2	21=250|13=20000	atlas/UI/common/Pic/title_tex_2	所需勋章	32
+3	4	冒险家	common/Billboard	mxj_2		40000	301=2	21=250|13=20000	atlas/UI/common/Pic/title_tex_2	所需勋章	32
+3	5	冒险家	common/Billboard	mxj_2		40000	301=2	21=250|13=20000	atlas/UI/common/Pic/title_tex_2	所需勋章	32
+3	6	冒险家	common/Billboard	mxj_2		40000	301=2	11=250|13=20000	atlas/UI/common/Pic/title_tex_2	所需勋章	32
+3	7	冒险家	common/Billboard	mxj_2		40000	301=2	21=250|13=20000	atlas/UI/common/Pic/title_tex_2	所需勋章	32
+4	1	佣兵	common/Billboard	yb_3		80000	301=4	11=500|13=40000	atlas/UI/common/Pic/title_tex_3	所需勋章	32
+4	2	佣兵	common/Billboard	yb_3		80000	301=4	11=500|13=40000	atlas/UI/common/Pic/title_tex_3	所需勋章	32
+4	3	佣兵	common/Billboard	yb_3		80000	301=4	21=500|13=40000	atlas/UI/common/Pic/title_tex_3	所需勋章	32
+4	4	佣兵	common/Billboard	yb_3		80000	301=4	21=500|13=40000	atlas/UI/common/Pic/title_tex_3	所需勋章	32
+4	5	佣兵	common/Billboard	yb_3		80000	301=4	21=500|13=40000	atlas/UI/common/Pic/title_tex_3	所需勋章	32
+4	6	佣兵	common/Billboard	yb_3		80000	301=4	11=500|13=40000	atlas/UI/common/Pic/title_tex_3	所需勋章	32
+4	7	佣兵	common/Billboard	yb_3		80000	301=4	21=500|13=40000	atlas/UI/common/Pic/title_tex_3	所需勋章	32
+5	1	勇士	common/Billboard	ys_4		120000	302=4	11=750|13=60000	atlas/UI/common/Pic/title_tex_4	所需勋章	40
+5	2	勇士	common/Billboard	ys_4		120000	302=4	11=750|13=60000	atlas/UI/common/Pic/title_tex_4	所需勋章	40
+5	3	勇士	common/Billboard	ys_4		120000	302=4	21=750|13=60000	atlas/UI/common/Pic/title_tex_4	所需勋章	40
+5	4	勇士	common/Billboard	ys_4		120000	302=4	21=750|13=60000	atlas/UI/common/Pic/title_tex_4	所需勋章	40
+5	5	勇士	common/Billboard	ys_4		120000	302=4	21=750|13=60000	atlas/UI/common/Pic/title_tex_4	所需勋章	40
+5	6	勇士	common/Billboard	ys_4		120000	302=4	11=750|13=60000	atlas/UI/common/Pic/title_tex_4	所需勋章	40
+5	7	勇士	common/Billboard	ys_4		120000	302=4	21=750|13=60000	atlas/UI/common/Pic/title_tex_4	所需勋章	40
+6	1	骑士	common/Billboard	qs_5		240000	302=8	11=1000|13=80000	atlas/UI/common/Pic/title_tex_5	所需勋章	50
+6	2	骑士	common/Billboard	qs_5		240000	302=8	11=1000|13=80000	atlas/UI/common/Pic/title_tex_5	所需勋章	50
+6	3	骑士	common/Billboard	qs_5		240000	302=8	21=1000|13=80000	atlas/UI/common/Pic/title_tex_5	所需勋章	50
+6	4	骑士	common/Billboard	qs_5		240000	302=8	21=1000|13=80000	atlas/UI/common/Pic/title_tex_5	所需勋章	50
+6	5	骑士	common/Billboard	qs_5		240000	302=8	21=1000|13=80000	atlas/UI/common/Pic/title_tex_5	所需勋章	50
+6	6	骑士	common/Billboard	qs_5		240000	302=8	11=1000|13=80000	atlas/UI/common/Pic/title_tex_5	所需勋章	50
+6	7	骑士	common/Billboard	qs_5		240000	302=8	21=1000|13=80000	atlas/UI/common/Pic/title_tex_5	所需勋章	50
+7	1	领主	common/Billboard	lz_6		360000	303=8	11=1500|13=120000	atlas/UI/common/Pic/title_tex_6	所需勋章	60
+7	2	领主	common/Billboard	lz_6		360000	303=8	11=1500|13=120000	atlas/UI/common/Pic/title_tex_6	所需勋章	60
+7	3	领主	common/Billboard	lz_6		360000	303=8	21=1500|13=120000	atlas/UI/common/Pic/title_tex_6	所需勋章	60
+7	4	领主	common/Billboard	lz_6		360000	303=8	21=1500|13=120000	atlas/UI/common/Pic/title_tex_6	所需勋章	60
+7	5	领主	common/Billboard	lz_6		360000	303=8	21=1500|13=120000	atlas/UI/common/Pic/title_tex_6	所需勋章	60
+7	6	领主	common/Billboard	lz_6		360000	303=8	11=1500|13=120000	atlas/UI/common/Pic/title_tex_6	所需勋章	60
+7	7	领主	common/Billboard	lz_6		360000	303=8	21=1500|13=120000	atlas/UI/common/Pic/title_tex_6	所需勋章	60
+8	1	英雄	common/Billboard	yx_7		480000	303=16	11=2000|13=160000	atlas/UI/common/Pic/title_tex_7	所需勋章	70
+8	2	英雄	common/Billboard	yx_7		480000	303=16	11=2000|13=160000	atlas/UI/common/Pic/title_tex_7	所需勋章	70
+8	3	英雄	common/Billboard	yx_7		480000	303=16	21=2000|13=160000	atlas/UI/common/Pic/title_tex_7	所需勋章	70
+8	4	英雄	common/Billboard	yx_7		480000	303=16	21=2000|13=160000	atlas/UI/common/Pic/title_tex_7	所需勋章	70
+8	5	英雄	common/Billboard	yx_7		480000	303=16	21=2000|13=160000	atlas/UI/common/Pic/title_tex_7	所需勋章	70
+8	6	英雄	common/Billboard	yx_7		480000	303=16	11=2000|13=160000	atlas/UI/common/Pic/title_tex_7	所需勋章	70
+8	7	英雄	common/Billboard	yx_7		480000	303=16	21=2000|13=160000	atlas/UI/common/Pic/title_tex_7	所需勋章	70
+9	1	守护者	common/Billboard	shz_8		560000	304=12	11=3000|13=240000	atlas/UI/common/Pic/title_tex_8	所需勋章	80
+9	2	守护者	common/Billboard	shz_8		560000	304=12	11=3000|13=240000	atlas/UI/common/Pic/title_tex_8	所需勋章	80
+9	3	守护者	common/Billboard	shz_8		560000	304=12	21=3000|13=240000	atlas/UI/common/Pic/title_tex_8	所需勋章	80
+9	4	守护者	common/Billboard	shz_8		560000	304=12	21=3000|13=240000	atlas/UI/common/Pic/title_tex_8	所需勋章	80
+9	5	守护者	common/Billboard	shz_8		560000	304=12	21=3000|13=240000	atlas/UI/common/Pic/title_tex_8	所需勋章	80
+9	6	守护者	common/Billboard	shz_8		560000	304=12	11=3000|13=240000	atlas/UI/common/Pic/title_tex_8	所需勋章	80
+9	7	守护者	common/Billboard	shz_8		560000	304=12	21=3000|13=240000	atlas/UI/common/Pic/title_tex_8	所需勋章	80
+10	1	屠龙者	common/Billboard	tlz_9		720000	304=16	11=4000|13=320000	atlas/UI/common/Pic/title_tex_9	所需勋章	90
+10	2	屠龙者	common/Billboard	tlz_9		720000	304=16	11=4000|13=320000	atlas/UI/common/Pic/title_tex_9	所需勋章	90
+10	3	屠龙者	common/Billboard	tlz_9		720000	304=16	21=4000|13=320000	atlas/UI/common/Pic/title_tex_9	所需勋章	90
+10	4	屠龙者	common/Billboard	tlz_9		720000	304=16	21=4000|13=320000	atlas/UI/common/Pic/title_tex_9	所需勋章	90
+10	5	屠龙者	common/Billboard	tlz_9		720000	304=16	21=4000|13=320000	atlas/UI/common/Pic/title_tex_9	所需勋章	90
+10	6	屠龙者	common/Billboard	tlz_9		720000	304=16	11=4000|13=320000	atlas/UI/common/Pic/title_tex_9	所需勋章	90
+10	7	屠龙者	common/Billboard	tlz_9		720000	304=16	21=4000|13=320000	atlas/UI/common/Pic/title_tex_9	所需勋章	90
+11	1	英雄王	common/Billboard	yxw_10		1000000	305=15	11=5500|13=440000	atlas/UI/common/Pic/title_tex_10	所需勋章	
+11	2	英雄王	common/Billboard	yxw_10		1000000	305=15	11=5500|13=440000	atlas/UI/common/Pic/title_tex_10	所需勋章	
+11	3	英雄王	common/Billboard	yxw_10		1000000	305=15	21=5500|13=440000	atlas/UI/common/Pic/title_tex_10	所需勋章	
+11	4	英雄王	common/Billboard	yxw_10		1000000	305=15	21=5500|13=440000	atlas/UI/common/Pic/title_tex_10	所需勋章	
+11	5	英雄王	common/Billboard	yxw_10		1000000	305=15	21=5500|13=440000	atlas/UI/common/Pic/title_tex_10	所需勋章	
+11	6	英雄王	common/Billboard	yxw_10		1000000	305=15	11=5500|13=440000	atlas/UI/common/Pic/title_tex_10	所需勋章	
+11	7	英雄王	common/Billboard	yxw_10		1000000	305=15	21=5500|13=440000	atlas/UI/common/Pic/title_tex_10	所需勋章	
+12	1	传奇	common/Billboard	cq_11		1250000	305=20	11=7000|13=560000	atlas/UI/common/Pic/title_tex_11	所需勋章	
+12	2	传奇	common/Billboard	cq_11		1250000	305=20	11=7000|13=560000	atlas/UI/common/Pic/title_tex_11	所需勋章	
+12	3	传奇	common/Billboard	cq_11		1250000	305=20	21=7000|13=560000	atlas/UI/common/Pic/title_tex_11	所需勋章	
+12	4	传奇	common/Billboard	cq_11		1250000	305=20	21=7000|13=560000	atlas/UI/common/Pic/title_tex_11	所需勋章	
+12	5	传奇	common/Billboard	cq_11		1250000	305=20	21=7000|13=560000	atlas/UI/common/Pic/title_tex_11	所需勋章	
+12	6	传奇	common/Billboard	cq_11		1250000	305=20	11=7000|13=560000	atlas/UI/common/Pic/title_tex_11	所需勋章	
+12	7	传奇	common/Billboard	cq_11		1250000	305=20	21=7000|13=560000	atlas/UI/common/Pic/title_tex_11	所需勋章	
+13	1	圣者	common/Billboard	sz_12		1500000	305=25	11=8500|13=680000	atlas/UI/common/Pic/title_tex_12	所需勋章	
+13	2	圣者	common/Billboard	sz_12		1500000	305=25	11=8500|13=680000	atlas/UI/common/Pic/title_tex_12	所需勋章	
+13	3	圣者	common/Billboard	sz_12		1500000	305=25	21=8500|13=680000	atlas/UI/common/Pic/title_tex_12	所需勋章	
+13	4	圣者	common/Billboard	sz_12		1500000	305=25	21=8500|13=680000	atlas/UI/common/Pic/title_tex_12	所需勋章	
+13	5	圣者	common/Billboard	sz_12		1500000	305=25	21=8500|13=680000	atlas/UI/common/Pic/title_tex_12	所需勋章	
+13	6	圣者	common/Billboard	sz_12		1500000	305=25	11=8500|13=680000	atlas/UI/common/Pic/title_tex_12	所需勋章	
+13	7	圣者	common/Billboard	sz_12		1500000	305=25	21=8500|13=680000	atlas/UI/common/Pic/title_tex_12	所需勋章	
+14	1	星耀	common/Billboard	xy_13		2000000	305=30	11=10000|13=800000	atlas/UI/common/Pic/title_tex_13	所需勋章	
+14	2	星耀	common/Billboard	xy_13		2000000	305=30	11=10000|13=800000	atlas/UI/common/Pic/title_tex_13	所需勋章	
+14	3	星耀	common/Billboard	xy_13		2000000	305=30	21=10000|13=800000	atlas/UI/common/Pic/title_tex_13	所需勋章	
+14	4	星耀	common/Billboard	xy_13		2000000	305=30	21=10000|13=800000	atlas/UI/common/Pic/title_tex_13	所需勋章	
+14	5	星耀	common/Billboard	xy_13		2000000	305=30	21=10000|13=800000	atlas/UI/common/Pic/title_tex_13	所需勋章	
+14	6	星耀	common/Billboard	xy_13		2000000	305=30	11=10000|13=800000	atlas/UI/common/Pic/title_tex_13	所需勋章	
+14	7	星耀	common/Billboard	xy_13		2000000	305=30	21=10000|13=800000	atlas/UI/common/Pic/title_tex_13	所需勋章	

@@ -1,0 +1,18 @@
+actid	id	childs	offset	icon	name	belong	examination	advanceid
+活动id	排序ID	子tab页	活动开启偏移天数	图标	name	属性	考核内容	提升系统ID
+1	1	上线有礼	0		登录奖励	1		
+1	2	传说历程|强化传奇	0		精彩传奇	2		
+1	3	超级怪兽|天梯风光	0		精彩征战	3		
+1	4	友情见证|绚烂龙玉	1		共同成长	4		
+1	5	征战巨龙|公会战友	2		众志成城	5		
+1	6	英雄注灵	4		英雄之力	6		
+202	1		0		解封活动	1		
+2	1			atlas/UI/common/Pic/CollectWordsFrame_xzlp	[FFFFFF]活动截止：2020.4.24 5点 集齐迎春木和樱花兑换S坐骑！	2		
+4	1			atlas/UI/common/Pic/PartnerDayFrame	召集自己的战友们组队完成下面的任务，可以获得额外战友大礼哦！	2		
+75	1	装备强化	0		装备强化	1	强化等级	121
+75	2	龙玉镶嵌	1		龙玉镶嵌	2	龙玉总等级	122
+75	3	精灵养成	2		精灵养成	3	精灵总战力	930
+75	4	装备注灵	3		装备注灵	4	注灵等级	129
+75	5	战力比拼	4		战力比拼	5	角色战力	33
+114	1			atlas/UI/common/Pic/CollectWordsFrame_xzlp	[FFFFFF]活动截止：2020.7.25 4点 收集四象勋章兑换S时装返场自选礼包！	2		
+115	1			atlas/UI/common/Pic/CollectWordsFrame_GGZZ	[FFFFFF]活动截止：2020.7.2 5点 集齐粽子材料兑换粽子道具礼包！	2		

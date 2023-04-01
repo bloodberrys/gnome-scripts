@@ -1,4 +1,3 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
 <Assets filename="C:\Users\User\Documents\assets.xml" createdAt="2023-03-23T11:56:14">
   <Asset>
     <Name>1</Name>
@@ -5001,54 +5000,6 @@
     <Size>612</Size>
   </Asset>
   <Asset>
-    <Name>7101</Name>
-    <Container>pure/table/task/7101</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\d31fbafbdff3522478f2780dac5b7b04</Source>
-    <Size>5032</Size>
-  </Asset>
-  <Asset>
-    <Name>7104</Name>
-    <Container>pure/table/task/7104</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\239498466623eda45b111149149e4233</Source>
-    <Size>3184</Size>
-  </Asset>
-  <Asset>
-    <Name>7105</Name>
-    <Container>pure/table/task/7105</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\1ba75de6a5d2c95409b6c2b99012dd26</Source>
-    <Size>4452</Size>
-  </Asset>
-  <Asset>
-    <Name>7106</Name>
-    <Container>pure/table/task/7106</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\cd12194c13e022e4494bb122202d0ecc</Source>
-    <Size>4248</Size>
-  </Asset>
-  <Asset>
-    <Name>7111</Name>
-    <Container>pure/table/task/7111</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\915ec65d0444ed04ea65c3faf8df1a67</Source>
-    <Size>4716</Size>
-  </Asset>
-  <Asset>
-    <Name>7112</Name>
-    <Container>pure/table/task/7112</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\2d574392a9157a24c938bb57bfc1bdf0</Source>
-    <Size>4628</Size>
-  </Asset>
-  <Asset>
     <Name>72</Name>
     <Container>table/task/72</Container>
     <Type id="49">TextAsset</Type>
@@ -5362,14 +5313,6 @@
   </Asset>
   <Asset>
     <Name>Achievement</Name>
-    <Container>pure/table/achievement</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\25bcedcc7bf794446b8ea1492d65fecc</Source>
-    <Size>230616</Size>
-  </Asset>
-  <Asset>
-    <Name>Achievement</Name>
     <Container>table/achievement</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -5383,22 +5326,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\951642e1ab7a7de4ab7c5534d6c4ff26</Source>
     <Size>516</Size>
-  </Asset>
-  <Asset>
-    <Name>AchievementPointReward</Name>
-    <Container>pure/table/achievementpointreward</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\34cbe892cbd4fb4468ef28e1e5e6aee5</Source>
-    <Size>496</Size>
-  </Asset>
-  <Asset>
-    <Name>AchivementList</Name>
-    <Container>pure/table/achivementlist</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\b94486f248bdeb74fb2cc788dd90c888</Source>
-    <Size>1548</Size>
   </Asset>
   <Asset>
     <Name>AchivementList</Name>
@@ -5455,14 +5382,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\744f7b24e0fc14747b69102d9ed1c6fc</Source>
     <Size>3840</Size>
-  </Asset>
-  <Asset>
-    <Name>ActivityList</Name>
-    <Container>pure/table/activitylist</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\779982d134d51da43b47f0c97dcf4900</Source>
-    <Size>2132</Size>
   </Asset>
   <Asset>
     <Name>All_cutsence_select_butterfly</Name>
@@ -5754,14 +5673,6 @@
   </Asset>
   <Asset>
     <Name>ArtifactYNAdvance</Name>
-    <Container>pure/table/artifactynadvance</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\bcb82ac4aa3bc2641b40323ce9b57dbc</Source>
-    <Size>76</Size>
-  </Asset>
-  <Asset>
-    <Name>ArtifactYNAdvance</Name>
     <Container>table/artifactynadvance</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -5770,27 +5681,11 @@
   </Asset>
   <Asset>
     <Name>ArtifactYNAttribute</Name>
-    <Container>pure/table/artifactynattribute</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\a3b169cac48e7864d81586995e55503d</Source>
-    <Size>112</Size>
-  </Asset>
-  <Asset>
-    <Name>ArtifactYNAttribute</Name>
     <Container>table/artifactynattribute</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\6a543c7a7b320cf47964a060f2e62108</Source>
     <Size>14368</Size>
-  </Asset>
-  <Asset>
-    <Name>ArtifactYNScore</Name>
-    <Container>pure/table/artifactynscore</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\56cdbc0a90ed81b40945ec343d363c00</Source>
-    <Size>68</Size>
   </Asset>
   <Asset>
     <Name>ArtifactYNScore</Name>
@@ -5809,28 +5704,12 @@
     <Size>69904</Size>
   </Asset>
   <Asset>
-    <Name>AttributeEmblem</Name>
-    <Container>pure/table/attributeemblem</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\e6c62bae8ff74b543a76f51625d78772</Source>
-    <Size>76064</Size>
-  </Asset>
-  <Asset>
     <Name>AttributeList</Name>
     <Container>table/attributelist</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\5fdaf526b77179b4c9ff9fa1a802f316</Source>
     <Size>1960</Size>
-  </Asset>
-  <Asset>
-    <Name>AttributeList</Name>
-    <Container>pure/table/attributelist</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\047b100b59a8bb8479b9404b3f3d70b1</Source>
-    <Size>1896</Size>
   </Asset>
   <Asset>
     <Name>AuctionDiscount</Name>
@@ -5945,22 +5824,6 @@
     <Size>272</Size>
   </Asset>
   <Asset>
-    <Name>BattlePassBuy</Name>
-    <Container>pure/table/battlepassbuy</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\79ac8de8991f41b47b9ebd858db8dc8a</Source>
-    <Size>268</Size>
-  </Asset>
-  <Asset>
-    <Name>BattlePassDisplay</Name>
-    <Container>pure/table/battlepassdisplay</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\2935e26a088745945a19f61d7be7910c</Source>
-    <Size>10920</Size>
-  </Asset>
-  <Asset>
     <Name>BattlePassDisplay</Name>
     <Container>table/battlepassdisplay</Container>
     <Type id="49">TextAsset</Type>
@@ -5977,14 +5840,6 @@
     <Size>4612</Size>
   </Asset>
   <Asset>
-    <Name>BattlePassReward</Name>
-    <Container>pure/table/battlepassreward</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\3354c77527bdf2042b205735ba9a3a20</Source>
-    <Size>161948</Size>
-  </Asset>
-  <Asset>
     <Name>BattlePassSeason</Name>
     <Container>table/battlepassseason</Container>
     <Type id="49">TextAsset</Type>
@@ -5993,28 +5848,12 @@
     <Size>224</Size>
   </Asset>
   <Asset>
-    <Name>BattlePassSeason</Name>
-    <Container>pure/table/battlepassseason</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\170fe23e9e69d234f8272341a43c77ae</Source>
-    <Size>568</Size>
-  </Asset>
-  <Asset>
     <Name>BattlePassTask</Name>
     <Container>table/battlepasstask</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\518574e704ff370469a93fba24b49658</Source>
     <Size>9740</Size>
-  </Asset>
-  <Asset>
-    <Name>BattlePassTask</Name>
-    <Container>pure/table/battlepasstask</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\a4dd2183530b7bc4993181b678348654</Source>
-    <Size>63296</Size>
   </Asset>
   <Asset>
     <Name>BeiyeDiscountGoods</Name>
@@ -6168,14 +6007,7 @@
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\be50d9b19d72037498d70315447d6f39</Source>
     <Size>43224</Size>
   </Asset>
-  <!-- <Asset>
-    <Name>BossRush</Name>
-    <Container>table/bossrush</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\b44bb1c556f5c6e4f9e993af1c1a0387</Source>
-    <Size>81068</Size>
-  </Asset> -->
+  
   <Asset>
     <Name>BossRush</Name>
     <Container>table/tutorial/bossrush</Container>
@@ -6183,14 +6015,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\28f326a185287774c8cb53cb5d570c58</Source>
     <Size>944</Size>
-  </Asset>
-  <Asset>
-    <Name>BossRush2</Name>
-    <Container>pure/table/tutorial/bossrush2</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\f5b430b6700acbb4c86f9ff77bdf2692</Source>
-    <Size>844</Size>
   </Asset>
   <Asset>
     <Name>BossRushBuff</Name>
@@ -6201,28 +6025,12 @@
     <Size>604</Size>
   </Asset>
   <Asset>
-    <Name>BossRushBuff</Name>
-    <Container>pure/table/bossrushbuff</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\05a22b0bf4787bd468b0e6953286699e</Source>
-    <Size>612</Size>
-  </Asset>
-  <Asset>
     <Name>BossStrategy</Name>
     <Container>table/bossstrategy</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\54a89e064c78cc249a7c19bf905e05ed</Source>
     <Size>37016</Size>
-  </Asset>
-  <Asset>
-    <Name>BossStrategy</Name>
-    <Container>pure/table/bossstrategy</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\73eef584314d7aa478a317eac62f8329</Source>
-    <Size>124560</Size>
   </Asset>
   <Asset>
     <Name>Bounds.lua</Name>
@@ -6242,14 +6050,6 @@
   </Asset>
   <Asset>
     <Name>BQ</Name>
-    <Container>pure/table/bq</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\2e48e20e93e606845aa3dd10934fddc4</Source>
-    <Size>15624</Size>
-  </Asset>
-  <Asset>
-    <Name>BQ</Name>
     <Container>table/bq</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -6263,14 +6063,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\55f6e6dbea0b74c40822efee0f32fc82</Source>
     <Size>1604</Size>
-  </Asset>
-  <Asset>
-    <Name>BuffList</Name>
-    <Container>pure/table/bufflist</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\83447206cafe5024f96cc2d48e6a475b</Source>
-    <Size>8274080</Size>
   </Asset>
   <Asset>
     <Name>BuffList</Name>
@@ -6289,28 +6081,12 @@
     <Size>398772</Size>
   </Asset>
   <Asset>
-    <Name>BuffListGVG</Name>
-    <Container>pure/table/bufflistgvg</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\fd2390f6ff46b3649ad0aba943757d7e</Source>
-    <Size>399048</Size>
-  </Asset>
-  <Asset>
     <Name>BuffListPVP</Name>
     <Container>table/bufflistpvp</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\3188a906fe00d6f4eac649a5dcd4e0e2</Source>
     <Size>403016</Size>
-  </Asset>
-  <Asset>
-    <Name>BuffListPVP</Name>
-    <Container>pure/table/bufflistpvp</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\5426c6c86c34e794f841cadb798c969c</Source>
-    <Size>406548</Size>
   </Asset>
   <Asset>
     <Name>BuyDragonCoin</Name>
@@ -6322,27 +6098,11 @@
   </Asset>
   <Asset>
     <Name>BuyFatigue</Name>
-    <Container>pure/table/buyfatigue</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\b03e811ce3c034c4d9f91dada3484623</Source>
-    <Size>252</Size>
-  </Asset>
-  <Asset>
-    <Name>BuyFatigue</Name>
     <Container>table/buyfatigue</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\6de5eebeca865374e811aec579463fa3</Source>
     <Size>252</Size>
-  </Asset>
-  <Asset>
-    <Name>BuyGold</Name>
-    <Container>pure/table/buygold</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\e7392a4e37b6d734998f4dd1c7eee10f</Source>
-    <Size>18860</Size>
   </Asset>
   <Asset>
     <Name>BuyGold</Name>
@@ -6426,14 +6186,6 @@
   </Asset>
   <Asset>
     <Name>CardReward</Name>
-    <Container>pure/table/cardreward</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\5680a55ef61f87749bab12b7930bb26e</Source>
-    <Size>564</Size>
-  </Asset>
-  <Asset>
-    <Name>CardReward</Name>
     <Container>table/cardreward</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -6479,14 +6231,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\c4121c6739744f846a3c78abc3436dde</Source>
     <Size>328</Size>
-  </Asset>
-  <Asset>
-    <Name>Career</Name>
-    <Container>pure/table/career</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\3cabc75d85d367a478e0792e56d06de5</Source>
-    <Size>120</Size>
   </Asset>
   <Asset>
     <Name>Career</Name>
@@ -6551,14 +6295,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\669c3ce652726bb40b405de5f8680d28</Source>
     <Size>105720</Size>
-  </Asset>
-  <Asset>
-    <Name>ChapterList</Name>
-    <Container>pure/table/chapterlist</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\1e38fdd4beb38514b81b84a35f33637d</Source>
-    <Size>3304</Size>
   </Asset>
   <Asset>
     <Name>ChapterList</Name>
@@ -6746,14 +6482,6 @@
   </Asset>
   <Asset>
     <Name>CharacterCommonInfo</Name>
-    <Container>pure/table/charactercommoninfo</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\e78fa72bb87be4e4b9b99ffb5a51173e</Source>
-    <Size>408</Size>
-  </Asset>
-  <Asset>
-    <Name>CharacterCommonInfo</Name>
     <Container>table/charactercommoninfo</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -6786,14 +6514,6 @@
   </Asset>
   <Asset>
     <Name>ChatOpen</Name>
-    <Container>pure/table/chatopen</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\0e8cf5c1a36f80344b7383e8b438ec12</Source>
-    <Size>29004</Size>
-  </Asset>
-  <Asset>
-    <Name>ChatOpen</Name>
     <Container>table/chatopen</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -6809,28 +6529,12 @@
     <Size>104</Size>
   </Asset>
   <Asset>
-    <Name>ChatShield</Name>
-    <Container>pure/table/chatshield</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\74aa1b504139dc34eb6b9d5d205b247c</Source>
-    <Size>104</Size>
-  </Asset>
-  <Asset>
     <Name>ChestList</Name>
     <Container>table/chestlist</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\3dc455889aca63e4dbb2a627aec9a089</Source>
     <Size>392280</Size>
-  </Asset>
-  <Asset>
-    <Name>ChestList</Name>
-    <Container>pure/table/chestlist</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\47604d77d8202be48ab1032c325d48ed</Source>
-    <Size>308288</Size>
   </Asset>
   <Asset>
     <Name>ChickenDinnerRankReward</Name>
@@ -6922,14 +6626,6 @@
   </Asset>
   <Asset>
     <Name>CombatParamList</Name>
-    <Container>pure/table/combatparamlist</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\d2d43f7df833bd84babf0794ea2743cb</Source>
-    <Size>16312</Size>
-  </Asset>
-  <Asset>
-    <Name>CombatParamList</Name>
     <Container>table/combatparamlist</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -6993,22 +6689,6 @@
     <Size>1224</Size>
   </Asset>
   <Asset>
-    <Name>CompeteDragon</Name>
-    <Container>pure/table/competedragon</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\ae80467e388f07d4c97d070180a00b2f</Source>
-    <Size>1224</Size>
-  </Asset>
-  <Asset>
-    <Name>CompeteDragonRankReward</Name>
-    <Container>pure/table/competedragonrankreward</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\ef37de819a804c94bb4095be1f356257</Source>
-    <Size>456</Size>
-  </Asset>
-  <Asset>
     <Name>CompeteDragonRankReward</Name>
     <Container>table/competedragonrankreward</Container>
     <Type id="49">TextAsset</Type>
@@ -7041,28 +6721,12 @@
     <Size>6380</Size>
   </Asset>
   <Asset>
-    <Name>CookingFoodInfo</Name>
-    <Container>pure/table/cookingfoodinfo</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\581359ac22905b146bd93d13c517a491</Source>
-    <Size>4900</Size>
-  </Asset>
-  <Asset>
     <Name>CookingLevel</Name>
     <Container>table/cookinglevel</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\59987c70bd3f42a4f8686bfd6b9e1bdf</Source>
     <Size>184</Size>
-  </Asset>
-  <Asset>
-    <Name>CookingLevel</Name>
-    <Container>pure/table/cookinglevel</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\bb9c8f258bb16cd4993d69e2ebf5176d</Source>
-    <Size>88</Size>
   </Asset>
   <Asset>
     <Name>CornerMarkAndSysTable</Name>
@@ -7409,14 +7073,6 @@
     <Size>8316</Size>
   </Asset>
   <Asset>
-    <Name>DanceConfig</Name>
-    <Container>pure/table/danceconfig</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\be8def82cf4e49a4291b34e3d2ed0c0d</Source>
-    <Size>8324</Size>
-  </Asset>
-  <Asset>
     <Name>DargonReward</Name>
     <Container>table/dargonreward</Container>
     <Type id="49">TextAsset</Type>
@@ -7473,14 +7129,6 @@
     <Size>20636</Size>
   </Asset>
   <Asset>
-    <Name>DefaultEquip</Name>
-    <Container>pure/table/defaultequip</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\aeda18574d8278b418007db904858702</Source>
-    <Size>20636</Size>
-  </Asset>
-  <Asset>
     <Name>define.lua</Name>
     <Container>lua/common/define.lua</Container>
     <Type id="49">TextAsset</Type>
@@ -7503,14 +7151,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\03931bc686958404885abf6721a5d89b</Source>
     <Size>198468</Size>
-  </Asset>
-  <Asset>
-    <Name>DesCategory</Name>
-    <Container>pure/table/descategory</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\b7ba2f2cc83284146ac4d503d72090c2</Source>
-    <Size>1608</Size>
   </Asset>
   <Asset>
     <Name>DesCategory</Name>
@@ -7551,14 +7191,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\3f9490679f4bdeb4bba08202de62be16</Source>
     <Size>2124</Size>
-  </Asset>
-  <Asset>
-    <Name>Designation</Name>
-    <Container>pure/table/designation</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\5425fc579d3ddd94ba1494e8ccf8ac65</Source>
-    <Size>152180</Size>
   </Asset>
   <Asset>
     <Name>Designation</Name>
@@ -7856,14 +7488,7 @@
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\bea2d3f283d619e4091aebd1112b0979</Source>
     <Size>312</Size>
   </Asset>
-  <!-- <Asset>
-    <Name>DNExpedition</Name>
-    <Container>table/dnexpedition</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\0e08bda5547a41f468ca3efef9ed56a2</Source>
-    <Size>242336</Size>
-  </Asset> -->
+  
   <Asset>
     <Name>DNExpedition</Name>
     <Container>table/tutorial/dnexpedition</Container>
@@ -7911,14 +7536,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\34ddeb454855c7b40b13bd3296fb062c</Source>
     <Size>29660</Size>
-  </Asset>
-  <Asset>
-    <Name>DoubleActivity</Name>
-    <Container>pure/table/doubleactivity</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\7ecd993161c7d86419c5c8f3abbe96ba</Source>
-    <Size>648</Size>
   </Asset>
   <Asset>
     <Name>DoubleActivity</Name>
@@ -8017,14 +7634,6 @@
     <Size>21764</Size>
   </Asset>
   <Asset>
-    <Name>DragonGuildAchieve</Name>
-    <Container>pure/table/dragonguildachieve</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\225b6b2aaee25e4439f34aa4215465a5</Source>
-    <Size>16424</Size>
-  </Asset>
-  <Asset>
     <Name>DragonGuildConfig</Name>
     <Container>table/dragonguildconfig</Container>
     <Type id="49">TextAsset</Type>
@@ -8074,27 +7683,11 @@
   </Asset>
   <Asset>
     <Name>DragonNestList</Name>
-    <Container>pure/table/dragonnestlist</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\468226b0bd056ef42b3037a2808fcaa3</Source>
-    <Size>75364</Size>
-  </Asset>
-  <Asset>
-    <Name>DragonNestList</Name>
     <Container>table/dragonnestlist</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\a01aecff61e53b644a2ee59ae4bee7c5</Source>
     <Size>92128</Size>
-  </Asset>
-  <Asset>
-    <Name>DragonNestType</Name>
-    <Container>pure/table/dragonnesttype</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\5cb2504faf376b2498784c26195b5ac4</Source>
-    <Size>972</Size>
   </Asset>
   <Asset>
     <Name>DragonNestType</Name>
@@ -8111,14 +7704,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\6fa45009e4f18cf49b06ecf5bd8ce055</Source>
     <Size>296</Size>
-  </Asset>
-  <Asset>
-    <Name>DragonNestTypeRemote</Name>
-    <Container>pure/table/dragonnesttyperemote</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\cee26cf5583f3ad42b77be6d8e4d1175</Source>
-    <Size>80</Size>
   </Asset>
   <Asset>
     <Name>DragonSoulConfig</Name>
@@ -8193,14 +7778,6 @@
     <Size>1394632</Size>
   </Asset>
   <Asset>
-    <Name>DropList</Name>
-    <Container>pure/table/droplist</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\f54b8828846f56d42909c1a8822390f2</Source>
-    <Size>1355892</Size>
-  </Asset>
-  <Asset>
     <Name>DuelPvp</Name>
     <Container>table/duelpvp</Container>
     <Type id="49">TextAsset</Type>
@@ -8218,14 +7795,6 @@
   </Asset>
   <Asset>
     <Name>DuelTime</Name>
-    <Container>pure/table/dueltime</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\1c7830bbb779a4848a09c0d5e244e044</Source>
-    <Size>68</Size>
-  </Asset>
-  <Asset>
-    <Name>DuelTime</Name>
     <Container>table/dueltime</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -8234,27 +7803,11 @@
   </Asset>
   <Asset>
     <Name>EffectDesTable</Name>
-    <Container>pure/table/effectdestable</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\968dd1a358fc5c74aaca0efc9acc845c</Source>
-    <Size>5123648</Size>
-  </Asset>
-  <Asset>
-    <Name>EffectDesTable</Name>
     <Container>table/effectdestable</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\97ff584775e3a3649a72e369cc7e7a94</Source>
     <Size>611896</Size>
-  </Asset>
-  <Asset>
-    <Name>EffectTable</Name>
-    <Container>pure/table/effecttable</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\511aba28cd5fb374494c016b12198c1a</Source>
-    <Size>3723176</Size>
   </Asset>
   <Asset>
     <Name>EffectTable</Name>
@@ -8287,14 +7840,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\5548ec1a309ac9f449fcc4f0d3ba5613</Source>
     <Size>1996</Size>
-  </Asset>
-  <Asset>
-    <Name>EmblemBasic</Name>
-    <Container>pure/table/emblembasic</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\9496ab48dccca174e9e422624f1d4a07</Source>
-    <Size>98656</Size>
   </Asset>
   <Asset>
     <Name>EmblemBasic</Name>
@@ -8353,28 +7898,12 @@
     <Size>59140</Size>
   </Asset>
   <Asset>
-    <Name>Enhance</Name>
-    <Container>pure/table/enhance</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\4e6f6f79c0fa8e0408b015fe2c2c73d8</Source>
-    <Size>9432</Size>
-  </Asset>
-  <Asset>
     <Name>EnhanceFx</Name>
     <Container>table/enhancefx</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\86f39b49da8429143b1e08a9c73b8338</Source>
     <Size>22800</Size>
-  </Asset>
-  <Asset>
-    <Name>EnhanceFx</Name>
-    <Container>pure/table/enhancefx</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\059fe4e81cd13944395ff6b66580d96e</Source>
-    <Size>5440</Size>
   </Asset>
   <Asset>
     <Name>EnhanceItem</Name>
@@ -8391,14 +7920,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\2f1dc3497a1275b419b0c87cdae83a67</Source>
     <Size>89908</Size>
-  </Asset>
-  <Asset>
-    <Name>EnhanceMaster</Name>
-    <Container>pure/table/enhancemaster</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\a30caa6cecf81ad418c0fb633af23d29</Source>
-    <Size>12504</Size>
   </Asset>
   <Asset>
     <Name>enum_pb.lua</Name>
@@ -8439,14 +7960,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\3ebefd52ff63dd54f82b295adcee3274</Source>
     <Size>31428</Size>
-  </Asset>
-  <Asset>
-    <Name>EquipAuthenticate</Name>
-    <Container>pure/table/equipauthenticate</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\8f66be65b50aa704786ebf878244947d</Source>
-    <Size>49120</Size>
   </Asset>
   <Asset>
     <Name>EquipAuthenticate</Name>
@@ -8506,14 +8019,6 @@
   </Asset>
   <Asset>
     <Name>EquipLevelUp</Name>
-    <Container>pure/table/equiplevelup</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\7a80477357d51cd44895d7f2bf2146bd</Source>
-    <Size>76</Size>
-  </Asset>
-  <Asset>
-    <Name>EquipLevelUp</Name>
     <Container>table/equiplevelup</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -8527,22 +8032,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\b054e8136071af14f94f4af8c25617fd</Source>
     <Size>702248</Size>
-  </Asset>
-  <Asset>
-    <Name>EquipList</Name>
-    <Container>pure/table/equiplist</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\9221cf8254c97784981886c9db44a284</Source>
-    <Size>656756</Size>
-  </Asset>
-  <Asset>
-    <Name>EquipmentExchange</Name>
-    <Container>pure/table/tutorial/equipmentexchange</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\d73621bca36069542918ade19b4778e3</Source>
-    <Size>824</Size>
   </Asset>
   <Asset>
     <Name>equipmentInfo</Name>
@@ -8575,14 +8064,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\ebe95f7b9f774654d8c59a8389dc2c68</Source>
     <Size>30140</Size>
-  </Asset>
-  <Asset>
-    <Name>EquipRandom</Name>
-    <Container>pure/table/equiprandom</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\b5e2da48ae6090444aed020157dcf913</Source>
-    <Size>30496</Size>
   </Asset>
   <Asset>
     <Name>EquipReforge</Name>
@@ -8657,36 +8138,12 @@
     <Size>53804</Size>
   </Asset>
   <Asset>
-    <Name>EquipSuit</Name>
-    <Container>pure/table/equipsuit</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\14e4a4e2f8790674ca4e89719dedc2b8</Source>
-    <Size>48192</Size>
-  </Asset>
-  <Asset>
     <Name>EquipSuitLevel</Name>
     <Container>table/equipsuitlevel</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\6f6bc7107edf5e9469e2eb31cfa61be3</Source>
     <Size>12312</Size>
-  </Asset>
-  <Asset>
-    <Name>EquipSuitLevel</Name>
-    <Container>pure/table/equipsuitlevel</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\ddb2e5f9626dcfe468ed155e25d46b1b</Source>
-    <Size>12692</Size>
-  </Asset>
-  <Asset>
-    <Name>EssenceValueExchange</Name>
-    <Container>pure/table/essencevalueexchange</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\ca1c168d26d3ad54cb06e98f7e3d90bd</Source>
-    <Size>816</Size>
   </Asset>
   <Asset>
     <Name>EssenceValueExchange</Name>
@@ -8730,27 +8187,11 @@
   </Asset>
   <Asset>
     <Name>ExpActiveity</Name>
-    <Container>pure/table/expactiveity</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\30ab71e724b88dc4eaccb8dbb3569c93</Source>
-    <Size>4004</Size>
-  </Asset>
-  <Asset>
-    <Name>ExpActiveity</Name>
     <Container>table/expactiveity</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\111b8194e2e1eda4a969b5191ab322a0</Source>
     <Size>4284</Size>
-  </Asset>
-  <Asset>
-    <Name>ExpAdd</Name>
-    <Container>pure/table/expadd</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\c07d7d86eee146448955c7783bebd3aa</Source>
-    <Size>4776</Size>
   </Asset>
   <Asset>
     <Name>ExpAdd</Name>
@@ -8898,27 +8339,11 @@
   </Asset>
   <Asset>
     <Name>FashionCharm</Name>
-    <Container>pure/table/fashioncharm</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\f3a1f1758bff30d4fa8df2b071c02c06</Source>
-    <Size>10232</Size>
-  </Asset>
-  <Asset>
-    <Name>FashionCharm</Name>
     <Container>table/fashioncharm</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\7536d28f3b0b79c49aa18c9a2f2e1646</Source>
     <Size>23632</Size>
-  </Asset>
-  <Asset>
-    <Name>FashionCompose</Name>
-    <Container>pure/table/fashioncompose</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\e544223302cfaf8429eeee71dc66f681</Source>
-    <Size>97160</Size>
   </Asset>
   <Asset>
     <Name>FashionCompose</Name>
@@ -8945,22 +8370,6 @@
     <Size>756</Size>
   </Asset>
   <Asset>
-    <Name>FashionEffect</Name>
-    <Container>pure/table/fashioneffect</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\7290dcf6ac45b7940b5052079c2f162b</Source>
-    <Size>200</Size>
-  </Asset>
-  <Asset>
-    <Name>FashionFx</Name>
-    <Container>pure/table/fashionfx</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\64a5c1e69e0da7845b84d5f9371e21ea</Source>
-    <Size>9492</Size>
-  </Asset>
-  <Asset>
     <Name>FashionFx</Name>
     <Container>table/fashionfx</Container>
     <Type id="49">TextAsset</Type>
@@ -8975,14 +8384,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\01e170e7660a6b845aabf05ec27507dc</Source>
     <Size>2292</Size>
-  </Asset>
-  <Asset>
-    <Name>FashionList</Name>
-    <Container>pure/table/fashionlist</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\111d0b9c2fc031d4baf0270ea3e86db9</Source>
-    <Size>213616</Size>
   </Asset>
   <Asset>
     <Name>FashionList</Name>
@@ -9001,14 +8402,6 @@
     <Size>3440</Size>
   </Asset>
   <Asset>
-    <Name>FashionPreView</Name>
-    <Container>pure/table/fashionpreview</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\294861c83a1f06348a8be6e0e4cc122e</Source>
-    <Size>932</Size>
-  </Asset>
-  <Asset>
     <Name>FashionSuit</Name>
     <Container>table/tutorial/fashionsuit</Container>
     <Type id="49">TextAsset</Type>
@@ -9018,27 +8411,11 @@
   </Asset>
   <Asset>
     <Name>FashionSuit</Name>
-    <Container>pure/table/fashionsuit</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\783ac68012baa8046a81fcd77ed0d640</Source>
-    <Size>48308</Size>
-  </Asset>
-  <Asset>
-    <Name>FashionSuit</Name>
     <Container>table/fashionsuit</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\a37993ef8f5791f4dafcc19b6090e526</Source>
     <Size>55328</Size>
-  </Asset>
-  <Asset>
-    <Name>FashionSuitSpecialEffects</Name>
-    <Container>pure/table/fashionsuitspecialeffects</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\747aecb705b76194aaad3e77c8f5edb0</Source>
-    <Size>9944</Size>
   </Asset>
   <Asset>
     <Name>FashionSuitSpecialEffects</Name>
@@ -9057,27 +8434,11 @@
     <Size>1648</Size>
   </Asset>
   <Asset>
-    <Name>FashionSynthesis</Name>
-    <Container>pure/table/fashionsynthesis</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\b26edffadc0877d4f9a56cefb4f10baa</Source>
-    <Size>1544</Size>
-  </Asset>
-  <Asset>
     <Name>FastSignal</Name>
     <Container>table/fastsignal</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\af19448d856991646aa5f2a7de3409a5</Source>
-    <Size>2996</Size>
-  </Asset>
-  <Asset>
-    <Name>FastSignal</Name>
-    <Container>pure/table/fastsignal</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\c53398c82e4aa804eb61366e4e624e43</Source>
     <Size>2996</Size>
   </Asset>
   <Asset>
@@ -9095,22 +8456,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\213f92e5b3e676e48a6840b89e115aa6</Source>
     <Size>5228</Size>
-  </Asset>
-  <Asset>
-    <Name>FastSignalProfession</Name>
-    <Container>pure/table/fastsignalprofession</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\e4564c220b310504eabe12734ecee49c</Source>
-    <Size>3600</Size>
-  </Asset>
-  <Asset>
-    <Name>FastSignalType</Name>
-    <Container>pure/table/fastsignaltype</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\d6d311df55a30534f951855953061bf6</Source>
-    <Size>244</Size>
   </Asset>
   <Asset>
     <Name>FastSignalType</Name>
@@ -9138,14 +8483,6 @@
   </Asset>
   <Asset>
     <Name>FestivityLovePersonReward</Name>
-    <Container>pure/table/festivitylovepersonreward</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\77238bdd0ba781d4fadc3a4fab591f1f</Source>
-    <Size>268</Size>
-  </Asset>
-  <Asset>
-    <Name>FestivityLovePersonReward</Name>
     <Container>table/festivitylovepersonreward</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -9154,27 +8491,11 @@
   </Asset>
   <Asset>
     <Name>FestivityLoveRankReward</Name>
-    <Container>pure/table/festivityloverankreward</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\d6007df0a28b6334ba72472088f0f3e5</Source>
-    <Size>212</Size>
-  </Asset>
-  <Asset>
-    <Name>FestivityLoveRankReward</Name>
     <Container>table/festivityloverankreward</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\75d1e9be7fb672f46b95f3f787f7a94a</Source>
     <Size>212</Size>
-  </Asset>
-  <Asset>
-    <Name>FestivityLoveTable</Name>
-    <Container>pure/table/festivitylovetable</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\979c790f47ce5b2478368e2640fb0299</Source>
-    <Size>236</Size>
   </Asset>
   <Asset>
     <Name>FestivityLoveTable</Name>
@@ -9218,14 +8539,6 @@
   </Asset>
   <Asset>
     <Name>FirstPass</Name>
-    <Container>pure/table/firstpass</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\7ad36db51570f0947933fb83eadb97fa</Source>
-    <Size>3168</Size>
-  </Asset>
-  <Asset>
-    <Name>FirstPass</Name>
     <Container>table/firstpass</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -9255,22 +8568,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\cc0cbab699480454699a2b09598b2838</Source>
     <Size>1232</Size>
-  </Asset>
-  <Asset>
-    <Name>FirstTask</Name>
-    <Container>pure/table/tutorial/firsttask</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\42b007d905ca6ce4aac0e9ce4e73eacd</Source>
-    <Size>1232</Size>
-  </Asset>
-  <Asset>
-    <Name>FishInfo</Name>
-    <Container>pure/table/fishinfo</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\ec8a4d7d65de6b3428f71c7ae1c8a240</Source>
-    <Size>180</Size>
   </Asset>
   <Asset>
     <Name>FishInfo</Name>
@@ -9449,14 +8746,6 @@
     <Size>6644</Size>
   </Asset>
   <Asset>
-    <Name>FpStrengthNew</Name>
-    <Container>pure/table/fpstrengthnew</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\c0fe9d2f99f92a841a2291c8ba947f8b</Source>
-    <Size>6696</Size>
-  </Asset>
-  <Asset>
     <Name>FrameworkEvent.lua</Name>
     <Container>xlua/framework/events/frameworkevent.lua</Container>
     <Type id="49">TextAsset</Type>
@@ -9511,22 +8800,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\69c3734f2d98e744f846bce07956f8b7</Source>
     <Size>544</Size>
-  </Asset>
-  <Asset>
-    <Name>GachaConfig</Name>
-    <Container>pure/table/gachaconfig</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\cadd728803fb09c46ac3cdc05ccb296d</Source>
-    <Size>792</Size>
-  </Asset>
-  <Asset>
-    <Name>GachaPrizeList</Name>
-    <Container>pure/table/gachaprizelist</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\194af8caf40538747a639af5a16410a3</Source>
-    <Size>3352</Size>
   </Asset>
   <Asset>
     <Name>GachaPrizeList</Name>
@@ -9585,28 +8858,12 @@
     <Size>1504</Size>
   </Asset>
   <Asset>
-    <Name>GardenBanquetCfg</Name>
-    <Container>pure/table/gardenbanquetcfg</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\aca7e5a801f19274ca5dcc4efccb7db0</Source>
-    <Size>960</Size>
-  </Asset>
-  <Asset>
     <Name>GardenFishing</Name>
     <Container>table/gardenfishing</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\5f14ca9252d8e2a4087fe5ccc4fc41d6</Source>
     <Size>1008</Size>
-  </Asset>
-  <Asset>
-    <Name>GardenFishing</Name>
-    <Container>pure/table/gardenfishing</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\e57ed5c841a985d42a1530f6f3d0b2b9</Source>
-    <Size>204</Size>
   </Asset>
   <Asset>
     <Name>GayValley</Name>
@@ -9745,14 +9002,6 @@
     <Size>276</Size>
   </Asset>
   <Asset>
-    <Name>GhoulModeTable</Name>
-    <Container>pure/table/ghoulmodetable</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\30ce3808adba4c7468c34e416b315c8d</Source>
-    <Size>276</Size>
-  </Asset>
-  <Asset>
     <Name>Global.lua</Name>
     <Container>xlua/framework/global.lua</Container>
     <Type id="49">TextAsset</Type>
@@ -9775,14 +9024,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\56b0f0fe1dda1fa43aa0aa19669c15f1</Source>
     <Size>99988</Size>
-  </Asset>
-  <Asset>
-    <Name>GlobalConfig</Name>
-    <Container>pure/table/globalconfig</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\fc567edf26220d4428302f9f023012a7</Source>
-    <Size>96832</Size>
   </Asset>
   <Asset>
     <Name>GoalAwards</Name>
@@ -10193,14 +9434,6 @@
     <Size>2048</Size>
   </Asset>
   <Asset>
-    <Name>GroupStageType</Name>
-    <Container>pure/table/groupstagetype</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\196e1fff722db514982ffb90c026e881</Source>
-    <Size>624</Size>
-  </Asset>
-  <Asset>
     <Name>Guild</Name>
     <Container>table/tutorial/guild</Container>
     <Type id="49">TextAsset</Type>
@@ -10225,36 +9458,12 @@
     <Size>13364</Size>
   </Asset>
   <Asset>
-    <Name>GuildAuctReward</Name>
-    <Container>pure/table/guildauctreward</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\2604e143fc0b79b47a04c9dfd194333e</Source>
-    <Size>220</Size>
-  </Asset>
-  <Asset>
-    <Name>GuildBonus</Name>
-    <Container>pure/table/guildbonus</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\d438b7c1e484b7c4981912ac46a0ea06</Source>
-    <Size>1728</Size>
-  </Asset>
-  <Asset>
     <Name>GuildBonus</Name>
     <Container>table/guildbonus</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\a31f7383dbf09504c8b26ff7fac98458</Source>
     <Size>15816</Size>
-  </Asset>
-  <Asset>
-    <Name>GuildBossConfig</Name>
-    <Container>pure/table/guildbossconfig</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\26772334d33ef9a4db03b2e584490fb9</Source>
-    <Size>24044</Size>
   </Asset>
   <Asset>
     <Name>GuildBossConfig</Name>
@@ -10266,27 +9475,11 @@
   </Asset>
   <Asset>
     <Name>GuildBossReward</Name>
-    <Container>pure/table/guildbossreward</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\b80541e72a340b74d8ffca5930fd4174</Source>
-    <Size>1588</Size>
-  </Asset>
-  <Asset>
-    <Name>GuildBossReward</Name>
     <Container>table/guildbossreward</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\c76688464a5e8e641a4158a996053f25</Source>
     <Size>1588</Size>
-  </Asset>
-  <Asset>
-    <Name>GuildBossRoleReward</Name>
-    <Container>pure/table/guildbossrolereward</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\589513c7d19a09040a5c7873f3b76de8</Source>
-    <Size>25296</Size>
   </Asset>
   <Asset>
     <Name>GuildBossRoleReward</Name>
@@ -10338,14 +9531,6 @@
   </Asset>
   <Asset>
     <Name>GuildCheckin</Name>
-    <Container>pure/table/guildcheckin</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\eea645a96cca3d94fb674d28b0638928</Source>
-    <Size>192</Size>
-  </Asset>
-  <Asset>
-    <Name>GuildCheckin</Name>
     <Container>table/guildcheckin</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -10361,27 +9546,11 @@
     <Size>172</Size>
   </Asset>
   <Asset>
-    <Name>GuildCheckinBox</Name>
-    <Container>pure/table/guildcheckinbox</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\4b01d14e8f4b3ee49ab23c0fecc8c4c8</Source>
-    <Size>172</Size>
-  </Asset>
-  <Asset>
     <Name>GuildConfig</Name>
     <Container>table/guildconfig</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\a5776afd7ae1de74bb6b37c7c9114b3a</Source>
-    <Size>2024</Size>
-  </Asset>
-  <Asset>
-    <Name>GuildConfig</Name>
-    <Container>pure/table/guildconfig</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\5700f76fb1b149a4a94025bcde2e2f21</Source>
     <Size>2024</Size>
   </Asset>
   <Asset>
@@ -10466,14 +9635,6 @@
   </Asset>
   <Asset>
     <Name>GuildNewlog</Name>
-    <Container>pure/table/guildnewlog</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\3f17408a82d7b0a41971eb20cfca3364</Source>
-    <Size>536</Size>
-  </Asset>
-  <Asset>
-    <Name>GuildNewlog</Name>
     <Container>table/guildnewlog</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -10511,14 +9672,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\971ba1a8f2968b64aa2b49c0ef505f27</Source>
     <Size>320</Size>
-  </Asset>
-  <Asset>
-    <Name>GuildRankReward</Name>
-    <Container>pure/table/guildrankreward</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\c583a3ff732c9884ca8f01a1240f7b27</Source>
-    <Size>72</Size>
   </Asset>
   <Asset>
     <Name>GuildRelaxGameList</Name>
@@ -10873,14 +10026,6 @@
     <Size>1584</Size>
   </Asset>
   <Asset>
-    <Name>HeroBattleMapCenter</Name>
-    <Container>pure/table/herobattlemapcenter</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\d9eb81a78fef49340a1127d0b609ac7c</Source>
-    <Size>1732</Size>
-  </Asset>
-  <Asset>
     <Name>HeroBattleMVP</Name>
     <Container>cutscene/herobattlemvp</Container>
     <Type id="49">TextAsset</Type>
@@ -10937,28 +10082,12 @@
     <Size>860</Size>
   </Asset>
   <Asset>
-    <Name>HeroBattleTips</Name>
-    <Container>pure/table/herobattletips</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\25188fce786f14945bbfcbd43e0246d0</Source>
-    <Size>860</Size>
-  </Asset>
-  <Asset>
     <Name>HeroBattleWeekReward</Name>
     <Container>table/herobattleweekreward</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\f34029a65cc97424c95c54f36a42e362</Source>
     <Size>152</Size>
-  </Asset>
-  <Asset>
-    <Name>HeroBattleWeekReward</Name>
-    <Container>pure/table/herobattleweekreward</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\a2a0fa36dea14b64fb751cfe1dd6e09c</Source>
-    <Size>128</Size>
   </Asset>
   <Asset>
     <Name>herocanyan_blue_cutscene</Name>
@@ -10991,14 +10120,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\f4408fccb9b94454c88e451b4b995732</Source>
     <Size>4788</Size>
-  </Asset>
-  <Asset>
-    <Name>HidingCatReward</Name>
-    <Container>pure/table/hidingcatreward</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\39ccb3c12543f5f408a5e3f37fa3a6ac</Source>
-    <Size>416</Size>
   </Asset>
   <Asset>
     <Name>HidingCatReward</Name>
@@ -12378,14 +11499,6 @@
   </Asset>
   <Asset>
     <Name>IBShop</Name>
-    <Container>pure/table/ibshop</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\f375c61232d0e9c4393ead68646b9bcc</Source>
-    <Size>4692</Size>
-  </Asset>
-  <Asset>
-    <Name>IBShop</Name>
     <Container>table/ibshop</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -12593,14 +11706,6 @@
     <Size>219296</Size>
   </Asset>
   <Asset>
-    <Name>Inscription</Name>
-    <Container>pure/table/inscription</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\e208b2121b26a454a85a0a7b32b622e5</Source>
-    <Size>2810004</Size>
-  </Asset>
-  <Asset>
     <Name>Inscription2</Name>
     <Container>table/inscription2</Container>
     <Type id="49">TextAsset</Type>
@@ -12609,36 +11714,12 @@
     <Size>2780</Size>
   </Asset>
   <Asset>
-    <Name>Inscription2</Name>
-    <Container>pure/table/inscription2</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\9051bbc8a04597840982c3193e0170f3</Source>
-    <Size>3562772</Size>
-  </Asset>
-  <Asset>
     <Name>InscriptionBagCell</Name>
     <Container>table/inscriptionbagcell</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\aad001619805a8c4ebfffbfb65789e61</Source>
     <Size>1472</Size>
-  </Asset>
-  <Asset>
-    <Name>InscriptionBagCell</Name>
-    <Container>pure/table/inscriptionbagcell</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\73410eba7b41279448c6bb1dca84225b</Source>
-    <Size>2420</Size>
-  </Asset>
-  <Asset>
-    <Name>InscriptionSlotTable</Name>
-    <Container>pure/table/inscriptionslottable</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\c8028d72746d26b43892afc7b6f08b86</Source>
-    <Size>264</Size>
   </Asset>
   <Asset>
     <Name>InscriptionSlotTable</Name>
@@ -12666,14 +11747,6 @@
   </Asset>
   <Asset>
     <Name>ItemBox</Name>
-    <Container>pure/table/itembox</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\3a3380d7383176b4997eba718baabcfb</Source>
-    <Size>4232</Size>
-  </Asset>
-  <Asset>
-    <Name>ItemBox</Name>
     <Container>table/itembox</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -12682,27 +11755,11 @@
   </Asset>
   <Asset>
     <Name>ItemBuff</Name>
-    <Container>pure/table/itembuff</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\663972c4ceaadbe45aa6752edd70e911</Source>
-    <Size>776</Size>
-  </Asset>
-  <Asset>
-    <Name>ItemBuff</Name>
     <Container>table/itembuff</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\ed6c3f6a687233341b4953f34f7a8813</Source>
     <Size>1764</Size>
-  </Asset>
-  <Asset>
-    <Name>ItemCompose</Name>
-    <Container>pure/table/itemcompose</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\4dd086778d6978441aa664665f1a2886</Source>
-    <Size>1396</Size>
   </Asset>
   <Asset>
     <Name>ItemCompose</Name>
@@ -12719,22 +11776,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\8dd60b3fecf18cb488ccc8269a96ed49</Source>
     <Size>64</Size>
-  </Asset>
-  <Asset>
-    <Name>ItemExchange</Name>
-    <Container>pure/table/itemexchange</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\89e462ed76c6d9742bb635fa60164325</Source>
-    <Size>228</Size>
-  </Asset>
-  <Asset>
-    <Name>ItemList</Name>
-    <Container>pure/table/itemlist</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\3031f632462cf1d45b186d0f9382f39f</Source>
-    <Size>5958780</Size>
   </Asset>
   <Asset>
     <Name>ItemList</Name>
@@ -12762,14 +11803,6 @@
   </Asset>
   <Asset>
     <Name>ItemToDesignation</Name>
-    <Container>pure/table/itemtodesignation</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\3c51a6ac63cf0d7458cf9193b2c62384</Source>
-    <Size>4764</Size>
-  </Asset>
-  <Asset>
-    <Name>ItemToDesignation</Name>
     <Container>table/itemtodesignation</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -12783,14 +11816,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\8e60094223047794d85b318f75223fb7</Source>
     <Size>304</Size>
-  </Asset>
-  <Asset>
-    <Name>ItemUseButtonList</Name>
-    <Container>pure/table/itemusebuttonlist</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\d0a0fecba558b454d85533a70718e4f0</Source>
-    <Size>28940</Size>
   </Asset>
   <Asset>
     <Name>ItemUseButtonList</Name>
@@ -12810,14 +11835,6 @@
   </Asset>
   <Asset>
     <Name>Jade</Name>
-    <Container>pure/table/jade</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\078898d9aa65c854c8536a2f1113b622</Source>
-    <Size>1420</Size>
-  </Asset>
-  <Asset>
-    <Name>Jade</Name>
     <Container>table/tutorial/jade</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -12833,14 +11850,6 @@
     <Size>4240</Size>
   </Asset>
   <Asset>
-    <Name>JadeGroup</Name>
-    <Container>pure/table/jadegroup</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\1736a56d093f85248b5fb15137b323bf</Source>
-    <Size>3088</Size>
-  </Asset>
-  <Asset>
     <Name>JadeSeal</Name>
     <Container>table/jadeseal</Container>
     <Type id="49">TextAsset</Type>
@@ -12849,28 +11858,12 @@
     <Size>285388</Size>
   </Asset>
   <Asset>
-    <Name>JadeSeal</Name>
-    <Container>pure/table/jadeseal</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\4da27b81b300bbb42aa130fa2c25e3a3</Source>
-    <Size>76</Size>
-  </Asset>
-  <Asset>
     <Name>JadeSlot</Name>
     <Container>table/jadeslot</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\cc065d80a7eb7914385460fb92de46b6</Source>
     <Size>552</Size>
-  </Asset>
-  <Asset>
-    <Name>JadeSlot</Name>
-    <Container>pure/table/jadeslot</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\5d564a7bd8f860949a682d022034cb27</Source>
-    <Size>440</Size>
   </Asset>
   <Asset>
     <Name>JadeStrengthenAttri</Name>
@@ -13042,14 +12035,6 @@
   </Asset>
   <Asset>
     <Name>KnightMedal</Name>
-    <Container>pure/table/tutorial/knightmedal</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\95de96d3be461e94596f2be17da566a1</Source>
-    <Size>428</Size>
-  </Asset>
-  <Asset>
-    <Name>KnightMedal</Name>
     <Container>table/tutorial/knightmedal</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -13082,14 +12067,6 @@
   </Asset>
   <Asset>
     <Name>LeagueBattleReward</Name>
-    <Container>pure/table/leaguebattlereward</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\1af8b5c92d9c0c345856f8612e6dadb0</Source>
-    <Size>1516</Size>
-  </Asset>
-  <Asset>
-    <Name>LeagueBattleReward</Name>
     <Container>table/leaguebattlereward</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -13103,14 +12080,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\98a514a9861024e47af6c989e8486360</Source>
     <Size>1016</Size>
-  </Asset>
-  <Asset>
-    <Name>LeagueRankReward</Name>
-    <Container>pure/table/leaguerankreward</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\92f6843a68ebff640a38bb3640656508</Source>
-    <Size>1436</Size>
   </Asset>
   <Asset>
     <Name>LearnSkill</Name>
@@ -13135,14 +12104,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\f1a4d94fc33aa7e479e27d79f4b43e71</Source>
     <Size>1116</Size>
-  </Asset>
-  <Asset>
-    <Name>LearnSkill3</Name>
-    <Container>pure/table/tutorial/learnskill3</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\931cb07f19f72f9469fe967b6759175b</Source>
-    <Size>1240</Size>
   </Asset>
   <Asset>
     <Name>Left_Dead</Name>
@@ -13175,14 +12136,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\50c0a544b14255048a654525c5577f54</Source>
     <Size>120</Size>
-  </Asset>
-  <Asset>
-    <Name>LevelSealType</Name>
-    <Container>pure/table/levelsealtype</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\604dbc5dbddda2244bd52dad36e8f6ed</Source>
-    <Size>304</Size>
   </Asset>
   <Asset>
     <Name>LevelSealType</Name>
@@ -13255,14 +12208,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\e6071ab3a3435974d897ce28b0874b37</Source>
     <Size>368</Size>
-  </Asset>
-  <Asset>
-    <Name>LiveTable</Name>
-    <Container>pure/table/livetable</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\1dda91190b8a49f449a7b12d13f12c88</Source>
-    <Size>348</Size>
   </Asset>
   <Asset>
     <Name>Localization</Name>
@@ -17002,14 +15947,6 @@
   </Asset>
   <Asset>
     <Name>LuckToyball</Name>
-    <Container>pure/table/lucktoyball</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\9b20a6b49fdfd904b8ce72c4d7115d20</Source>
-    <Size>472</Size>
-  </Asset>
-  <Asset>
-    <Name>LuckToyball</Name>
     <Container>table/lucktoyball</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -17022,14 +15959,6 @@
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\dc23c1a7d74c39f49b32bff9218a3d88</Source>
-    <Size>424</Size>
-  </Asset>
-  <Asset>
-    <Name>LuckToyReward</Name>
-    <Container>pure/table/lucktoyreward</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\473c3a75e35f4d941b0f8eca7eaa6886</Source>
     <Size>424</Size>
   </Asset>
   <Asset>
@@ -17151,14 +16080,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\64c060b78af8cc14aa52b46cef2a5cf8</Source>
     <Size>1348</Size>
-  </Asset>
-  <Asset>
-    <Name>MarriageLevel</Name>
-    <Container>pure/table/marriagelevel</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\bd1c5548e7df9174ba027176479d5a49</Source>
-    <Size>1260</Size>
   </Asset>
   <Asset>
     <Name>MarriageLevel</Name>
@@ -17321,22 +16242,6 @@
     <Size>1036</Size>
   </Asset>
   <Asset>
-    <Name>MilitaryRankByExploit</Name>
-    <Container>pure/table/militaryrankbyexploit</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\a177abbf70073cc4baece7c8851355fd</Source>
-    <Size>1024</Size>
-  </Asset>
-  <Asset>
-    <Name>MilitaryRankReward</Name>
-    <Container>pure/table/militaryrankreward</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\3fad4bc7f5b2dc049b559fe761a6e159</Source>
-    <Size>172</Size>
-  </Asset>
-  <Asset>
     <Name>MilitaryRankReward</Name>
     <Container>table/militaryrankreward</Container>
     <Type id="49">TextAsset</Type>
@@ -17360,14 +16265,7 @@
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\fa8ad2af413973d4e8aeb54637414edf</Source>
     <Size>12992</Size>
   </Asset>
-  <!-- <Asset>
-    <Name>MobaHero</Name>
-    <Container>table/mobahero</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\305425c87980c284398fc57ce7fa8c6d</Source>
-    <Size>18892</Size>
-  </Asset> -->
+  
   <Asset>
     <Name>MobaHero</Name>
     <Container>table/tutorial/mobahero</Container>
@@ -20361,14 +19259,6 @@
     <Size>4528</Size>
   </Asset>
   <Asset>
-    <Name>MonsterEcology</Name>
-    <Container>pure/table/monsterecology</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\7d99c0ad1fe258a4ab87a08b933d6f76</Source>
-    <Size>212</Size>
-  </Asset>
-  <Asset>
     <Name>MonsterScene</Name>
     <Container>table/monsterscene</Container>
     <Type id="49">TextAsset</Type>
@@ -20399,14 +19289,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\a5b1dbd5540f6024e822fd81938569fd</Source>
     <Size>348</Size>
-  </Asset>
-  <Asset>
-    <Name>MultiActivityList</Name>
-    <Container>pure/table/multiactivitylist</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\4fc2b09dd809c7e46a682baf6f2fe915</Source>
-    <Size>2464</Size>
   </Asset>
   <Asset>
     <Name>MultiActivityList</Name>
@@ -20457,28 +19339,12 @@
     <Size>1820</Size>
   </Asset>
   <Asset>
-    <Name>NestList</Name>
-    <Container>pure/table/nestlist</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\2e23a4e52edae50429fc8595cc616da4</Source>
-    <Size>268</Size>
-  </Asset>
-  <Asset>
     <Name>NestStarReward</Name>
     <Container>table/neststarreward</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\9f67c9c2f24433249a9da0a47dd631cd</Source>
     <Size>4436</Size>
-  </Asset>
-  <Asset>
-    <Name>NestStarReward</Name>
-    <Container>pure/table/neststarreward</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\cddc8583994a4294d89ca64d8b47cbb6</Source>
-    <Size>4460</Size>
   </Asset>
   <Asset>
     <Name>NestTask</Name>
@@ -20502,14 +19368,6 @@
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\227b0987db00f6e41838db925382a8b4</Source>
-    <Size>1156</Size>
-  </Asset>
-  <Asset>
-    <Name>NestType</Name>
-    <Container>pure/table/nesttype</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\bc0b93bddf6729d48a59093da5839f74</Source>
     <Size>1156</Size>
   </Asset>
   <Asset>
@@ -20642,14 +19500,6 @@
   </Asset>
   <Asset>
     <Name>Notice</Name>
-    <Container>pure/table/notice</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\3df06b765b39a174a88fde1c404056d4</Source>
-    <Size>53548</Size>
-  </Asset>
-  <Asset>
-    <Name>Notice</Name>
     <Container>table/notice</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -20721,14 +19571,6 @@
     <Size>12948</Size>
   </Asset>
   <Asset>
-    <Name>NSelectOne</Name>
-    <Container>pure/table/nselectone</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\da1fa15d0f966b743ab97299d4526de8</Source>
-    <Size>3888</Size>
-  </Asset>
-  <Asset>
     <Name>Object.lua</Name>
     <Container>xlua/common/tools/unityengine/object.lua</Container>
     <Type id="49">TextAsset</Type>
@@ -20775,14 +19617,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\e7628e6e97cba6c4a91964b503cb2d3d</Source>
     <Size>5508</Size>
-  </Asset>
-  <Asset>
-    <Name>OperatingActivity</Name>
-    <Container>pure/table/operatingactivity</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\639803ab6e0c09542b95ced66a7ba138</Source>
-    <Size>5284</Size>
   </Asset>
   <Asset>
     <Name>OperationRecord</Name>
@@ -20889,28 +19723,12 @@
     <Size>1352</Size>
   </Asset>
   <Asset>
-    <Name>PayGiftNew</Name>
-    <Container>pure/table/paygiftnew</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\852eb6ee41cbc6b4fb9017016a1fdb37</Source>
-    <Size>372</Size>
-  </Asset>
-  <Asset>
     <Name>PayLimitedSpecial</Name>
     <Container>table/paylimitedspecial</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\c5f1c0a75305f3440b3811906ad0c329</Source>
     <Size>516</Size>
-  </Asset>
-  <Asset>
-    <Name>PayLimitedSpecial</Name>
-    <Container>pure/table/paylimitedspecial</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\f85797cdd4eeba746b65452da99ae1e3</Source>
-    <Size>84</Size>
   </Asset>
   <Asset>
     <Name>PayList</Name>
@@ -21017,14 +19835,6 @@
     <Size>40528</Size>
   </Asset>
   <Asset>
-    <Name>PetBubble</Name>
-    <Container>pure/table/petbubble</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\4d7dee51daaffac49806a87945eeea61</Source>
-    <Size>33600</Size>
-  </Asset>
-  <Asset>
     <Name>PetCollection</Name>
     <Container>table/petcollection</Container>
     <Type id="49">TextAsset</Type>
@@ -21033,28 +19843,12 @@
     <Size>7716</Size>
   </Asset>
   <Asset>
-    <Name>PetCollection</Name>
-    <Container>pure/table/petcollection</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\152da798213def54fabdf7d7bb466330</Source>
-    <Size>4740</Size>
-  </Asset>
-  <Asset>
     <Name>PetFood</Name>
     <Container>table/petfood</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\5ee3b1e887f748b44bfee688ff5f1470</Source>
     <Size>396</Size>
-  </Asset>
-  <Asset>
-    <Name>PetInfo</Name>
-    <Container>pure/table/petinfo</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\371b6102ff4d3c442b2e6e601c79d66b</Source>
-    <Size>11364</Size>
   </Asset>
   <Asset>
     <Name>PetInfo</Name>
@@ -21073,28 +19867,12 @@
     <Size>1644</Size>
   </Asset>
   <Asset>
-    <Name>PetItem</Name>
-    <Container>pure/table/petitem</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\fa4a29936ed2b184a8437b69f0c62888</Source>
-    <Size>1368</Size>
-  </Asset>
-  <Asset>
     <Name>PetLevel</Name>
     <Container>table/petlevel</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\500060f806473354ab64eb5227e69f41</Source>
     <Size>6632</Size>
-  </Asset>
-  <Asset>
-    <Name>PetLevel</Name>
-    <Container>pure/table/petlevel</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\319411f45d799bb42ba9b792a1059839</Source>
-    <Size>4192</Size>
   </Asset>
   <Asset>
     <Name>PetMoodTips</Name>
@@ -21145,22 +19923,6 @@
     <Size>700</Size>
   </Asset>
   <Asset>
-    <Name>PkPointReward</Name>
-    <Container>pure/table/pkpointreward</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\62edc4c08ab12ca40b42509ee9ffe033</Source>
-    <Size>856</Size>
-  </Asset>
-  <Asset>
-    <Name>PkProfession</Name>
-    <Container>pure/table/pkprofession</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\fb60111d6f5ae024cb6c3b650f067bb3</Source>
-    <Size>14596</Size>
-  </Asset>
-  <Asset>
     <Name>PkProfession</Name>
     <Container>table/pkprofession</Container>
     <Type id="49">TextAsset</Type>
@@ -21175,14 +19937,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\c544b9cd567aec9459fc55525c3790da</Source>
     <Size>448</Size>
-  </Asset>
-  <Asset>
-    <Name>PkRankReward</Name>
-    <Container>pure/table/pkrankreward</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\02076b92a64d3c64b919ed200257b287</Source>
-    <Size>216</Size>
   </Asset>
   <Asset>
     <Name>Plane.lua</Name>
@@ -21209,27 +19963,11 @@
     <Size>4580</Size>
   </Asset>
   <Asset>
-    <Name>PlantSeed</Name>
-    <Container>pure/table/plantseed</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\d1725584cd307584aac4998991a07734</Source>
-    <Size>2244</Size>
-  </Asset>
-  <Asset>
     <Name>PlantSprite</Name>
     <Container>table/plantsprite</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\a7d9b7ae0b5dd6048a76988c0a68d22e</Source>
-    <Size>548</Size>
-  </Asset>
-  <Asset>
-    <Name>PlantSprite</Name>
-    <Container>pure/table/plantsprite</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\db972d067d4d6d547897e2e426a60e91</Source>
     <Size>548</Size>
   </Asset>
   <Asset>
@@ -21530,14 +20268,6 @@
   </Asset>
   <Asset>
     <Name>PlayerLevel</Name>
-    <Container>pure/table/playerlevel</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\589dde9b14d444943a9b916450f680de</Source>
-    <Size>4548</Size>
-  </Asset>
-  <Asset>
-    <Name>PlayerLevel</Name>
     <Container>table/playerlevel</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -21593,27 +20323,11 @@
     <Size>32504</Size>
   </Asset>
   <Asset>
-    <Name>PrerogativeContent</Name>
-    <Container>pure/table/prerogativecontent</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\9fad8a4ef92504846a400e76c5ae863b</Source>
-    <Size>22104</Size>
-  </Asset>
-  <Asset>
     <Name>PrincipFightMap</Name>
     <Container>table/principfightmap</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\3170d8781d1ced044b6223e37f0b2876</Source>
-    <Size>732</Size>
-  </Asset>
-  <Asset>
-    <Name>PrincipFightMap</Name>
-    <Container>pure/table/principfightmap</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\1a118d13a58ab1e479c20095b225b52d</Source>
     <Size>732</Size>
   </Asset>
   <Asset>
@@ -21623,14 +20337,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\a1e1d2627ccf2b047a3441e30e787205</Source>
     <Size>1036</Size>
-  </Asset>
-  <Asset>
-    <Name>PrincipFightWeekReward</Name>
-    <Container>pure/table/principfightweekreward</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\94d6f47058fc70540a0ea31dd149149c</Source>
-    <Size>132</Size>
   </Asset>
   <Asset>
     <Name>PrincipFightWeekReward</Name>
@@ -21666,14 +20372,6 @@
   </Asset>
   <Asset>
     <Name>ProfessionConversionParameter</Name>
-    <Container>pure/table/professionconversionparameter</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\186c3731cf6145f4897733c95c91e68a</Source>
-    <Size>2452</Size>
-  </Asset>
-  <Asset>
-    <Name>ProfessionConversionParameter</Name>
     <Container>table/professionconversionparameter</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -21687,14 +20385,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\44e5b6cfc14b63442aae14e62ccbc003</Source>
     <Size>28460</Size>
-  </Asset>
-  <Asset>
-    <Name>ProfessionStrategy</Name>
-    <Container>pure/table/professionstrategy</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\6a0fe947e2185224fb38280b93220281</Source>
-    <Size>44116</Size>
   </Asset>
   <Asset>
     <Name>ProfessionStrategy</Name>
@@ -21727,14 +20417,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\842572d01b880e040a2b7a4b8207a82d</Source>
     <Size>220</Size>
-  </Asset>
-  <Asset>
-    <Name>ProtectCapMatch</Name>
-    <Container>pure/table/protectcapmatch</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\63158a0cc011b3b4aa1684ff3ff8bf7c</Source>
-    <Size>156</Size>
   </Asset>
   <Asset>
     <Name>ProtectCapMatch</Name>
@@ -21778,14 +20460,6 @@
   </Asset>
   <Asset>
     <Name>PuppetSceneTool</Name>
-    <Container>pure/table/puppetscenetool</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\0121c91056699834fbd7a8a8bbbc7723</Source>
-    <Size>1516</Size>
-  </Asset>
-  <Asset>
-    <Name>PuppetSceneTool</Name>
     <Container>table/puppetscenetool</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -21799,14 +20473,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\5fecffab3c4b02c4babf27a7980fcf61</Source>
     <Size>19092</Size>
-  </Asset>
-  <Asset>
-    <Name>PureLoadingSlogan</Name>
-    <Container>pure/table/pureloadingslogan</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\7257f2fc4e66e0f4db8acb578bf5fb0b</Source>
-    <Size>404</Size>
   </Asset>
   <Asset>
     <Name>PureLoadingSlogan</Name>
@@ -21825,28 +20491,12 @@
     <Size>372</Size>
   </Asset>
   <Asset>
-    <Name>PureSeason</Name>
-    <Container>pure/table/pureseason</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\bf873234ee570d747a57108dd0d7b5df</Source>
-    <Size>1044</Size>
-  </Asset>
-  <Asset>
     <Name>PureSeasonAchievementTable</Name>
     <Container>table/pureseasonachievementtable</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\e0800697ea4ec4640b269269666796ca</Source>
     <Size>2388</Size>
-  </Asset>
-  <Asset>
-    <Name>PureSeasonAchievementTable</Name>
-    <Container>pure/table/pureseasonachievementtable</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\5d611458acc49194a9039b46406b44ac</Source>
-    <Size>22424</Size>
   </Asset>
   <Asset>
     <Name>PureSeasonFightValueReward</Name>
@@ -21857,36 +20507,12 @@
     <Size>1652</Size>
   </Asset>
   <Asset>
-    <Name>PureSeasonFightValueReward</Name>
-    <Container>pure/table/pureseasonfightvaluereward</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\b899829c35045d54cb24318871b37a9d</Source>
-    <Size>5136</Size>
-  </Asset>
-  <Asset>
     <Name>PureSeasonHelp</Name>
     <Container>table/pureseasonhelp</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\ed32b6e3dde2b074ba62f9578ed5ec9e</Source>
     <Size>8068</Size>
-  </Asset>
-  <Asset>
-    <Name>PureSeasonHelp</Name>
-    <Container>pure/table/pureseasonhelp</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\5a424b14da2952a4c96d3f2c8b18ae48</Source>
-    <Size>20500</Size>
-  </Asset>
-  <Asset>
-    <Name>PureSeasonProgress</Name>
-    <Container>pure/table/pureseasonprogress</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\a3639eaaa2712694eb1299aa0cfa9762</Source>
-    <Size>1412</Size>
   </Asset>
   <Asset>
     <Name>PureSeasonProgress</Name>
@@ -21905,36 +20531,12 @@
     <Size>1268</Size>
   </Asset>
   <Asset>
-    <Name>PureSeasonReward</Name>
-    <Container>pure/table/pureseasonreward</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\a1fea803dd4508e4b8890655fbddb5b3</Source>
-    <Size>36256</Size>
-  </Asset>
-  <Asset>
     <Name>PureSeasonSceneOpen</Name>
     <Container>table/pureseasonsceneopen</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\f02c5c9821790cb42bd2a03380f3c562</Source>
     <Size>3056</Size>
-  </Asset>
-  <Asset>
-    <Name>PureSeasonSceneOpen</Name>
-    <Container>pure/table/pureseasonsceneopen</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\9c0a1d7853babfc438d76e0feda666a8</Source>
-    <Size>9692</Size>
-  </Asset>
-  <Asset>
-    <Name>PureSeasonTarget</Name>
-    <Container>pure/table/pureseasontarget</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\92e3f0db9d0eaf748bff2fb4b30d5d37</Source>
-    <Size>11136</Size>
   </Asset>
   <Asset>
     <Name>PureSeasonTarget</Name>
@@ -21961,22 +20563,6 @@
     <Size>284</Size>
   </Asset>
   <Asset>
-    <Name>PushSetting</Name>
-    <Container>pure/table/pushsetting</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\80bd2e577d6d28a408d526c9042bf09c</Source>
-    <Size>120</Size>
-  </Asset>
-  <Asset>
-    <Name>PushSubscribe</Name>
-    <Container>pure/table/pushsubscribe</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\a8a4391f7b7687b469e4147a24900b8e</Source>
-    <Size>72</Size>
-  </Asset>
-  <Asset>
     <Name>PushSubscribe</Name>
     <Container>table/pushsubscribe</Container>
     <Type id="49">TextAsset</Type>
@@ -21986,27 +20572,11 @@
   </Asset>
   <Asset>
     <Name>PVEAttrModify</Name>
-    <Container>pure/table/pveattrmodify</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\546cde4a40246d642ab76d82efb3abad</Source>
-    <Size>312</Size>
-  </Asset>
-  <Asset>
-    <Name>PVEAttrModify</Name>
     <Container>table/pveattrmodify</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\f61c73459eaf4c046b9925b660e92667</Source>
     <Size>312</Size>
-  </Asset>
-  <Asset>
-    <Name>PveProfession</Name>
-    <Container>pure/table/pveprofession</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\2625bc7c12f154547809a2b02bee6fc9</Source>
-    <Size>10356</Size>
   </Asset>
   <Asset>
     <Name>PveProfession</Name>
@@ -22039,14 +20609,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\575605f9255bdab4085c83f1d1cdc26d</Source>
     <Size>2680</Size>
-  </Asset>
-  <Asset>
-    <Name>PVPActivityList</Name>
-    <Container>pure/table/pvpactivitylist</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\ce2424b4595cb1b4193d3c63ae4d2684</Source>
-    <Size>292</Size>
   </Asset>
   <Asset>
     <Name>PVPActivityList</Name>
@@ -22154,14 +20716,6 @@
   </Asset>
   <Asset>
     <Name>RandomAttributes</Name>
-    <Container>pure/table/randomattributes</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\edb7cd9361fec19408945abca45fdc7e</Source>
-    <Size>80732</Size>
-  </Asset>
-  <Asset>
-    <Name>RandomAttributes</Name>
     <Container>table/randomattributes</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -22183,14 +20737,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\8616c23d66248b44e8e3b76f33a73065</Source>
     <Size>16060</Size>
-  </Asset>
-  <Asset>
-    <Name>RandomSceneList</Name>
-    <Container>pure/table/randomscenelist</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\61f11d59c26ef26479f54b67c9fb13c2</Source>
-    <Size>27548</Size>
   </Asset>
   <Asset>
     <Name>RandomSceneList</Name>
@@ -22226,14 +20772,6 @@
   </Asset>
   <Asset>
     <Name>RankClear</Name>
-    <Container>pure/table/rankclear</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\2e24b61fe8b5145f7a9d70c99bfbcb26</Source>
-    <Size>64</Size>
-  </Asset>
-  <Asset>
-    <Name>RankClear</Name>
     <Container>table/rankclear</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -22255,22 +20793,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\c16fe9102b6b80443af9bfdc9b7f2b5d</Source>
     <Size>1148</Size>
-  </Asset>
-  <Asset>
-    <Name>RankList</Name>
-    <Container>pure/table/ranklist</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\f918c146cd0c579468f8f2a0b43e97e0</Source>
-    <Size>832</Size>
-  </Asset>
-  <Asset>
-    <Name>RankListReward</Name>
-    <Container>pure/table/ranklistreward</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\4dc5f26efc194704cbfe43633ebd3f6b</Source>
-    <Size>1580</Size>
   </Asset>
   <Asset>
     <Name>RankListReward</Name>
@@ -22343,14 +20865,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\7df6c6c169073d64f9936658ee3c14f4</Source>
     <Size>320</Size>
-  </Asset>
-  <Asset>
-    <Name>RecommendFightNum</Name>
-    <Container>pure/table/recommendfightnum</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\0a5e57594e2858248b36d92aadcc3cf3</Source>
-    <Size>4076</Size>
   </Asset>
   <Asset>
     <Name>RecommendFightNum</Name>
@@ -25449,22 +23963,6 @@
     <Size>3284</Size>
   </Asset>
   <Asset>
-    <Name>RiskMapChest</Name>
-    <Container>pure/table/riskmapchest</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\aab37298b4a4e794781f6d186f8effb9</Source>
-    <Size>1512</Size>
-  </Asset>
-  <Asset>
-    <Name>RiskMapFile</Name>
-    <Container>pure/table/riskmapfile</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\7593ad1942b1efc498089234b06eb24f</Source>
-    <Size>904</Size>
-  </Asset>
-  <Asset>
     <Name>RiskMapFile</Name>
     <Container>table/riskmapfile</Container>
     <Type id="49">TextAsset</Type>
@@ -25481,36 +23979,12 @@
     <Size>345840</Size>
   </Asset>
   <Asset>
-    <Name>RogueEffectList</Name>
-    <Container>pure/table/rogueeffectlist</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\75d8cc4d851280543849c615d15df936</Source>
-    <Size>343996</Size>
-  </Asset>
-  <Asset>
-    <Name>RogueEffectPool</Name>
-    <Container>pure/table/rogueeffectpool</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\09f14e5f1ed6246409801d91dcf6cb3f</Source>
-    <Size>2032</Size>
-  </Asset>
-  <Asset>
     <Name>RogueEffectPool</Name>
     <Container>table/rogueeffectpool</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\ba96d1dceb1014341bde562ba30d5d81</Source>
     <Size>2032</Size>
-  </Asset>
-  <Asset>
-    <Name>RogueLayer</Name>
-    <Container>pure/table/roguelayer</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\7aa88b4bfe091184cacda359274b694e</Source>
-    <Size>8100</Size>
   </Asset>
   <Asset>
     <Name>RogueLayer</Name>
@@ -25529,36 +24003,12 @@
     <Size>1584</Size>
   </Asset>
   <Asset>
-    <Name>RoguelikeRankReward</Name>
-    <Container>pure/table/roguelikerankreward</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\7816cbd676bcd5b4d9c9fa75280073ed</Source>
-    <Size>1584</Size>
-  </Asset>
-  <Asset>
-    <Name>RogueNodeList</Name>
-    <Container>pure/table/roguenodelist</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\96ecf4d72935bb14b92274334420ebfc</Source>
-    <Size>5060</Size>
-  </Asset>
-  <Asset>
     <Name>RogueNodeList</Name>
     <Container>table/roguenodelist</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\75176810d2613384a8827999a1fdf423</Source>
     <Size>5060</Size>
-  </Asset>
-  <Asset>
-    <Name>RogueNodeType</Name>
-    <Container>pure/table/roguenodetype</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\51caf6e69ab795a479f1f867a74f9518</Source>
-    <Size>3096</Size>
   </Asset>
   <Asset>
     <Name>RogueNodeType</Name>
@@ -30122,14 +28572,6 @@
   </Asset>
   <Asset>
     <Name>SceneBuffRange</Name>
-    <Container>pure/table/scenebuffrange</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\ad66dc10e3ddf6e4aa7051688d7ef163</Source>
-    <Size>696</Size>
-  </Asset>
-  <Asset>
-    <Name>SceneBuffRange</Name>
     <Container>table/scenebuffrange</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -30151,14 +28593,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\42f43303706613047970499a6bc2465f</Source>
     <Size>1356568</Size>
-  </Asset>
-  <Asset>
-    <Name>SceneList</Name>
-    <Container>pure/table/scenelist</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\0bc494fece95d9b4f97e936ccee270de</Source>
-    <Size>1211720</Size>
   </Asset>
   <Asset>
     <Name>seadragon</Name>
@@ -30409,14 +28843,6 @@
     <Size>176</Size>
   </Asset>
   <Asset>
-    <Name>SevenImport</Name>
-    <Container>pure/table/sevenimport</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\a957ed67bd720ad42bbc70871ec2b3d0</Source>
-    <Size>612</Size>
-  </Asset>
-  <Asset>
     <Name>ShadowCatReward</Name>
     <Container>table/shadowcatreward</Container>
     <Type id="49">TextAsset</Type>
@@ -30503,14 +28929,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\e2152d9dc44f59a4f9eab6cde8e91e00</Source>
     <Size>96</Size>
-  </Asset>
-  <Asset>
-    <Name>ShareBgTexture</Name>
-    <Container>pure/table/sharebgtexture</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\f2d7f9b8ea3c4174abbf9719ad8ea202</Source>
-    <Size>880</Size>
   </Asset>
   <Asset>
     <Name>ShareBgTexture</Name>
@@ -30833,22 +29251,6 @@
     <Size>84</Size>
   </Asset>
   <Asset>
-    <Name>Shop</Name>
-    <Container>pure/table/shop</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\6adf92ad1dfbc16449992278d64bc1fd</Source>
-    <Size>616916</Size>
-  </Asset>
-  <Asset>
-    <Name>ShopType</Name>
-    <Container>pure/table/shoptype</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\ba5b76e2f6b4b2741993856622c32e58</Source>
-    <Size>2252</Size>
-  </Asset>
-  <Asset>
     <Name>ShopType</Name>
     <Container>table/shoptype</Container>
     <Type id="49">TextAsset</Type>
@@ -30921,14 +29323,6 @@
     <Size>253224</Size>
   </Asset>
   <Asset>
-    <Name>SkillEmblem</Name>
-    <Container>pure/table/skillemblem</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\9687fcb467380d04c82cb516994012a9</Source>
-    <Size>140944</Size>
-  </Asset>
-  <Asset>
     <Name>SkillList</Name>
     <Container>table/skilllist</Container>
     <Type id="49">TextAsset</Type>
@@ -30937,36 +29331,12 @@
     <Size>6260344</Size>
   </Asset>
   <Asset>
-    <Name>SkillList</Name>
-    <Container>pure/table/skilllist</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\bab97346daba5ed40b55c5f9ea0846ba</Source>
-    <Size>5561232</Size>
-  </Asset>
-  <Asset>
     <Name>SkillTreeConfig</Name>
     <Container>table/skilltreeconfig</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\b93977424944a8f49a806110a073e420</Source>
     <Size>2468</Size>
-  </Asset>
-  <Asset>
-    <Name>SkillTreeConfig</Name>
-    <Container>pure/table/skilltreeconfig</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\3aac3af971fed3f459ed78a9bf70029c</Source>
-    <Size>2468</Size>
-  </Asset>
-  <Asset>
-    <Name>SkyArenaReward</Name>
-    <Container>pure/table/skyarenareward</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\d412528767eaa8946aa21f8676fb84ce</Source>
-    <Size>332</Size>
   </Asset>
   <Asset>
     <Name>SkyArenaReward</Name>
@@ -31082,14 +29452,6 @@
   </Asset>
   <Asset>
     <Name>SpriteAdvanced</Name>
-    <Container>pure/table/spriteadvanced</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\410597ba2721bfa4594de6952c2c4764</Source>
-    <Size>9264</Size>
-  </Asset>
-  <Asset>
-    <Name>SpriteAdvanced</Name>
     <Container>table/spriteadvanced</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -31153,14 +29515,6 @@
     <Size>16868</Size>
   </Asset>
   <Asset>
-    <Name>SpriteLevel</Name>
-    <Container>pure/table/spritelevel</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\804ca86a589568e479a167d9dcc0eeac</Source>
-    <Size>6068</Size>
-  </Asset>
-  <Asset>
     <Name>SpritePreviewTable</Name>
     <Container>table/spritepreviewtable</Container>
     <Type id="49">TextAsset</Type>
@@ -31186,14 +29540,6 @@
   </Asset>
   <Asset>
     <Name>SpriteRefineCost</Name>
-    <Container>pure/table/spriterefinecost</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\36755423a6f45fc4bb48804c7072d43b</Source>
-    <Size>164</Size>
-  </Asset>
-  <Asset>
-    <Name>SpriteRefineCost</Name>
     <Container>table/spriterefinecost</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -31202,27 +29548,11 @@
   </Asset>
   <Asset>
     <Name>SpriteRefineProbability</Name>
-    <Container>pure/table/spriterefineprobability</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\dac9f43c34e7c5f4fa9bca084d38c79d</Source>
-    <Size>656</Size>
-  </Asset>
-  <Asset>
-    <Name>SpriteRefineProbability</Name>
     <Container>table/spriterefineprobability</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\acbe12050a8ad4244acfc34b3eb41a99</Source>
     <Size>656</Size>
-  </Asset>
-  <Asset>
-    <Name>SpriteRefineSection</Name>
-    <Container>pure/table/spriterefinesection</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\9caa8cd6c390d024ca3493dfcd6bf8d5</Source>
-    <Size>296</Size>
   </Asset>
   <Asset>
     <Name>SpriteRefineSection</Name>
@@ -31241,36 +29571,12 @@
     <Size>120784</Size>
   </Asset>
   <Asset>
-    <Name>SpriteSkill</Name>
-    <Container>pure/table/spriteskill</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\f9cbc80cde6616c4d8efdf6602b619ec</Source>
-    <Size>97556</Size>
-  </Asset>
-  <Asset>
     <Name>SpriteTable</Name>
     <Container>table/spritetable</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\8f9558f7b301c884496c4b4d9f6db144</Source>
     <Size>8640</Size>
-  </Asset>
-  <Asset>
-    <Name>SpriteTable</Name>
-    <Container>pure/table/spritetable</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\c078fa1d67ef607418642eefd1de1041</Source>
-    <Size>3024</Size>
-  </Asset>
-  <Asset>
-    <Name>StageRank</Name>
-    <Container>pure/table/stagerank</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\262d6cced81a3d843b110871c7f0ed33</Source>
-    <Size>47952</Size>
   </Asset>
   <Asset>
     <Name>StageRank</Name>
@@ -31319,14 +29625,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\b18f21dffd288ea44a1699028023dd5f</Source>
     <Size>964</Size>
-  </Asset>
-  <Asset>
-    <Name>StringTable</Name>
-    <Container>pure/table/stringtable</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\c578fda3fd5cfbc46bcd60868c94ba33</Source>
-    <Size>241088</Size>
   </Asset>
   <Asset>
     <Name>StringTable</Name>
@@ -31514,27 +29812,11 @@
   </Asset>
   <Asset>
     <Name>SuitCollect</Name>
-    <Container>pure/table/suitcollect</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\dcc50ddce25422649b46841bca90b3a6</Source>
-    <Size>1784</Size>
-  </Asset>
-  <Asset>
-    <Name>SuitCollect</Name>
     <Container>table/suitcollect</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\dc2859186be068f4a944b6cd63569e79</Source>
     <Size>1228</Size>
-  </Asset>
-  <Asset>
-    <Name>SuperActivity</Name>
-    <Container>pure/table/superactivity</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\ce6f9b97831b8574397073fee5ea01ea</Source>
-    <Size>1272</Size>
   </Asset>
   <Asset>
     <Name>SuperActivity</Name>
@@ -31559,22 +29841,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\baae4a44dd8b247418b75981d9bdb88a</Source>
     <Size>112244</Size>
-  </Asset>
-  <Asset>
-    <Name>SuperActivityTask</Name>
-    <Container>pure/table/superactivitytask</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\2be2956c361a8f84a810338e5d091ff8</Source>
-    <Size>83660</Size>
-  </Asset>
-  <Asset>
-    <Name>SuperActivityTime</Name>
-    <Container>pure/table/superactivitytime</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\90abac94944a5f5429a6245a380748e4</Source>
-    <Size>4180</Size>
   </Asset>
   <Asset>
     <Name>SuperActivityTime</Name>
@@ -31625,36 +29891,12 @@
     <Size>2624</Size>
   </Asset>
   <Asset>
-    <Name>SystemAnnounce</Name>
-    <Container>pure/table/systemannounce</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\eae29ecaa0e35634b87416fc0397c573</Source>
-    <Size>2648</Size>
-  </Asset>
-  <Asset>
     <Name>SystemHelp</Name>
     <Container>table/systemhelp</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\c006b8c1f1363104b9ced2c480455e4b</Source>
     <Size>124332</Size>
-  </Asset>
-  <Asset>
-    <Name>SystemHelp</Name>
-    <Container>pure/table/systemhelp</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\a6465be6c5f1d1d4393ee066bba4a1db</Source>
-    <Size>116808</Size>
-  </Asset>
-  <Asset>
-    <Name>SystemList</Name>
-    <Container>pure/table/systemlist</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\4983c38ba1ce0b34cb01c370a2ff63ff</Source>
-    <Size>34108</Size>
   </Asset>
   <Asset>
     <Name>SystemList</Name>
@@ -31738,27 +29980,11 @@
   </Asset>
   <Asset>
     <Name>TaskListNew</Name>
-    <Container>pure/table/tasklistnew</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\2025c30b35c974948bbe9b17f96b0ad1</Source>
-    <Size>81988</Size>
-  </Asset>
-  <Asset>
-    <Name>TaskListNew</Name>
     <Container>table/tasklistnew</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\f6b851ef26ee0364a814ed301e49b678</Source>
     <Size>156328</Size>
-  </Asset>
-  <Asset>
-    <Name>TeamAbyss</Name>
-    <Container>pure/table/tutorial/teamabyss</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\0cb281bfa44217a449358be70e880782</Source>
-    <Size>884</Size>
   </Asset>
   <Asset>
     <Name>TeamLeague_blue_cutscene</Name>
@@ -31784,22 +30010,7 @@
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\bebc3e29efd15ee4d855c93378e0a9fd</Source>
     <Size>816</Size>
   </Asset>
-  <!-- <Asset>
-    <Name>TeamTower</Name>
-    <Container>table/teamtower</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\853d18c126bed544190afdaa991dbfeb</Source>
-    <Size>27140</Size>
-  </Asset>
-  <Asset>
-    <Name>TeamTower</Name>
-    <Container>pure/table/teamtower</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\be685865b10ddb84486e89f07212bdac</Source>
-    <Size>4952</Size>
-  </Asset> -->
+  
   <Asset>
     <Name>TeamTowerCircle</Name>
     <Container>table/tutorial/teamtowercircle</Container>
@@ -31833,28 +30044,12 @@
     <Size>692</Size>
   </Asset>
   <Asset>
-    <Name>territorybattle</Name>
-    <Container>pure/table/territorybattle</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\67d8fc03594bf8d44805c52ff31ab3e9</Source>
-    <Size>692</Size>
-  </Asset>
-  <Asset>
     <Name>TerritoryBattleDesignation</Name>
     <Container>table/territorybattledesignation</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\cf4ae366930ba674dad4f4f4db8c3de3</Source>
     <Size>296</Size>
-  </Asset>
-  <Asset>
-    <Name>TerritoryBattleTransfer</Name>
-    <Container>pure/table/territorybattletransfer</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\64a18672f0deb0645a82785ab19c066b</Source>
-    <Size>468</Size>
   </Asset>
   <Asset>
     <Name>TerritoryBattleTransfer</Name>
@@ -31870,14 +30065,6 @@
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\92c140a73817c064caa36b5937405dba</Source>
-    <Size>128</Size>
-  </Asset>
-  <Asset>
-    <Name>TerritoryRewd</Name>
-    <Container>pure/table/territoryrewd</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\283292f77494ae94c94390af147100f4</Source>
     <Size>128</Size>
   </Asset>
   <Asset>
@@ -31935,14 +30122,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\757535b4a7a35264992b525081fe9eb1</Source>
     <Size>2492</Size>
-  </Asset>
-  <Asset>
-    <Name>ThemeActivity</Name>
-    <Container>pure/table/themeactivity</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\e5841a3052d5cdf488f1fe1b74c9157c</Source>
-    <Size>900</Size>
   </Asset>
   <Asset>
     <Name>ThemeActivity</Name>
@@ -32026,14 +30205,6 @@
   </Asset>
   <Asset>
     <Name>TitleTable</Name>
-    <Container>pure/table/titletable</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\e9ba2ed77e2dfa949b02f114df4e63f6</Source>
-    <Size>10040</Size>
-  </Asset>
-  <Asset>
-    <Name>TitleTable</Name>
     <Container>table/titletable</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
@@ -32113,14 +30284,6 @@
     <Size>4940</Size>
   </Asset>
   <Asset>
-    <Name>TreasureRankReward</Name>
-    <Container>pure/table/treasurerankreward</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\f981141f61498cf47a114fc7e2b67df1</Source>
-    <Size>4940</Size>
-  </Asset>
-  <Asset>
     <Name>TreasuresItem</Name>
     <Container>table/treasuresitem</Container>
     <Type id="49">TextAsset</Type>
@@ -32159,14 +30322,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\785370999b4091f42923f8bc21573f3b</Source>
     <Size>19984</Size>
-  </Asset>
-  <Asset>
-    <Name>TutorialEntrance</Name>
-    <Container>pure/table/tutorial/tutorialentrance</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\cf4108f9a534c8841b30a818d9952b19</Source>
-    <Size>21880</Size>
   </Asset>
   <Asset>
     <Name>type_checkers.lua</Name>
@@ -32231,14 +30386,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\c5c060ce461464e779f249ebeb5e9555</Source>
     <Size>5204</Size>
-  </Asset>
-  <Asset>
-    <Name>UltimateDragonTable</Name>
-    <Container>pure/table/ultimatedragontable</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\295208a6d969c3b47904c4a281939a13</Source>
-    <Size>59828</Size>
   </Asset>
   <Asset>
     <Name>UltimateDragonTable</Name>
@@ -32351,14 +30498,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\f4d39beae1d3fdd4f97885d5b59c8386</Source>
     <Size>1800</Size>
-  </Asset>
-  <Asset>
-    <Name>WeddingLoverLiveness</Name>
-    <Container>pure/table/weddingloverliveness</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\b9f48b0b75d8d91488410cf5d4d88c98</Source>
-    <Size>256</Size>
   </Asset>
   <Asset>
     <Name>WeddingLoverLiveness</Name>
@@ -32487,14 +30626,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\f93b7107b31802d4fb0a9df9e4b6f885</Source>
     <Size>536</Size>
-  </Asset>
-  <Asset>
-    <Name>WorldLevelExpBuff</Name>
-    <Container>pure/table/worldlevelexpbuff</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\3f9f511372ca4ed4595bad5804e6fea1</Source>
-    <Size>14156</Size>
   </Asset>
   <Asset>
     <Name>WorldLevelExpBuff</Name>
@@ -32993,28 +31124,12 @@
     <Size>3227576</Size>
   </Asset>
   <Asset>
-    <Name>XEntityPresentation</Name>
-    <Container>pure/table/xentitypresentation</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\18fffea77b2ea564090d1e810ebffb80</Source>
-    <Size>3022480</Size>
-  </Asset>
-  <Asset>
     <Name>XEntityStatistics</Name>
     <Container>table/xentitystatistics</Container>
     <Type id="49">TextAsset</Type>
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\df7622c7256392141b98890480876105</Source>
     <Size>3246228</Size>
-  </Asset>
-  <Asset>
-    <Name>XEntityStatistics</Name>
-    <Container>pure/table/xentitystatistics</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\d705db4ea5e91ae44bbcdd0fd7881c0e</Source>
-    <Size>3125156</Size>
   </Asset>
   <Asset>
     <Name>XEquipreforgemoreattackattrPtc_pb.lua</Name>
@@ -33369,14 +31484,6 @@
     <Size>1908</Size>
   </Asset>
   <Asset>
-    <Name>XInstruct</Name>
-    <Container>pure/table/xinstruct</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\f5c485c0a9af4594da9f4683ac0a131a</Source>
-    <Size>1856</Size>
-  </Asset>
-  <Asset>
     <Name>XJadeEquipNew_pb.lua</Name>
     <Container>xlua/hotfixroot/hotfix/xjadeequipnew_pb.lua</Container>
     <Type id="49">TextAsset</Type>
@@ -33591,14 +31698,6 @@
     <PathID>1</PathID>
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\94ec5bd18abba774e8dfdb36e1502a3c</Source>
     <Size>6552</Size>
-  </Asset>
-  <Asset>
-    <Name>XOptions</Name>
-    <Container>pure/table/xoptions</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\ed581a89bdf40dc4c806686cd380cf34</Source>
-    <Size>6496</Size>
   </Asset>
   <Asset>
     <Name>XPPPack_pb.lua</Name>
@@ -34080,12 +32179,4 @@
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\238b5d2df48ce0a4eb1fbfa1b3e041c7</Source>
     <Size>496</Size>
   </Asset>
-  <Asset>
-    <Name>ZombieReward</Name>
-    <Container>pure/table/zombiereward</Container>
-    <Type id="49">TextAsset</Type>
-    <PathID>1</PathID>
-    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\f3f257c9ebff1fc4682055606f599ff1</Source>
-    <Size>452</Size>
-  </Asset>
-</Assets>
+  </Assets>
