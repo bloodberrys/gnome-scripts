@@ -1,99 +1,85 @@
-#import os library
 import os
-# Import
 import time
 from deep_translator import GoogleTranslator
-from deep_translator import MyMemoryTranslator
-from deep_translator import LingueeTranslator
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import json
+import random
+import requests
+import signal
+import time
+import re
+import csv
 
-#function readDirectoryFiles that takes two arguments
+def sigterm_handler(signum, frame):
+    # Remove the file here
+    os.remove("proxy_used.txt")
+    exit(0)
+
+def keyboard_interrupt_handler(signal, frame):
+    # Remove the file here
+    time.sleep(2)
+    os.remove("proxy_used.txt")
+    exit(0)
+
+# Register the signal handler function for SIGTERM
+signal.signal(signal.SIGTERM, sigterm_handler)
+signal.signal(signal.SIGINT, keyboard_interrupt_handler)
+
 def readDirectoryFiles(folder, scriptFolder):
-
-    #loop over the files in the directory
     for filename in os.listdir(folder):
-
-        #print each filename
         print(f'File Name: {filename}')
-        filename_edited = folder + "\\" + filename
+        filename_edited = os.path.join(folder, filename)
         print(f'File Name: {filename_edited}')
-        result_translated = split_string(filename_edited)
-
-        #save the content in the scriptFolder
+        result_translated = chunk_string(filename_edited)
         with open(os.path.join(scriptFolder, filename), 'w', encoding='utf-8') as f:
-
-            #write the content to a new file
             f.write(result_translated)
-            f.close()
+        print(f'File {filename} Saved!\n')
 
-        #print message
-        print(f'File {filename} Saved!')
+def get_proxy():
+    try:
+        with open('proxy_used.txt', 'r') as f:
+            proxies = f.read().strip().split('\n')
+    except FileNotFoundError:
+        url = "https://proxylist.geonode.com/api/proxy-list?limit=50&page=1&sort_by=lastChecked&sort_type=desc&protocols=http"
+        response = requests.get(url)
+        proxy_list = response.json()['data']
+        http_proxies = [proxy['ip'] + ':' + proxy['port'] for proxy in proxy_list if 'http' in proxy['protocols']]
+        proxies = http_proxies
+        with open('proxy_used.txt', 'w') as f:
+            f.write('\n'.join(proxies))
+    return proxies
 
 def translator(string):
-    proxies_example = {
-        "http": "137.184.100.135:80",  # example: 34.195.196.27:8080
-        "http": "143.42.138.176:80",  # example: 34.195.196.27:8080
-        "http": "3.143.37.255:80",  # example: 34.195.196.27:8080
-        "http": "3.12.178.169:80",  # example: 34.195.196.27:8080
-        "http": "35.209.198.222:80",  # example: 34.195.196.27:8080
-        "http": "162.223.94.163:80",  # example: 34.195.196.27:8080
-        "http": "137.184.242.126:80",  # example: 34.195.196.27:8080
-        "http": "169.55.89.6:80",  # example: 34.195.196.27:8080
-        "http": "68.188.59.198:80",  # example: 34.195.196.27:8080
-    }
-    contentTranslated = GoogleTranslator(source='zh-CN', target='en', proxies=proxies_example).translate(string)
-    # Sleep 2 secs
-    # time.sleep(0.1)
+    proxy = random.choice(get_proxy())
+    proxies = {"http": proxy}
+    contentTranslated = GoogleTranslator(source='zh-CN', target='en', proxies=proxies).translate(string)
     return contentTranslated
 
+def chunk_string(filename):
 
-def split_string(filename):
-    file = open(filename, 'r', encoding='utf-8')
-    string = file.read()
-    file.close()
-    # array to get 5000 chunks
-    splitted_list = []
-    result_text = ''
-    contentTranslated = ''
     n = 2000
-
-    print(len(string))
-    # if the string length is more than 5000 characters
-    if len(string) > n:
-        # split it into chunks of 5000 characters
-        split_str = [string[i:i+n] for i in range(0, len(string), n)]
-
-        # loop through the contents of split_str and write each element to a separate file
-        for i, element in enumerate(split_str):
-            # translate here
-            contentTranslated = translator(element)
-
-            # assign in array
-            splitted_list.append(f'{contentTranslated}')
-
-
-        # merge all the strings back into single var
-        result_text = ''.join(splitted_list)
-
-    # if the string length is less than 5000 characters
-    else:
-        # translate here
-        result_text = translator(string)
+    
+    with open(filename, 'r', encoding='utf-8') as f:
+        content = f.read()
+        chunks = [content[i:i+n] for i in range(0, len(content), n)]
+        with ThreadPoolExecutor(max_workers=8) as executor:
+            futures = [executor.submit(translator, chunk) for chunk in chunks]
+            translated_chunks = [f.result() for f in futures]
+        result_text = ''.join(translated_chunks)
 
     return result_text
 
-#define the main function
-def main():
 
-    #define the folder and scriptFolder
+
+
+def main():
     folder = "asset_files"
     scriptFolder = "results"
-
-    #call the function
     readDirectoryFiles(folder, scriptFolder)
-
-    #print message
+    os.remove('proxy_used.txt')
     print('Done!')
 
-#call main function
+
+
 if __name__ == '__main__':
     main()
