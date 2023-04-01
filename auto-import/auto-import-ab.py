@@ -48,18 +48,19 @@ def find_file_position(file_path, center=False):
     # Get the coordinates of the file on the screen
     file_location = None
     grayscale = False
+    confidence = 0.8
     
     max_attempts = 5
     for attempt in range(max_attempts):
         print(f'[Find Location] Attempt {attempt}')
         print(f'Primary File check: {file_path}')
 
-        file_location = pyautogui.locateOnScreen(img, grayscale=grayscale)
+        file_location = pyautogui.locateOnScreen(img, grayscale=grayscale, confidence=confidence)
         filename, file_extension = os.path.splitext(file_path)
         if file_location is None and os.path.exists("imagelocate/"+os.path.basename(filename)+str(2)+file_extension):
             print(f'Secondary File check: {"imagelocate/"+os.path.basename(filename)+str(2)+file_extension}')
             img2 = cv2.imread("imagelocate/"+os.path.basename(filename)+str(2)+file_extension)
-            file_location = pyautogui.locateOnScreen(img2, grayscale=grayscale)
+            file_location = pyautogui.locateOnScreen(img2, grayscale=grayscale, confidence=confidence)
             pass
 
         print(file_location)
@@ -145,14 +146,14 @@ for filename in os.listdir(folder):
     pyautogui.typewrite(f'{filename}')
     pyautogui.press('enter')
 
-    click_file(clickType="double", file_path="imagelocate/OK.png", center=True)
+    click_file(clickType="single", file_path="imagelocate/OK.png", center=True)
     pyautogui.press('enter')
 
-    left, top = click_file(clickType="double", file_path="imagelocate/UABE.png", duration=0, add_left=-10, add_top=35)
-    click_file(clickType="double", file_path="imagelocate/SAVE_AB.png", center=True)
+    left, top = click_file(clickType="single", file_path="imagelocate/UABE.png", duration=0, add_left=-10, add_top=35)
+    click_file(clickType="single", file_path="imagelocate/SAVE_AB.png", center=True)
 
     print(f"[SAVE] Saving new assetbundle {filename}\n\n")
-    click_file(clickType="double", file_path="imagelocate/RESULTS_AB.png", center=True)
+    click_file(clickType="single", file_path="imagelocate/RESULTS_AB.png", center=True)
     pyautogui.press('tab')
     pyautogui.press('tab')
     pyautogui.press('tab')
