@@ -22,7 +22,7 @@ def find_file_position(file_path, center=False):
     # Get the coordinates of the file on the screen
     file_location = None
     grayscale = False
-    confidence = 0.8
+    confidence = 0.99
     
     max_attempts = 5
     for attempt in range(max_attempts):
@@ -116,7 +116,6 @@ for filename in os.listdir(folder):
     pyautogui.press('enter')
 
     click_file(clickType="single", file_path="imagelocate/OK.png", center=True)
-    pyautogui.press('enter')
     pyautogui.press('enter')
 
     print(f"[SAVE] Saving new assetbundle {filename}\n\n")
