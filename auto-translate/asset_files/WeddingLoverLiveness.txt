@@ -1,7 +1,0 @@
-index	liveness	dropid	dropdesc	viewabledrop	boxPic
-宝箱序号	活跃度	掉落	掉落描述	掉落显示	宝箱图片
-1	200	4104	宝箱1	572=1	bx1
-2	400	4105	宝箱2	610=7	bx1
-3	600	4106	宝箱3	602=7	bx2
-4	800	4107	宝箱4	569=1	bx2
-5	1000	4108	宝箱5	611=7	bx3

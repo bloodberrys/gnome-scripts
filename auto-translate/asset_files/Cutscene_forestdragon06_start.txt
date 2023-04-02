@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XCutSceneData>
+  <TotalFrame>204</TotalFrame>
+  <CameraClip>Animation/Main_Camera/Main_camera_forestdragon06_6_start</CameraClip>
+  <Name>Cutscene_forestdragon06_start</Name>
+  <Script />
+  <Scene>Assets/XScene/Scenelib/DN_FB/forestdragon04/forestdragon04</Scene>
+  <TypeMask>-1</TypeMask>
+  <OverrideBGM>true</OverrideBGM>
+  <Mourningborder>true</Mourningborder>
+  <AutoEnd>true</AutoEnd>
+  <Length>6.8</Length>
+  <FieldOfView>45</FieldOfView>
+  <Trigger>ToEffect</Trigger>
+  <GeneralShow>false</GeneralShow>
+  <GeneralBigGuy>false</GeneralBigGuy>
+  <Actors>
+    <XActorDataClip>
+      <Type>Actor</Type>
+      <TimeLineAt>0</TimeLineAt>
+      <Prefab>Prefabs/Monster_giant_guardian</Prefab>
+      <Clip>Animation/Monster_giant/monster_giant_cutscene_forestdragon06_6_start</Clip>
+      <AppearX>20.18495</AppearX>
+      <AppearY>0</AppearY>
+      <AppearZ>54.48587</AppearZ>
+      <StatisticsID>0</StatisticsID>
+      <bUsingID>false</bUsingID>
+      <bToCommonPool>false</bToCommonPool>
+      <Tag />
+    </XActorDataClip>
+  </Actors>
+  <Player />
+  <Fxs />
+  <Audios />
+  <SubTitle />
+  <Slash>
+    <XSlashDataClip>
+      <Type>Slash</Type>
+      <TimeLineAt>144</TimeLineAt>
+      <Duration>2</Duration>
+      <Name>远古守护者米迪尔</Name>
+      <Discription />
+      <AnchorX>0</AnchorX>
+      <AnchorY>0</AnchorY>
+    </XSlashDataClip>
+  </Slash>
+</XCutSceneData>

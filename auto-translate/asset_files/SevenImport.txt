@@ -1,3 +1,0 @@
-ID	ItemID	SharedTexture	SharedIcon	DialogSharedTexture	Atlas
-id	物品ID	左边图的路径	图标	弹窗图片路径	图集
-8	3504	atlas/UI/GameSystem/LoginAward/SevenReward_4	hall_icon_133	atlas/UI/GameSystem/LoginAward/SevenReward_4	Hall/Hall_1

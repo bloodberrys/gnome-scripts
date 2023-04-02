@@ -1,2 +1,0 @@
-SceneId	Url	Name	Count	Cycle
-场景id	链接	名字	一个周期内最大触发次数	周期（:天）

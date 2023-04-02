@@ -1,0 +1,141 @@
+
+func:notice1
+warning [ffdc00]锈雾狂风呼啸者隐入黑暗并展开暗杀！ 10
+
+func:notice2
+warning [ffdc00]出现了一只追猎者，注意躲避！！ 10
+
+func:notice3
+warning [ffdc00]出现了两只追猎者，注意躲避！！ 10
+
+func:notice4
+warning [ffdc00]火浪来袭！！寻找突破口，前往安全区！！ 10
+
+func:notice4X
+npcpopspeek 3 3003 所有人集合！寻找火浪[00aeff]突破口[-]冲进安全区！ 10
+
+func:notice5
+warning [ffdc00]锈雾追随者吸收了场上锈雾镰刀的力量！！准备开始献祭！！ 10
+
+func:notice6
+warning [ffdc00]观察魔物的外观差异并击杀正确魔物，可以解除BOSS的献祭力量 10
+
+func:notice7
+warning [ffdc00]成功击杀正确魔物，献祭力量被解除！ 10
+
+func:notice8
+warning [ffdc00]击杀了错误的魔物，献祭力量被提前发动了！ 10
+
+func:notice9
+warning [ffdc00]观察场上的镰刀数，进入正确的区域规避即将爆发的力量！19|观察被吸收镰刀数，击杀相应特征魔物解除献祭力量！9|观察被吸收镰刀数，击杀相应特征魔物解除献祭力量！8|观察被吸收镰刀数，击杀相应特征魔物解除献祭力量！7|观察被吸收镰刀数，击杀相应特征魔物解除献祭力量！6|观察被吸收镰刀数，击杀相应特征魔物解除献祭力量！5|观察被吸收镰刀数，击杀相应特征魔物解除献祭力量！4|观察被吸收镰刀数，击杀相应特征魔物解除献祭力量！3|观察被吸收镰刀数，击杀相应特征魔物解除献祭力量！2|观察被吸收镰刀数，击杀相应特征魔物解除献祭力量！1|观察被吸收镰刀数，击杀相应特征魔物解除献祭力量！0|BOSS发动了献祭！！ 15
+
+func:notice10
+warning [ffdc00]BOSS发动了献祭！！！ 10
+
+func:notice11
+warning [ffdc00]火浪结束了！！ 10
+
+func:notice12
+warning [ffdc00]锈雾狂风呼啸者狂暴了，攻击获得了提升！！ 10
+
+func:notice13
+warning [ffdc00]表现不错，你们需要一点小游戏！！ 10
+
+func:notice14
+warning [ffdc00]蓝色光芒为奇数，红色光芒为偶数，简单的数字游戏！18|蓝色光芒为奇数，红色光芒为偶数，简单的数字游戏！17|蓝色光芒为奇数，红色光芒为偶数，简单的数字游戏！16|蓝色光芒为奇数，红色光芒为偶数，简单的数字游戏！15|蓝色光芒为奇数，红色光芒为偶数，简单的数字游戏！14|蓝色光芒为奇数，红色光芒为偶数，简单的数字游戏！13|蓝色光芒为奇数，红色光芒为偶数，简单的数字游戏！12|蓝色光芒为奇数，红色光芒为偶数，简单的数字游戏！11|蓝色光芒为奇数，红色光芒为偶数，简单的数字游戏！10|蓝色光芒为奇数，红色光芒为偶数，简单的数字游戏！9|蓝色光芒为奇数，红色光芒为偶数，简单的数字游戏！8|蓝色光芒为奇数，红色光芒为偶数，简单的数字游戏！7|蓝色光芒为奇数，红色光芒为偶数，简单的数字游戏！6|蓝色光芒为奇数，红色光芒为偶数，简单的数字游戏！5|蓝色光芒为奇数，红色光芒为偶数，简单的数字游戏！4|蓝色光芒为奇数，红色光芒为偶数，简单的数字游戏！3|蓝色光芒为奇数，红色光芒为偶数，简单的数字游戏！2|蓝色光芒为奇数，红色光芒为偶数，简单的数字游戏！1|蓝色光芒为奇数，红色光芒为偶数，简单的数字游戏！0|你们数对了吗！！ 5
+
+func:notice14X
+npcpopspeek 3 3003 留意[00aeff]镰刀[-]的数量！ 10
+
+func:notice15
+warning [ffdc00]表现不错，你们的小游戏又来咯！！ 10
+
+func:b1
+bubble 243645 [ffebad]我的独眼可丝毫不影响献祭的威力！！ 15
+
+func:b2
+bubble 243646 [ffebad]完美的献祭还是需要像我一样完美的外形！！ 15
+
+func:b3
+bubble 243647 [ffebad]我的独眼可丝毫不影响献祭的威力！！ 15
+
+func:b4
+bubble 243648 [ffebad]完美的献祭还是需要像我一样完美的外形！！ 15
+
+func:darkworld
+justfx 25
+
+func:aicommand1
+aicommand -1 killer 263640
+
+func:aicommand2
+aicommand -1 hunter 263640
+
+func:aicommand3
+aicommand -1 firewave 263640
+
+func:aicommand4
+aicommand -1 room 263640
+
+func:aicommand5
+aicommand -1 callhunter 263640
+
+func:aicommand6
+aicommand -1 allbomb 0
+
+func:aicommand7
+aicommand -1 calldashkill 0
+
+func:transferwall2
+opendoor BossWall2 on 87.43|0|85.97|30 88.3|0|96.91|180
+
+func:transferwall3
+opendoor BossWall3 on 87.43|0|85.97|30 78.09|0|35.69|-90
+
+func:transferwall4
+opendoor BossWall4 on 78.09|0|35.69|30 88.3|0|96.91|180
+
+func:CloseTransferWall2
+opendoor BossWall2
+
+func:CloseTransferWall3
+opendoor BossWall3
+
+func:CloseTransferWall4
+opendoor BossWall4
+
+func:removebuff1
+removebuff 243640 26821 1
+
+func:showcutscene
+showcutscene CutScene/cutscene_generalshow_bigguy 263640
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -31,7 +31,7 @@ def find_ab_filename(cab_name):
     return file_result
 
 def click_file(clickType="double", file_path="", center=False, duration=0, add_left=0, add_top=0):
-    # time.sleep(duration)
+    time.sleep(duration)
     left, top = find_file_position(file_path, center=center)
     pyautogui.moveTo(left+add_left, top+add_top, duration=0, tween=pyautogui.easeInOutQuad)
     if clickType == "single":
@@ -48,7 +48,7 @@ def find_file_position(file_path, center=False):
     # Get the coordinates of the file on the screen
     file_location = None
     grayscale = False
-    confidence = 0.8
+    confidence = 0.9
     
     max_attempts = 5
     for attempt in range(max_attempts):
@@ -148,12 +148,14 @@ for filename in os.listdir(folder):
 
     click_file(clickType="single", file_path="imagelocate/OK.png", center=True)
     pyautogui.press('enter')
+    pyautogui.press('enter')
 
     left, top = click_file(clickType="single", file_path="imagelocate/UABE.png", duration=0, add_left=-10, add_top=35)
     click_file(clickType="single", file_path="imagelocate/SAVE_AB.png", center=True)
 
     print(f"[SAVE] Saving new assetbundle {filename}\n\n")
-    click_file(clickType="single", file_path="imagelocate/RESULTS_AB.png", center=True)
+    time.sleep(0.2)
+    click_file(clickType="double", file_path="imagelocate/RESULTS_AB.png", center=True)
     pyautogui.press('tab')
     pyautogui.press('tab')
     pyautogui.press('tab')

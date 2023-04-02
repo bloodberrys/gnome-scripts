@@ -1,0 +1,130 @@
+
+func:opendoor1
+opendoor Blockwall1 on
+
+func:opendoor2
+opendoor Blockwall2 on
+
+func:opendoor3
+opendoor Blockwall3 on
+
+func:opendoor4
+opendoor Blockwall4 on
+
+func:opendoor5
+opendoor Blockwall5 on
+
+func:opendoor6
+opendoor Blockwall6 on
+
+func:opendoor7
+opendoor Blockwall7 on
+
+func:closedoor1
+opendoor Blockwall1 off
+
+func:closedoor2
+opendoor Blockwall2 off
+
+func:closedoor3
+opendoor Blockwall3 off
+
+func:closedoor4
+opendoor Blockwall4 off
+
+func:closedoor5
+opendoor Blockwall5 off
+
+func:closedoor6
+opendoor Blockwall6 off
+
+func:speak1
+npcpopspeek 1 43900 [ffb400]守护卡伊伦岛的仆从们...远古的意志需要你们的力量... 5
+
+func:speak2
+npcpopspeek 1 43900 [ffb400]在吾之领域内...汝等唯有死路一条... 5
+
+func:speak3
+npcpopspeek 1 43900 [ffb400]元素幻方..遵循吾之意志....摧毁入侵者... 5
+
+func:speak4
+npcpopspeek 1 43901 [ffb400]王之傀儡...无敌之力...汇聚吾身 5
+
+func:speak5
+npcpopspeek 1 43900 [ffb400]何人在觊觎吾之兵器... 5
+
+func:speak6
+npcpopspeek 3 3003 击碎[00aeff]遗迹人偶[-]来激活[00aeff]保护罩[-]！ 5
+
+func:speak7
+npcpopspeek 3 3003 [00aeff]米迪尔[-]消失了！继续寻找[00aeff]古代兵器[-]的踪迹！ 10
+
+func:speak8
+npcpopspeek 1 43901 [ffb400]四..方..杀..阵..准..备..完..成.. 5
+
+func:speak9
+npcpopspeek 3 3003 躲到[00aeff]石柱[-]周围的[00aeff]安全区域[-]躲避毒气伤害！ 7
+
+func:notice1
+warning [ffdc00]幻方的无敌之力消失了！ 5
+
+func:notice2
+warning [ffdc00]米迪尔即将释放远古能量脉冲！ 5
+
+func:notice3
+warning [ffdc00]四方杀阵开启！ 5
+
+func:notice4
+warning [ffdc00]米迪尔准备施放远古能量脉冲！ 5
+
+func:notice5
+warning [ffdc00]发现了新的遗迹人偶！ 5
+
+func:notice6
+warning [ffdc00]米迪尔准备激活毒气领域！ 5
+
+func:calldoll
+aicommand -1 calldoll 43900
+
+func:callcube
+aicommand -1 cube 43900
+
+func:killzone
+aicommand -1 killzone 43900
+
+func:killstart
+aicommand -1 killstart 43900
+
+func:superlazer
+aicommand -1 superlazer 43900
+
+func:finddoll
+aicommand -1 finddoll 43900
+
+func:poisonworld
+aicommand -1 poisonworld 43900
+
+func:randomtransfer1
+randomtransfer 61|2|83.5|180 61|2|83.5|180 61|2|83.5|180 61|2|83.5|180 61|2|83.5|180 61|2|83.5|180
+
+func:startcutscene
+showcutscene CutScene/Cutscene_forestdragon06_start
+
+
+
+
+
+
+
+
+
+
+
+
+
+info:Blockwall1 54.27575|4.395799|78.93829|99.99999 off 60 34.3958 0.2
+info:Blockwall2 71.32|3.3|59.51829|0 on 40 23.3 0.1
+info:Blockwall3 82.53575|6.07|64.61829|130 on 20 16.07 0.1
+info:Blockwall4 72.26874|7.588923|34.65093|0 on 20 17.58892 1
+info:Blockwall5 12.40575|14.7758|64.80829|110 on 30 29.7758 0.1
+info:Blockwall6 22.65575|17.8858|32.46828|180 on 40 27.8858 0.1

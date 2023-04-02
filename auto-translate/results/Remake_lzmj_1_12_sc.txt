@@ -1,0 +1,17 @@
+func:countdown
+After 3 seconds of warning, Pani Broca the Clockwork Bear appears! |2 seconds later, Pani Broca the Clockwork Bear will appear! |1 second later, Pani Broca the Clockwork Bear will appear! |Wind-up Bear Pani Broca Appears! The battle begins! 3
+
+func:npcpopspeek
+npcpopspeek 1 3003 [403831] Defeat Clockwork Bear Panibroca in [ff0000]120 seconds[-]! 5
+
+func:warning
+notice [ffdc00]Trigger special mechanism after 3 seconds|[ffdc00]Trigger special mechanism after 2 seconds|[ffdc00]Trigger special mechanism after 1 second|Special mechanism has been triggered 2
+
+func:open
+aicommand -1 open 87007
+
+func:BlockWallstart
+opendoor BlockWallstart on
+
+info:BlockWallstart 106.5158|36.4|37.35829|0 off 20 56.4 3
+info:BlockWallend 122.5557|36.4|21.40829|90 on 20 56.4 3

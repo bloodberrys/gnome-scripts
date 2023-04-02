@@ -1,8 +1,0 @@
-OrderId	SysEnum	SysID	TabName	TabIcon	LuaPerfabName	LuaUIPath	Level	OpenTime	EndTime	Tips1	Tips2	Tips3	Tips4
-显示顺序	系统枚举	系统id	标签名	图标	perfab的名字，填写了就认为是lua的脚本，c#的不要填写（在OperatingActivityLuaPath表中有备注文件，可供策划参考）	perfab的路径，填写了就认为是lua的脚本，c#的不要填写	等级	开放时间	结束时间	右上角tips	右下角tips	活动时间	兑换奖励界面tips
-1	XSys_ThemeActivity_ProChallenge	773	职业挑战	GiftBag18	CareerChallenges	UI/OperatingActivity/CareerChallenges							
-2	XSys_ThemeActivity_HellDog	771	方块迷阵	GiftBag18									
-3	XSys_ThemeActivity_MadDuck	772	幽灵蘑菇园	GiftBag19						通关获取绿蘑菇，兑换心仪奖励	门票每日邮件获得	4月5日5点至4月8日5点	活动结束将无法兑换奖励，请及时兑换
-4	XSys_ThemeActivity_MadDuck2	774	月饼钩钩乐	GiftBag19						通关月饼钩钩乐，赢超值奖励	门票在每日邮件获得	2019.9.13~2019.9.19	活动结束将无法兑换奖励，请及时兑换
-5	XSys_ThemeActivity_MadDuck3	775	疯鸭秘境	GiftBag19						通关获取疯鸭的宝箱，赢超值奖励	门票在每日邮件获得	3月18日5点至3月21日17点	活动结束将无法兑换奖励，请及时兑换
-6	XSys_ThemeActivity_MadDuck4	776	疯鸭围城	GiftBag19						通关获取派凌福袋，赢超值奖励	门票在钻石商城中获得	5月1日5点至5月9日17点	活动结束将无法兑换奖励，请及时兑换

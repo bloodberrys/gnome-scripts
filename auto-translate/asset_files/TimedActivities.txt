@@ -1,4 +1,0 @@
-OrderId	SysEnum	SysID	TabName	TabIcon	BgPath	ShowTime
-显示顺序	系统枚举	系统id	标签名	图标	背景图路径	展示时间
-0	Xsys_RechargeActitity	481	波普大人的密室	GiftBag19	atlas\UI\common\Pic\TimedReward_Bg3	活动时间：2月28日5:00-3月3日5:00
-1	Xsys_ConsumeAcivity	482	夏萝莉的赠礼	GiftBag19	atlas\UI\common\Pic\TimedReward_Bg1	活动时间：3月22日5:00-3月28日17:00

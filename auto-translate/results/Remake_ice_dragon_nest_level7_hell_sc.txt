@@ -1,0 +1,797 @@
+func:L1speak1
+npcpopspeek 3 3003 [ffb400] Snow bear reinforcements [-] come to support, please kill in time [ff2f78] 8
+
+func:L1speak2
+npcpopspeek 3 3003 The brown bear triggered a [de3872] flame storm [-], looking for a suitable point [60d03b] to avoid!! 10
+
+func:L1speak3
+npcpopspeek 3 3003 The brown bear is ready to release [60d03b] poison gas [-], please use [ff2f78] anti-poison fruit [-] to resist 7
+
+func:L1speak4
+warning [ff2f78] will only take effect if anti-poison fruit is used during [60d03b] Poison Storm[-] 6
+
+func:L1aicommand
+aicommand -1 L1zhaohuan 273502
+
+func:L1aicommand1
+aicommand -1 L1paofeng 273502
+
+func:L1aicommand2
+aicommand -1 L1duqi 273502
+
+func:L1showcutscene
+showcutscene CutScene/cutscene_binlong1_remake 103.25 50 103.72 -85
+
+func:L1speak5
+npcpopspeek 1 263507 Don't touch my crystal, it contains my hard-earned loot!! 6
+
+func:L1speak6
+notice Breaking [2a8eff] crystals [-] has a chance to drop [ffb400] anti-poison fruit, [-] can be used to resist [60d03b] poisonous gas storm released by brown bears 10
+
+func:L1changefire1
+opendoor L1Cj_fel_fire_icedragon1 on
+
+func:L1changefire2
+opendoor L1hongshuijing on
+
+func:L1changefire3
+opendoor L1lanshujing
+
+func:L1aicommand3
+aicommand -1 L1change 273502
+
+func:L1speak8
+npcpopspeek 1 263507 [ffb400] The power of the ancient blood [-], release the [de3872] fire of hell in the body! 8
+
+func:L1changefire
+SwitchBossSkin Prefabs\Monster_grizzly\Monster_grizzly_Remake_icedragon
+
+func:L1speak9
+npcpopspeek 3 3003 Snow Bear Reinforcement Approaching Brown Bear [ff2f78] HP[-] and [ff2f78] ATK[-] have been boosted! 6
+
+func:L1speak10
+npcpopspeek 3 3003 Can smash [2a8eff] crystals in advance [-] get [ffb400] anti-poison fruit [-] resist [60d03b] poisonous gas 7
+
+func:L1warning1
+warning After 5 seconds, the brown bear releases a gas storm|4 seconds later, the brown bear releases a gas storm|3 seconds later, the brown bear releases a gas storm|2 seconds later, the brown bear releases a gas storm|1 second later, the brown bear releases a gas storm|The brown bear releases a gas storm ! ! 7
+
+func:L1closedoor
+opendoor L1Blockwall on
+
+func:L1closedoor2
+opendoor L1 Blockwall1
+
+func:L1opendoor2
+opendoor L1Blockwall1 off
+
+func:L1changefire1off
+opendoor L1Cj_fel_fire_icedragon1 off
+
+func:L1changefire3off
+opendoor L1lanshujing off
+
+func:L2notice1
+notice Go ahead and break through the Ice Queen's Magic Mirror Igloo!
+
+func:L2notice2
+warning Hahahaha~ Would you like to appreciate the beauty in the magic mirror? 4
+
+func:L2notice2X
+npcpopspeek 3 3003 Please [00aeff] avoid the [00aeff] ghost hand[-] that appears in the [-] mirror! 10
+
+func:L2notice3
+warning [ffdc00] The adventurers were caught by the mirror, and all of them entered the illusion of the magic mirror! 10
+
+func:L2notice3X
+npcpopspeek 3 3003 [00aeff] Dodge [-] phantom attack, timely [00aeff] rescue [-] frozen [00aeff] teammate [-]! 10
+
+func:L2notice4
+warning After 14 seconds, Sudnis will detonate the magic mirror ice crystal! |In 13 seconds, Sadness will detonate the magic mirror ice crystal! |In 12 seconds, Sudnis will detonate the magic mirror ice crystal! |In 11 seconds, Sudnis will detonate the magic mirror ice crystal! |In 10 seconds, Sudnis will detonate the magic mirror ice crystal! |9 seconds later, Sudnis will detonate the magic mirror ice crystal! |8 seconds later, Sadness will detonate the magic mirror ice crystal! |Sadnis will detonate the magic mirror ice in 7 secondscrystal! |6 seconds later, Sadness will detonate the magic mirror ice crystal! |5 seconds later, Sadness will detonate the magic mirror ice crystal! |In 4 seconds, Sadness will detonate the magic mirror ice crystal! |After 3 seconds, Sudnis will detonate the magic mirror ice crystal! |2 seconds later, Sadness will detonate the magic mirror ice crystal! |In 1 second, Sadness will detonate the magic mirror ice crystal! |Sadnis released the power of the magic mirror ice crystal! 5
+
+func:L2notice5
+notice [ffdc00] Terminated the magic mirror ice crystal power! 6
+
+func:L2notice6
+warning [ffdc00] Don't get close to me, don't even think about ruining my beauty! 10
+
+func:L2notice7
+warning [ffdc00] Mystery: Magic Mirror Ice Crystal, enjoy this wonderful feast of ice and snow! 10
+
+func:L2notice7X
+npcpopspeek 3 3003 Kill [00aeff] mirror clone[-] hiding in front of [00aeff] magic mirror[-]! 10
+
+func:L2notice8
+npcpopspeek 1 273513 [403831] Magic mirror, magic mirror, come out, tell me who here is...the most beautiful...? 10
+
+func:L2notice9
+warning Meet my Ice Dance! 5
+
+func:L2bubble01
+bubble 243515 Are you trying to catch me? 6
+
+func:L2bubble02
+bubble 243515 Let's play a game! 6
+
+func:L2bubble03
+bubble 243515 My magic mirror is not easy to see through~ 6
+
+func:L2bubble11
+bubble 243517 Are you trying to catch me? 6
+
+func:L2bubble12
+bubble 243517 Let's play a game! 6
+
+func:L2bubble13
+bubble 243517 My magic mirror is not easy to see through~ 6
+
+func:L2npcpopspeak1
+npcpopspeek 1 273513 [403831] Welcome to my magic mirror, it's finally lively here! 10
+
+func:L2aicommand1
+aicommand -1 L2initialize 0
+
+func:L2aicommand2
+aicommand -1 L2iceburst 273513
+
+func:L2aicommand3
+aicommand -1 L2icewinddance 273513
+
+func:L2aicommand4
+aicommand -1 L2mirrorphantom 273513
+
+func:L2aicommand5
+aicommand -1 L2forstwind 273513
+
+func:L2aicommand6
+aicommand -1 L2mirrorball 273513
+
+func:L2aicommand7
+aicommand -1 L2icewinddance 273513
+
+func:L2BlockWallstarton
+opendoor L2BlockWallstart on
+
+func:L2BlockWallendoff
+opendoor L2BlockWallend off
+
+func:L2BossWall1off
+opendoor L2BossWall1 off
+
+func:L2BossWall1on
+opendoor L2BossWall1 on
+
+func:L2BossWall2off
+opendoor L2BossWall2 off
+
+func:L2BossWall2on
+opendoor L2BossWall2 on
+
+func:L2killwave6
+killwave 106
+
+func:L2killwave8
+killwave 108
+
+func:L2killwave1345
+killwave 101
+killwave 103
+killwave 104
+killwave 105
+
+func:L2showcutscene
+showcutscene CutScene/cutscene_general show_bigguy 106.57 36 27.06 180
+
+func:L2transferwallgo
+randomtransfer 57.55|20.1|141.93|0 54.24|20.1|142.94|110 57.51|20.1|145.57|180 61.03|20.1|142.94|-110 59.64|20.1|139.07|-30 55.18|1|30.03|
+
+func:L2transferwallback
+opendoor L2TransferWall1 on 57.4|20.1|141.57|15 106.57|36|27.06|180
+
+func:L3CutScene
+showcutscene CutScene/cutscene_general show_bigguy 17020.04 58.47 0
+
+func:L3CloseBlockwall1
+opendoor L3Blockwall1 on
+
+func:L3OpenBlockwall2
+opendoor L3Blockwall2 off
+
+func:L3BossWalloff
+opendoor L3BossWall off
+
+func:L3BossWallon
+opendoor L3BossWall on
+
+func:L3KillWave4
+killwave 204
+
+func:L3KillWave23
+killwave 202
+killwave 203
+
+func:L3AddBuff26673
+addbuff 263530 26673 1
+
+func:L3AddBuff26672
+addbuff 263530 26672 1
+
+func:L3Calamery BigSkill
+aicommand -1 L3Calamery BigSkill 0
+
+func:L3CalamarySkillFail
+aicommand -1 L3CalamarySkillFail 0
+
+func:L3EnterSecoundLevel
+aicommand -1 L3EnterSecoundLevel 0
+
+func:L3ToSecoundLevel
+aicommand -1 L3ToSecoundLevel 0
+
+func:L3CallSlapTheGround
+aicommand -1 L3CallSlapTheGround 0
+
+func:L3ApocalypseCallTentacle
+aicommand -1 L3ApocalypseCallTentacle 0
+
+func:L3ApocalypseJointTentacle
+aicommand -1 L3ApocalypseJointTentacle 0
+
+func:L3FlashBullet
+aicommand -1 L3FlashBullet 0
+
+func:L3notice1
+npcpopspeek 3 3003 Kill all [D61212] tentacles[-] in 20 seconds! 10
+
+func:L3notice2
+warning Dark Rank is about to use "tentacles" to absorb the power of the waterway, stop it quickly! 5
+
+func:L3notice3
+notice kill tentacle 1/4 5
+
+func:L3notice4
+notice kill tentacle 2/4 5
+
+func:L3notice5
+notice kill tentacle 3/4 5
+
+func:L3notice6
+notice kill tentacle 4/4 5
+
+func:L3notice7
+warning Dark Rank is about to create a storm in the sky, get under it for shelter 10
+
+func:L3notice8
+warning Beware of the Dark Ball! 5
+
+func:L3notice9
+warning Dark Rank is about to go berserk! 5
+
+func:L3notice10
+npcpopspeek 1 243531 Bring you guys! Kill them all! 10
+
+func:L3notice11
+npcpopspeek 1 243530 I'm mad! You are screwed! 10
+
+func:L3notice12
+notice The waterway under the mountain is the only way to find the ice dragon, so we have to hurry up. 10
+
+func:L3notice13
+npcpopspeek 1 243530 Humans! Here is mine! Intruders can only become food! 6
+
+func:L3notice14
+warning Beware of Reverse Dark Breath! 6
+
+func:L3notice15
+warning Get out of the area about to be polluted by Darkrank! 7
+
+func:L3notice16
+npcpopspeek 3 3003 Go to the [60d03b] green safe zone [-] to avoid the final breath! 7
+
+func:L3timeNotice1
+warning There are still 20 seconds left before the energy absorption is completed! | There are still 19 seconds until the energy absorption is completed! | There are still 18 seconds until the energy absorption is completed! | There are still 17 seconds until the energy absorption is completed! | There are still 16 seconds until the energy absorption is completed! | There are still 15 seconds until the energy absorption is completed! | There are still 14 seconds until the energy absorption is completed! | There are still 13 seconds until the energy absorption is completed! | There are still 12 seconds until the energy absorption is completed! | There are still 11 seconds until the energy absorption is completed! | There are still 10 seconds until the energy absorption is completed! | There are still 9 seconds until the energy absorption is completed! | There are still 8 seconds until the energy absorption is completed! | There are still 7 seconds until the energy absorption is completed! | There are still 6 seconds until the energy absorption is completed! | There are still 5 seconds until the energy absorption is completed! | There are still 4 seconds until the energy absorption is completed! | There are still 3 seconds until the energy absorption is completed! | There are still 2 seconds until the energy absorption is completed! |There is still one second before the energy absorption is completed! |Energy absorption complete! 5
+
+func:L3timeNotice2
+warning Energy drain blocked! 5
+
+func:L4speak1notice
+warning [ffdc00] Gustos drilled into the ground to release an extremely cold storm, attacking its worm tail can interrupt its release!|[ffdc00] Gustos drilled into the ground to release an extremely cold storm, attacking its worm tail can interrupt its release Release!|[ffdc00] Gustos drilled into the ground to release the extremely cold storm, attacking its worm tail can interrupt its release!|[ffdc00]After 15 seconds, Gustos released the extremely cold storm|[ffdc00]14 Seconds later, Gustos releases the extreme cold storm|[ffdc00]13 seconds later, Gustos releases the extreme cold storm|[ffdc00]12 seconds later, Gustos releases the extreme cold storm|[ffdc00]11 seconds later , Gustos released the extreme cold storm|[ffdc00]10 seconds later, Gustos released the extreme cold storm|[ffdc00]9 seconds later, Gustos released the extreme cold storm|[ffdc00]8 seconds later, the ancient Storth releases the extreme cold storm|[ffdc00] After 7 seconds, Gustos releases the extreme cold storm|[ffdc00] After 6 seconds, Gustos releases the extreme cold storm|[ffdc00] After 5 seconds, Gusto [ffdc00] After 4 seconds, Gustos releases the extremely cold storm | [ffdc00] After 3 seconds, Gustos releases the extremely cold storm | [ffdc00] After 2 seconds, Gustos releases Extreme Cold Storm|[ffdc00] After 1 second, Gustos releases Extreme Cold Storm|[ffdc00] Gustos releases Extreme Cold Storm! 4
+
+func:L4speak1
+npcpopspeek 3 3003 Watch out for the fake worm tails that pop out, need to kill 2 [ff2f78]unattackable[-] wormtails! 7
+
+func:L4speak4
+notice The wormtail of Gustos was successfully identified, and the extreme cold storm was interrupted! 8
+
+func:L4speak5
+bubble 273581 Haha! Killing someone else's tail can only get a "gift" of ice! 8
+
+func:L4icestormnotice
+warning [ffdc00] Disappear in the beautiful icy rain, little bugs! 8
+
+func:L4icebombnotice
+warning [ffdc00] Gustus unleashes bomb hell! Break the bomb and escape! 10
+
+func:L4icebombnotice2
+npcpopspeek 3 3003 please [de3872] crush [-] bomb reach [2779d6] safe area 10
+
+func:L4speak7
+notice Gustos sneaked into the extremely cold cave and continued to pursue! 8
+
+func:L4speak8
+warning Gustos caused a huge earthquake in the cave, be careful of the rolling ice ball! 7
+
+func:L4speak9
+npcpopspeek 3 3003 Frostwind Gustos has drawn [2a8eff] cold wind[-], dodge carefully! 6
+
+func:L4aicommand
+aicommand -1 L4tail 0
+
+func:L4aicommand3
+aicommand -1 L4bingqiu 0
+
+func:L4aicommand4
+aicommand -1 L4tuxi 0
+
+func:L4aicommand5
+aicommand -1 L4zuandi 0
+
+func:L4zuandistart
+aicommand -1 L4zuandistart 0
+
+func:L4zuandiloop
+aicommand -1 L4zuandiloop 0
+
+func:L4aicommand6
+aicommand -1 L4zuandip2 0
+
+func:L4aicommand7
+aicommand -1 L4xuanfeng 0
+
+func:L4icestorm
+aicommand -1 L4icestorm 0
+
+func:L4icebomb
+aicommand -1 L4icebomb 0
+
+func:L4showcutscene
+showcutscene CutScene/cutscene_general show_superbigguy 171.11 25.05 27.11 -156.63
+
+func:L4TransferWall1
+opendoor L4TransferWall1 on 167.80|25.08|20.67|3 31.51|18.0|117.49|-171.19
+
+func:L4closedoor
+opendoor L4Blockwall on
+
+func:L4closedoor1
+opendoor L4Blockwall1
+
+func:L4closedoor10
+opendoor L4Blockwall10
+
+func:L4closedoor11
+opendoor L4Blockwall11
+
+func:L4closedoor12
+opendoor L4Blockwall12
+
+func:L4closedoor13
+opendoor L4Blockwall13
+
+func:L4closedoor14
+opendoor L4Blockwall14
+
+func:L4closedoor15
+opendoor L4Blockwall15
+
+func:L4closedoor20
+opendoor L4Blockwall20 on
+
+func:L4closedoor21
+opendoor L4Blockwall21 on
+
+func:L4closedoor22
+opendoor L4Blockwall22 on
+
+func:L4opendoor20
+opendoor L4Blockwall20 off
+
+func:L4opendoor21
+opendoor L4Blockwall21 off
+
+func:L4opendoor22
+opendoor L4Blockwall22 off
+
+func:L4opendoor1
+opendoor L4Blockwall1 off
+
+func:L4BossWalloff
+opendoor L4BossWall off
+
+func:L4BossWallon
+opendoor L4BossWall on
+
+func:L5notice1
+warning [ffdc00] The current will break out in 3 seconds! Find a safe area quickly! |[ffdc00] The current erupts after 2 seconds! Find a safe area quickly! |[ffdc00] The current erupts in 1 second! Find a safe area quickly! |[ffdc00] Current explosion! 5
+
+func:L5notice2
+warning Balappa is trying to drain power from the guards and will detonate in 15 seconds! |Balapa tries to drain energy from the guards, and is about to detonate in 14 seconds! |Balapa tries to drain energy from the guards, and is about to detonate in 13 seconds! |Barapa is trying to drain energy from the guards, and will detonate in 12 seconds! |Barapa tries to drain energy from the guards, and is about to detonate in 11 seconds! |Barapa is trying to drain power from the guards and is about to detonate in 10 seconds! |Barapa tries to drain energy from the guards, and is about to detonate in 9 seconds! |Barapa is trying to drain energy from the guards and will detonate in 8 seconds! |Barapa is trying to drain energy from the guards and is about to detonate in 7 seconds! |Barapa is trying to drain energy from the guards and is about to detonate in 6 seconds! |Barapa is trying to drain energy from the guards and is about to detonate in 5 seconds! |Barapa is trying to drain energy from the guards and is about to detonate in 4 seconds! |Barapa is trying to drain energy from the guards and is about to detonate in 3 seconds! |Barapa is trying to drain energy from the guards and is about to detonate in 2 seconds! |Balapa tries to drain energy from the guards, and will detonate in 1 second! |Successful charging! Balappa detonated the energy! 4
+
+func:L5notice2X
+npcpopspeek 3 3003 Immediately [00aeff]clear[-][00aeff]guards[-] from all sides of the arena! 10
+
+func:L5notice3
+warning [ffdc00] The guard sacrifices himself to restore health to Balappa! 10
+
+func:L5notice4
+warning Balappa will trigger a full-screen lightning after 14 seconds! |Balapa will trigger a full-screen lightning in 13 seconds! |Balapa will trigger a full-screen lightning in 12 seconds! |11 seconds later, Balappa will trigger a full-screen lightning! |Balapa will trigger a full-screen lightning in 10 seconds! |Balapa will trigger a full-screen lightning in 9 seconds! |Balapa will trigger a full-screen lightning in 8 seconds! |Barapa will trigger a full-screen lightning in 7 seconds! |Balapa will trigger a full-screen lightning in 6 seconds! |Barapa will trigger a full-screen lightning in 5 seconds! |Balapa will trigger a full-screen lightning in 4 seconds! |Balapa will trigger a full-screen lightning in 3 seconds! |Balapa will trigger a full-screen lightning in 2 seconds! |Balapa will trigger a full-screen lightning in 1 second! |Barapa unleashes a lightning storm! 5
+
+func:L5notice5
+warning [ffdc00] Let's taste the bloody taste of the killing ring! 10
+
+func:L5notice5X
+npcpopspeek 3 3003 The [00aeff] teleportation array [-] in the four directions of the battlefield has been activated! 10
+
+func:L5notice6
+warning [ffdc00] The arena has begun to change, and Balappa is even stronger! 10
+
+func:L5notice7
+warning [ffdc00] Trembling in the corner of the ring! You can't beat me! 10
+
+func:L5notice7X
+npcpopspeek 3 3003 Pass the [00aeff] Teleportation Array[-] to get close to Balappa, break the [00aeff]protective shield[-]! 10
+
+func:L5notice8
+warning [ffdc00] Balappa is enraged, the ring is shrinking! 10
+
+func:L5notice9
+notice Successfully blocked fullscreen lightning! 5
+
+func:L5notice10
+notice Successfully defeated all guards! 5
+
+func:L5npcpopspeak1
+npcpopspeek 1 273562 [403831] Bunch of cowards! Fight to the death with me! 10
+
+func:L5aicommand1
+aicommand -1 L5initialize 0
+
+func:L5aicommand2
+aicommand -1 L5overload 273562
+
+func:L5aicommand3
+aicommand -1 L5spinning 273562
+
+func:L5aicommand4
+aicommand -1 L5changephase 273562
+
+func:L5aicommand5
+aicommand -1 L5furychange 273562
+
+func:L5aicommand6
+aicommand -1 L5elestorm 273562
+
+func:L5aicommand7
+aicommand -1 L5chargepunch 273562
+
+func:L5transferwall1
+opendoor L5TransferWall1 on 16.35|18.1|169.91|1.5 31.3|18.1|157.39|0|2
+
+func:L5transferwall2
+opendoor L5TransferWall2 on 31.33|18.1|183.99|1.5 19.13|18.1|169.43|90|2
+
+func:L5transferwall3
+opendoor L5TransferWall3 on 45.92|18.1|169.84|1.5 31.3|18.1|181.5|180|2
+
+func:L5transferwall4
+opendoor L5TransferWall4 on 31.33|18.1|155.1|1.5 43.44|18.1|169.43|-90|2
+
+func:L5transferwall1end
+opendoor L5TransferWall1 off
+
+func:L5transferwall2end
+opendoor L5TransferWall2 off
+
+func:L5transferwall3end
+opendoor L5TransferWall3 off
+
+func:L5transferwall4end
+opendoor L5TransferWall4 off
+
+func:L5BlockWallstarton
+opendoor L5BlockWallstart on
+
+func:L5BlockWallendoff
+opendoor L5BlockWallend off
+
+func:L5BossWall1off
+opendoor L5BossWall1 off
+
+func:L5BossWall1on
+opendoor L5BossWall1 on
+
+func:L5BossWall2off
+opendoor L5BossWall2 off
+
+func:L5BossWall2on
+opendoor L5BossWall2 on
+
+func:L5killwave6
+killwave 506
+
+func:L5killwave8
+killwave 508
+
+func:L5killwave1345
+killwave 501
+killwave 503
+killwave 504
+killwave 505
+
+func:L5showcutscene
+showcutscene CutScene/cutscene_general show_bigguy 31.25 18.7 163 0
+
+func:L6notice1
+npcpopspeek 1 111398 [ffb400] Let this snowstorm condense into this ice spear... 7
+
+func:L6notice2
+warning [ffdc00] Furnace starts spinning, melting ice gun 5
+
+func:L6notice3
+warning [ffdc00] The stove will go out! Charge it with a fire attribute attack! 5
+
+func:L6notice4
+npcpopspeek 3 3003 [ffdc00] Convergence [afc1f4] Frost crystal [-]! Channel [ffb400] Iber[-]'s attack to destroy! 7
+
+func:L6notice6
+warning [ffdc00] Guy and Ibel are living in the ice field ahead! go ahead! 7
+
+func:L6notice8
+warning [ffdc00] The stove is reborn, protect it! 10
+
+func:L6notice9
+warning [ffdc00]Guy has summoned a wall of twisted ice! 5
+
+func:L6notice10
+npcpopspeek 1 111398 [ffb400] Guy.. the walls of ice crystals you built will never die.. will help me end the lives of these outsiders.. 7
+
+func:L6notice11
+warning [ffdc00] The strong frost breath has destroyed the Eternal Furnace! 5
+
+func:L6notice12
+warning [ffdc00] snow...it's getting bigger... 7
+
+func:L6notice13
+warning [ffdc00] Frostwind Gustos' ice gem has been discovered! The water attribute defense of the whole team is increased! 7
+
+func:L6speak1
+npcpopspeek 2 111377 [ffb400] You... stay here forever! 5
+
+func:L6speak2npcpopspeek 1 111398 [ffb400] Winter has come.. the past.. there is no turning back.. 5
+
+func:L6speak3
+npcpopspeek 2 111398 [ffb400] Guy's pain... I want you to feel it too..!! 5
+
+func:L6speak4
+npcpopspeek 3 3003 [ffb400] The flames of the Eternal Furnace[-] can dispel the [afc1f4]cold[-] from the adventurer! 10
+
+func:L6speak5
+npcpopspeek 3 3003 [ffdc00] Avoid snowballs and move forward! The high platform at the end of the ramp can avoid snowball attacks! 5
+
+func:L6speak6
+npcpopspeek 2 111377 [ffb400] Outsiders.. prepare for extreme cold.... 4
+
+func:L6speak7
+npcpopspeek 1 111377 [ffb400] y..... ybel... 4
+
+func:L6speak8
+npcpopspeek 1 111398 [ffb400]You...will be with Guy...into an eternal flower of ice and snow... 5
+
+func:L6warning1
+warning After 10 seconds, Guy carried out a devastating strike on the ground! |9 seconds later, Guy carried out a devastating strike on the ground! |8 seconds later, Guy carried out a devastating strike on the ground! |7 seconds later, Guy carried out a devastating strike on the ground! |6 seconds later, Guy carried out a devastating strike on the ground! |5 seconds later, Guy carried out a devastating strike on the ground! |4 seconds later, Guy carried out a devastating strike on the ground! |3 seconds later, Guy carried out a devastating strike on the ground! |2 seconds later, Guy carried out a devastating strike on the ground! |1 second later, Guy carried out a devastating strike on the ground! | Guy wreaks havoc on the ground!
+
+func:L6warning2
+After 10 seconds of warning, Ibel carried out a devastating strike on the ground! |9 seconds later, Ibel carried out a devastating strike on the ground! |8 seconds later, Ibel carried out a devastating strike on the ground! |7 seconds later, Ibel carried out a devastating strike on the ground! |6 seconds later, Ibel carried out a devastating strike on the ground! |5 seconds later, Ibel carried out a devastating strike on the ground! |4 seconds later, Ibel carried out a devastating strike on the ground! |After 3 seconds, Ibel carried out a devastating strike on the ground! |After 2 seconds, Ibel carried out a devastating strike on the ground! |After 1 second, Ibel carried out a devastating strike on the ground! | Ibel's devastating blow to the ground!
+
+func:L6warning3
+After 15 seconds of warning, Ibel uses the arctic dash! |14 seconds later, Ibel uses the arctic sprint! |13 seconds later, Ibel uses the arctic sprint! |12 seconds later, Ibel uses the arctic sprint! |11 seconds later, Ibel uses the arctic sprint! |10 seconds later, Ibel uses the arctic sprint! |9 seconds later, Ibel uses the arctic sprint! |8 seconds later, Ibel uses the arctic sprint! |7 seconds later, Ibel uses the arctic sprint! |6 seconds later, Ibel uses the arctic sprint! |5 seconds later, Ibel uses the arctic sprint! |4 seconds later, Ibel uses the arctic sprint! |3 seconds later, Ibel uses the arctic sprint! |2 seconds later, Ibel uses the arctic sprint! |1 second later, Ibel uses the arctic dash! |Ibel uses the arctic sprint!
+
+func:L6iceroadOperationSettings
+npcpopspeek 5 3003 41|1950 8
+
+func:L6iceroadoffOperationSettings
+npcpopspeek 5 3003 41|1948 8
+
+func:L6icewallOperationSettings
+npcpopspeek 5 3003 41|1951 8
+
+func:L6aicommand1
+aicommand 43576 icebreath
+
+func:L6aicommand2
+aicommand 43578 icebreath
+
+func:L6aicommand3
+aicommand -1 L6howl 43579
+
+func:L6aicommand4
+aicommand 43579 quickdash
+
+func:L6aicommand5
+aicommand -1 L6curse 243576
+
+func:L6aicommand6
+aicommand -1 L6deepbreath 243576
+
+func:L6aicommand7
+aicommand -1 L6breathbar 0
+
+func:L6aicommand8
+aicommand -1 L6dashcombo 243576
+
+func:L6aicommand9
+aicommand -1 L6icespear 263578
+
+func:L6aicommand10
+aicommand -1 L6headhammer 243576
+
+func:L6aicommand11
+aicommand 243576 resethared
+
+func:L6aicommand12
+aicommand -1 L6curseice 243576
+
+func:L6aicommand13
+aicommand -1 L6callicewalleasy 243576
+
+func:L6aicommand14
+aicommand -1 L6iceroad 243576
+
+func:L6aicommand15
+aicommand -1 L6destorycrystal 263578
+
+func:L6aicommand16
+aicommand -1 L6snow1 243576
+
+func:L6aicommand17
+aicommand -1 L6crystalboom 263578
+
+func:L6aicommand18
+aicommand -1 L6callicewallhard 263578
+
+func:L6aicommand19
+aicommand -1 L6 super deep breath 263578
+
+func:L6randomskill1
+aicommand 243576 randomskill
+
+func:L6opendoor1
+opendoor L6Blockwall_06 on
+
+func:L6closedoor1
+opendoor L6Blockwall_06 off
+
+func:L6opendoor2
+opendoor L6Blockwall_062 on
+
+func:L6BossWalloff
+opendoor L6BossWall off
+
+func:L6BossWallon
+opendoor L6BossWall on
+
+func:L6startcutscene
+showcutscene CutScene/Cutscene_icedragon06_start_remake
+
+func:L6middlecutscene
+showcutscene CutScene/Cutscene_icedragon06_P2_remake
+
+func:L6endcutscene
+showcutscene CutScene/icedragon_dead_cutscene
+
+func:L6randomtransfer1
+randomtransfer 183|15|181|180 183|15|181|180 183|15|181|180 183|15|181|180 183|15|181|180 183|15|181|180
+
+func:L6randomtransfer2
+randomtransfer 120|18.6|180|180 120|18.6|180|180 120|18.6|180|180 120|18.6|180|180 120|18.6|180|180 120|18.6|180|180
+
+func:L6randomtransfer3
+randomtransfer 45|13.5|31.5|0 45|13.5|31.5|0 45|13.5|31.5|0 45|13.5|31.5|0 45|13.5|31.5|0 45|13.5|31.5|0
+
+func:L6randomtransfer4
+randomtransfer 105|18|167.5|90 105|18|167.5|90 105|18|167.5|90 105|18|167.5|90 105|18|167.5|90 105|18|167.5|90
+
+func:L7notice1
+npcpopspeek 1 263589 Adventurers who are about to step into this land bearing the memories of ice dragons, let's move forward with these memories. 15
+
+func:L7notice2
+npcpopspeek 1 263589 Here, once my hometown, is where I met that special Childe. 15
+
+func:L7notice3
+npcpopspeek 1 263589 Guy...he...strong, cold, and soft. It once brought me the throbbing and scars. 15
+
+func:L7notice4
+npcpopspeek 1 263589 Guy...he's an anomaly everywhere, no home, no real place to live. 15
+
+func:L7notice5
+npcpopspeek 1 263589 Born special, cursed him forever. 15
+
+func:L7notice6
+npcpopspeek 1 263589 The encounter with me, which he thought was the end of a tiring journey, turned out to be the prologue to the next tragedy. 15
+
+func:L7notice7
+npcpopspeek 1 263589 These mountains and ruins are the only remaining dwellings for me and Guy. 15
+
+func:L7notice8
+npcpopspeek 1 263589 Failure to save me as a human is the knot that still haunts him. 15
+
+func:L7notice9
+npcpopspeek 1 263589 Resurrected as Childe...maybe the last redemption for Guy's soul. 15
+
+func:L7notice10
+npcpopspeek 1 263589 If we had never met, would you have reached the end of happiness? Guy. 15
+
+func:L7notice11
+npcpopspeek 1 263589 The ice dragon has come to his end since I, the human, died. 15
+
+func:L7notice12
+npcpopspeek 1 111398 Guy, this particular Child, plays house here for his own share of boredom. 15
+
+func:L7notice13
+npcpopspeek 1 111398 I'll treat you well after you send him on his way! 15
+
+func:L7notice14
+npcpopspeek 1 111398 Guy really picked a good place. 15
+
+func:L7notice15
+npcpopspeek 1 111398 Come on over, that guy is right up ahead. 15
+
+func:L7notice16
+npcpopspeek 1 111398 When I gradually recall your feelings, you are gone, we always pass each other, Guy... 15
+
+func:L7_1direction_arrowheadOn
+opendoor L7_1direction_arrowhead on
+
+func:L7Killall
+killallspawn
+
+func:L1Camera
+npcpopspeek 5 3003 41|1947 8
+
+func:L2Camera
+npcpopspeek 5 3003 45|1947 8
+
+func:L3Camera
+npcpopspeek 5 3003 46|1948 8
+
+func:L4Camera
+npcpopspeek 5 3003 41|1948 8
+
+func:L5Camera
+npcpopspeek 5 3003 48|1949 8
+
+func:L6Camera
+npcpopspeek 5 3003 41|1948 8
+
+info:changtai_huo 16.61944|39.11|32.87249|0 off
+info:qiu_huo -5.480003|36.41|31.96|0 off
+info:L1Blockwall 108.0194|50.98191|104.2625|82.62816 off 50 75.98191 0.1
+info:L1Blockwall1 95.95944|51.57191|88.43251|172.4827 on 20 61.57191 0.1
+info:L2BlockWallstart 106.5158|36.4|37.35829|0 off 20 56.4 3
+info:L2BlockWallend 122.5557|36.4|21.40829|90 on 20 56.4 3
+info:L3Blockwall1 146.4158|19.99939|73.03828|66.9 off 50 44.99939 3
+info:L3Blockwall2 180.1558|19.99939|55.90829|336.9 on 50 44.99939 3
+info:L4Blockwall 172.0858|25.2358|28.09828|31.21707 off 50 50.2358 0.1
+info:L4Blockwall1 31.49575|19.19702|125.6883|359.9793 on 50 44.19702 0.1
+info:L4Blockwall10 167.8|25.00155|23.87999|0 on 4 35.00155 0.1
+info:L4Blockwall11 167.87|25.00155|17.02|0 on 4 35.00155 0.1
+info:L4Blockwall12 170.76|25.00155|22.15001|60 on 4 35.00155 0.1
+info:L4Blockwall13 170.78|25.00155|18.75001|120 on 4 35.00155 0.1
+info:L4Blockwall14 164.8658|25.00155|22.10829|120 on 4 35.00155 0.1
+info:L4Blockwall15 164.91|24.98|18.69999|60 on 4 34.98 0.1
+info:L4Blockwall20 31.24|18.00043|110.1|0 on 6 28.00043 0.1
+info:L4Blockwall21 36.57|18.00043|109.11|20 on 6 28.00043 0.1
+info:L4Blockwall22 25.75576|18.00043|109.1083|340 on 6 28.00043 0.1
+info:L5BlockWallstart 31.72576|24.0858|153.2983|0 off 20.00001 44.0858 3.000001
+info:L5BlockWallend 47.28576|24.0858|169.5983|90 on 20.00001 44.0858 3.000001
+info:L6Blockwall_06 102.7194|20.68191|170.1825|102 on 50 45.68191 0.1
+info:L6Blockwall_062 103.7594|20.68191|172.2525|115 on 50 45.68191 0.1

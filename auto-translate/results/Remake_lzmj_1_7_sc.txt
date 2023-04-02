@@ -1,0 +1,11 @@
+func:countdown
+After 3 seconds of warning, Gardener Callander appears! |2 seconds later, the gardener Callander will appear! |1 second later, the gardener Kalander appears! |The Gardener Callander is here! The battle begins! 3
+
+func:npcpopspeek
+npcpopspeek 1 3003 [403831] Defeat Gardener Callander in [ff0000]90 seconds[-]! 5
+
+func:warning
+notice [ffdc00]Trigger special mechanism after 3 seconds|[ffdc00]Trigger special mechanism after 2 seconds|[ffdc00]Trigger special mechanism after 1 second|Special mechanism has been triggered 2
+
+func:open
+aicommand -1 open 87007

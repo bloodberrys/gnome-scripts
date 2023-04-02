@@ -1,0 +1,104 @@
+
+func:notice1
+warning [ffdc00]赫隆格尼尔腾空跃起准备发动死亡裁决！ 10
+
+func:notice2
+warning [ffdc00]“我要，永远将你们禁锢在这里！！” 10
+
+func:notice3
+npcpopspeek 3 3003 一名幸运儿获得可以解除禁锢的光环，快去解救队友并前往BOSS身边的安全区！ 10
+
+func:notice4
+warning [ffdc00]一起行动，前往BOSS身边的安全区！ 10
+
+func:notice5
+warning [ffdc00]“骑士们，跟我发起进攻！！！” 4
+
+func:notice6
+warning [ffdc00]骑士雕像被激活了，会根据赫隆格尼尔的冲锋来发动攻击！！ 10
+
+func:notice7
+warning [ffdc00]骑士的走廊因赫隆格尼尔的暴怒变得极不稳定！！|请随时注意击碎掉落的盾牌！！ 10
+
+func:notice8
+warning [ffdc00]走廊中出现了恶灵盾牌，未击碎的盾牌将爆炸！！ 7
+
+func:notice8X
+npcpopspeek 3 3003 所有人注意！快击碎[00aeff]恶灵盾牌[-]！ 10
+
+func:darkworld
+justfx 25
+
+func:aicommand1
+aicommand -1 deathjudge 243627
+
+func:aicommand2
+aicommand -1 jingu 243627
+
+func:aicommand3
+aicommand -1 chongneng 243627
+
+func:aicommand4
+aicommand -1 chongfeng 243627
+
+func:aicommand5
+aicommand -1 chongfengex 243627
+
+func:aicommand6
+aicommand -1 cutstage1 243627
+
+func:aicommand7
+aicommand -1 dunpai 243627
+
+func:aicommand8
+aicommand -1 cutstage2 243627
+
+func:transferwall
+opendoor BossWall2 on 12.6|9.27|28.42|30 15.256|10.432|11.354|0
+
+func:addbuff1
+addbuff 43404 21610 1
+
+func:addbuff2
+addbuff 43403 21615 1
+
+func:addbuff3
+addbuff 43404 21614 1
+
+func:addbuff4
+addbuff 43403 21609 1
+
+func:addbuff5
+addbuff 43403 21614 1
+
+func:addbuff6
+addbuff 43405 21614 1
+
+func:removebuff1
+removebuff 43403 21609 1
+
+func:removebuff2
+removebuff 43405 21605 1
+
+func:showcutscene
+showcutscene CutScene/cutscene_generalshow_bigguy 243627
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

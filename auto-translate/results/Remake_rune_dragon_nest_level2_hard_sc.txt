@@ -1,0 +1,80 @@
+func:showcutscene
+showcutscene CutScene/cutscene_general show_bigguy 273611
+
+func:aicommand1
+aicommand 243612 minutehand
+
+func:aicommand2
+aicommand -1 zhizhen 243612
+
+func:aicommand3
+aicommand -1 zhizhen450 243612
+
+func:aicommand4
+aicommand -1 zhizhen495 243612
+
+func:aicommand5
+aicommand -1 zhizhen530 243612
+
+func:aicommand6
+aicommand -1 zhizhen585 243612
+
+func:aicommand7
+aicommand -1 zhizhen630 243612
+
+func:aicommand8
+aicommand -1 zhizhen675 243612
+
+func:aicommand9
+aicommand -1 zhizhen720 243612
+
+func:aicommand10
+aicommand 243612 Offclock
+
+func:aicommand11
+aicommand -1 fountain_01 243620
+
+func:aicommand12
+aicommand -1 fountain_02 243620
+
+func:notice
+warning Panibroca activated the [ffdc00] Wheel of Fortune, and the power of the runes is about to come! Adventurers beware! 10
+
+func:notice1
+warning [ffdc00] The fire rune is activated! Lava will flood the edge of the field 10
+
+func:notice2
+warning [ffdc00] Enormization rune activated! Panibroca is endowed with the ability to magnify and increase his attack power! 10
+
+func:notice3
+warning [ffdc00] The poisonous spore rune is activated! Beware of poisonous spores falling from the sky 10
+
+func:notice4
+warning [ffdc00] The summoning rune is activated! The three lizard brothers are summoned by the rune 10
+
+func:notice5
+warning [ffdc00] The water rune is activated! Beware of Undercurrents 10
+
+func:notice6
+warning [ffdc00] Shrunken runes are activated! Panibroca is given the ability to shrink and summon playmates 10
+
+func:notice7
+warning [ffdc00] The lightning rune is activated! Beware of Lightning Near Thunder Rune 10
+
+func:notice8
+warning [ffdc00] The fog rune is activated! Beware of ghosts hidden in the mist 10
+
+func:notice9
+warning [ffdc00] Welcome to Clock House! This place is shrouded in time runes all the year round, adventurers should be careful! ! 10
+
+func:notice10
+warning [ffdc00] The clock is overheating and is about to collapse, adventurers should be careful! ! |The clock is overheating and is about to collapse, adventurers should be careful! ! |The clock is overheating and is about to collapse, adventurers should be careful! ! |5|4|3|2|1|0 6
+
+func:notice11
+warning [ffdc00] Don't stay away from Panibroca! Otherwise Panibroca will go berserk without a playmate! ! 4
+
+func:notice12
+warning [ffdc00] Don't stay away from Panibroca! Otherwise Panibroca will go berserk without a playmate! ! 4
+
+func:addbuff
+addbuff 243612 26767 1

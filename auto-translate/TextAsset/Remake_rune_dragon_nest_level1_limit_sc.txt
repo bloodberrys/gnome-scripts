@@ -1,0 +1,52 @@
+
+func:notice1
+warning [ffdc00]欢迎来到犸蒙角斗场！ 10
+
+func:notice2
+warning [ffdc00]狩月狼企图点燃十字路！！！避开被符文之力笼罩的队友并躲开燃烧的火焰之路！ 10
+
+func:notice3
+warning [ffdc00]使用合理攻击扑灭符文火焰，否则火焰将点燃整个角斗场！！15|使用合理攻击扑灭符文火焰，否则火焰将点燃整个角斗场！！14|使用合理攻击扑灭符文火焰，否则火焰将点燃整个角斗场！！13|使用合理攻击扑灭符文火焰，否则火焰将点燃整个角斗场！！12|使用合理攻击扑灭符文火焰，否则火焰将点燃整个角斗场！！11|使用合理攻击扑灭符文火焰，否则火焰将点燃整个角斗场！！10|使用合理攻击扑灭符文火焰，否则火焰将点燃整个角斗场！！9|使用合理攻击扑灭符文火焰，否则火焰将点燃整个角斗场！！8|使用合理攻击扑灭符文火焰，否则火焰将点燃整个角斗场！！7|使用合理攻击扑灭符文火焰，否则火焰将点燃整个角斗场！！6|使用合理攻击扑灭符文火焰，否则火焰将点燃整个角斗场！！5|使用合理攻击扑灭符文火焰，否则火焰将点燃整个角斗场！！4|使用合理攻击扑灭符文火焰，否则火焰将点燃整个角斗场！！3|使用合理攻击扑灭符文火焰，否则火焰将点燃整个角斗场！！2|使用合理攻击扑灭符文火焰，否则火焰将点燃整个角斗场！！1|使用合理攻击扑灭符文火焰，否则火焰将点燃整个角斗场！！0 15
+
+func:notice4
+warning [ffdc00]狩月狼的符文之力正在增强小心了冒险家！ 5
+
+func:darkworld
+justfx 25
+
+func:aicommand1
+aicommand -1 xiren 243600
+
+func:aicommand2
+aicommand -1 huoshan 243600
+
+func:aicommand3
+aicommand -1 fuwenhuoyan 243600
+
+func:aicommand4
+aicommand -1 shizilu 243600
+
+func:transferwall
+opendoor TransferWall on 50.07944|1.42191|55.71249|2 0|0|0|0
+
+func:transferwall1
+opendoor BossWall2 on 30.55|5.01|30.68|30 30.55|5.01|30.68|-90
+
+func:showcutscene
+showcutscene CutScene/cutscene_generalshow_bigguy 243600
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

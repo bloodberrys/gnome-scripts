@@ -1,0 +1,24 @@
+
+func:countdown
+warning 3秒后，凤凰拉巴诺克登场！|2秒后，凤凰拉巴诺克登场！|1秒后，凤凰拉巴诺克登场！|凤凰拉巴诺克登场！战斗开始！ 3
+
+func:npcpopspeek
+npcpopspeek 1 3003 [403831]在[ff0000]300秒[-]内击败凤凰拉巴诺克！ 5
+
+func:notice5
+notice 渺小的人类！你就葬送在无情的烈焰中吧！
+
+func:notice6
+notice 神之转世，涅槃重生！
+
+func:warning
+notice [ffdc00]3秒以后触发特殊机制|[ffdc00]2秒以后触发特殊机制|[ffdc00]1秒以后触发特殊机制|特殊机制已触发 2
+
+func:open
+aicommand -1 open 87007
+
+func:notice1
+notice [ffdc00]凤凰拉巴诺克愤怒了，攻击力得到了增强 7
+
+func:notice2
+notice [ffdc00]凤凰拉巴诺克狂暴了，动作变得更加敏捷 7

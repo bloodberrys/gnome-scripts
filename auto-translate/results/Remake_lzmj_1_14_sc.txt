@@ -1,0 +1,11 @@
+func:countdown
+After 3 seconds of warning, the blacksmith Litsen appears! |2 seconds later, the blacksmith Litsen will appear! |1 second later, blacksmith Li Tesen appears! |Blacksmith Litson is here! The battle begins! 3
+
+func:npcpopspeek
+npcpopspeek 1 3003 [403831] Defeat blacksmith Litsen in [ff0000]120 seconds[-]! 5
+
+func:warning
+notice [ffdc00]Trigger special mechanism after 3 seconds|[ffdc00]Trigger special mechanism after 2 seconds|[ffdc00]Trigger special mechanism after 1 second|Special mechanism has been triggered 2
+
+func:open
+aicommand -1 open 87007

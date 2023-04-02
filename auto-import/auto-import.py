@@ -2,6 +2,7 @@ import pyautogui
 import os
 import time
 import xml.etree.ElementTree as ET
+import cv2
 
 def click_file(clickType="double", file_path="", center=False, duration=0, add_left=0, add_top=0):
     # time.sleep(duration)
@@ -115,6 +116,7 @@ for filename in os.listdir(folder):
     pyautogui.press('enter')
 
     click_file(clickType="single", file_path="imagelocate/OK.png", center=True)
+    pyautogui.press('enter')
     pyautogui.press('enter')
 
     print(f"[SAVE] Saving new assetbundle {filename}\n\n")

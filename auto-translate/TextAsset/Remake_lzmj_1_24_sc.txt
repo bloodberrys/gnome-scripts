@@ -1,0 +1,24 @@
+
+func:countdown
+warning 3秒后，狮蝎登场！|2秒后，狮蝎登场！|1秒后，狮蝎登场！|狮蝎登场！战斗开始！ 3
+
+func:npcpopspeek
+npcpopspeek 1 3003 [403831]在[ff0000]300秒[-]内击败狮蝎！ 5
+
+func:notice5
+notice 无知的人类！就让你们见识一下老夫的真正的力量
+
+func:notice6
+notice 你们以为这就是老夫的全部吗！好好感受一下黑龙之力的恐惧吧
+
+func:warning
+notice [ffdc00]3秒以后触发特殊机制|[ffdc00]2秒以后触发特殊机制|[ffdc00]1秒以后触发特殊机制|特殊机制已触发 2
+
+func:open
+aicommand -1 open 87007
+
+func:notice1
+notice [ffdc00]狮蝎愤怒了，攻击力得到了增强 7
+
+func:notice2
+notice [ffdc00]狮蝎狂暴了，动作变得更加敏捷 7

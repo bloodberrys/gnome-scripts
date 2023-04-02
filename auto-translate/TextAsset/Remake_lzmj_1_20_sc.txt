@@ -1,0 +1,12 @@
+
+func:countdown
+warning 3秒后，烈火之花杰姆斯托克登场！|2秒后，烈火之花杰姆斯托克登场！|1秒后，烈火之花杰姆斯托克登场！|烈火之花杰姆斯托克登场！战斗开始！ 3
+
+func:npcpopspeek
+npcpopspeek 1 3003 [403831]在[ff0000]120秒[-]内击败烈火之花杰姆斯托克！ 5
+
+func:warning
+notice [ffdc00]3秒以后触发特殊机制|[ffdc00]2秒以后触发特殊机制|[ffdc00]1秒以后触发特殊机制|特殊机制已触发 2
+
+func:open
+aicommand -1 open 87007

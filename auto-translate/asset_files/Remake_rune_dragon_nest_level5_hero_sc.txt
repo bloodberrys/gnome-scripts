@@ -1,0 +1,122 @@
+
+func:notice1
+warning [ffdc00]幻术师伏巴发动了计数打击！ 10
+
+func:notice2
+warning [ffdc00]幻术师伏巴召唤出了追踪毒球！ 10
+
+func:notice3
+warning [ffdc00]场地边缘出现了腐化领域，当心！ 10
+
+func:notice4
+warning [ffdc00]幻术师伏巴开启了杀戮领域！！ 10
+
+func:notice5
+warning [ffdc00]幻术师伏巴转送到场地中央，准备发动旋转激光！ 10
+
+func:notice6
+warning [ffdc00]幻术师伏巴发动的缠绕，去解救你的队友！ 10
+
+func:notice7
+warning [ffdc00]杀戮领域再度开启！ 10
+
+func:notice8
+warning [ffdc00]第二次疯狂杀戮消息测试 10
+
+func:notice9
+warning [ffdc00]观察被吸收镰刀数，击杀相应特征魔物解除献祭力量！10|观察被吸收镰刀数，击杀相应特征魔物解除献祭力量！9|观察被吸收镰刀数，击杀相应特征魔物解除献祭力量！8|观察被吸收镰刀数，击杀相应特征魔物解除献祭力量！7|观察被吸收镰刀数，击杀相应特征魔物解除献祭力量！6|观察被吸收镰刀数，击杀相应特征魔物解除献祭力量！5|观察被吸收镰刀数，击杀相应特征魔物解除献祭力量！4|观察被吸收镰刀数，击杀相应特征魔物解除献祭力量！3|观察被吸收镰刀数，击杀相应特征魔物解除献祭力量！2|观察被吸收镰刀数，击杀相应特征魔物解除献祭力量！1|观察被吸收镰刀数，击杀相应特征魔物解除献祭力量！0|BOSS发动了献祭！！ 15
+
+func:notice10
+warning [ffdc00]第二次加buff测试 10
+
+func:notice11
+warning [ffdc00]火浪结束了！！ 10
+
+func:notice12
+warning [ffdc00]锈雾狂风呼啸者狂暴了，攻击和攻速获得了提升！！ 10
+
+func:b1
+bubble 43651 [ffebad]我的独眼可丝毫不影响献祭的威力！！ 15
+
+func:b2
+bubble 43652 [ffebad]完美的献祭还是需要像我一样完美的外形！！ 15
+
+func:b3
+bubble 43653 [ffebad]我的独眼可丝毫不影响献祭的威力！！ 15
+
+func:b4
+bubble 43654 [ffebad]完美的献祭还是需要像我一样完美的外形！！ 15
+
+func:aicommand1
+aicommand -1 callpoison 263654
+
+func:aicommand2
+aicommand -1 count 263654
+
+func:aicommand3
+aicommand -1 circlelaserex 263654
+
+func:aicommand4
+aicommand -1 crazykill 263654
+
+func:aicommand5
+aicommand -1 crazykillhalf1 243661
+
+func:aicommand6
+aicommand -1 crazykillhalf2 243662
+
+func:aicommand7
+aicommand -1 crazykillhalf3 243663
+
+func:aicommand8
+aicommand -1 crazykillhalf4 243664
+
+func:aicommand9
+aicommand -1 chanrao 263654
+
+func:transferwall2
+opendoor BossWall2 on 87.43|0|85.97|30 88.3|0|96.91|180
+
+func:transferwall3
+opendoor BossWall3 on 87.43|0|85.97|30 78.09|0|35.69|-90
+
+func:transferwall4
+opendoor BossWall4 on 78.09|0|35.69|30 88.3|0|96.91|180
+
+func:CloseTransferWall2
+opendoor BossWall2
+
+func:CloseTransferWall3
+opendoor BossWall3
+
+func:CloseTransferWall4
+opendoor BossWall4
+
+func:showcutscene
+showcutscene CutScene/cutscene_generalshow_bigguy 263654
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

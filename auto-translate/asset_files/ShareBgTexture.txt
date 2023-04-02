@@ -1,6 +1,0 @@
-ShareBgType	SubBgIDList	TexturePathList	Text
-类型	id	路径	分享图上的字
-1	1058|1105	Loading_09|Loading_21	Share_cx00|Share_lb00
-2	15395|15396|15397|63632|63633|63634|712	sharebg_05_h2Split|sharebg_06_h2Split|sharebg_07_h2Split|sharebg_14_h2Split|sharebg_15_h2Split|sharebg_16_h2Split|sharebg_29_h2Split	ShareBg
-3	3501|3502|3504|3505|3503|3507|3510	sharebg_02_h2Split|sharebg_03_h2Split|sharebg_01_h2Split|sharebg_04_h2Split|sharebg_08_h2Split|sharebg_11_h2Split|sharebg_10_h2Split	ShareBg
-4	3501|3502|3504|3505|3511	sharebg_02_h2Split|sharebg_03_h2Split|sharebg_01_h2Split|sharebg_04_h2Split|sharebg_08_h2Split	ShareBg

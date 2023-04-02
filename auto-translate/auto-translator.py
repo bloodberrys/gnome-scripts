@@ -77,7 +77,7 @@ def chunk_string(filename):
 def main():
     folder = "asset_files"
     scriptFolder = "results"
-    filetype = 'tsv'
+    filetype = 'plain'
     readDirectoryFiles(folder, scriptFolder, filetype)
     os.remove('proxy_used.txt')
     print('Done!')
