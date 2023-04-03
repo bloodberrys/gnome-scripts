@@ -1,0 +1,23 @@
+start
+
+prof 0
+
+begin
+0
+[ffebad]What happened, why do you look anxious? [-]
+1
+[ffebad]I don't know what's wrong with my incompetent apprentice, he's always been sneaky lately, help him to see him! [-]
+0
+[ffebad]Could it be a broken relationship? No way, I'll go and have a look. [-]
+1
+[ffebad]Well, I can't get away right now, please[-]
+
+in progress
+1
+[ffebad]go find the answer[-]
+
+end
+0
+[ffebad]He was consumed by inner darkness! How can I reawaken him? [-]
+1
+[ffebad]The power of darkness is indeed terrifying. I failed to stop him in time. Only Mentor Ithilien can save him now. [-]

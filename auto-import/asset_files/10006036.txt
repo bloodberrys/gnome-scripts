@@ -1,0 +1,168 @@
+start
+
+Prof 1
+
+begin
+0
+[ffebad]Master...do you have anything to ask me? [-]
+1
+[ffebad]The annual assessment is coming soon, I want to test your practice for the past year as a teacher! [-]
+0
+[ffebad]Master, you have tested me for so many years...[-]
+1
+[ffebad]Talk too much! Are you impatient yet? If you can successfully pass my test, I will give you a lot of good things~[-]
+
+in progress
+1
+[ffebad]to accept the [0096ff] master's test [-] let's [-]
+
+end
+1
+[ffebad]Not bad not bad, good job. [-]
+0
+[ffebad]are well educated by masters. [-]
+1
+[ffebad]I see you just want my gift bag, ok ok, here you go~[-]
+
+prof 2
+
+begin
+0
+[ffebad]Master...do you have anything to ask me? [-]
+1
+[ffebad]The annual assessment is coming soon, I want to test your practice for the past year as a teacher! [-]
+0
+[ffebad]Master, you have tested me for so many years...[-]
+1
+[ffebad]Talk too much! Are you impatient yet? If you can successfully pass my test, I will give you a lot of good things~[-]
+
+in progress
+1
+[ffebad]to accept the [0096ff] master's test [-] let's [-]
+
+end
+1
+[ffebad]Not bad not bad, good job. [-]
+0
+[ffebad]are well educated by masters. [-]
+1
+[ffebad]I see you just want my gift bag, ok ok, here you go~[-]
+
+prof 3
+
+begin
+0
+[ffebad]Master...do you have anything to ask me? [-]
+1
+[ffebad]The annual assessment is coming soon, I want to test your practice for the past year as a teacher! [-]
+0
+[ffebad]Master, you have tested me for so many years...[-]
+1
+[ffebad]Talk too much! Are you impatient yet? If you can successfully pass my test, I will give you a lot of good things~[-]
+
+in progress
+1
+[ffebad]to accept the [0096ff] master's test [-] let's [-]
+
+end
+1
+[ffebad]Not bad not bad, good job. [-]
+0
+[ffebad]are well educated by masters. [-]
+1
+[ffebad]I see you just want my gift bag, ok ok, here you go~[-]
+
+prof 4
+
+begin
+0
+[ffebad]Master...do you have anything to ask me? [-]
+1
+[ffebad]The annual assessment is coming soon, I want to test your practice for the past year as a teacher! [-]
+0
+[ffebad]Master, you have tested me for so many years...[-]
+1
+[ffebad]Talk too much! Are you impatient yet? If you can successfully pass my test, I will give you a lot of good things~[-]
+
+in progress
+1
+[ffebad]to accept the [0096ff] master's test [-] let's [-]
+
+end
+1
+[ffebad]Not bad not bad, good job. [-]
+0
+[ffebad]are well educated by masters. [-]
+1
+[ffebad]I see you just want my gift bag, ok ok, here you go~[-]
+
+prof 5
+
+begin
+0
+[ffebad]Master...do you have anything to ask me? [-]
+1
+[ffebad]The annual assessment is coming soon, I want to test your practice for the past year as a teacher! [-]
+0
+[ffebad]Master, you have tested me for so many years...[-]
+1
+[ffebad]Talk too much! Are you impatient yet? If you can successfully pass my test, I will give you a lot of good things~[-]
+
+in progress
+1
+[ffebad]to accept the [0096ff] master's test [-] let's [-]
+
+end
+1
+[ffebad]Not bad not bad, good job. [-]
+0
+[ffebad]are well educated by masters. [-]
+1
+[ffebad]I see you just want my gift bag, ok ok, here you go~[-]
+
+prof 6
+
+begin
+0
+[ffebad]Master...do you have anything to ask me? [-]
+1
+[ffebad]The annual assessment is coming soon, I want to test your practice for the past year as a teacher! [-]
+0
+[ffebad]Master, you have tested me for so many years...[-]
+1
+[ffebad]Talk too much! Are you impatient yet? If you can successfully pass my test, I will give you a lot of good things~[-]
+
+in progress
+1
+[ffebad]to accept the [0096ff] master's test [-] let's [-]
+
+end
+1
+[ffebad]Not bad not bad, good job. [-]
+0
+[ffebad]are well educated by masters. [-]
+1
+[ffebad]I see you just want my gift bag, ok ok, here you go~[-]
+
+prof 7
+
+begin
+0
+[ffebad]Master...do you have anything to ask me? [-]
+1
+[ffebad]The annual assessment is coming soon, I want to test your practice for the past year as a teacher! [-]
+0
+[ffebad]Master, you have tested me for so many years...[-]
+1
+[ffebad]Talk too much! Are you impatient yet? If you can successfully pass my test, I will give you a lot of good things~[-]
+
+in progress
+1
+[ffebad]to accept the [0096ff] master's test [-] let's [-]
+
+end
+1
+[ffebad]Not bad not bad, good job. [-]
+0[ffebad] are well educated by masters. [-]
+1
+[ffebad]I see you just want my gift bag, ok ok, here you go~[-]

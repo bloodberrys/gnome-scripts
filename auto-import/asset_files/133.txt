@@ -1,0 +1,15 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]Beth Keld's injury can no longer be delayed. When you deal with the future army, I have thought of many ways. Let me try it one last time, please go to the Alenut Valley to gather some herbs, and I will try to restore a lost sacred potion. [-]
+
+in progress
+1
+[ffebad]Go to [0096ff] Allenut Canyon [-]
+
+end
+1
+[ffebad]Thank you for your hard work, but the potion production failed. Now I can only use the power of the Dragon Jewel. I hope that Beth Kede can turn over a new leaf and use this power to uphold justice. [-]

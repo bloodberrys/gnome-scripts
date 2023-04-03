@@ -1,0 +1,30 @@
+start
+
+prof 0
+
+step 1
+1
+[ffebad]3. After upgrading the rune dragon equipment to the forest dragon equipment, what kind of ability improvement will be obtained? [-]
+[branch]2=can get more recast attributes|3=can get higher advanced level|4=can get more spiritual injection level
+
+step 2
+1
+[ffebad]That's right, smart adventurer[-]
+
+step 3
+1
+[ffebad]Sorry for the wrong answer, come on[-]
+
+step 4
+1
+[ffebad]Sorry for the wrong answer, come on[-]
+
+step 5
+1
+[ffebad]Are you ready for the next question~[-]
+[branch]6=Come on ~ get ready
+
+step 6
+1
+[ffebad]Next question, let’s start[-]
+break

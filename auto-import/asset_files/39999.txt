@@ -1,0 +1,22 @@
+start
+
+prof 0
+
+begin
+0
+[ffebad]Teacher, I had a dream! I seem to have fallen into a spring and heard...heard something...[-]
+0
+[ffebad]"Dreams of Chaos...Red Light...A New Age Comes..."[-]
+1
+[ffebad]Could it be memory fountain? But that is something that exists in ancient books. You must be too tired recently, proper relaxation can relieve fatigue. [-]
+
+
+in progress
+1
+[ffebad]go relax [-]
+
+end
+0
+[ffebad]Teacher, that darkness... that warrior hidden in the darkness, and a new name, what is it...? [-]
+1
+[ffebad]The nightmare will be liberated, the dark forces will reappear, we are waiting for you, dark avenger. [-]

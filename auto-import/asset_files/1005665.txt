@@ -1,0 +1,18 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]Ha, adventurer, have you forgotten that you are going to come to me today to get something? [-]
+0
+[ffebad]Do you have any presents today? Sure enough, he is the generous president of the Deckard Guild! [-]
+1
+[ffebad]Hahaha, but when I give you a gift, you have to remember that the Laba Festival is an ancient time when the Chinese people sacrifice their ancestors and gods to pray for a good harvest. Some areas still have the habit of drinking Laba porridge. [-]
+
+
+end
+1
+[ffebad]You accepted the gift, and tomorrow I will test your knowledge. If you don't remember, you won't be able to get tomorrow's gift. [-]
+0
+[ffebad]Thank you, President Deckard, I remember, you can come to test me. [-]

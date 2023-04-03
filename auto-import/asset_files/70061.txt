@@ -1,0 +1,23 @@
+start
+
+prof 0
+
+step 1
+0
+[ffebad]Sounds like Callahan...? [-]
+
+step 2
+1
+[ffebad]That's right, exactly! [-]
+
+step 3
+0
+[ffebad]I was wounded by him...he tricked the Peyton tribe, stole the green dragon orb, and I'm afraid he has become a green dragon by now...[-]
+
+step 4
+1
+[ffebad]How many lives does he have to kill to be satisfied...[-]
+
+step 5
+0
+[ffebad]Speaking of which, I remember the head of the magician group, shouldn't it be Karaqiu? [-]

@@ -1,0 +1,155 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad]Brave adventurer, it's good to meet you! There is a sealed dark temple near here. I left my weapon in it when I went in to investigate a while ago. [-]
+0
+Is [ffebad] an expensive weapon? [-]
+1
+[ffebad]It's not very expensive, but it's a handy weapon made by me. Unfortunately, I left it in the temple. Can you help me get it out? [-]
+0
+[ffebad]No problem, I'm off! [-]
+
+in progress
+1
+[ffebad]Brave adventurer, come on. [-]
+
+end
+0
+[ffebad]After repelling several waves of monsters, I found a weapon. Is this weapon you left behind? [-]
+1
+[ffebad]This is the weapon, thank you so much! This dragon jade I found in the dark temple is for you. [-]
+
+prof 2
+
+begin
+1
+[ffebad]Brave adventurer, it's good to meet you! There is a sealed dark temple near here. I left my weapon in it when I went in to investigate a while ago. [-]
+0
+Is [ffebad] an expensive weapon? [-]
+1
+[ffebad]It's not very expensive, but it's a handy weapon made by me. Unfortunately, I left it in the temple. Can you help me get it out? [-]
+0
+[ffebad]No problem, I'm off! [-]
+
+in progress
+1
+[ffebad]Brave adventurer, come on. [-]
+
+end
+0
+[ffebad]After repelling several waves of monsters, I found a weapon. Is this weapon you left behind? [-]
+1
+[ffebad]This is the weapon, thank you so much! This dragon jade I found in the dark temple is for you. [-]
+
+prof 3
+
+begin
+1
+[ffebad]Brave adventurer, it's good to meet you! There is a sealed dark temple near here. I left my weapon in it when I went in to investigate a while ago. [-]
+0
+Is [ffebad] an expensive weapon? [-]
+1
+[ffebad]It's not very expensive, but it's a handy weapon made by me. Unfortunately, I left it in the temple. Can you help me get it out? [-]
+0
+[ffebad]No problem, I'm off! [-]
+
+in progress
+1
+[ffebad]Brave adventurer, come on. [-]
+
+end
+0
+[ffebad]After repelling several waves of monsters, I found a weapon. Is this weapon you left behind? [-]
+1
+[ffebad]This is the weapon, thank you so much! This dragon jade I found in the dark temple is for you. [-]
+
+prof 4
+
+begin
+1
+[ffebad]Brave adventurer, it's good to meet you! There is a sealed dark temple near here. I left my weapon in it when I went in to investigate a while ago. [-]
+0
+Is [ffebad] an expensive weapon? [-]
+1
+[ffebad]It's not very expensive, but it's a handy weapon made by me. Unfortunately, I left it in the temple. Can you help me get it out? [-]
+0
+[ffebad]No problem, I'm off! [-]
+
+in progress
+1
+[ffebad]Brave adventurer, come on. [-]
+
+end
+0
+[ffebad]After repelling several waves of monsters, I found a weapon. Is this weapon you left behind? [-]
+1
+[ffebad]This is the weapon, thank you so much! This dragon jade I found in the dark temple is for you. [-]
+
+prof 5
+
+begin
+1
+[ffebad]Brave adventurer, it's good to meet you! There is a sealed dark temple near here. I left my weapon in it when I went in to investigate a while ago. [-]
+0
+Is [ffebad] an expensive weapon? [-]
+1
+[ffebad]It's not very expensive, but it's a handy weapon made by me. Unfortunately, I left it in the temple. Can you help me get it out? [-]
+0
+[ffebad]No problem, I'm off! [-]
+
+in progress
+1
+[ffebad]Brave adventurer, come on. [-]
+
+end
+0
+[ffebad]After repelling several waves of monsters, I found a weapon. Is this weapon you left behind? [-]
+1
+[ffebad]This is the weapon, thank you so much! This dragon jade I found in the dark temple is for you. [-]
+
+prof 6
+
+begin
+1
+[ffebad]Brave adventurer, it's good to meet you! There is a sealed dark temple near here. I left my weapon in it when I went in to investigate a while ago. [-]
+0
+Is [ffebad] an expensive weapon? [-]
+1
+[ffebad]It's not very expensive, but it's a handy weapon made by me. Unfortunately, I left it in the temple. Can you help me get it out? [-]
+0
+[ffebad]No problem, I'm off! [-]
+
+in progress
+1
+[ffebad]Brave adventurer, come on. [-]
+
+end
+0
+[ffebad]After repelling several waves of monsters, I found a weapon. Is this weapon you left behind? [-]
+1
+[ffebad]This is the weapon, thank you so much! This dragon jade I found in the dark temple is for you. [-]
+
+prof 7
+
+begin
+1
+[ffebad]Brave adventurer, it's good to meet you! There is a sealed dark temple near here. I left my weapon in it when I went in to investigate a while ago. [-]
+0
+[Is ffebad] an expensive weapon? [-]
+1
+[ffebad]It's not very expensive, but it's a handy weapon made by me. Unfortunately, I left it in the temple. Can you help me get it out? [-]
+0
+[ffebad]No problem, I'm off! [-]
+
+in progress
+1
+[ffebad]Brave adventurer, come on. [-]
+
+end
+0
+[ffebad]After repelling several waves of monsters, I found a weapon. Is this weapon you left behind? [-]
+1
+[ffebad]This is the weapon, thank you so much! This dragon jade I found in the dark temple is for you. [-]

@@ -1,0 +1,26 @@
+start
+
+prof 0
+
+step 1
+1
+[ffebad]10. Who is the first dragon in the Dragon Nest mobile game? [-]
+[branch]2=Sea Dragon Lair|3=Green Dragon Lair
+
+step 2
+1
+[ffebad]That's right, smart adventurer[-]
+
+step 3
+1
+[ffebad]Sorry for the wrong answer, come on[-]
+
+step 4
+1
+[ffebad]The score coins obtained can be exchanged for rewards in the wonderful event page, remember to go~[-]
+[branch]5=OK! Know
+
+step 5
+1
+[ffebad]I wish you a happy life~[-]
+break

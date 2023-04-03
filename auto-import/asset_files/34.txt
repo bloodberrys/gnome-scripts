@@ -1,0 +1,324 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad]Hello! In this case, it's time for me to step in! Those poisons aren't something a useless priest can fix. (Gnome Dragon Nest Mobile)[-]
+[voice]Audio/VO/lines/lines180
+1
+[ffebad]Karaqiu, one of the six heroes, ordered to study the purification device of the ancients, but that research was interrupted for some reason...[-]
+[voice]Audio/VO/lines/lines183
+0
+[ffebad]interrupted...isn't that hopeless? Now how to do……[-]
+[voice]Audio/VO/Warrior/warrior15
+1
+[ffebad]At that time, the samples used for research were all taken from the Death Basin, but the poisonous mist there was scorching, and many magicians died because of the poisonous erosion, so the research had to be interrupted...[-]
+[voice]Audio/VO/lines/lines186
+1
+[ffebad]Although these selfless people have sacrificed in exchange for some research results...but the data has been left somewhere in the Death Basin forever. [-]
+[voice]Audio/VO/lines/lines187
+0
+[ffebad]I see. I am willing to try to break into the Death Basin and bring back the research data! [-]
+[voice]Audio/VO/Warrior/warrior23
+1
+[ffebad]Do you want to court death! ? No, the look in your eyes tells me that you are serious... If you don't hesitate, I have no reason to stop you. [-]
+[voice]Audio/VO/lines/lines188
+
+in progress
+1
+[ffebad]Go to [0096ff] Dead Basin[-]. [-]
+
+end
+1
+[ffebad]Kid, you got rid of that noisy dark elf? [-]
+[voice]Audio/VO/lines/lines189
+0
+[ffebad]No...she poured the poison on herself...[-]
+[voice]Audio/VO/Warrior/warrior28
+1
+[ffebad]Anyway, things turned out well. I didn't expect you to be such a useful servant. [-]
+[voice]Audio/VO/lines/lines190
+0
+[ffebad]No... In fact, the poison she created is constantly spreading, and everyone will be in danger if this continues! I must go to the Death Basin to find a way to purify! [-]
+[voice]Audio/VO/Warrior/warrior7
+1
+[ffebad][0096ff] Death Basin[-]... Heh, you are really weird, you only worry about other people's affairs, I haven't met such a person for a long time... Well, then I will give you a small gift . [-]
+[voice]Audio/VO/lines/lines191
+
+prof 2
+
+begin
+1
+[ffebad]Hello! In this case, it's time for me to step in! Those poisons aren't something a useless priest can fix. [-]
+[voice]Audio/VO/lines/lines180
+1
+[ffebad]Karaqiu, one of the six heroes, ordered to study the purification device of the ancients, but that research was interrupted for some reason...[-]
+[voice]Audio/VO/lines/lines183
+0
+[ffebad]interrupted...isn't that hopeless? Now how to do……[-]
+[voice]Audio/VO/Archer/archer15
+1
+[ffebad]At that time, the samples used for research were all taken from the Death Basin, but the poisonous mist there was scorching, and many magicians died because of the poisonous erosion, so the research had to be interrupted...[-]
+[voice]Audio/VO/lines/lines186
+1
+[ffebad]Although these selfless people have sacrificed in exchange for some research results...but the data has been left somewhere in the Death Basin forever. [-]
+[voice]Audio/VO/lines/lines187
+0
+[ffebad]I see. I am willing to try to break into the Death Basin and bring back the research data! [-]
+[voice]Audio/VO/Archer/archer23
+1
+[ffebad]Do you want to court death! ? No, the look in your eyes tells me that you are serious... If you don't hesitate, I have no reason to stop you. [-]
+[voice]Audio/VO/lines/lines188
+
+in progress
+1
+[ffebad]Go to [0096ff] Dead Basin[-]. [-]
+
+end
+1
+[ffebad]Kid, you got rid of that noisy dark elf? [-]
+[voice]Audio/VO/lines/lines189
+0
+[ffebad]No...she poured the poison on herself...[-]
+[voice]Audio/VO/Archer/archer28
+1
+[ffebad]Anyway, things turned out well. I didn't expect you to be such a useful servant. [-]
+[voice]Audio/VO/lines/lines190
+0
+[ffebad]No... In fact, the poison she created is constantly spreading, and everyone will be in danger if this continues! I must go to the Death Basin to find a way to purify! [-]
+[voice]Audio/VO/Archer/aarcher7
+1
+[ffebad][0096ff] Death Basin[-]... Heh, you are really weird, you only worry about other people's affairs, I haven't met such a person for a long time... Well, then I will give you a small gift . [-]
+[voice]Audio/VO/lines/lines191
+
+
+prof 3
+
+begin
+1
+[ffebad]Stupid apprentice who is not good at learning! Have you all forgotten? [-]
+[voice]Audio/VO/lines/lines181
+1
+[ffebad]Our mages once studied the purification devices of the ancients under the leadership of Senior Karaqiu, but the research was interrupted for some reason...[-]
+[voice]Audio/VO/lines/lines184
+0
+[ffebad]interrupted...isn't that hopeless? Now how to do……[-]
+[voice]Audio/VO/Sorceress/Sorceress15
+1
+[ffebad]At that time, the samples used for research were all taken from the Death Basin, but the poisonous mist there was scorching, and many magicians died because of the poisonous erosion, so the research had to be interrupted...[-]
+[voice]Audio/VO/lines/lines186
+1
+[ffebad]Although these selfless people have sacrificed in exchange for some research results...but the data has been left somewhere in the Death Basin forever. [-]
+[voice]Audio/VO/lines/lines187
+0
+[ffebad]I see. I am willing to try to break into the Death Basin and bring back the research data! [-]
+[voice]Audio/VO/Sorceress/Sorceress23
+1
+[ffebad]Do you want to court death! ? No, the look in your eyes tells me that you are serious... If you don't hesitate, I have no reason to stop you. [-]
+[voice]Audio/VO/lines/lines188
+
+in progress
+1
+[ffebad]Go to [0096ff] Dead Basin[-]. [-]
+
+end
+1
+[ffebad]Kid, you got rid of that noisy dark elf? [-]
+[voice]Audio/VO/lines/lines189
+0
+[ffebad]No...she poured the poison on herself...[-]
+[voice]Audio/VO/Sorceress/Sorceress28
+1
+[ffebad]Anyway, things turned out well. I didn't expect you to be such a useful servant. [-]
+[voice]Audio/VO/lines/lines190
+0
+[ffebad]No... In fact, the poison she created is constantly spreading, and everyone will be in danger if this continues! I must go to the Death Basin to find a way to purify! [-]
+[voice]Audio/VO/Sorceress/Sorceress7
+1
+[ffebad][0096ff] Death Basin[-]... Heh, you are really weird, you only worry about other people's affairs, I haven't met such a person for a long time... Well, then I will give you a small gift . [-]
+[voice]Audio/VO/lines/lines191
+
+prof 4
+
+begin
+1
+[ffebad]Priest brat! I advise you not to waste your time. Hehe, although you priests are very good at holy magic, you don't know anything about purifying poisonous substances! [-]
+[voice]Audio/VO/lines/lines182
+1
+[ffebad]Although we mages have done some research on purifying poison...but we were forced to stop...[-]
+[voice]Audio/VO/lines/lines185
+0
+[ffebad]interrupted...isn't that hopeless? Now how to do……[-]
+[voice]Audio/VO/Cleric/cleric15
+1
+[ffebad]At that time, the samples used for research were all taken from the Death Basin, but the poisonous mist there was scorching, and many magicians died because of the poisonous erosion, so the research had to be interrupted...[-]
+[voice]Audio/VO/lines/lines186
+1
+[ffebad]Although these selfless people have sacrificed in exchange for some research results...but the data has been left somewhere in the Death Basin forever. [-]
+[voice]Audio/VO/lines/lines187
+0
+[ffebad]I see. I am willing to try to break into the Death Basin and bring back the research data! [-]
+[voice]Audio/VO/Cleric/cleric23
+1
+[ffebad]Do you want to court death! ? No, the look in your eyes tells me that you are serious... If you don't hesitate, I have no reason to stop you. [-]
+[voice]Audio/VO/lines/lines188
+
+in progress
+1
+[ffebad]Go to [0096ff] Dead Basin[-]. [-]
+
+end
+1
+[ffebad]Kid, you got rid of that noisy dark elf? [-]
+[voice]Audio/VO/lines/lines189
+0
+[ffebad]No...she poured the poison on herself...[-]
+[voice]Audio/VO/Cleric/cleric28
+1
+[ffebad]Anyway, things turned out well. I didn't expect you to be so usefulfield servant. [-]
+[voice]Audio/VO/lines/lines190
+0
+[ffebad]No... In fact, the poison she created is constantly spreading, and everyone will be in danger if this continues! I must go to the Death Basin to find a way to purify! [-]
+[voice]Audio/VO/Cleric/cleric7
+1
+[ffebad][0096ff] Death Basin[-]... Heh, you are really weird, you only worry about other people's affairs, I haven't met such a person for a long time... Well, then I will give you a small gift . [-]
+[voice]Audio/VO/lines/lines191
+
+prof 5
+
+begin
+1
+[ffebad]Hello! In this case, it's time for me to step in! Those poisons aren't something a useless priest can fix. [-]
+[voice]Audio/VO/lines/lines180
+1
+[ffebad]Karaqiu, one of the six heroes, ordered to study the purification device of the ancients, but that research was interrupted for some reason...[-]
+[voice]Audio/VO/lines/lines183
+0
+[ffebad]interrupted...isn't that hopeless? Now how to do……[-]
+[voice]Audio/VO/Academic/academic9
+1
+[ffebad]At that time, the samples used for research were all taken from the Death Basin, but the poisonous mist there was scorching, and many magicians died because of the poisonous erosion, so the research had to be interrupted...[-]
+[voice]Audio/VO/lines/lines186
+1
+[ffebad]Although these selfless people have sacrificed in exchange for some research results...but the data has been left somewhere in the Death Basin forever. [-]
+[voice]Audio/VO/lines/lines187
+0
+[ffebad]I see. I am willing to try to break into the Death Basin and bring back the research data! [-]
+[voice]Audio/VO/Academic/academic11
+1
+[ffebad]Do you want to court death! ? No, the look in your eyes tells me that you are serious... If you don't hesitate, I have no reason to stop you. [-]
+[voice]Audio/VO/lines/lines188
+
+in progress
+1
+[ffebad]Go to [0096ff] Dead Basin[-]. [-]
+
+end
+1
+[ffebad]Kid, you got rid of that noisy dark elf? [-]
+[voice]Audio/VO/lines/lines189
+0
+[ffebad]No...she poured the poison on herself...[-]
+[voice]Audio/VO/Academic/academic6
+1
+[ffebad]Anyway, things turned out well. I didn't expect you to be such a useful servant. [-]
+[voice]Audio/VO/lines/lines190
+0
+[ffebad]No... In fact, the poison she created is constantly spreading, and everyone will be in danger if this continues! I must go to the Death Basin to find a way to purify! [-]
+[voice]Audio/VO/Academic/academic6
+1
+[ffebad][0096ff] Death Basin[-]... Heh, you are really weird, you only worry about other people's affairs, I haven't met such a person for a long time... Well, then I will give you a small gift . [-]
+[voice]Audio/VO/lines/lines191
+
+prof 6
+
+begin
+1
+[ffebad]Hello! In this case, it's time for me to step in! Those poisons aren't something a useless priest can fix. [-]
+[voice]Audio/VO/lines/lines180
+1
+[ffebad]Karaqiu, one of the six heroes, ordered to study the purification device of the ancients, but that research was interrupted for some reason...[-]
+[voice]Audio/VO/lines/lines183
+0
+[ffebad]interrupted...isn't that hopeless? Now how to do……[-]
+[voice]Audio/VO/Assassin/assassin9
+1
+[ffebad]At that time, the samples used for research were all taken from the Death Basin, but the poisonous mist there was scorching, and many magicians died because of the poisonous erosion, so the research had to be interrupted...[-]
+[voice]Audio/VO/lines/lines186
+1
+[ffebad]Although these selfless people have sacrificed in exchange for some research results...but the data has been left somewhere in the Death Basin forever. [-]
+[voice]Audio/VO/lines/lines187
+0
+[ffebad]I see. I will venture into the Death Basin and bring back the research materials! [-]
+[voice]Audio/VO/Assassin/assassin11
+1
+[ffebad]Do you want to court death! ? No, the look in your eyes tells me that you are serious... If you don't hesitate, I have no reason to stop you. [-]
+[voice]Audio/VO/lines/lines188
+
+in progress
+1
+[ffebad]Go to [0096ff] Dead Basin[-]. [-]
+
+end
+1
+[ffebad]Kid, you got rid of that noisy dark elf? [-]
+[voice]Audio/VO/lines/lines189
+0
+[ffebad]No...she poured the poison on herself...[-]
+[voice]Audio/VO/Assassin/assassin6
+1
+[ffebad]Anyway, things turned out well. I didn't expect you to be such a useful servant. [-]
+[voice]Audio/VO/lines/lines190
+0
+[ffebad]In fact, the poison she created is constantly spreading, and everyone will be in danger if this continues! I must go to the Death Basin to find a way to purify! [-]
+[voice]Audio/VO/Assassin/assassin6
+1
+[ffebad][0096ff] Death Basin[-]... Heh, you are really weird, you only worry about other people's affairs, I haven't met such a person for a long time... Well, then I will give you a small gift . [-]
+[voice]Audio/VO/lines/lines191
+
+prof 7
+
+begin
+1
+[ffebad]Hello! In this case, it's time for me to step in! Those poisons aren't something a useless priest can fix. [-]
+[voice]Audio/VO/lines/lines180
+1
+[ffebad]Karaqiu, one of the six heroes, ordered to study the purification device of the ancients, but that research was interrupted for some reason... [-]
+[voice]Audio/VO/lines/lines183
+0
+[ffebad]interrupted...isn't that hopeless? Now how to do……[-]
+[voice]Audio/VO/kali/kali6
+1
+[ffebad]At that time, the samples used for research were all taken from the Death Basin, but the poisonous mist there was scorching, and many magicians died because of the poisonous erosion, so the research had to be interrupted...[-]
+[voice]Audio/VO/lines/lines186
+1
+[ffebad]Although these selfless people have sacrificed in exchange for some research results...but the data has been left somewhere in the Death Basin forever. [-]
+[voice]Audio/VO/lines/lines187
+0
+[ffebad]I see. I will venture into the Death Basin and bring back the research materials! [-]
+[voice]Audio/VO/kali/kali23
+1
+[ffebad]Do you want to court death! ? No, the look in your eyes tells me that you are serious... If you don't hesitate, I have no reason to stop you. [-]
+[voice]Audio/VO/lines/lines188
+
+in progress
+1
+[ffebad]Go to [0096ff] Dead Basin[-]. [-]
+
+end
+1
+[ffebad]Kid, you got rid of that noisy dark elf? [-]
+[voice]Audio/VO/lines/lines189
+0
+[ffebad]No...she poured the poison on herself...[-]
+[voice]Audio/VO/kali/kali28
+1
+[ffebad]Anyway, things turned out well. I didn't expect you to be such a useful servant. [-]
+[voice]Audio/VO/lines/lines190
+0
+[ffebad]In fact, the poison she created is constantly spreading, and everyone will be in danger if this continues! I must go to the Death Basin to find a way to purify! [-]
+[voice]Audio/VO/kali/kali28
+1
+[ffebad][0096ff] Death Basin[-]... Heh, you are really weird, you only worry about other people's affairs, I haven't met such a person for a long time... Well, then I will give you a small gift . [-]
+[voice]Audio/VO/lines/lines191

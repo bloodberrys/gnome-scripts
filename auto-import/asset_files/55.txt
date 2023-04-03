@@ -1,0 +1,25 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]Young people walk more and look ahead, don't bump into old people like me...ah it's you! God bless! (Gnome Dragon Nest Mobile)[-]
+0
+[ffebad]Professor, what's wrong with you? The eyes are black and blue...[-]
+1
+[ffebad]It's really hateful! I went to the [0096ff]sunken cargo ship[-] this morning to investigate a medicinal herb that might do wonders for healing soldiers. Who would have thought that a ferocious monster would suddenly appear and snatch away my healing necklace... Without that necklace, my research would be greatly compromised! Please help me! [-]
+0
+[ffebad]It's really not peaceful near the capital recently... I won't let monsters affect your research, just wait here for my good news. [-]
+
+in progress
+1
+[ffebad]go to [0096ff] sunken cargo ship [-]
+
+end
+0
+[ffebad]It's not a very powerful monster... Do you see if this is your necklace? [-]
+1
+[ffebad]You have to understand, for those of us powerless scholars, a goblin is also a bloodthirsty demon king! [-]
+1
+[ffebad]Woo, thank you so much, my necklace of healing is finally back. Leaving this aside, the archbishop came once, and he seems to be looking for you everywhere, so go and have a look. [-]

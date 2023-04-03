@@ -1,0 +1,197 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad]Let me see! "Concentrated spider venom, polluting the water source on the road of no return. The army of monsters took advantage of the gap and slaughtered the human village"... Oh my god, this Elena is actually plotting such a terrible plan! (Gnome Dragon Nest Mobile)[-]
+[voice]Audio/VO/lines/lines177
+0
+[ffebad]I just wanted to get back the airship's suspension device, but I didn't expect to be involved in such a big incident in the end... Go to [0096ff] Road to No Return[-] and fight to the death! [-]
+[voice]Audio/VO/Warrior/warrior26
+
+in progress
+1
+[ffebad]go [0096ff] the road of no return[-]. [-]
+
+end
+0
+[ffebad]The situation is urgent! Elena has succeeded! Sorry... I couldn't stop her. But she was also poisoned and fell off the cliff. [-]
+[voice]Audio/VO/Warrior/warrior29
+1
+[ffebad]Do it yourself! Ah, no time for that kind of people! Are you saying that the water source is polluted? ! [-]
+[voice]Audio/VO/lines/lines178
+1
+[ffebad]That would be bad! Following the water potential, the poison will soon penetrate deep into the ground and spread into the air! If you don't want to purify it, the surrounding area may become a barren land like a dead forest! [-]
+[voice]Audio/VO/lines/lines179
+0
+[ffebad]Purification...I thought of it! Maybe the pastor and mentor will have something to do! Time is running out, I have to hurry over. Please help me transfer this engine to Hubert! [-]
+[voice]Audio/VO/Warrior/warrior12
+
+prof 2
+
+begin
+1
+[ffebad]Let me see! "Concentrated spider venom, polluting the water source on the road of no return. The army of monsters took advantage of the gap and slaughtered the human village"... Oh my god, this Elena is actually plotting such a terrible plan! [-]
+[voice]Audio/VO/lines/lines177
+0
+[ffebad]I just wanted to get back the airship's suspension device, but I didn't expect to be involved in such a big incident in the end... Go to [0096ff] Road to No Return[-] and fight to the death! [-]
+[voice]Audio/VO/Archer/archer26
+
+in progress
+1
+[ffebad]go [0096ff] the road of no return[-]. [-]
+
+end
+0
+[ffebad]The situation is urgent! Elena has succeeded! Sorry... I couldn't stop her. But she was also poisoned and fell off the cliff. [-]
+[voice]Audio/VO/Archer/archer29
+1
+[ffebad]Do it yourself! Ah, no time for that kind of people! Are you saying that the water source is polluted? ! [-]
+[voice]Audio/VO/lines/lines178
+1
+[ffebad]That would be bad! Following the water potential, the poison will soon penetrate deep into the ground and spread into the air! If you don't want to purify it, the surrounding area may become a barren land like a dead forest! [-]
+[voice]Audio/VO/lines/lines179
+0
+[ffebad]Purify... maybe...! What a pastor-mentor might be up to! I'm running out of time, so please hand over this engine to Hubert! [-]
+[voice]Audio/VO/Archer/archer12
+
+prof 3
+
+begin
+1
+[ffebad]Let me see! "Concentrated spider venom, polluting the water source on the road of no return. The army of monsters took advantage of the gap and slaughtered the human village"... Oh my god, this Elena is actually plotting such a terrible plan! [-]
+[voice]Audio/VO/lines/lines177
+0
+[ffebad]I just wanted to get back the airship's suspension device, but I didn't expect to be involved in such a big incident in the end... Go to [0096ff] Road to No Return[-] and fight to the death! [-]
+[voice]Audio/VO/Sorceress/Sorceress26
+
+in progress
+1
+[ffebad]go [0096ff] the road of no return[-]. [-]
+
+end
+0
+[ffebad]The situation is urgent! Elena has succeeded! Sorry... I couldn't stop her. But she was also poisoned and fell off the cliff. [-]
+[voice]Audio/VO/Sorceress/Sorceress29
+1
+[ffebad]Do it yourself! Ah, no time for that kind of people! Are you saying that the water source is polluted? ! [-]
+[voice]Audio/VO/lines/lines178
+1
+[ffebad]That would be bad! Following the water potential, the poison will soon penetrate deep into the ground and spread into the air! If you don't want to purify it, the surrounding area may become a barren land like a dead forest! [-]
+[voice]Audio/VO/lines/lines179
+0
+[ffebad]Purification... My teacher once mentioned the purification devices of the ancients! I'll ask her, ah yes, please give this engine to Hubert! [-]
+[voice]Audio/VO/Sorceress/Sorceress12
+
+prof 4
+
+begin
+1
+[ffebad]Let me see! "Concentrated spider venom, polluting the water source on the road of no return. The army of monsters took advantage of the gap and slaughtered the human village"...Oh my god, thisThis Elena is actually plotting such a terrible plan! [-]
+[voice]Audio/VO/lines/lines177
+0
+[ffebad]I just wanted to get back the airship's suspension device, but I didn't expect to be involved in such a big incident in the end... Go to [0096ff] Road to No Return[-] and fight to the death! [-]
+[voice]Audio/VO/Cleric/cleric26
+
+in progress
+1
+[ffebad]go [0096ff] the road of no return[-]. [-]
+
+end
+0
+[ffebad]The situation is urgent! Elena has succeeded! Sorry... I couldn't stop her. But she was also poisoned and fell off the cliff. [-]
+[voice]Audio/VO/Cleric/cleric29
+1
+[ffebad]Do it yourself! Ah, no time for that kind of people! Are you saying that the water source is polluted? ! [-]
+[voice]Audio/VO/lines/lines178
+1
+[ffebad]That would be bad! Following the water potential, the poison will soon penetrate deep into the ground and spread into the air! If you don't want to purify it, the surrounding area may become a barren land like a dead forest! [-]
+[voice]Audio/VO/lines/lines179
+0
+[ffebad]The teacher might know how to purify the poison...then please leave this engine to Hubert! [-]
+[voice]Audio/VO/Cleric/cleric12
+
+Prof 5
+
+begin
+1
+[ffebad]Let me see! "Concentrated spider venom, polluting the water source on the road of no return. The army of monsters took advantage of the gap and slaughtered the human village"... Oh my god, this Elena is actually plotting such a terrible plan! [-]
+[voice]Audio/VO/lines/lines177
+0
+[ffebad]By the way, it did happen in history, it's horrible... I have to go to the [0096ff] Road of No Return[-] to stop her! [-]
+[voice]Audio/VO/Academic/academic12
+
+in progress
+1
+[ffebad]go [0096ff] the road of no return[-]. [-]
+
+end
+0
+[ffebad]Elena got it! Sorry... I couldn't stop her. But she was also poisoned and fell off the cliff. [-]
+[voice]Audio/VO/Academic/academic6
+1
+[ffebad]Do it yourself! Ah, no time for that kind of people! Are you saying that the water source is polluted? ! [-]
+[voice]Audio/VO/lines/lines178
+1
+[ffebad]That would be bad! Following the water potential, the poison will soon penetrate deep into the ground and spread into the air! If you don't want to purify it, the surrounding area may become a barren land like a dead forest! [-]
+[voice]Audio/VO/lines/lines179
+0
+[ffebad]Purification... Yes, this poison has been purified in history, maybe the pastor and mentor will have something to do! Time is running out, I have to hurry over. Please help me transfer this engine to Hubert! [-]
+[voice]Audio/VO/Academic/academic4
+
+prof 6
+
+begin
+1
+[ffebad]Let me see! "Concentrated spider venom, polluting the water source on the road of no return. The army of monsters took advantage of the gap and slaughtered the human village"... Oh my god, this Elena is actually plotting such a terrible plan! [-]
+[voice]Audio/VO/lines/lines177
+0
+[ffebad]is vicious... I have to go to the [0096ff] Road of No Return[-] to stop her! [-]
+[voice]Audio/VO/Assassin/Assassin12
+
+in progress
+1
+[ffebad]go [0096ff] the road of no return[-]. [-]
+
+end
+0
+[ffebad]Sorry... I couldn't stop her. But she was also poisoned and fell off the cliff. [-]
+[voice]Audio/VO/Assassin/assassin6
+1
+[ffebad]Do it yourself! Ah, no time for that kind of people! Are you saying that the water source is polluted? ! [-]
+[voice]Audio/VO/lines/lines178
+1
+[ffebad]That would be bad! Following the water potential, the poison will soon penetrate deep into the ground and spread into the air! If you don't want to purify it, the surrounding area may become a barren land like a dead forest! [-]
+[voice]Audio/VO/lines/lines179
+0
+[ffebad]Purification... Yes, maybe the pastor and mentor will have something to do! Time is running out, I have to hurry over. Please help me transfer this engine to Hubert! [-]
+[voice]Audio/VO/Assassin/Assassin4
+
+prof 7
+
+begin
+1
+[ffebad]Let me see! "Concentrated spider venom, polluting the water source on the road of no return. The army of monsters took advantage of the gap and slaughtered the human village"... Oh my god, this Elena is actually plotting such a terrible plan! [-]
+[voice]Audio/VO/lines/lines177
+0
+[ffebad]is vicious... I have to go to the [0096ff] Road of No Return[-] to stop her! [-]
+[voice]Audio/VO/kali/kali11
+
+inprogressthe s
+1
+[ffebad]go [0096ff] the road of no return[-]. [-]
+
+end
+0
+[ffebad]Sorry... I couldn't stop her. But she was also poisoned and fell off the cliff. [-]
+[voice]Audio/VO/kali/kali29
+1
+[ffebad]Do it yourself! Ah, no time for that kind of people! Are you saying that the water source is polluted? ! [-]
+[voice]Audio/VO/lines/lines178
+1
+[ffebad]That would be bad! Following the water potential, the poison will soon penetrate deep into the ground and spread into the air! If you don't want to purify it, the surrounding area may become a barren land like a dead forest! [-]
+[voice]Audio/VO/lines/lines179
+0
+[ffebad]Purification... maybe the pastor and mentor will have something to do! Time is running out, I have to hurry over. Please help me transfer this engine to Hubert! [-]
+[voice]Audio/VO/kali/kali20

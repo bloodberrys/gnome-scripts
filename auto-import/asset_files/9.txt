@@ -1,0 +1,239 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad]Hello! My name is Deckard, and I am the president of the Adventurer's Guild. If you have any questions, you can definitely ask me. (Gnome Dragon Nest Mobile)[-]
+[voice]Audio/VO/lines/lines71
+1
+[ffebad]Oh! It's you, your story is spreading like a charm now. Regarding the girl Rose you want to save, I have some great new news here. [-]
+[voice]Audio/VO/lines/lines72
+1
+[ffebad]A sage's revelation came from the Magic Ridge of the Holy Land, saying that the girl named Rose is a descendant of ancient people and a prophet who can change the fate of the world. [-]
+[voice]Audio/VO/lines/lines73
+1
+[ffebad]Although I don't know what abilities the Prophet has, but since there are so many monsters trying to snatch her, I think it must be a big shot. How can I not be involved in such a big event, I will be happy to help you. [-]
+[voice]Audio/VO/lines/lines74
+1
+[ffebad]Well, let me think about it... I seem to have a little impression of the monster you described. The habitat of the red harpy is in the Canyon of Sighs. That's a paradise for monsters! [-]
+[voice]Audio/VO/lines/lines75
+1
+[ffebad]Go find the specific location of [0096ff] the monsters on the edge of the canyon[-], and I can take you there! [-]
+[voice]Audio/VO/lines/lines76
+0
+[ffebad]I always feel that this person is very excited about dangerous things... Anyway, let's go to the edge of the [0096ff] canyon[-] to find out. [-]
+[voice]Audio/VO/Warrior/warrior15
+
+in progress
+1
+[ffebad]go to [0096ff] canyon rim [-] let's [-]
+
+end
+0
+[ffebad]Yo! President Deckard! This time I bring back good news! The red harpy only interacts with dark elves, as long as he has an elf harp, that guy will be hooked immediately! [-]
+[voice]Audio/VO/Warrior/warrior10
+
+prof 2
+
+begin
+1
+[ffebad]Hello! My name is Deckard, and I am the president of the Adventurer's Guild. If you have any questions, you can definitely ask me. [-]
+[voice]Audio/VO/lines/lines71
+1
+[ffebad]Oh! It's you, your story is spreading like a charm now. Regarding the girl Rose you want to save, I have some great new news here. [-]
+[voice]Audio/VO/lines/lines72
+1
+[ffebad]A sage's revelation came from the Magic Ridge of the Holy Land, saying that the girl named Rose is a descendant of ancient people and a prophet who can change the fate of the world. [-]
+[voice]Audio/VO/lines/lines73
+1
+[ffebad]Although I don't know what abilities the Prophet has, but since there are so many monsters trying to snatch her, I think it must be a big shot. How can I not be involved in such a big event, I will be happy to help you. [-]
+[voice]Audio/VO/lines/lines74
+1
+[ffebad]Well, let me think about it... I seem to have a little impression of the monster you described. The habitat of the red harpy is in the Canyon of Sighs. That's a paradise for monsters! [-]
+[voice]Audio/VO/lines/lines75
+1
+[ffebad]Go find the specific location of [0096ff] the monsters on the edge of the canyon[-], and I can take you there! [-]
+[voice]Audio/VO/lines/lines76
+0
+[ffebad]I always feel that this person is very excited about dangerous things... Anyway, let's go to the edge of the [0096ff] canyon[-] to find out. [-]
+[voice]Audio/VO/Archer/archer15
+
+in progress
+1
+[ffebad]go to [0096ff] canyon rim [-] let's [-]
+
+end
+0
+[ffebad]President Deckard! This time I bring back good news! The red harpy only interacts with dark elves, as long as he has an elf harp, that guy will be hooked immediately! [-]
+[voice]Audio/VO/Archer/archer10
+
+prof 3
+
+begin
+1
+[ffebad]Hello! My name is Deckard, and I am the president of the Adventurer's Guild. If you have any questions, you can definitely ask me. [-]
+[voice]Audio/VO/lines/lines71
+1
+[ffebad]Oh! It's you, your story is spreading like a charm now. Regarding the girl Rose you want to save, I have some great new news here. [-]
+[voice]Audio/VO/lines/lines72
+1
+[ffebad]A sage's revelation came from the Magic Ridge of the Holy Land, saying that the girl named Rose is a descendant of ancient people and a prophet who can change the fate of the world. [-]
+[voice]Audio/VO/lines/lines73
+1
+[ffebad]Although I don't know what abilities the Prophet has, but since there are so many monsters trying to snatch her, I think it must be a big shot. How can I not be involved in such a big event, I will be happy to help you. [-]
+[voice]Audio/VO/lines/lines74
+1
+[ffebad]Well, let me think about it... I seem to be a little impressed by the monster you described, thenThe habitat of the red harpy is in the Canyon of Sighs. That's a paradise for monsters! [-]
+[voice]Audio/VO/lines/lines75
+1
+[ffebad]Go find the specific location of [0096ff] the monsters on the edge of the canyon[-], and I can take you there! [-]
+[voice]Audio/VO/lines/lines76
+0
+[ffebad]I always feel that this person is very excited about dangerous things... Anyway, let's go to the edge of the [0096ff] canyon[-] to find out. [-]
+[voice]Audio/VO/Sorceress/Sorceress15
+
+in progress
+1
+[ffebad]go to [0096ff] canyon rim [-] let's [-]
+
+end
+0
+[ffebad]I'm bringing back good news this time! The red harpy only interacts with dark elves, as long as he has an elf harp, that guy will be hooked immediately! [-]
+[voice]Audio/VO/Sorceress/Sorceress10
+
+prof 4
+
+begin
+1
+[ffebad]Hello! My name is Deckard, and I am the president of the Adventurer's Guild. If you have any questions, you can definitely ask me. [-]
+[voice]Audio/VO/lines/lines71
+1
+[ffebad]Oh! It's you, your story is spreading like a charm now. Regarding the girl Rose you want to save, I have some great new news here. [-]
+[voice]Audio/VO/lines/lines72
+1
+[ffebad]A sage's revelation came from the Magic Ridge of the Holy Land, saying that the girl named Rose is a descendant of ancient people and a prophet who can change the fate of the world. [-]
+[voice]Audio/VO/lines/lines73
+1
+[ffebad]Although I don't know what abilities the Prophet has, but since there are so many monsters trying to snatch her, I think it must be a big shot. How can I not be involved in such a big event, I will be happy to help you. [-]
+[voice]Audio/VO/lines/lines74
+1
+[ffebad]Well, let me think about it... I seem to have a little impression of the monster you described. The habitat of the red harpy is in the Canyon of Sighs. That's a paradise for monsters! [-]
+[voice]Audio/VO/lines/lines75
+1
+[ffebad]Go find the specific location of [0096ff] the monsters on the edge of the canyon[-], and I can take you there! [-]
+[voice]Audio/VO/lines/lines76
+0
+[ffebad]I always feel that this person is very excited about dangerous things... Anyway, let's go to the edge of the [0096ff] canyon[-] to find out. [-]
+[voice]Audio/VO/Cleric/cleric15
+
+in progress
+1
+[ffebad]go to [0096ff] canyon rim [-] let's [-]
+
+end
+0
+[ffebad]President Deckard! I bring back news! The red harpy only interacts with dark elves, as long as he has an elf harp, that guy will be hooked immediately! [-]
+[voice]Audio/VO/Cleric/cleric10
+
+prof 5
+
+begin
+1
+[ffebad]Hello! My name is Deckard, and I am the president of the Adventurer's Guild. If you have any questions, you can definitely ask me. [-]
+[voice]Audio/VO/lines/lines71
+1
+[ffebad]Oh! It's you, your story is spreading like a charm now. Regarding the girl Rose you want to save, I have some great new news here. [-]
+[voice]Audio/VO/lines/lines72
+1
+[ffebad]A sage's revelation came from the Magic Ridge of the Holy Land, saying that the girl named Rose is a descendant of ancient people and a prophet who can change the fate of the world. [-]
+[voice]Audio/VO/lines/lines73
+1
+[ffebad]Although I don't know what abilities the Prophet has, but since there are so many monsters trying to snatch her, I think it must be a big shot. How can I not be involved in such a big event, I will be happy to help you. [-]
+[voice]Audio/VO/lines/lines74
+1
+[ffebad]Well, let me think about it... I seem to have a little impression of the monster you described. The habitat of the red harpy is in the Canyon of Sighs. That's a paradise for monsters! [-]
+[voice]Audio/VO/lines/lines75
+1
+[ffebad]Go find the specific location of [0096ff] the monsters on the edge of the canyon[-], and I can take you there! [-]
+[voice]Audio/VO/lines/lines76
+0
+[ffebad]I always feel that this person is very excited about dangerous things... Anyway, let's go to the edge of the [0096ff] canyon[-] to find out. [-]
+[voice]Audio/VO/Academic/academic15
+
+in progress
+1
+[ffebad]go to [0096ff] canyon rim [-] let's [-]
+
+end
+0
+[ffebad]President Deckard! I'm back with good news! The red harpy only interacts with dark elves, as long as he has an elf harp, that guy will be hooked immediately! [-]
+[voice]Audio/VO/Academic/academic28
+
+prof 6
+
+begin
+1
+[ffebad]Hello! My name is Deckard, and I am the president of the Adventurer's Guild. If you have any questions, you can definitely ask me. [-]
+[voice]Audio/VO/lines/lines71
+1
+[ffebad]Oh! It's you, your story is spreading like a charm now. Regarding the girl Rose you want to save, I have some great new news here. [-]
+[voice]Audio/VO/lines/lines72
+1
+[ffebad]A sage's revelation came from the Magic Ridge of the Holy Land, saying that the girl named Rose is a descendant of ancient people and a prophet who can change the fate of the world. [-]
+[voice]Audio/VO/lines/lines73
+1
+[ffebad]Although I don't know what abilities the Prophet has, but since there are so many monsters trying to snatch her, I think it must be a big shot. How can I not be involved in such a big event, I will be happy to help you. [-]
+[voice]Audio/VO/lines/lines74
+1
+[ffebad]Well, let me think about it... I seem to have a little impression of the monster you described. The habitat of the red harpy is in the Canyon of Sighs. That's a paradise for monsters! [-]
+[voice]Audio/VO/lines/lines75
+1
+[ffebad]Go find the specific location of [0096ff] the monsters on the edge of the canyon[-], and I can take you there! [-]
+[voice]Audio/VO/lines/lines76
+0
+[ffebad]I always feel that this person is very excited about dangerous things... Anyway, let's go to the edge of the [0096ff] canyon[-] to find out. [-]
+[voice]Audio/VO/Assassin/Assassin15
+
+in progress
+1
+[ffebad]go to [0096ff] canyon rim [-] let's [-]
+
+end
+0
+[ffebad]President Deckard! I'm back with good news! The red harpy only interacts with dark elves, as long as he has an elf harp, that guy will be hooked immediately! [-]
+[voice]Audio/VO/Assassin/assassin28
+
+prof 7
+
+begin
+1
+[ffebad]Hello! My name is Deckard, and I am the president of the Adventurer's Guild. If you have any questions, you can definitely ask me. [-]
+[voice]Audio/VO/lines/lines71
+1
+[ffebad]Oh! It's you, your story is spreading like a charm now. Regarding the girl Rose you want to save, I have some great new news here. [-]
+[voice]Audio/VO/lines/lines72
+1
+[ffebad]A sage's revelation came from the Magic Ridge of the Holy Land, saying that the girl named Rose is a descendant of ancient people and a prophet who can change the fate of the world. [-]
+[voice]Audio/VO/lines/lines73
+1
+[ffebad]Although I don't know what abilities the Prophet has, but since there are so many monsters trying to snatch her, I think it must be a big shot. How can I not be involved in such a big event, I will be happy to help you. [-]
+[voice]Audio/VO/lines/lines74
+1
+[ffebad]Well, let me think about it... I seem to have a little impression of the monster you described. The habitat of the red harpy is in the Canyon of Sighs. That's a paradise for monsters! [-]
+[voice]Audio/VO/lines/lines75
+1
+[ffebad]Go find the specific location of [0096ff] the monsters on the edge of the canyon[-], and I can take you there! [-]
+[voice]Audio/VO/lines/lines76
+0
+[ffebad]I always feel that this person is very excited about dangerous things... Anyway, let's go to the edge of the [0096ff] canyon[-] to find out. [-]
+[voice]Audio/VO/kali/kali24
+
+in progress
+1
+[ffebad]go to [0096ff] canyon rim [-] let's [-]
+
+end
+0
+[ffebad]President Deckard! I bring back news! The red harpy only interacts with dark elves, as long as he has an elf harp, that guy will be hooked immediately! [-]
+[voice]Audio/VO/kali/kali28

@@ -1,0 +1,23 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]It's a sea monster! Yes, you heard that right, a sea monster! It's so unreasonable, its remains are still in our hands, how could another one appear! (Gnome Dragon Nest Mobile)[-]
+1
+[ffebad]There must be something wrong with this! I am really anxious now... Please forgive my selfishness, but our soldiers can no longer sacrifice, so I can only ask you to go to the [0096ff] ruined port[-] to inquire about it, you will not refuse me, poor old man? [-]
+0
+[ffebad]In this situation, it is my duty to do so. I'm going now, please make arrangements as soon as possible! [-]
+
+in progress
+1
+[ffebad]go to [0096ff] ruin port[-]
+
+end
+0
+[ffebad]The port was completely destroyed, and there are ruins everywhere... I escorted a group of fleeing civilians back, and they all said they saw sea monsters, but I didn't encounter them along the way. [-]
+1
+[ffebad]Desperate, desperate! That is not a monster that humans can contend with! By the way, Jinlong, he is still in the royal city! This time, I have to rely on his strength to say anything. He has built a lair, and no one can approach it except you. Please, go discuss it with Jinlong, shall we? [-]
+0
+[ffebad]But Geraint...his injury hasn't healed yet...the situation is special now, let me ask him what he means first. [-]

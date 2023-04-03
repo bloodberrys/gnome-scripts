@@ -1,0 +1,133 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad]Adventurer, hey, leader, come and help me! [-]
+0
+[ffebad]Haha, no problem, what can I do. [-]
+1
+[ffebad]I found the last batch of fans who were tainted by the breath of corruption and lost their minds. After all, they used to be my fan group, it really makes me sad, can you accompany me to get rid of them? [-]
+
+in progress
+1
+[ffebad]Go ahead, little warrior. [-]
+
+end
+1
+[ffebad]hope their souls can be relieved, such a sad thing, never happen again. [-]
+0
+[ffebad]I will destroy all evil and protect the beautiful Altria! [-]
+1
+[ffebad]I believe in you, and I will also advise fans to be careful and protect themselves. This is a gift for you, be sure to accept it! [-]
+
+prof 2
+
+begin
+1
+[ffebad]Adventurer, hey, leader, come and help me! [-]
+0
+[ffebad]Haha, no problem, what can I do. [-]
+1
+[ffebad]I found the last batch of fans who were tainted by the breath of corruption and lost their minds. After all, they used to be my fan group, it really makes me sad, can you accompany me to get rid of them? [-]
+
+in progress
+1
+[ffebad]Go ahead, little warrior. [-]
+
+end
+1
+[ffebad]hope their souls can be relieved, such a sad thing, never happen again. [-]
+0
+[ffebad]I will destroy all evil and protect the beautiful Altria! [-]
+1
+[ffebad]I believe in you, and I will also advise fans to be careful and protect themselves. This is a gift for you, be sure to accept it! [-]
+
+prof 3
+
+begin
+1
+[ffebad]Adventurer, hey, leader, come and help me! [-]
+0
+[ffebad]Haha, no problem, what can I do. [-]
+1
+[ffebad]I found the last batch of fans who were tainted by the breath of corruption and lost their minds. After all, they used to be my fan group, it really makes me sad, can you accompany me to get rid of them? [-]
+
+in progress
+1
+[ffebad]Go ahead, little warrior. [-]
+
+end
+1
+[ffebad]hope their souls can be relieved, such a sad thing, never happen again. [-]
+0
+[ffebad]I will destroy all evil and protect the beautiful Altria! [-]
+1
+[ffebad]I believe in you, and I will also advise fans to be careful and protect themselves. This is a gift for you, be sure to accept it! [-]
+
+prof 4
+
+begin
+1
+[ffebad]Adventurer, hey, leader, come and help me! [-]
+0
+[ffebad]Haha, no problem, what can I do. [-]
+1
+[ffebad]I found the last batch of fans who were tainted by the breath of corruption and lost their minds. After all, they used to be my fan group, it really makes me sad, can you accompany me to get rid of them? [-]
+
+in progress
+1
+[ffebad]Go ahead, little warrior. [-]
+
+end
+1
+[ffebad]hope their souls can be relieved, such a sad thing, never happen again. [-]
+0
+[ffebad]I will destroy all evil and protect the beautiful Altria! [-]
+1
+[ffebad]I believe in you, and I will also advise fans to be careful and protect themselves. This is a gift for you, be sure to accept it! [-]
+
+Prof 5
+
+begin
+1
+[ffebad]Adventurer, hey, leader, come and help me! [-]
+0
+[ffebad]Haha, no problem, what can I do. [-]
+1
+[ffebad]I found the last batch of fans who were tainted by the breath of corruption and lost their minds. After all, they used to be my fan group, it really makes me sad, can you accompany me to get rid of them? [-]
+
+in progress
+1
+[ffebad]Go ahead, little warrior. [-]
+
+end
+1
+[ffebad]hope their souls can be relieved, such a sad thing, never happen again. [-]
+0
+[ffebad]I will destroy all evil and protect the beautiful Altria! [-]
+1
+[ffebad]I believe in you, and I will also advise fans to be careful and protect themselves. This is a gift for you, be sure to accept it! [-]
+
+prof 6
+
+begin
+1
+[ffebad]Adventurer, hey, leader, come and help me! [-]
+0
+[ffebad]Haha, no problem, what can I do. [-]
+1
+[ffebad]I found the last batch of fans who were tainted by the breath of corruption and lost their minds. After all, they used to be my fan group, it really makes me sad, can you accompany me to get rid of them? [-]
+
+in progress
+1
+[ffebad]Go ahead, little warrior. [-]
+
+end
+1
+[ffebad]hope their souls can be relieved, such a sad thing, never happen again. [-]
+0
+[ffebad]I will destroy all evil and protect the beautiful Altria! [-]
+1
+[ffebad]I believe in you, and I will also advise fans to be careful and protect themselves. This is a gift for you, be sure to accept it! [-]

@@ -1,0 +1,132 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad]Well, the power of the ancients can be felt from these wreckages. As long as you have these, you can make props that weaken the power of the lair. (Gnome Dragon Nest Mobile)[-]
+[voice]Audio/VO/lines/lines220
+1
+[ffebad]Ready, this amulet with the power of the ancients can temporarily weaken the barrier of the lair, let's attack at that time! Go to [0096ff] Tower of the Dark Lord[-]! [-]
+[voice]Audio/VO/lines/lines221
+
+in progress
+1
+[ffebad]Go to [0096ff] Tower of the Dark Lord[-]
+
+end
+1
+[ffebad]The strength of the lair has been weakened, well done, it's time to go and rescue the prophet girl! [-]
+[voice]Audio/VO/lines/lines222
+
+prof 2
+
+begin
+1
+[ffebad]Well, the power of the ancients can be felt from these wreckages. As long as you have these, you can make props that weaken the power of the lair. [-]
+[voice]Audio/VO/lines/lines220
+1
+[ffebad]Ready, this amulet with the power of the ancients can temporarily weaken the barrier of the lair, let's attack at that time! Go to [0096ff] Tower of the Dark Lord[-]! [-]
+[voice]Audio/VO/lines/lines221
+
+in progress
+1
+[ffebad]Go to [0096ff] Tower of the Dark Lord[-]
+
+end
+1
+[ffebad]The strength of the lair has been weakened, well done, it's time to go and rescue the prophet girl! [-]
+[voice]Audio/VO/lines/lines222
+
+prof 3
+
+begin
+1
+[ffebad]Well, the power of the ancients can be felt from these wreckages. As long as you have these, you can make props that weaken the power of the lair. [-]
+[voice]Audio/VO/lines/lines220
+1
+[ffebad]Ready, this amulet with the power of the ancients can temporarily weaken the barrier of the lair, let's attack at that time! Go to [0096ff] Tower of the Dark Lord[-]! [-]
+[voice]Audio/VO/lines/lines221
+
+in progress
+1
+[ffebad]Go to [0096ff] Tower of the Dark Lord[-]
+
+end
+1
+[ffebad]The strength of the lair has been weakened, well done, it's time to go and rescue the prophet girl! [-]
+[voice]Audio/VO/lines/lines222
+
+prof 4
+
+begin
+1
+[ffebad]Well, the power of the ancients can be felt from these wreckages. As long as you have these, you can make props that weaken the power of the lair. [-]
+[voice]Audio/VO/lines/lines220
+1
+[ffebad]Ready, this amulet with the power of the ancients can temporarily weaken the barrier of the lair, let's attack at that time! Go to [0096ff] Tower of the Dark Lord[-]! [-]
+[voice]Audio/VO/lines/lines221
+
+in progress
+1
+[ffebad]Go to [0096ff] Tower of the Dark Lord[-]
+
+end
+1
+[ffebad]The strength of the lair has been weakened, well done, it's time to go and rescue the prophet girl! [-]
+[voice]Audio/VO/lines/lines222
+
+Prof 5
+
+begin
+1
+[ffebad]Well, the power of the ancients can be felt from these wreckages. As long as you have these, you can make props that weaken the power of the lair. [-]
+[voice]Audio/VO/lines/lines220
+1
+[ffebad]Ready, this amulet with the power of the ancients can temporarily weaken the barrier of the lair, let's attack at that time! Go to [0096ff] Tower of the Dark Lord[-]! [-]
+[voice]Audio/VO/lines/lines221
+
+in progress
+1
+[ffebad]Go to [0096ff] Tower of the Dark Lord[-]
+
+end
+1
+[ffebad]The strength of the lair has been weakened, well done, it's time to go and rescue the prophet girl! [-]
+[voice]Audio/VO/lines/lines222
+
+prof 6
+
+begin
+1
+[ffebad]Well, the power of the ancients can be felt from these wreckages. As long as you have these, you can make props that weaken the power of the lair. [-]
+[voice]Audio/VO/lines/lines220
+1
+[ffebad]Ready, this amulet with the power of the ancients can temporarily weaken the barrier of the lair, let's attack at that time! Go to [0096ff] Tower of the Dark Lord[-]! [-]
+[voice]Audio/VO/lines/lines221
+
+in progress
+1
+[ffebad]Go to [0096ff] Tower of the Dark Lord[-]
+
+end
+1
+[ffebad]The strength of the lair has been weakened, well done, it's time to go and rescue the prophet girl! [-]
+[voice]Audio/VO/lines/lines222
+
+prof 7begin
+1
+[ffebad]Well, the power of the ancients can be felt from these wreckages. As long as you have these, you can make props that weaken the power of the lair. [-]
+[voice]Audio/VO/lines/lines220
+1
+[ffebad]Ready, this amulet with the power of the ancients can temporarily weaken the barrier of the lair, let's attack at that time! Go to [0096ff] Tower of the Dark Lord[-]! [-]
+[voice]Audio/VO/lines/lines221
+
+in progress
+1
+[ffebad]Go to [0096ff] Tower of the Dark Lord[-]
+
+end
+1
+[ffebad]The strength of the lair has been weakened, well done, it's time to go and rescue the prophet girl! [-]
+[voice]Audio/VO/lines/lines222

@@ -1,0 +1,21 @@
+start
+
+prof 0
+
+begin
+0
+[ffebad]Lily, did you have a good time yesterday? I'll take you to the playground again today, okay? [-]
+1
+[ffebad]Well, Lily is happy. Adventurer, you are as good as your sister, and Lily likes you the most. [-]
+
+in progress
+1
+[ffebad]hee hee [-]
+
+end
+0
+[ffebad]Be good Lily, be a strong child, and I will visit you more in the future. [-]
+1
+[ffebad]Well, it's an agreement. You must visit Lily often. Lily will make the most delicious cake for you. [-]
+0
+[ffebad]Definitely, I will definitely come here often. [-]

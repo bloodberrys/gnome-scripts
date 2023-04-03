@@ -1,0 +1,17 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]Adventurer, I will give you another chance to experience the power of mercenaries, are you ready? [-]
+0
+[ffebad]I'm ready! [-]
+
+in progress
+1
+[ffebad]Go~[-]
+
+end
+1
+[ffebad]You have become different. I can see from your eyes that the power of mercenaries is really extraordinary. [-]

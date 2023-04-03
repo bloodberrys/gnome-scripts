@@ -1,0 +1,23 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]Young people, look at the excitement in the city, is it the National Day of that eastern country? [-]
+0
+[ffebad]That's right, today is the National Day, and everyone is resting to celebrate! [-]
+1
+[ffebad]It is really a country full of dreams. When will the mainland restore peace and let us enjoy the same prosperity and stability as that eastern country. [-]
+0
+[ffebad]Leave it to me! [-]
+
+in progress
+1
+[ffebad]listen carefully[-]
+
+end
+1
+[ffebad]Hahaha, young man, how could I forget you, I believe in you, you will definitely bring us peace! [-]
+1
+[ffebad]This is a gift for you, don't be polite to Old Daolin! [-]

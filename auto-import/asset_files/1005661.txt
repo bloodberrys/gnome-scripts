@@ -1,0 +1,19 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]After a period of training, how do you feel now? [-]
+0
+[ffebad]Teacher, I feel stronger. [-]
+1
+[ffebad]That's good, but it's not enough. Here, this is for you, take it away. [-]
+0
+What is [ffebad]? Is it something that makes me stronger? [-]
+
+end
+1
+[ffebad]Of course, and the gold coins the teacher gave you. It's New Year's Eve, let's go buy something you want. [-]
+0
+[ffebad]Ah, thank you teacher! [-]

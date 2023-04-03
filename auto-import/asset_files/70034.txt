@@ -1,0 +1,45 @@
+start
+
+prof 0
+
+step 1
+1
+[ffebad]News from adventurers in the Mysterious Continent, there is a human helping the ice dragon to escape from the hunt. is it you? [-]
+[branch]2=narrate
+
+step 2
+1
+[ffebad]I see where you stand, Guy might be a good Childe. [-]
+1
+[ffebad]But, you don't understand what kind of misery the humans in the Mysterious Continent are living in. [-]
+1
+[ffebad]Adventurer, I watched Ibel grow up, and watched her become the Anti-Goddess liaison, helping our village repel countless Chard attacks. [-]
+1
+[ffebad]But the day she becomes Childe, we cannot live together in peace. [-]
+[ffebad]3=Maybe|3=Unbelievable|3=...
+
+step 3
+1
+[ffebad]I... can only say, drive her away from the snow mountain as soon as possible before the adventurer finds Ibel. [-]
+1
+[ffebad]If the adventurers of the Lost Continent find out, what awaits Ibel may be another death. [-]
+1
+[ffebad]Adventurer, you must make the right choice! [-]
+[branch]4=agree|5=deny
+
+step 4
+1
+[ffebad]You made the right choice! [-]
+
+step 5
+1
+[ffebad]Adventurer, you will regret your choice today! [-]
+break6
+
+step 6
+1
+[ffebad]You made the right choice! [-]
+
+step 7
+1
+[ffebad]The ice dragon crisis is resolved, adventurer. [-]

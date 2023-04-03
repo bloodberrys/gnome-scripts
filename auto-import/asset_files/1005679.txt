@@ -1,0 +1,21 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]Ah, adventurer, hello~ It’s the season of warm spring and flowers blooming again, which is also the traditional Chinese festival Qingming Festival, a day for worshiping ancestors and sweeping graves! [-]
+0
+[ffebad]In such a good season, it is also a good choice to lie on the grass with friends and brush dragon books in Jigu! [-]
+1
+[ffebad]Adventurer, in view of your continued support for Keegu, I will send you a gift! [-]
+0
+[ffebad]Ahh, really? Then Irene, can I become the Emperor of Europe today? [-]
+
+
+
+end
+1
+[ffebad]This is a small gift from Irene to the adventurer, be sure to keep it well, it is said that it can bring European spirit~[-]
+0
+[ffebad]Hahahaha, thank you Miss Irene! [-]

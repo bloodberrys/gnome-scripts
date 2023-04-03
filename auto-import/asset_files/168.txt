@@ -1,0 +1,23 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]Ah, forget it, don't count on you. Listen to me now, I will only tell you the mission content once. [-]
+1
+[ffebad]The outer entrance near the Monolith, with the Gate of the Monolith and the Sealing Stone. The Sealing Stone can restrain the Gate of the Monolith so that it cannot be opened in Altria. [-]
+1
+[ffebad]My strength has been absorbed and is almost exhausted, and the sealing stone is riddled with holes, so I asked you to find gravel for repair. [-]
+1
+[ffebad]Now go to the treasure burial place and look for it. If you are lucky, you may be able to find some. [-]
+
+in progress
+1
+[ffebad]Go find the gravel in the treasure burial place[-]
+
+end
+0
+[ffebad]Argenta, I found a piece, do you see this? [-]
+1
+[ffebad]You've always had good shit luck. [-]

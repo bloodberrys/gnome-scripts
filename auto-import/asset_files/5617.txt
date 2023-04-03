@@ -1,0 +1,181 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad]Hey, dear warrior, that, hey, actually, alas, I have a small wish, can you please help me? [-]
+0
+[ffebad]what happened? Mr. President, it's not like you who are hesitating? [-]
+1
+[ffebad]Look, Miss Song Zuer lives next door to me. She's so beautiful and a big star, I, I think... [-]
+0
+[ffebad]Chairman, you don't want to pursue Miss Song Zuer, do you? Don't you want to swear to be single for the rest of your life in order to protect the mainland? [-]
+1
+[ffebad]No, no, no, I just want to make friends, but you know, I don't dare to talk to girls, can you please, go and ask Miss Song Zuer, would you like to come to my place once in a while? [-]
+0
+[ffebad]Unexpectedly, the eloquent chairman would be shy, okay, leave it to me. [-]
+1
+[ffebad]It's not good to be empty-handed, come on, I'll give you a sum of money, you go to the profiteer Pop to pick some gifts first. please! [-]
+
+in progress
+1
+[ffebad]Go ahead, little warrior. [-]
+
+end
+1
+[ffebad]Oh, dear little warrior, welcome, what do you want, gorgeous fashion, or cool Guangwu. [-]
+0
+[ffebad]Well, I'm here to buy a gift for a girl. [-]
+1
+[ffebad]Oh! ! ! I understand I understand! [-]
+
+prof 2
+
+begin
+1
+[ffebad]Hey, dear warrior, that, hey, actually, alas, I have a small wish, can you please help me? [-]
+0
+[ffebad]what happened? Mr. President, it's not like you who are hesitating? [-]
+1
+[ffebad]Look, Miss Song Zuer lives next door to me. She's so beautiful and a big star, I, I think... [-]
+0
+[ffebad]Chairman, you don't want to pursue Miss Song Zuer, do you? Don't you want to swear to be single for the rest of your life in order to protect the mainland? [-]
+1
+[ffebad]No, no, no, I just want to make friends, but you know, I don't dare to talk to girls, can you please, go and ask Miss Song Zuer, would you like to come to my place once in a while? [-]
+0
+[ffebad]Unexpectedly, the eloquent chairman would be shy, okay, leave it to me. [-]
+1
+[ffebad]It's not good to be empty-handed, come on, I'll give you a sum of money, you go to the profiteer Pop to pick some gifts first. please! [-]
+
+in progress
+1
+[ffebad]Go ahead, little warrior. [-]
+
+end
+1
+[ffebad]Oh, dear little warrior, welcome, what do you want, gorgeous fashion, or cool Guangwu. [-]
+0
+[ffebad]Well, I'm here to buy a gift for a girl. [-]
+1
+[ffebad]Oh! ! ! I understand I understand! [-]
+
+prof 3
+
+begin
+1
+[ffebad]Hey, dear warrior, that, hey, actually, alas, I have a small wish, can you please help me? [-]
+0
+[ffebad]what happened? Mr. President, it's not like you who are hesitating? [-]
+1
+[ffebad]Look, Miss Song Zuer lives next door to me. She's so beautiful and a big star, I, I think... [-]
+0
+[ffebad]Chairman, you don't want to pursue Miss Song Zuer, do you? Don't you want to swear to be single for the rest of your life in order to protect the mainland? [-]
+1
+[ffebad]No, no, no, I just want to make friends, but you know, I don't dare to talk to girls, can you please, go and ask Miss Song Zuer, would you like to come to my place once in a while? [-]
+0
+[ffebad]Unexpectedly, the eloquent chairman would be shy, okay, leave it to me. [-]
+1
+[ffebad]It's not good to be empty-handed, come on, I'll give you a sum of money, you go to the profiteer Pop to pick some gifts first. please! [-]
+
+in progress
+1
+[ffebad]Go ahead, little warrior. [-]
+
+end
+1
+[ffebad]Oh, dear little warrior, welcome, what do you want, gorgeous fashion, or cool Guangwu. [-]
+0
+[ffebad]Well, I'm here to buy a gift for a girl. [-]
+1
+[ffebad]Oh! ! ! I understand I understand! [-]
+
+prof 4
+
+begin
+1
+[ffebad]Hey, dear warrior, that, hey, actually, alas, I have a small wish, can you please help me? [-]
+0
+[ffebad]what happened? Mr. President, it's not like you who are hesitating? [-]
+1
+[ffebad]Look, Miss Song Zuer lives next door to me. She's so beautiful and a big star, I, I think... [-]
+0
+[ffebad]Chairman, you don't want to pursue Miss Song Zuer, do you? Don't you want to swear to be single for the rest of your life in order to protect the mainland? [-]
+1
+[ffebad]No, no, no, I just want to make friends, but you know, I don't dare to talk to girls, can you please, go and ask Miss Song Zuer, would you like to come to my place once in a while? [-]
+0
+[ffebad]Unexpectedly, the eloquent chairman would be shy, okay, leave it to me. [-]
+1
+[ffebad]It's not good to be empty-handed, come on, I'll give you a sum of money, you go to the profiteer Pop to pick some gifts first. please! [-]
+
+in progress
+1
+[ffebad]Go ahead, little warrior. [-]
+
+end
+1
+[ffebad]Oh, dear little warrior, welcome, what do you want, gorgeous fashion, or cool Guangwu.[-]
+0
+[ffebad]Well, I'm here to buy a gift for a girl. [-]
+1
+[ffebad]Oh! ! ! I understand I understand! [-]
+
+prof 5
+
+begin
+1
+[ffebad]Hey, dear warrior, that, hey, actually, alas, I have a small wish, can you please help me? [-]
+0
+[ffebad]what happened? Mr. Chairman, it's not like you who are hesitating? [-]
+1
+[ffebad]Look, Miss Song Zuer lives next door to me. She's so beautiful and a big star, I, I think... [-]
+0
+[ffebad]Chairman, you don't want to pursue Miss Song Zuer, do you? Don't you want to swear to be single for the rest of your life in order to protect the mainland? [-]
+1
+[ffebad]No, no, no, I just want to make friends, but you know, I don't dare to talk to girls, can you please, go and ask Miss Song Zuer, would you like to come to my place once in a while? [-]
+0
+[ffebad]Unexpectedly, the eloquent chairman would be shy, okay, leave it to me. [-]
+1
+[ffebad]It's not good to be empty-handed, come on, I'll give you a sum of money, you go to the profiteer Pop to pick some gifts first. please! [-]
+
+in progress
+1
+[ffebad]Go ahead, little warrior. [-]
+
+end
+1
+[ffebad]Oh, dear little warrior, welcome, what do you want, gorgeous fashion, or cool Guangwu. [-]
+0
+[ffebad]Well, I'm here to buy a gift for a girl. [-]
+1
+[ffebad]Oh! ! ! I understand I understand! [-]
+
+prof 6
+
+begin
+1
+[ffebad]Hey, dear warrior, that, hey, actually, alas, I have a small wish, can you please help me? [-]
+0
+[ffebad]what happened? Mr. Chairman, it's not like you who are hesitating? [-]
+1
+[ffebad]Look, Miss Song Zuer lives next door to me. She's so beautiful and a big star, I, I think... [-]
+0
+[ffebad]Chairman, you don't want to pursue Miss Song Zuer, do you? Don't you want to swear to be single for the rest of your life in order to protect the mainland? [-]
+1
+[ffebad]No, no, no, I just want to make friends, but you know, I don't dare to talk to girls, can you please, go and ask Miss Song Zuer, would you like to come to my place once in a while? [-]
+0
+[ffebad]Unexpectedly, the eloquent chairman would be shy, okay, leave it to me. [-]
+1
+[ffebad]It's not good to be empty-handed, come on, I'll give you a sum of money, you go to the profiteer Pop to pick some gifts first. please! [-]
+
+in progress
+1
+[ffebad]Go ahead, little warrior. [-]
+
+end
+1
+[ffebad]Oh, dear little warrior, welcome, what do you want, gorgeous fashion, or cool Guangwu. [-]
+0
+[ffebad]Well, I'm here to buy a gift for a girl. [-]
+1
+[ffebad]Oh! ! ! I understand I understand! [-]

@@ -1,0 +1,23 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]Speaking of which, did you find Rose? And those two... where are the two adults? [-]
+0
+[ffebad]Rose seems to have regained the power of the prophet, and she is about to open the road to the monument. [-]
+0
+[ffebad]Argenta and Jr. Geraint have already taken the first step to stop them! [-]
+1
+[ffebad]It seems that we have to hurry up, for the future of the elves, we have to go to the edge of the island to stop them. [-]
+
+in progress
+1
+[ffebad]Go to the edge of the island to block[-]
+
+end
+1
+[ffebad]Welcome, great adventurer. Just got the news that there are intruders at the entrance of the megalithic monument? [-]
+0
+[ffebad]Yes, by now, a large number of dragon followers should have gathered there, and the situation is critical. [-]

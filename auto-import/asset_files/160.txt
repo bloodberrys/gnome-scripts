@@ -1,0 +1,23 @@
+start
+
+prof 0
+
+begin
+0
+[ffebad]Argenta, that letter contains the location of the tree of life and the time of action of the queen candidates. [-]
+1
+[ffebad]Sure enough, the information about the queen's election meeting has been spread by the traitors. But the most important part is missing here, the fallen ancient girl can't use this to destroy the queen's election meeting. [-]
+1
+[ffebad]It also notes the place where we will meet next time. Go to this hypocritical deserted village to see if you can catch that traitor. [-]
+
+in progress
+1
+[ffebad]Go to the hypocritical deserted village[-]
+
+end
+0
+[ffebad]Argenta, when I went, it seemed that they had finished handing over, and Rose ran away in a hurry, but it was not in the direction of the tree of life at all, and she was still calling for Mrs. Peda. [-]
+1
+[ffebad]received wrong information? It seems that the unknown elf traitor has plans of his own. [-]
+1
+[ffebad]Anyway, at least I can catch a little bit of Peda's tail. [-]

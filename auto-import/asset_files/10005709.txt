@@ -1,0 +1,17 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]Come to receive the Spring Festival gifts! Come to get the Spring Festival gift! [-]
+1
+[ffebad]I will give you a paid vacation certificate, and after receiving it, you can put down the iron box and concentrate on eating, drinking and having fun[-]
+1
+[ffebad]Don't look, everyone is on holiday for Chinese New Year, and the lines on this platform are pre-recorded! [-]
+
+end
+1
+[ffebad]I wish you a happy holiday! [-]
+0
+[ffebad](Wow, what a perfunctory one is visible to the naked eye!)[-]

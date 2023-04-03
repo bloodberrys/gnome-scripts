@@ -1,0 +1,239 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad]As much as he hates to admit it, it looks like the aloof Reverend William has really degenerated into a ghoul... only he can wear the Pendant of Obedience in his undead form. (Gnome Dragon Nest Mobile)[-]
+[voice]Audio/VO/lines/lines136
+1
+[ffebad][0096ff] Grove of the Dead[-] is our final destination, I hope I'm wrong this time. [-]
+[voice]Audio/VO/lines/lines137
+1
+[ffebad]In case my guess comes true, please bring William's last relic to Jermaine. Alas... I hope the truth is not so cruel. [-]
+[voice]Audio/VO/lines/lines138
+
+in progress
+1
+[ffebad]Go to [0096ff] Grove of the Undead[-][-]
+
+end
+0
+[ffebad]Master Jermaine, I took this pendant from...a ghoul. [-]
+[voice]Audio/VO/Warrior/warrior6
+1
+[ffebad]Let me see... this is exactly the obedience pendant! You say... you took it from a ghoul? Can you describe the characteristics of that ghoul? [-]
+[voice]Audio/VO/lines/lines140
+1
+[ffebad]I see...thank you for setting him free. Unexpectedly, the teacher did not escape the fate of being polluted by the poison of corruption... [-]
+[voice]Audio/VO/lines/lines141
+0
+[ffebad]My condolences. [-]
+[voice]Audio/VO/Warrior/warrior6
+1
+[ffebad]Take the obedience pendant, the teacher's spirit in heaven must hope to help you. [-]
+[voice]Audio/VO/lines/lines142
+
+prof 2
+
+begin
+1
+[ffebad]As much as he hates to admit it, it looks like the aloof Reverend William has really degenerated into a ghoul... only he can wear the Pendant of Obedience in his undead form. [-]
+[voice]Audio/VO/lines/lines136
+1
+[ffebad][0096ff] Grove of the Dead[-] is our final destination, I hope I'm wrong this time. [-]
+[voice]Audio/VO/lines/lines137
+1
+[ffebad]In case my guess comes true, please bring William's last relic to Jermaine. Alas... I hope the truth is not so cruel. [-]
+[voice]Audio/VO/lines/lines138
+
+in progress
+1
+[ffebad]Go to [0096ff] Grove of the Undead[-][-]
+
+end
+0
+[ffebad]Master Jermaine, I took this pendant from...a ghoul. [-]
+[voice]Audio/VO/Archer/archer6
+1
+[ffebad]Let me see... this is exactly the obedience pendant! You say... you took it from a ghoul? Can you describe the characteristics of that ghoul? [-]
+[voice]Audio/VO/lines/lines140
+1
+[ffebad]I see...thank you for setting him free. Unexpectedly, the teacher did not escape the fate of being polluted by the poison of corruption... [-]
+[voice]Audio/VO/lines/lines141
+0
+[ffebad]My condolences. [-]
+[voice]Audio/VO/Archer/archer6
+1
+[ffebad]Take the obedience pendant, the teacher's spirit in heaven must hope to help you. [-]
+[voice]Audio/VO/lines/lines142
+
+prof 3
+
+begin
+1
+[ffebad]As much as he hates to admit it, it looks like the aloof Reverend William has really degenerated into a ghoul... only he can wear the Pendant of Obedience in his undead form. [-]
+[voice]Audio/VO/lines/lines136
+1
+[ffebad][0096ff] Grove of the Dead[-] is our final destination, I hope I'm wrong this time. [-]
+[voice]Audio/VO/lines/lines137
+1
+[ffebad]In case my guess comes true, please bring William's last relic to Jermaine. Alas... I hope the truth is not so cruel. [-]
+[voice]Audio/VO/lines/lines138
+
+in progress
+1
+[ffebad]Go to [0096ff] Grove of the Undead[-][-]
+
+end
+0
+[ffebad]Master Jermaine, I took this pendant from...a ghoul. [-]
+[voice]Audio/VO/Sorceress/Sorceress6
+1
+[ffebad]Let me see... this is exactly the obedience pendant! You say... you took it from a ghoul? Can you describe the characteristics of that ghoul? [-]
+[voice]Audio/VO/lines/lines140
+1
+[ffebad]I see...thank you for setting him free. Unexpectedly, the teacher did not escape the fate of being polluted by the poison of corruption... [-]
+[voice]Audio/VO/lines/lines141
+0
+[ffebad]My condolences. [-]
+[voice]Audio/VO/Sorceress/sorceress6
+1
+[ffebad]Take the obedience pendant, the teacher's spirit in heaven must hope to help you. [-]
+[voice]Audio/VO/lines/lines142
+
+prof 4
+
+begin
+1
+[ffebad]As much as he hates to admit it, it looks like the aloof Reverend William has really degenerated into a ghoul... only he can wear the Pendant of Obedience in his undead form. [-]
+[voice]Audio/VO/lines/lines136
+1
+[ffebad][0096ff] Grove of the Dead[-] is our final destination, I hope I'm wrong this time. [-]
+[voice]Audio/VO/lines/lines137
+1
+[ffebad]In case my guess comes true, please bring William's last relic to Jermaine. Alas... I hope the truth is not so cruel. [-]
+[voice]Audio/VO/lines/lines138
+
+in progress
+1
+[ffebad]Go to [0096ff] Grove of the Undead[-][-]
+
+end
+0
+[ffebad]Master, I took this pendant from...a ghoul. [-]
+[voice]Audio/VO/Cleric/cleric6
+1
+[ffebad]Let me see... this is exactly the obedience pendant! You say... you took it from a ghoul? Can you describe the characteristics of that ghoul? [-]
+[voice]Audio/VO/lines/lines140
+1
+[ffebad]I see...thank you for setting him free. Unexpectedly, the teacher did not escape the fate of being polluted by the poison of corruption...[-]
+[voice]Audio/VO/lines/lines141
+0
+[ffebad]My condolences. [-]
+[voice]Audio/VO/Cleric/cleric6
+1
+[ffebad]Take the obedience pendant, the teacher's spirit in heaven must hope to help you. [-]
+[voice]Audio/VO/lines/lines142
+
+prof 5
+
+begin
+1
+[ffebad]As much as he hates to admit it, it looks like the aloof Reverend William has really degenerated into a ghoul... only he can wear the Pendant of Obedience in his undead form. [-]
+[voice]Audio/VO/lines/lines136
+1
+[ffebad][0096ff] Grove of the Dead[-] is our final destination, I hope I'm wrong this time. [-]
+[voice]Audio/VO/lines/lines137
+1
+[ffebad]In case my guess comes true, please bring William's last relic to Jermaine. Alas... I hope the truth is not so cruel. [-]
+[voice]Audio/VO/lines/lines138
+
+in progress
+1
+[ffebad]Go to [0096ff] Grove of the Undead[-][-]
+
+end
+0
+[ffebad]Master Jermaine, I took this pendant from...a ghoul. [-]
+[voice]Audio/VO/Academic/academic6
+1
+[ffebad]Let me see... this is exactly the obedience pendant! You say... you took it from a ghoul? Can you describe the characteristics of that ghoul? [-]
+[voice]Audio/VO/lines/lines140
+1
+[ffebad]I see...thank you for setting him free. Unexpectedly, the teacher did not escape the fate of being polluted by the poison of corruption...[-]
+[voice]Audio/VO/lines/lines141
+0
+[ffebad]My condolences. [-]
+[voice]Audio/VO/Academic/academic25
+1
+[ffebad]Take the obedience pendant, the teacher's spirit in heaven must hope to help you. [-]
+[voice]Audio/VO/lines/lines142
+
+prof 6
+
+begin
+1
+[ffebad]As much as he hates to admit it, it looks like the aloof Reverend William has really degenerated into a ghoul... only he can wear the Pendant of Obedience in his undead form. [-]
+[voice]Audio/VO/lines/lines136
+1
+[ffebad][0096ff] Grove of the Dead[-] is our final destination, I hope I'm wrong this time. [-]
+[voice]Audio/VO/lines/lines137
+1
+[ffebad]In case my guess comes true, please bring William's last relic to Jermaine. Alas... I hope the truth is not so cruel. [-]
+[voice]Audio/VO/lines/lines138
+
+in progress
+1
+[ffebad]Go to [0096ff] Grove of the Undead[-][-]
+
+end
+0
+[ffebad]Master Jermaine, I took this pendant from a ghoul. [-]
+[voice]Audio/VO/Assassin/assassin6
+1
+[ffebad]Let me see... this is exactly the obedience pendant! You say... you took it from a ghoul? Can you describe the characteristics of that ghoul? [-]
+[voice]Audio/VO/lines/lines140
+1
+[ffebad]I see...thank you for setting him free. Unexpectedly, the teacher did not escape the fate of being polluted by the poison of corruption...[-]
+[voicee]Audio/VO/lines/lines141
+0
+[ffebad]Sorry. [-]
+[voice]Audio/VO/Assassin/assassin25
+1
+[ffebad]Take the obedience pendant, the teacher's spirit in heaven must hope to help you. [-]
+[voice]Audio/VO/lines/lines142
+
+prof 7
+
+begin
+1
+[ffebad]As much as he hates to admit it, it looks like the aloof Reverend William has really degenerated into a ghoul... only he can wear the Pendant of Obedience in his undead form. [-]
+[voice]Audio/VO/lines/lines136
+1
+[ffebad][0096ff] Grove of the Dead[-] is our final destination, I hope I'm wrong this time. [-]
+[voice]Audio/VO/lines/lines137
+1
+[ffebad]In case my guess comes true, please bring William's last relic to Jermaine. Alas... I hope the truth is not so cruel. [-]
+[voice]Audio/VO/lines/lines138
+
+in progress
+1
+[ffebad]Go to [0096ff] Grove of the Undead[-][-]
+
+end
+0
+[ffebad]Master Jermaine, I took this pendant from a ghoul. [-]
+[voice]Audio/VO/kali/kali5
+1
+[ffebad]Let me see... this is exactly the obedience pendant! You say... you took it from a ghoul? Can you describe the characteristics of that ghoul? [-]
+[voice]Audio/VO/lines/lines140
+1
+[ffebad]I see...thank you for setting him free. Unexpectedly, the teacher did not escape the fate of being polluted by the poison of corruption... [-]
+[voice]Audio/VO/lines/lines141
+0
+[ffebad]Sorry. [-]
+[voice]Audio/VO/kali/kali6
+1
+[ffebad]Take the obedience pendant, the teacher's spirit in heaven must hope to help you. [-]
+[voice]Audio/VO/lines/lines142

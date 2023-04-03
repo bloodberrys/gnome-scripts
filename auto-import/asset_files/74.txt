@@ -1,0 +1,31 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]Damn, didn't expect you to be infected with the poison of corruption, these evil dragons. This is not comparable to the venom of those spiders, even the pure white ball can't help. [-]
+1
+[ffebad]Hurry up and go to [0096ff] Peorista Hut[-] to meet my teacher, Mrs. Karaqiu. She has been fighting against these poisons since fifty years ago. Go, be careful of the monsters on the road. [-]
+
+in progress
+1
+[ffebad]Go to [0096ff] Peorista Hut [-]
+
+end
+1
+[ffebad]Are you the little guy Algeta said? [-]
+0
+[ffebad]Argenta ever been here? I'm going to tell her about Geraint. [-]
+1
+[ffebad]That cheeky woman left long ago. Hmph, she already knew about Geraint's news, but you don't know how much trouble you've caused. [-]
+1
+[ffebad]Geraint, Golden Dragon. His power has been used to seal the descendants of the Chaos Dragon. With his death, those seals will gradually be broken. [-]
+0
+[ffebad]Will the seal be broken? [-]
+1
+[ffebad]Don't you understand? When the seal is broken, not only a black dragon, but also descendants of the chaotic dragon will appear. Cough cough cough, why am I telling you this. [-]
+0
+[ffebad]Lord Karaqiu, what's wrong with you? [-]
+1
+[ffebad]Huh, my lord, hero? Put away those flashy things! Ever since I was glued on by the blood of the black dragon, I, the so-called six heroes, are just lingering on my last breath. [-]

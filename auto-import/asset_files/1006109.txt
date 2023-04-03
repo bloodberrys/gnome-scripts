@@ -1,0 +1,21 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]It's this time of year again, and it's really raining. [-]
+0
+[ffebad]Rain...such pouring rain, it seems to be back to that day again. [-]
+
+in progress
+1
+[ffebad]Goodbye Geraint. [-]
+
+end
+1
+[ffebad]Hey adventurer! Wake up! What's wrong? [-]
+0
+[ffebad](So it was just an illusion)[-]
+1
+[ffebad]I have some small gifts here, Altria Continent thank you for your protection. [-]

@@ -1,0 +1,120 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad]Adventurer, I am the adventurer guide Irene, responsible for guiding adventurers on their journey
+1
+[ffebad]Recently, a group of lawbreakers appeared on the continent of Altria, seriously threatening the security of the entire continent. The Adventurers Guild has released some bounties, adventurers please help us! [-]
+[can_reject]
+
+in progress
+1
+[ffebad]Hurry up and complete the bounty task[-]
+
+end
+1
+[ffebad]Thank you for everything you have done for everyone, your achievements are also seen by the goddess! [-]
+
+prof 2
+
+begin
+1
+[ffebad]Adventurer, I am the adventurer guide Irene, responsible for guiding adventurers on their journey
+1
+[ffebad]Recently, a group of lawbreakers appeared on the continent of Altria, seriously threatening the security of the entire continent. The Adventurers Guild has released some bounties, adventurers please help us! [-]
+[can_reject]
+
+in progress
+1
+[ffebad]Hurry up and complete the bounty task[-]
+
+end
+1
+[ffebad]Thank you for everything you have done for everyone, your achievements are also seen by the goddess! [-]
+
+prof 3
+
+begin
+1
+[ffebad]Adventurer, I am the adventurer guide Irene, responsible for guiding adventurers on their journey
+1
+[ffebad]Recently, a group of lawbreakers appeared on the continent of Altria, seriously threatening the security of the entire continent. The Adventurers Guild has released some bounties, adventurers please help us! [-]
+[can_reject]
+
+in progress
+1
+[ffebad]Hurry up and complete the bounty task[-]
+
+end
+1
+[ffebad]Thank you for everything you have done for everyone, your achievements are also seen by the goddess! [-]
+
+prof 4
+
+begin
+1
+[ffebad]Adventurer, I am the adventurer guide Irene, responsible for guiding adventurers on their journey
+1
+[ffebad]Recently, a group of lawbreakers appeared on the continent of Altria, seriously threatening the security of the entire continent. The Adventurers Guild has released some bounties, adventurers please help us! [-]
+[can_reject]
+
+in progress
+1
+[ffebad]Hurry up and complete the bounty task[-]
+
+end
+1
+[ffebad]Thank you for everything you have done for everyone, your achievements are also seen by the goddess! [-]
+
+Prof 5
+
+begin
+1
+[ffebad]Adventurer, I am the adventurer guide Irene, responsible for guiding adventurers on their journey
+1
+[ffebad]Recently, a group of lawbreakers appeared on the continent of Altria, seriously threatening the security of the entire continent. The Adventurers Guild has released some bounties, adventurers please help us! [-]
+[can_reject]
+
+in progress
+1
+[ffebad]Hurry up and complete the bounty task[-]
+
+end
+1
+[ffebad]Thank you for everything you have done for everyone, your achievements are also seen by the goddess! [-]
+
+prof 6
+
+begin
+1
+[ffebad]Adventurer, I am the adventurer guide Irene, responsible for guiding adventurers on their journey
+1
+[ffebad]Recently, a group of lawbreakers appeared on the continent of Altria, seriously threatening the security of the entire continent. The Adventurers Guild has released some bounties, adventurers please help us! [-]
+[can_reject]
+
+in progress
+1
+[ffebad]Hurry up and complete the bounty task[-]
+
+end
+1
+[ffebad]Thank you for everything you have done for everyone, your achievements are also seen by the goddess! [-]
+
+prof 7
+
+begin
+1
+[ffebad]Adventurer, I am the adventurer guide Irene, responsible for guiding adventurers on their journey
+1
+[ffebad]Recently, a group of lawbreakers appeared on the continent of Altria, seriously threatening the security of the entire continent. The Adventurers Guild has released some bounties, adventurers please help us! [-]
+[can_reject]
+
+in progress
+1
+[ffebad]Hurry up and complete the bounty task[-]
+
+end
+1
+[ffebad]Thank you for everything you have done for everyone, your achievements are also seen by the goddess! [-]

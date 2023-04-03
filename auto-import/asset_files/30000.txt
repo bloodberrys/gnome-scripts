@@ -1,0 +1,23 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]Dear adventurer, I heard that you are fighting against the power of the Goddess of the Lost Continent. I was told by someone who admires your courage and wants to help you. He hopes to pass on a new kind of power - awakening, to you. [-]
+0
+[ffebad]The new power, what kind of power is it? Who is this person? [-]
+1
+[ffebad]His name is Ark, and he was once an elf who served Vestine. But his people were deceived by the goddess and carried out cruel experiments, and Alk was confused by this. Now he is an elf who bravely fights against the forces of darkness. [-]
+1
+[ffebad]Awakening power is a kind of ability to stimulate the potential in the body, which can help you to perfect the skills you have learned. As for other mysteries, it's up to you, the adventurer, to find the truth yourself. [-]
+
+in progress
+1
+[ffebad]go find the answer[-]
+
+end
+1
+[ffebad]Adventurer, you are back. How, have you found the answer to the mystery in your heart? [-]
+0
+[ffebad]I... I met the elf, and he gave me this. I think I still have a lot to learn and find about awakening. [-]

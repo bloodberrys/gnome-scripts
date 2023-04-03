@@ -1,0 +1,111 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad]Warrior, I'm looking for you! The soldiers on the front line came to report that a dark army was marching towards the holy heaven, and their leader was...it was that man. [-]
+0
+[ffebad]That person? [-]
+1
+[ffebad]Beth Kede, Dark Knight Beth Kede! I have told the soldiers to inform Geraint that he should be waiting for you now. Geraint must not have wanted to see the Holy Paradise in jeopardy. [-]
+0
+[ffebad]I'm going to join Geraint, the holy heaven is protected by us! [-]
+
+in progress
+1
+[ffebad]Warrior, I hope you can help Geraint fight together. When you are ready, let's go with the army. I will wait for your return in the holy heaven. [-]
+
+end
+1
+[ffebad]Goddess bless you, warrior, welcome back in triumph, and on behalf of the people of the holy heaven, I thank you. [-]
+0
+[ffebad]Thanks to Geraint's help this time. It is our duty to protect the safety of the holy heaven[-]
+
+prof 2
+
+begin
+1
+[ffebad]Warrior, I'm looking for you! The soldiers on the front line came to report that a dark army was marching towards the holy heaven, and their leader was...it was that man. [-]
+0
+[ffebad]That person? [-]
+1
+[ffebad]Beth Kede, Dark Knight Beth Kede! I have told the soldiers to inform Geraint that he should be waiting for you now. Geraint must not have wanted to see the Holy Paradise in jeopardy. [-]
+0
+[ffebad]I'm going to join Geraint, the holy heaven is protected by us! [-]
+
+in progress
+1
+[ffebad]Warrior, I hope you can help Geraint fight together. When you are ready, let's go with the army. I will wait for your return in the holy heaven. [-]
+
+end
+1
+[ffebad]Goddess bless you, warrior, welcome back in triumph, and on behalf of the people of the holy heaven, I thank you. [-]
+0
+[ffebad]Thanks to Geraint's help this time. It is our duty to protect the safety of the holy heaven[-]
+
+prof 3
+
+begin
+1
+[ffebad]Warrior, I'm looking for you! The soldiers on the front line came to report that a dark army was marching towards the holy heaven, and their leader was...it was that man. [-]
+0
+[ffebad]That person? [-]
+1
+[ffebad]Beth Kede, Dark Knight Beth Kede! I have told the soldiers to inform Geraint that he should be waiting for you now. Geraint must not have wanted to see the Holy Paradise in jeopardy. [-]
+0
+[ffebad]I'm going to join Geraint, the holy heaven is protected by us! [-]
+
+in progress
+1
+[ffebad]Warrior, I hope you can help Geraint fight together. When you are ready, let's go with the army. I will wait for your return in the holy heaven. [-]
+
+end
+1
+[ffebad]Goddess bless you, warrior, welcome back in triumph, and on behalf of the people of the holy heaven, I thank you. [-]
+0
+[ffebad]Thanks to Geraint's help this time. It is our duty to protect the safety of the holy heaven[-]
+
+prof 4
+
+begin
+1
+[ffebad]Warrior, I'm looking for you! The soldiers on the front line came to report that a dark army was marching towards the holy heaven, and their leader was...it was that man. [-]
+0
+[ffebad]That person? [-]
+1
+[ffebad]Beth Kede, Dark Knight Beth Kede! I have told the soldiers to inform Geraint that he should be waiting for you now. Geraint must not have wanted to see the Holy Paradise in jeopardy. [-]
+0
+[ffebad]I'm going to join Geraint, the holy heaven is protected by us! [-]
+
+in progress
+1
+[ffebad]Warrior, I hope you can help Geraint fight together. When you are ready, let's go with the army. I will wait for your return in the holy heaven. [-]
+
+end
+1
+[ffebad]Goddess bless you, warrior, welcome back in triumph, and on behalf of the people of the holy heaven, I thank you. [-]
+0
+[ffebad]Thanks to Geraint's help this time. It is our duty to protect the safety of the holy heaven[-]
+
+Prof 5
+
+begin
+1
+[ffebad]Warrior, I'm looking for you! The soldiers on the front line came to report that a dark army was marching towards the holy heaven, and their leader was...it was that man. [-]
+0
+[ffebad]That person? [-]
+1
+[ffebad]Beth Kede, Dark Knight Beth Kede! I have told the soldiers to inform Geraint that he should be waiting for you now. Geraint must not have wanted to see the Holy Paradise in jeopardy. [-]
+0
+[ffebad]I'm going to join Geraint, the holy heaven is protected by us! [-]
+
+in progress
+1
+[ffebad]Warrior, I hope you can help Geraint fight together. When you are ready, let's go with the army. I will wait for your return in the holy heaven. [-]
+
+end
+1
+[ffebad]Goddess bless you, warrior, welcome back in triumph, and on behalf of the people of the holy heaven, I thank you. [-]
+0
+[ffebad]Thanks to Geraint's help this time. It is our duty to protect the safety of the holy heaven[-]

@@ -1,0 +1,19 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]That's how it is, it's a magical treasure, please call the prophet, let's save Barna. [-]
+
+in progress
+1
+[ffebad]go to [0096ff] the bottom of the misty cliff [-]
+
+end
+1
+[ffebad]How, why, the Prophet...she...[-]
+0
+[ffebad]Regardless of whether she has been deluded or depraved, the most urgent task now is to deal with Beth Keld's injury. [-]
+1
+[ffebad]Barna's body has turned to dust, and I couldn't stop it in the end. But at least let me see the cruel truth, Velskud cannot die now. I suppressed his injury for the time being, and now I will look up information on how to treat him. You go and see him. [-]

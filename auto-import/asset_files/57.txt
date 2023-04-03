@@ -1,0 +1,19 @@
+start
+
+prof 0
+
+begin
+0
+[ffebad]What? Such a thing must not be allowed to happen. I will drive away those dark elves and destroy those fragments. (Gnome Dragon Nest Mobile)[-]
+1
+[ffebad]The fragments of the black dragon are full of filthy power, you cannot be destroyed by your own strength, and you will only be corroded by poisonous blood. You go to [0096ff] the dark city center [-] where you can block the dark elves, bring those fragments back to me! [-]
+
+in progress
+1
+[ffebad]go to [0096ff] dark city center [-]
+
+end
+1
+[ffebad]Warrior, while congratulating you on your triumphant return, let me tell you great news! These days, I have devoted myself to studying the ancient books, and finally found a way to purify the wings and fragments of the black dragon! Now all I'm missing is a large ceremony and some offerings. [-]
+0
+[ffebad]Great! After so many days of hard work, it finally paid off. How can I help? [-]

@@ -1,0 +1,23 @@
+start
+
+prof 0
+
+step 1
+0
+[ffebad]You! ... what are you doing! [-]
+
+step 2
+1
+[ffebad]Tiny humans, don't overestimate yourself. You are no match for Velskud at all, even if you go, you will lose your life in vain. [-]
+
+step 3
+0
+[ffebad]How will you know if you don't try it! [-]
+
+step 4
+1
+[ffebad]Heh, funny human. That being the case, I agree to let you be my slave. [-]
+
+step 5
+0
+[ffebad]Huh? ! Who wants to be your slave! I am a dignified nobleman of Eustia! [-]

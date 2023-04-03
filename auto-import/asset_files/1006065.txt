@@ -1,0 +1,19 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]Adventurer, I have a new lead, I was told that Pop used to hold some fabric that looked like my underpants. [-]
+0
+[ffebad]I'll go ask. [-]
+
+end
+1
+[ffebad]How could I steal panties? Can stealing panties make money? [-]
+0
+[ffebad]You make a lot of sense...[-]
+1
+[ffebad]My fabrics are all new costumes bought for Halloween, you can see my new clothes on the accumulation event page! Remember to patronize~[-]
+0
+[ffebad]I see. [-]

@@ -1,0 +1,21 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]Callahan has captured the Green Dragon Jade, and with his power, it is strong enough to create a lair. But he's still collecting stuff and hasn't fully transformed into a green dragon, so it looks like we still have a chance to stop him before he gets stronger. [-]
+1
+[ffebad]I also have some speculations about what he is looking for. Although I am receiving magicians who are constantly coming, I also took the time to read a lot of ancient documents. After Geraint sealed the green dragon gem, he asked the aborigines to You know the place where the Chati tribe guards the seal[-]
+1
+[ffebad]Later, in order to strengthen the seal, with the help of the elves, a totem was set up in the area around the seal to suppress the awakening of power, so that if the seal was broken, the green dragon jade would not be able to regain its power. Callahan must have gone to destroy those totems, can I trouble you to go to the Fallen Canyon to see the situation of the totems there? I'm still working on other totem locations[-]
+0
+[ffebad]Sydell, you have really matured a lot, don't worry, just leave it to me to inquire about the news. [-]
+
+in progress
+1
+[ffebad]Go [0096ff] Fallen Land Canyon [-]
+
+end
+0
+[ffebad]I was late, the totems there were all destroyed. Sydel, have you found any news about the other totems? Callahan must be trying to destroy them. [-]

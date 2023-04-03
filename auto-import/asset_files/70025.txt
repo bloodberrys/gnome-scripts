@@ -1,0 +1,20 @@
+start
+
+prof 0
+
+step 1
+1
+[ffebad]That day, Ibel named me Guy. [-]
+1
+[ffebad]I got my own name. [-]
+1
+[ffebad](grieving) also the day I lost Ibel...[-]
+[branch]2=What happened|2=I'm sorry
+
+step 2
+1
+[ffebad]Please read on...[-]
+
+step 3
+1
+[ffebad]In order to protect Ibel, I revealed my identity. [-]

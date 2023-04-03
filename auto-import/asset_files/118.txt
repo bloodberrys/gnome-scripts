@@ -1,0 +1,113 @@
+start
+
+Prof 1
+
+begin
+0
+[ffebad]Stop, that, let me touch, do you have a fever? [-]
+1
+[ffebad]No! Don't treat me like a child! Chief Lily and the others are preparing to destroy modern humans so that future humans can immigrate here. If you don't believe it, go to the space-time disorder area, and I will find the evidence for you. [-]
+
+in progress
+1
+[ffebad]go to [0096ff] spatio-temporal disordered area[-]
+
+end
+1
+[ffebad]You have been attacked by many people, and there are many people guarding these places... Well, sure enough, they are going to carry out Operation Desert Storm. I will go to the Chaos Center to find out their plan. When the time comes, you will be amazed. [-]
+
+prof 2
+
+begin
+0
+[ffebad]Stop, that, let me touch, do you have a fever? [-]
+1
+[ffebad]No! Don't treat me like a child! Chief Lily and the others are preparing to destroy modern humans so that future humans can immigrate here. If you don't believe it, go to the space-time disorder area, and I will find the evidence for you. [-]
+
+in progress
+1
+[ffebad]go to [0096ff] spatio-temporal disordered area[-]
+
+end
+1
+[ffebad]You have been attacked by many people, and there are many people guarding these places... Well, sure enough, they are going to carry out Operation Desert Storm. I will go to the Chaos Center to find out their plan. When the time comes, you will be amazed. [-]
+
+prof 3
+
+begin
+0
+[ffebad]Stop, that, let me touch, do you have a fever? [-]
+1
+[ffebad]No! Don't treat me like a child! Chief Lily and the others are preparing to destroy modern humans so that future humans can immigrate here. If you don't believe it, go to the space-time disorder area, and I will find the evidence for you. [-]
+
+in progress
+1
+[ffebad]go to [0096ff] spatio-temporal disordered area[-]
+
+end
+1
+[ffebad]You have been attacked by many people, and there are many people guarding these places... Well, sure enough, they are going to carry out Operation Desert Storm. I will go to the Chaos Center to find out their plan. When the time comes, you will be amazed. [-]
+
+prof 4
+
+begin
+0
+[ffebad]Stop, that, let me touch, do you have a fever? [-]
+1
+[ffebad]No! Don't treat me like a child! Chief Lily and the others are preparing to destroy modern humans so that future humans can immigrate here. If you don't believe it, go to the space-time disorder area, and I will find the evidence for you. [-]
+
+in progress
+1
+[ffebad]go to [0096ff] spatio-temporal disordered area[-]
+
+end
+1
+[ffebad]You have been attacked by many people, and there are many people guarding these places... Well, sure enough, they are going to carry out Operation Desert Storm. I will go to the Chaos Center to find out their plan. When the time comes, you will be amazed. [-]
+
+Prof 5
+
+begin
+0
+[ffebad]How come, I want to contact my sister, she won't make such a crazy decision! [-]
+1
+[ffebad]You can't contact Master Lily now, if you don't believe me, go to the space-time disorder area, I will find evidence for you. [-]
+
+in progress
+1
+[ffebad]go to [0096ff] spatio-temporal disordered area[-]
+
+end
+1
+[ffebad]You have been attacked by many people, and there are many people guarding these places... Well, sure enough, they are going to carry out Operation Desert Storm. I will go to the Chaos Center to find out their plan. When the time comes, you will be amazed. [-]
+
+prof 6
+
+begin
+0
+[ffebad]Do you have a fever? [-]
+1
+[ffebad]No! Don't treat me like a child! Chief Lily and the others are preparing to destroy modern humans so that future humans can immigrate here. If you don't believe it, go to the space-time disorder area, and I will find the evidence for you. [-]
+
+in progress
+1
+[ffebad]go to [0096ff] spatio-temporal disordered area[-]
+
+end
+1
+[ffebad]You have been attacked by many people, and there are many people guarding these places... Well, sure enough, they are going to carry out Operation Desert Storm. I will go to the Chaos Center to find out their plan. When the time comes, you will be amazed. [-]
+
+prof 7
+
+begin
+0
+[ffebad]Do you have a fever? [-]
+1
+[ffebad]No! Don't treat me like a child! Chief Lily and the others are preparing to destroy modern humans so that future humans can immigrate here. If you don't believe it, go to the space-time disorder area, and I will find the evidence for you. [-]
+
+in progress
+1
+[ffebad]go to [0096ff] spatio-temporal disordered area[-]
+
+end
+1
+[ffebad]You have been attacked by many people, and there are many people guarding these places... Well, sure enough, they are going to carry out Operation Desert Storm. I will go to the Chaos Center to find out their plan. When the time comes, you will be amazed. [-]

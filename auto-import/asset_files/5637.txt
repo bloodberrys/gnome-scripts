@@ -1,0 +1,23 @@
+start
+
+prof 0
+
+begin
+0
+[ffebad]Lily, why are you crying here, who bullied you? [-]
+1
+[ffebad]woo woo woo, Lily misses her sister, but she hasn't come back yet, woo woo woo [-]
+
+in progress
+1
+[ffebad]woo woo woo [-]
+
+end
+0
+[ffebad]Lily doesn't cry, your sister... your sister will definitely come back. [-]
+1
+[ffebad]Huh huh, today, what everyone said today is Mid-Autumn Festival, everyone went home for reunion, my sister hasn't come back yet, huh huh. [-]
+0
+[ffebad]Lily, I will spend the holiday with you today, okay, let's have a good time together. [-]
+1
+[ffebad]Well, then Lily stopped crying, adventurer, thank you. Let's hang out. [-]

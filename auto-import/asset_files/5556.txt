@@ -1,0 +1,111 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad]Ah, you are the most famous adventurer recently! We need people like you, come and help us! [-]
+0
+[ffebad]What's going on? Everyone looks so anxious. [-]
+1
+[ffebad]I don't know if you've heard of Cerberus Kakari? That terrible monster is gathering his men and wants to attack here. His Majesty the King is summoning warriors to assist the army to face Kakari! [-]
+0
+[ffebad]It is my duty to leave this task to me! [-]
+1
+[ffebad]Thank you so much. The king and the bishop will pray for the warriors who went out. It is said that they will have unlimited power and life. I hope you can return successfully, the warriors! [-]
+
+in progress
+1
+[ffebad]hurry up and fight[-]
+
+end
+1
+[ffebad]What a great battle, you saved us! This is a reward offered by His Majesty the King, please accept it! [-]
+
+prof 2
+
+begin
+1
+[ffebad]Ah, you are the most famous adventurer recently! We need people like you, come and help us! [-]
+0
+[ffebad]What's going on? Everyone looks so anxious. [-]
+1
+[ffebad]I don't know if you've heard of Cerberus Kakari? That terrible monster is gathering his men and wants to attack here. His Majesty the King is summoning warriors to assist the army to face Kakari! [-]
+0
+[ffebad]It is my duty to leave this task to me! [-]
+1
+[ffebad]Thank you so much. The king and the bishop will pray for the warriors who went out. It is said that they will have unlimited power and life. I hope you can return successfully, the warriors! [-]
+
+in progress
+1
+[ffebad]hurry up and fight[-]
+
+end
+1
+[ffebad]What a great battle, you saved us! This is a reward offered by His Majesty the King, please accept it! [-]
+
+prof 3
+
+begin
+1
+[ffebad]Ah, you are the most famous adventurer recently! We need people like you, come and help us! [-]
+0
+[ffebad]What's going on? Everyone looks so anxious. [-]
+1
+[ffebad]I don't know if you've heard of Cerberus Kakari? That terrible monster is gathering his men and wants to attack here. His Majesty the King is summoning warriors to assist the army to face Kakari! [-]
+0
+[ffebad]It is my duty to leave this task to me! [-]
+1
+[ffebad]Thank you so much. The king and the bishop will pray for the warriors who went out. It is said that they will have unlimited power and life. I hope you can return successfully, the warriors! [-]
+
+in progress
+1
+[ffebad]hurry up and fight[-]
+
+end
+1
+[ffebad]What a great battle, you saved us! This is a reward offered by His Majesty the King, please accept it! [-]
+
+prof 4
+
+begin
+1
+[ffebad]Ah, you are the most famous adventurer recently! We need people like you, come and help us! [-]
+0
+[ffebad]What's going on? Everyone looks so anxious. [-]
+1
+[ffebad]I don't know if you've heard of Cerberus Kakari? That terrible monster is gathering his men and wants to attack here. His Majesty the King is summoning warriors to assist the army to face Kakari! [-]
+0
+[ffebad]It is my duty to leave this task to me! [-]
+1
+[ffebad]Thank you so much. The king and the bishop will pray for the warriors who went out. It is said that they will have unlimited power and life. I hope you can return successfully, the warriors! [-]
+
+in progress
+1
+[ffebad]hurry up and fight[-]
+
+end
+1
+[ffebad]What a great battle, you saved us! This is a reward offered by His Majesty the King, please accept it! [-]
+
+prof 5
+
+begin
+1
+[ffebad]Ah, you are the most famous adventurer recently! We need people like you, come and help us! [-]
+0
+[ffebad]What's going on? Everyone looks so anxious. [-]
+1
+[ffebad]I don't know if you've heard of Cerberus Kakari? That terrible monster is gathering his men and wants to attack here. His Majesty the King is summoning warriors to assist the army to face Kakari! [-]
+0
+[ffebad]It is my duty to leave this task to me! [-]
+1
+[ffebad]Thank you so much. The king and the bishop will pray for the warriors who went out. It is said that they will have unlimited power and life. I hope you can return successfully, the warriors! [-]
+
+in progress
+1
+[ffebad]hurry up and fight[-]
+
+end
+1
+[ffebad]What a great battle, you saved us! This is a reward offered by His Majesty the King, please accept it! [-]

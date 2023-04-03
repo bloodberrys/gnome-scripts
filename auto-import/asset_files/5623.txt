@@ -1,0 +1,109 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad]Come on, come on, adventurer. Those guys who call themselves panda stars, they ask me to find you and challenge you again. Adventurer, please help me to get rid of these troublesome guys. [-]
+0
+[ffebad]Okay, let me go and see what's going on. [-]
+
+in progress
+1
+[ffebad]Adventurer, thank you. [-]
+
+end
+0
+[ffebad]President, they failed the challenge and said they will go back to their hometown to practice, so don't worry about their harassment in the future! [-]
+1
+[ffebad]Haha, really good job. This is the gift package they sent back then, please accept it quickly. [-]
+
+prof 2
+
+begin
+1
+[ffebad]Come on, come on, adventurer. Those guys who call themselves panda stars, they ask me to find you and challenge you again. Adventurer, please help me to get rid of these troublesome guys. [-]
+0
+[ffebad]Okay, let me go and see what's going on. [-]
+
+in progress
+1
+[ffebad]Adventurer, thank you. [-]
+
+end
+0
+[ffebad]President, they failed the challenge and said they will go back to their hometown to practice, so don't worry about their harassment in the future! [-]
+1
+[ffebad]Haha, really good job. This is the gift package they sent back then, please accept it quickly. [-]
+
+prof 3
+
+begin
+1
+[ffebad]Come on, come on, adventurer. Those guys who call themselves panda stars, they ask me to find you and challenge you again. Adventurer, please help me to get rid of these troublesome guys. [-]
+0
+[ffebad]Okay, let me go and see what's going on. [-]
+
+in progress
+1
+[ffebad]Adventurer, thank you. [-]
+
+end
+0
+[ffebad]President, they failed the challenge and said they will go back to their hometown to practice, so don't worry about their harassment in the future! [-]
+1
+[ffebad]Haha, really good job. This is the gift package they sent back then, please accept it quickly. [-]
+
+prof 4
+
+begin
+1
+[ffebad]Come on, come on, adventurer. Those guys who call themselves panda stars, they ask me to find you and challenge you again. Adventurer, please help me to get rid of these troublesome guys. [-]
+0
+[ffebad]Okay, let me go and see what's going on. [-]
+
+in progress
+1
+[ffebad]Adventurer, thank you. [-]
+
+end
+0
+[ffebad]President, they failed the challenge and said they will go back to their hometown to practice, so don't worry about their harassment in the future! [-]
+1
+[ffebad]Haha, really good job. This is the gift package they sent back then, please accept it quickly. [-]
+
+prof 5
+
+begin
+1
+[ffebad]Come on, come on, adventurer. Those guys who call themselves panda stars, they ask me to find you and challenge you again. Adventurer, please help me to get rid of these troublesome guys. [-]
+0
+[ffebad]Okay, let me go and see what's going on. [-]
+
+in progress
+1
+[ffebad]Adventurer, thank you. [-]
+
+end
+0
+[ffebad]President, they failed the challenge and said they will go back to their hometown to practice, so don't worry about their harassment in the future! [-]
+1
+[ffebad]Haha, really good job. This is the gift package they sent back then, please accept it quickly. [-]
+
+prof 6
+
+begin
+1
+[ffebad]Come on, come on, adventurer. Those guys who call themselves panda stars, they ask me to find you and challenge you again. Adventurer, please help me to get rid of these troublesome guys. [-]
+0
+[ffebad]Okay, let me go and see what's going on. [-]
+
+in progress
+1
+[ffebad]Adventurer, thank you. [-]
+
+end
+0
+[ffebad]President, they failed the challenge and said they will go back to their hometown to practice, so don't worry about their harassment in the future! [-]
+1
+[ffebad]Haha, really good job. This is the gift package they sent back then, please accept it quickly. [-]

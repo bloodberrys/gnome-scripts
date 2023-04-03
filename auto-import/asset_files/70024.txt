@@ -1,0 +1,22 @@
+start
+
+prof 0
+
+step 1
+1
+[ffebad](Painful) Yes, I tricked Ibel when I wasn't strong enough to fight the pile of Chard. [-]
+1
+[ffebad]can only pretend to be a human being and enter Ibel's village to seek shelter. [-]
+[branch]2=...
+
+step 2
+1
+[ffebad]Ibel, she is gentle and kind, and has always taken care of me. [-]
+
+step 3
+1
+[ffebad]...The second memory fragment is given to you, so that you can see clearly the crimes I bear. [-]
+
+step 4
+1
+[ffebad]I deeply remember how beautiful the sea of ​​flowers is...[-]

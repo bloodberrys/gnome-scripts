@@ -1,0 +1,15 @@
+start
+
+prof 0
+
+step 1
+1
+[ffebad]In the distant eastern country, every year when the coldest month comes, an annual assessment will be conducted, and rewards will be given to the outstanding ones. [-]
+1
+[ffebad]As for people, they are born to learn continuously, only learning can enrich themselves, only learning can... (1000 words are omitted below) [-]
+[branch]2=Oh yes yes yes
+
+step 2
+1
+[ffebad]Okay, that's the end of the story, and it's time to answer the annual assessment questions, are you ready? (There are ten questions in a row this time, and there is only one chance to answer, please take it seriously!) [-]
+break

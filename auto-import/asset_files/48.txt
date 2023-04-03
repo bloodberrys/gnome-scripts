@@ -1,0 +1,21 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]You failed to bring the descendants of the ancients back from the dream? I believe you tried your best. If she herself resists waking up, there is nothing we can do...(Gnome Dragon Nest Mobile)[-]
+0
+[ffebad]She shut herself off completely, she didn't want anyone to get hurt because of her power. [-]
+1
+[ffebad]Take your time. The most important thing right now is to protect the safety of the Prophet. I've made a lair here, and I won't let anyone in but you. [-]
+
+in progress
+1
+[ffebad]Go outside and have a look. [-]
+
+end
+1
+[ffebad]Hey! You're here to thank me, aren't you? How does my dream powder work? [-]
+0
+[ffebad]It's hard to tell... I did get into a prophet's dream. But she herself did not want to wake up. [-]

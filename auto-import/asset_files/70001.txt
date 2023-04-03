@@ -1,0 +1,15 @@
+start
+
+prof 0
+
+step 1
+1
+[ffebad]The white-haired boy... I think, maybe [0096ff] Iona[-]... (shakes head) Saving the world sounds like a hassle! [-]
+
+step 2
+1
+[ffebad]Brat, go ask that "boy" what happened? [-]
+
+step 3
+1
+[ffebad]Seeing that you are injured all over, did you fight? [-]

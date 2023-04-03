@@ -1,0 +1,19 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]This adventurer with a benevolent face! come here~~[-]
+0
+[ffebad]Me? call me? [-]
+1
+[ffebad]At the beginning of New Year's Day, let me help you calculate your New Year's fortune! [-]
+0
+[ffebad]Really, thank you so much! [-]
+
+end
+1
+[ffebad]Adventurers, Happy New Years. Please take a look at your fortune today. [-]
+0
+[ffebad]ok thanks! [-]

@@ -1,0 +1,23 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]How is the prophet now? [-]
+0
+[ffebad]She is very strong now, I admire her very much. [-]
+1
+[ffebad]People are like this...the more difficult the test, the stronger they will face it. For the time being, let the prophet take a good rest. [-]
+1
+[ffebad]When the Prophet is resting, we should try our best to find a way! The temple knights are really unfamiliar with the place where Barna disappeared, but the magicians of Peorista know this area better. Can you go and ask Sidel to help them? [-]
+
+in progress
+1
+[ffebad]We should also try our best to find a way! [-]
+
+end
+1
+[ffebad]Ah, it's you, welcome, what's the matter? [-]
+1
+[ffebad]Barna, so that's the case, I finally understand, someone sent a message before, you go to the bottom of the misty cliff to meet that person, he seems to know a lot of things. [-]

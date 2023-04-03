@@ -1,0 +1,19 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]This reckless guy is really a headache! Kid, I've left this place to you, I have to catch up and have a look. [-]
+1
+[ffebad]Don't guard the tree of life stupidly. Human beings can't do such complicated things. Go to the Spider Queen's lair to destroy those monsters. I will be back soon. [-]
+
+in progress
+1
+[ffebad]go to spider queen lair[-]
+
+end
+0
+[ffebad]Algeta, have you found Peda yet? How is it going? [-]
+1
+[ffebad]Hmph, I don't need you to worry about my work, I just worry about you running around like this. [-]

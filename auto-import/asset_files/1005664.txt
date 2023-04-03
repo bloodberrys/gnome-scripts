@@ -1,0 +1,18 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]Ah, adventurer over there, why are you still wandering around, do you know what holiday is today? [-]
+0
+[ffebad]Is it some weird western or magical oriental festival? [-]
+1
+[ffebad]Hahaha, you will become smarter if you follow me. The past few days are the Laba Festival, a traditional festival in the ancient East. Well, this is for you, open it and have a look. [-]
+
+
+end
+1
+[ffebad]How about this holiday gift? [-]
+0
+[ffebad]Thank you, President Deckard, I will make good use of it. [-]

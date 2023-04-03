@@ -1,0 +1,197 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad]I didn't expect that! Rose is such a sweet little girl...(Gnome Dragon Nest Mobile)[-]
+[voice]Audio/VO/lines/lines103
+1
+[ffebad]I've heard of this black knight before. He acts surreptitiously. I've seen him almost all over the continent. He seems to be looking for something. [-]
+[voice]Audio/VO/lines/lines104
+1
+[ffebad]If someone as powerful and evil as him was given the power of a prophet, it's no joke! [-]
+[voice]Audio/VO/lines/lines105
+0
+[ffebad]Even if you say so, it seems that the situation is indeed very critical. Please tell me what should I do? [-]
+[voice]Audio/VO/Warrior/warrior14
+1
+[ffebad]Sanctuary ruins! Go to [0096ff] Sanctuary Ruins[-]! The only thing I know is that some monsters who claim to follow the black knight have shown up there! [-]
+[voice]Audio/VO/lines/lines106
+
+in progress
+1
+[ffebad]Let's go to [0096ff] Sanctuary Ruins[-][-]
+
+end
+0
+[ffebad]I know where the Black Knight is, and I'm going to the sacred ruins right away! [-]
+[voice]Audio/VO/Warrior/warrior13
+
+prof 2
+
+begin
+1
+[ffebad]I didn't expect that! Rose is such a sweet little girl...[-]
+[voice]Audio/VO/lines/lines103
+1
+[ffebad]I've heard of this black knight before. He acts surreptitiously. I've seen him almost all over the continent. He seems to be looking for something. [-]
+[voice]Audio/VO/lines/lines104
+1
+[ffebad]If someone as powerful and evil as him was given the power of a prophet, it's no joke! [-]
+[voice]Audio/VO/lines/lines105
+0
+[ffebad]Even if you say so, it seems that the situation is indeed very critical. Please tell me what should I do? [-]
+[voice]Audio/VO/Archer/archer14
+1
+[ffebad]Sanctuary ruins! Go to [0096ff] Sanctuary Ruins[-]! The only thing I know is that some monsters who claim to follow the black knight have shown up there! [-]
+[voice]Audio/VO/lines/lines106
+
+in progress
+1
+[ffebad]Let's go to [0096ff] Sanctuary Ruins[-][-]
+
+end
+0
+[ffebad]I know where the Black Knight is, and I'm going to the sacred ruins right away! [-]
+[voice]Audio/VO/Archer/archer13
+
+prof 3
+
+begin
+1
+[ffebad]I didn't expect that! Rose is such a sweet little girl...[-]
+[voice]Audio/VO/lines/lines103
+1
+[ffebad]I've heard of this black knight before. He acts surreptitiously. I've seen him almost all over the continent. He seems to be looking for something. [-]
+[voice]Audio/VO/lines/lines104
+1
+[ffebad]If someone as powerful and evil as him was given the power of a prophet, it's no joke! [-]
+[voice]Audio/VO/lines/lines105
+0
+[ffebad]Even if you say so, it seems that the situation is indeed very critical. Please tell me what should I do? [-]
+[voice]Audio/VO/Sorceress/Sorceress14
+1
+[ffebad]Sanctuary ruins! Go to [0096ff] Sanctuary Ruins[-]! The only thing I know is that some monsters who claim to follow the black knight have shown up there! [-]
+[voice]Audio/VO/lines/lines106
+
+in progress
+1
+[ffebad]Let's go to [0096ff] Sanctuary Ruins[-][-]
+
+end
+0
+[ffebad]I know where the Black Knight is, and I'm going to the sacred ruins right away! [-]
+[voice]Audio/VO/Sorceress/Sorceress13
+
+prof 4
+
+begin
+1
+[ffebad]I didn't expect that! Rose is such a sweet little girl...[-]
+[voice]Audio/VO/lines/lines103
+1
+[ffebad]I've heard of this black knight before. He acts surreptitiously. I've seen him almost all over the continent. He seems to be looking for something. [-]
+[voice]Audio/VO/lines/lines104
+1
+[ffebad]If someone as powerful and evil as him was given the power of a prophet, it's no joke! [-]
+[voice]Audio/VO/lines/lines105
+0
+[ffebad]Even if you say so, it seems that the situation is indeed very critical. Please tell me what should I do? [-]
+[voice]Audio/VO/Cleric/cleric14
+1
+[ffebad]Sanctuary ruins! Go to [0096ff] Sanctuary Ruins[-]! The only thing I know is that some monsters who claim to follow the black knight have shown up there! [-]
+[voice]Audio/VO/lines/lines106
+
+in progress
+1
+[ffebad]Let's go to [0096ff] Sanctuary Ruins[-][-]
+
+end
+0
+[ffebad]I know where the Black Knight is, and I'm going to the sacred ruins right away! [-]
+[voice]Audio/VO/Cleric/cleric13
+
+Prof 5
+
+begin
+1
+[ffebad]I didn't expect that! Rose is such a sweet little girl...[-]
+[voice]Audio/VO/lines/lines103
+1
+[ffebad]I've heard of this black knight before. He acts surreptitiously. I've seen him almost all over the continent. He seems to be looking for something. [-]
+[voice]Audio/VO/lines/lines104
+1
+[ffebad]If someone as powerful and evil as him was given the power of a prophet, it's no joke! [-]
+[voice]Audio/VO/lines/lines105
+0
+[ffebad]If it's the one I'm guessing, maybe it won't hurt the Prophet. However, I still need to investigate further. [-]
+[voice]Audio/VO/Academic/academic19
+1
+[ffebad]Sanctuary ruins! Go to [0096ff] Sanctuary Ruins[-]! The only thing I know is that some monsters who claim to follow the black knight have shown up there! [-]
+[voice]Audio/VO/lines/lines106
+
+in progress
+1
+[ffebad]Let's go to [0096ff] Sanctuary Ruins[-][-]
+
+end
+0
+[ffebad]I know where the Black Knight is, and I'm going to the sacred ruins right away! [-]
+[voice]Audio/VO/Academic/academic26
+
+prof 6
+
+begin
+1
+[ffebad]I didn't expect that! Rose is such a sweet little girl...[-]
+[voice]Audio/VO/lines/lines103
+1
+[ffebad]I've heard of this black knight before. He acts surreptitiously. I've seen him almost all over the continent. He seems to be looking for something. [-]
+[voice]Audio/VO/lines/lines104
+1
+[ffebad]If someone as powerful and evil as him was given the power of a prophet, it's no joke! [-]
+[voice]Audio/VO/lines/lines105
+0
+[ffebad]I don't give up so easily, do you have any other news? [-]
+[voice]Audio/VO/Assassin/assassin19
+1
+[ffebad]Sanctuary ruins! Go to [0096ff] Sanctuary Ruins[-]! The only thing I know is that some monsters who claim to follow the black knight have shown up there! [-]
+[voice]Audio/VO/lines/lines106
+
+in progress
+1
+[ffebad]Let's go to [0096ff] Sanctuary Ruins[-][-]
+
+end
+0
+[ffebad]I know where the Black Knight is, and I'm going to the sacred ruins right away! [-]
+[voice]Audio/VO/Assassin/assassin26
+
+prof 7
+
+begin
+1
+[ffebad]I didn't expect that! Rose is such a sweet little girl...[-]
+[voice]Audio/VO/lines/lines103
+1
+[ffebad]I've heard of this black knight before. He acts surreptitiously. I've seen him almost all over the continent. He seems to be looking for something. [-]
+[voice]Audio/VO/lines/lines104
+1
+[ffebad]If someone as powerful and evil as him was given the power of a prophet, it's no joke! [-]
+[voice]Audio/VO/lines/lines105
+0
+[ffebad]I don't give up so easily, do you have any other news? [-]
+[voice]Audio/VO/kali/kali17
+1
+[ffebad]Sanctuary ruins! Go to [0096ff] Sanctuary Ruins[-]! The only thing I know is that some monsters who claim to follow the black knight have shown up there! [-]
+[voice]Audio/VO/lines/lines106
+
+in progress
+1
+[ffebad]Let's go to [0096ff] Sanctuary Ruins[-][-]
+
+end
+0
+[ffebad]I know where the Black Knight is, and I'm going to the sacred ruins right away! [-]
+[voice]Audio/VO/kali/kali11

@@ -1,0 +1,21 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]Have you asked everyone what they like to eat during the winter solstice? [-]
+0
+[ffebad]Asked all! [-]
+1
+[ffebad]Any conclusions? [-]
+0
+[ffebad]No! [-]
+
+end
+1
+[ffebad](whispering softly) Never mind, it's up to you. [-]
+1
+[ffebad]I'll give you a few more votes, be sure to vote for Pope! [-]
+0
+[ffebad]ok~[-]

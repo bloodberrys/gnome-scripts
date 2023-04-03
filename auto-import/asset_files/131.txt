@@ -1,0 +1,17 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]A new gem? Indeed, the power contained in it can completely cure Velskud and restore his strength. But not to mention the risks involved, the Dragon's Jade is also related to the safety of the entire world. [-]
+1
+[ffebad]I can feel the power in it, but I'm not sure if it's the Dragon's Jade. Go find the Priestess of Darkness who went to the Sea of ​​Dust and let her identify it. [-]
+
+in progress
+1
+[ffebad]go to [0096ff] sea of ​​dust[-]
+
+end
+1
+[ffebad]Dragon Jade, you actually obtained a piece of Dragon Jade, which is not the same as the one we guarded. [-]

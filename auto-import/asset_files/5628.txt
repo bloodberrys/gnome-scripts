@@ -1,0 +1,115 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad]Brat, don't run! It's rare to see one side, and you don't even say hello to the master. [-]
+0
+[ffebad]Hey, master, I have accepted the task! [-]
+1
+[ffebad]I have heard a lot about your deeds, wait a minute, let me test it, your alias is not worthy of the name. [-]
+
+in progress
+1
+[ffebad]Meet the test[-]
+
+end
+1
+[ffebad]Hahaha, not bad, not bad, you are indeed my good apprentice! [-]
+0
+[ffebad]Well, you still don't believe me. [-]
+1
+[ffebad]Hahaha, of course I believe in you, come on, come back once in a while, this is your gift, don't be polite to the teacher! [-]
+
+prof 2
+
+begin
+1
+[ffebad]Son, long time no see. Have you been on an adventure lately? [-]
+0
+[ffebad]Mentor, I have been working hard to keep the mainland safe. [-]
+1
+[ffebad]is really full of youthful fighting spirit. But in a dangerous battle, strength is more important than will, let me test your growth. [-]
+
+in progress
+1
+[ffebad]listen carefully[-]
+
+end
+1
+[ffebad]Boy, I'm so relieved that you've really grown up. Here, I will give you some gifts, I hope you will become stronger and stronger. [-]
+
+prof 3
+
+begin
+1
+[ffebad]My little genius magical girl, have you invented any powerful magic recently? [-]
+0
+[ffebad]Hey, mentor, don't underestimate me. [-]
+1
+[ffebad]Hmph, don't be a fool here, come back once in a while, let me test you. [-]
+
+in progress
+1
+[ffebad]listen carefully[-]
+
+end
+1
+[ffebad]Your growth is amazing! Give you a gift, let me see, my mentor, how far a real genius can go! [-]
+
+prof 4
+
+begin
+1
+[ffebad]Oh, Goddess, long time no see. Have you been on an adventure lately? [-]
+0
+[ffebad]Of course, protecting the peace of the mainland is an unstoppable responsibility. [-]
+1
+[ffebad]It's full of fighting spirit, it's rare to come back, why don't you exercise your skills! [-]
+0
+[ffebad]I would love to be taught by a mentor again. [-]
+
+in progress
+1
+[ffebad]listen carefully[-]
+
+end
+1
+[ffebad]I have nothing left to teach you. Sending you some gifts, I hope your name will be recited by everyone in the mainland in the future, may the goddess bless you. [-]
+
+prof 5
+
+begin
+1
+[ffebad]My dear sister, how is it going. [-]
+0
+[ffebad]I've been running tasks and everything works fine. [-]
+1
+[ffebad]Don't forget the mission, and don't take too many risks! Take a mock test, you're all alone, I'm concerned for your safety. [-]
+
+in progress
+1
+[ffebad]listen carefully[-]
+
+end
+1
+[ffebad]I'm relieved that your strength recovered so quickly. Come, give you some presents, don't forget my sister. [-]
+
+prof 6
+
+begin
+1
+[ffebad]Long time no see, meow. Don't come to see the teacher, are you afraid that I will test you? Meow. [-]
+0
+[ffebad]Adventures take time, and I haven't forgotten my teacher. [-]
+1
+[ffebad]Cut, don't try to lie to my meow. Today I have to test and test you, meow. [-]
+
+in progress
+1
+[ffebad]listen carefully[-]
+
+end
+1
+[ffebad]Not bad meow, I really am a genius in educating apprentices. Give you some gifts, don't embarrass me. [-]

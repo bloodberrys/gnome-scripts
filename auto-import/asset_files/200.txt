@@ -1,0 +1,49 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]Holy Paradise... I've only heard of this place before...[-]
+1
+[ffebad]I have imagined how prosperous and stable this place is! [-]
+1
+[ffebad]If possible, I would like my city to be like this too. [-]
+0
+[ffebad]What is Goddess Vestine doing? [-]
+1
+[ffebad](disgusted) What else can she do? It's nothing more than torturing humans! [-]
+1
+[ffebad]Vestine fuses shards of shadow dragons with human souls. [-]
+1
+[ffebad]makes human beings fall into madness and despair, and transforms into a monster named Chard. [-]
+0
+[ffebad]Why would she do that? [-]
+1
+[ffebad]I'm just an ordinary human being, how can I know what the goddess thinks? [-]
+0
+[ffebad]Maybe I should ask Tramay! [-]
+1
+[ffebad]Whatever you want, but before that, please send me back to Melka's heart! [-]
+1
+[ffebad]Lord Berenica is the lord of Melka's heart, he helps the humans in the Dark Continent to resist the tyranny of the goddess. [-]
+0
+[ffebad]I'll send you home and you have to do me a favor. [-]
+1
+[ffebad](impatiently) what? [-]
+0
+[ffebad]Talking about the wishes of monsters in the Dark Continent...[-]
+1
+[ffebad]...[-]
+1
+[ffebad]Give me this gift, I know who it belongs to...my servant, I will fulfill the wish of that monster for him. [-]
+
+in progress
+1
+[ffebad]Enter the heart of Melka. [-]
+
+end
+1
+[ffebad]What is the purpose of the goddess Vestine's actions, I am afraid only Geraint knows. [-]
+1
+[ffebad]Go talk to Jr. Geraint! [-]

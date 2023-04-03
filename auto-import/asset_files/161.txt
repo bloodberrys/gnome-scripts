@@ -1,0 +1,21 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]Hey, did you hear where that human wants to meet Peda? [-]
+0
+[ffebad]It seems to be called the Red Shadow Burial Ground, hey, don't go. [-]
+
+in progress
+1
+[ffebad]Go to Red Shadow Boneyard[-]
+
+end
+1
+[ffebad]I smell the Chaos Dragon, damn it, slow down a step, I won't give up. [-]
+0
+[ffebad]Geraint, don't be so reckless, at least inform Argenta. [-]
+1
+[ffebad]I'm going to track down the red dragon, you can go if you want, I don't have time to wait for you. [-]

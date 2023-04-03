@@ -1,0 +1,27 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]Adventurer, I heard that Chati's grandfather passed away? She must be very sad, I have to see her. [-]
+0
+[ffebad]Chati said she was going to see the Holy Land, as if Callahan told her to. [-]
+1
+[ffebad]What? Oops, that guy must have some conspiracy! [-]
+0
+[ffebad]No way, although Master Karaqiu doesn't like Callahan, he has never done anything bad. [-]
+0
+[ffebad]But I overheard, Chati mentioned a place name, they may have gone to [0096ff] Aboriginal holy land[-]. If you're worried, let's go take a look. [-]
+
+in progress
+1
+[ffebad]Go to [0096ff] Aboriginal Holy Land[-]
+
+end
+1
+[ffebad]Adventurer, why didn't Chati come back with you, how is she? [-]
+0
+[ffebad]Chati died, and Callahan tricked her into opening the Holy Land and snatching the Green Dragon Jade. I... I was late and only brought back Chati's body. [-]
+1
+[ffebad]What, how... Chati... woooooooo... You're scaring me, aren't you, woooooo... Chati...[-]

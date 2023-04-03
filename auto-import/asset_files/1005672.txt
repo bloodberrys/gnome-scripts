@@ -1,0 +1,19 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]Adventurer, here, today is still the first anniversary celebration~[-]
+0
+[ffebad]Is there any gift prepared by Ms. Irene today? That was great. [-]
+1
+[ffebad]It’s great if you like it, today I have prepared elf food for you, hurry up and feed your elf friends! [-]
+
+
+
+end
+0
+[ffebad]Wow, like Miss Irene! [-]
+1
+[ffebad]Adventurer, you like the anniversary gift, which is the greatest affirmation to me! [-]

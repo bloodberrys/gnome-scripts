@@ -1,0 +1,207 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad]Chief Lily has mobilized all the troops and successfully passed through the storm of time and space. They are about to come. This must be a big battle... I really don't want to involve you, but I have no other choice now, Excuse me, please fight with me, will you? [-]
+0
+[ffebad]So serious, isn't this the proof you said. If this is all true, then of course it is my duty to save the world from people from the future! [-]
+1
+[ffebad]Sure enough, you are as great as the future, you are destined to be a hero, then let's go to the erosion desert to investigate, I don't know how many troops they descended. [-]
+
+in progress
+1
+[ffebad]go to [0096ff] desert no man's land[-]
+
+end
+0
+[ffebad]I've eliminated the intruders, so I should be able to stop them. [-]
+1
+[ffebad]No, those are just some monsters controlled by brainwaves. Brainwaves are a type of electromagnetic waves, which can be easily judged through the same frequency band...[-]
+0
+[ffebad]Stop and go, talking about something I don't understand, so we didn't find them? [-]
+1
+[ffebad]I'm afraid, they have successfully crossed over. According to the plan of the commander, we were going to build a base and then look for energy sources. Let me think about it...[-]
+0
+[ffebad]You, why are you helping us? [-]
+1
+[ffebad]As a soldier in the advance investigation, I was moved by your life and betrayed my commander. I am ready to die in the battle, but I don’t want to see this beautiful world also fall into the flames of war... …[-]
+0
+[ffebad]Kindness represents justice in any world. Don't worry, we will help you. The matter is of great importance. I will report to His Majesty the Pope first. [-]
+
+prof 2
+
+begin
+1
+[ffebad]Chief Lily has mobilized all the troops and successfully passed through the storm of time and space. They are about to come. This must be a big battle... I really don't want to involve you, but I have no other choice now, Excuse me, please fight with me, will you? [-]
+0
+[ffebad]So serious, isn't this the proof you said. If this is all true, then of course it is my duty to save the world from people from the future! [-]
+1
+[ffebad]Sure enough, you are as great as the future, you are destined to be a hero, then let's go to the erosion desert to investigate, I don't know how many troops they descended. [-]
+
+in progress
+1
+[ffebad]go to [0096ff] desert no man's land[-]
+
+end
+0
+[ffebad]I've eliminated the intruders, so I should be able to stop them. [-]
+1
+[ffebad]No, those are just some monsters controlled by brainwaves. Brainwaves are a type of electromagnetic waves, which can be easily judged through the same frequency band...[-]
+0
+[ffebad]Stop and go, talking about something I don't understand, so we didn't find them? [-]
+1
+[ffebad]I'm afraid, they have successfully crossed over. According to the plan of the commander, we were going to build a base and then look for energy sources. Let me think about it...[-]
+0
+[ffebad]You, why are you helping us? [-]
+1
+[ffebad]As a soldier in the advance investigation, I was moved by your life and betrayed my commander. I am ready to die in the battle, but I don’t want to see this beautiful world also fall into the flames of war... …[-]
+0
+[ffebad]Kindness represents justice in any world. Don't worry, we will help you. The matter is of great importance. I will report to His Majesty the Pope first. [-]
+
+prof 3
+
+begin
+1
+[ffebad]Chief Lily has mobilized all the troops and successfully passed through the storm of time and space. They are about to come. This must be a big battle... I really don't want to involve you, but I have no other choice now, Excuse me, please fight with me, will you? [-]
+0
+[ffebad]So serious, isn't this the proof you said. If this is all true, then of course it is my duty to save the world from people from the future! [-]
+1
+[ffebad]Sure enough, you are as great as the future, you are destined to be a hero, then let's go to the erosion desert to investigate, I don't know how many troops they descended. [-]
+
+in progress
+1
+[ffebad]go to [0096ff] desert no man's land[-]
+
+end
+0
+[ffebad]I've eliminated the intruders, so I should be able to stop them. [-]
+1
+[ffebad]No, those are just some monsters controlled by brainwaves. Brainwaves are a type of electromagnetic waves, which can be easily judged through the same frequency band...[-]
+0
+[ffebad]Stop and go, talking about something I don't understand, so we didn't find them? [-]
+1
+[ffebad]I'm afraid, they have successfully crossed over. According to the plan of the commander, we were going to build a base and then look for energy sources. Let me think about it...[-]
+0
+[ffebad]You, why are you helping us? [-]
+1
+[ffebad]As a soldier in the advance investigation, I was moved by your life and betrayed my commander. I am ready to die in the battle, but I don’t want to see this beautiful world also fall into the flames of war... …[-]
+0
+[ffebad]Kindness represents justice in any world. Don't worry, we will help you. The matter is of great importance. I will report to His Majesty the Pope first. [-]
+
+prof 4
+
+begin
+1
+[ffebad]Chief Lily has mobilized all the troops and successfully passed through the storm of time and space. They are about to come, it must beIt's a big fight... I really don't want to involve you, but I have nothing else to do now, sorry, please fight with me, can you? [-]
+0
+[ffebad]So serious, isn't this the proof you said. If this is all true, then of course it is my duty to save the world from people from the future! [-]
+1
+[ffebad]Sure enough, you are as great as the future, you are destined to be a hero, then let's go to the erosion desert to investigate, I don't know how many troops they descended. [-]
+
+in progress
+1
+[ffebad]go to [0096ff] desert no man's land[-]
+
+end
+0
+[ffebad]I've eliminated the intruders, so I should be able to stop them. [-]
+1
+[ffebad]No, those are just some monsters controlled by brainwaves. Brainwaves are a type of electromagnetic waves, which can be easily judged through the same frequency band...[-]
+0
+[ffebad]Stop and go, talking about something I don't understand, so we didn't find them? [-]
+1
+[ffebad]I'm afraid, they have successfully crossed over. According to the plan of the commander, we were going to build a base and then look for energy sources. Let me think about it...[-]
+0
+[ffebad]You, why are you helping us? [-]
+1
+[ffebad]As a soldier in the advance investigation, I was moved by your life and betrayed my commander. I am ready to die in the battle, but I don’t want to see this beautiful world also fall into the flames of war... …[-]
+0
+[ffebad]Kindness represents justice in any world. Don't worry, we will help you. The matter is of great importance. I will report to His Majesty the Pope first. [-]
+
+prof 5
+
+begin
+1
+[ffebad]Chief Lily has mobilized all the troops, they are coming, it must be a big battle... I really don't want to involve you, but I have no other choice now, sorry, please fight with me, May I? [-]
+0
+[ffebad]I'm with you, I want to stop my sister, there must be a way that doesn't hurt anyone! [-]
+1
+[ffebad]Then let's go to the erosion desert to investigate. I don't know how many troops they descended on. [-]
+
+in progress
+1
+[ffebad]go to [0096ff] desert no man's land[-]
+
+end
+0
+[ffebad]I wiped out a group of monsters controlled by brain waves, but I didn't find the army? [-]
+1
+[ffebad]I'm afraid, they have successfully crossed over. According to the plan of the commander, we were going to build a base and then look for energy sources. Let me think about it...[-]
+0
+[ffebad]Has the future world been destroyed? The current army is all our clones, right? [-]
+1
+[ffebad]Well, I betrayed my commander, and I'm ready to die in battle, but, I don't want to see this beautiful world in flames...[-]
+0
+[ffebad]Kindness represents justice in any world. My sister is too persistent, and the matter is of great importance. Let me report to His Majesty the Pope of this period first. [-]
+
+prof 6
+
+begin
+1
+[ffebad]Chief Lily has mobilized all the troops and successfully passed through the storm of time and space. They are about to come. This must be a big battle... I really don't want to involve you, but I have no other choice now, Excuse me, please fight with me, will you? [-]
+0
+[ffebad]So serious, isn't this the proof you said. If this is all true, then of course it is my duty to save the world from people from the future! [-]
+1
+[ffebad]Sure enough, you are as great as the future, you are destined to be a hero, then let's go to the erosion desert to investigate, I don't know how many troops they descended. [-]
+
+in progress
+1
+[ffebad]go to [0096ff] desert no man's land[-]
+
+end
+0
+[ffebad]I've eliminated the intruders, so I should be able to stop them. [-]
+1
+[ffebad]No, those are just some monsters controlled by brainwaves. Brainwaves are a type of electromagnetic waves, which can be easily judged through the same frequency band...[-]
+0
+[ffebad]Stop, talking incomprehensible again, so we didn't find them? [-]
+1
+[ffebad]I'm afraid, they have successfully crossed over. According to the plan of the commander, we were going to build a base and then look for energy sources. Let me think about it...[-]
+0
+[ffebad]Why are you helping us? [-]
+1
+[ffebad]As a soldier in the advance investigation, I was moved by your life and betrayed my commander. I am ready to die in the battle, but I don’t want to see this beautiful world also fall into the flames of war... …[-]
+0
+[ffebad]Kindness represents justice in any world. Don't worry, we will help you. The matter is of great importance. I will report to His Majesty the Pope first. [-]
+
+prof 7
+
+begin
+1
+[ffebad]Chief Lily has mobilized all the troops and successfully passed through the storm of time and space. They are about to come. This must be a big battle... I really don't want to involve you, but I have no other choice now, Excuse me, please fight with me, will you? [-]
+0
+[ffebad]So serious, isn't this the proof you said. If this is all true, then of course it is my duty to save the world from people from the future! [-]
+1
+[ffebad]Sure enough, you are as great as the future, you are destined to be a hero, then let's go to the erosion desert to investigate, I don't know how many troops they descended. [-]
+
+in progress
+1
+[ffebad]go to [0096ff] desert no man's land[-]
+
+end
+0
+[ffebad]I have eliminated those intruders, should be able to stop them. [-]
+1
+[ffebad]No, those are just some monsters controlled by brainwaves. Brainwaves are a type of electromagnetic waves, which can be easily judged through the same frequency band... [-]
+0
+[ffebad]Stop, talking incomprehensible again, so we didn't find them? [-]
+1
+[ffebad]I'm afraid, they have successfully crossed over. According to the plan of the commander, we were going to build a base and then look for energy sources. Let me think about it...[-]
+0
+[ffebad]Why are you helping us? [-]
+1
+[ffebad]As a soldier in the advance investigation, I was moved by your life and betrayed my commander. I am ready to die in the battle, but I don’t want to see this beautiful world also fall into the flames of war... …[-]
+0
+[ffebad]Kindness represents justice in any world. Don't worry, we will help you. The matter is of great importance. I will report to His Majesty the Pope first. [-]

@@ -1,0 +1,155 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad]Are you the adventurer who cleansed the poison? It's amazing! However, regarding the information you provided, there are still some differences in the palace. (Gnome Dragon Nest Mobile)[-]
+[voice]Audio/VO/lines/lines211
+1
+[ffebad]I really want to help you, but the Templar Knights I can dispatch have not returned from the Magic Ridge, and General Douglas has no time to get away because he wants to clean up the monsters near the [0096ff]Dark Mine[-]...[- ]
+[voice]Audio/VO/lines/lines212
+1
+[ffebad]If you can help General Douglas destroy the monsters and gain his trust, surely there will be no objections in the palace. [-]
+[voice]Audio/VO/lines/lines213
+
+in progress
+1
+[ffebad]Go to [0096ff] Dark Mine [-]
+
+end
+0
+[ffebad]The turmoil in the mine has subsided, and General Douglas must be relieved, please seek the king's consent as soon as possible, and send troops! [-]
+[voice]Audio/VO/Warrior/warrior28
+
+prof 2
+
+begin
+1
+[ffebad]Are you the adventurer who cleansed the poison? It's amazing! However, regarding the information you provided, there are still some differences in the palace. [-]
+[voice]Audio/VO/lines/lines211
+1
+[ffebad]I really want to help you, but the Templar Knights I can dispatch have not returned from the Magic Ridge, and General Douglas has no time to get away because he wants to clean up the monsters near the [0096ff]Dark Mine[-]...[- ]
+[voice]Audio/VO/lines/lines212
+1
+[ffebad]If you can help General Douglas destroy the monsters and gain his trust, surely there will be no objections in the palace. [-]
+[voice]Audio/VO/lines/lines213
+
+in progress
+1
+[ffebad]Go to [0096ff] Dark Mine [-]
+
+end
+0
+[ffebad]The turmoil in the mine has subsided, and General Douglas must be relieved, please seek the king's consent as soon as possible, and send troops! [-]
+[voice]Audio/VO/Archer/archer28
+
+prof 3
+
+begin
+1
+[ffebad]Are you the adventurer who cleansed the poison? It's amazing! However, regarding the information you provided, there are still some differences in the palace. [-]
+[voice]Audio/VO/lines/lines211
+1
+[ffebad]I really want to help you, but the Templar Knights I can dispatch have not returned from the Magic Ridge, and General Douglas has no time to get away because he wants to clean up the monsters near the [0096ff]Dark Mine[-]...[- ]
+[voice]Audio/VO/lines/lines212
+1
+[ffebad]If you can help General Douglas destroy the monsters and gain his trust, surely there will be no objections in the palace. [-]
+[voice]Audio/VO/lines/lines213
+
+in progress
+1
+[ffebad]Go to [0096ff] Dark Mine [-]
+
+end
+0
+[ffebad]The turmoil in the mine has subsided, and General Douglas must be relieved, please seek the king's consent as soon as possible, and send troops! [-]
+[voice]Audio/VO/Sorceress/Sorceress28
+
+prof 4
+
+begin
+1
+[ffebad]Are you the adventurer who cleansed the poison? It's amazing! However, regarding the information you provided, there are still some differences in the palace. [-]
+[voice]Audio/VO/lines/lines211
+1
+[ffebad]I really want to help you, but the Templar Knights I can dispatch have not returned from the Magic Ridge, and General Douglas has no time to get away because he wants to clean up the monsters near the [0096ff]Dark Mine[-]...[- ]
+[voice]Audio/VO/lines/lines212
+1
+[ffebad]If you can help General Douglas destroy the monsters and gain his trust, surely there will be no objections in the palace. [-]
+[voice]Audio/VO/lines/lines213
+
+in progress
+1
+[ffebad]Go to [0096ff] Dark Mine [-]
+
+end
+0
+[ffebad]The turmoil in the mine has subsided, and General Douglas must be relieved, please seek the king's consent as soon as possible, and send troops! [-]
+[voice]Audio/VO/Cleric/cleric28
+
+Prof 5
+
+begin
+1
+[ffebad]Are you the adventurer who cleansed the poison? It's amazing! However, regarding the information you provided, there are still some differences in the palace. [-]
+[voice]Audio/VO/lines/lines211
+1
+[ffebad]I really want to help you, but the Templar Knights I can dispatch have not returned from the Magic Ridge, and General Douglas has no time to get away because he wants to clean up the monsters near the [0096ff]Dark Mine[-]...[- ]
+[voice]Audio/VO/lines/lines212
+1
+[ffebad]If you can help General Douglas eliminate monsters and gain his trust, the king mustThere will be no more dissenting voices in the palace. [-]
+[voice]Audio/VO/lines/lines213
+
+in progress
+1
+[ffebad]Go to [0096ff] Dark Mine [-]
+
+end
+0
+[ffebad]The turmoil in the mine has subsided, and General Douglas must be relieved, please seek the king's consent as soon as possible, and send troops! [-]
+[voice]Audio/VO/Academic/academic18
+
+prof 6
+
+begin
+1
+[ffebad]Are you the adventurer who cleansed the poison? It's amazing! However, regarding the information you provided, there are still some differences in the palace. [-]
+[voice]Audio/VO/lines/lines211
+1
+[ffebad]I really want to help you, but the Templar Knights I can dispatch have not returned from the Magic Ridge, and General Douglas has no time to get away because he wants to clean up the monsters near the [0096ff]Dark Mine[-]...[- ]
+[voice]Audio/VO/lines/lines212
+1
+[ffebad]If you can help General Douglas destroy the monsters and gain his trust, surely there will be no objections in the palace. [-]
+[voice]Audio/VO/lines/lines213
+
+in progress
+1
+[ffebad]Go to [0096ff] Dark Mine [-]
+
+end
+0
+[ffebad]The turmoil in the mine has subsided, and General Douglas must be relieved, please seek the king's consent as soon as possible, and send troops! [-]
+[voice]Audio/VO/Assassin/assassin18
+
+prof 7
+
+begin
+1
+[ffebad]Are you the adventurer who cleansed the poison? It's amazing! However, regarding the information you provided, there are still some differences in the palace. [-]
+[voice]Audio/VO/lines/lines211
+1
+[ffebad]I really want to help you, but the Templar Knights I can dispatch have not returned from the Magic Ridge, and General Douglas has no time to get away because he wants to clean up the monsters near the [0096ff]Dark Mine[-]...[- ]
+[voice]Audio/VO/lines/lines212
+1
+[ffebad]If you can help General Douglas destroy the monsters and gain his trust, surely there will be no objections in the palace. [-]
+[voice]Audio/VO/lines/lines213
+
+in progress
+1
+[ffebad]Go to [0096ff] Dark Mine [-]
+
+end
+0
+[ffebad]The turmoil in the mine has subsided, and General Douglas must be relieved, please seek the king's consent as soon as possible, and send troops! [-]
+[voice]Audio/VO/kali/kali18

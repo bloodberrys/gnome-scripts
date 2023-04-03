@@ -1,0 +1,145 @@
+start
+
+Prof 1
+
+begin
+0
+[ffebad]Miss Joey, do you know Lily? [-]
+1
+[ffebad]Well, I know, a sweet little girl. What's the matter, what's the matter? [-]
+0
+[ffebad]Lily would like to invite you to taste the cake at her home. I wonder if you have time. [-]
+1
+[ffebad]Okay, I would also like to meet my cute little sister. But the way back to the city is full of poisonous mushrooms, and I heard that there are terrible ghosts, so I can't go back now. [-]
+0
+[ffebad]Leave it to me. I'll just clear the way. [-]
+
+in progress
+1
+[ffebad]Adventurer, thank you. [-]
+
+end
+0
+[ffebad]Ms. Zuer, the road is cleared, you can start! [-]
+1
+[ffebad]Thank you, this is my wish, please accept it. [-]
+
+prof 2
+
+begin
+0
+[ffebad]Miss Joey, do you know Lily? [-]
+1
+[ffebad]Well, I know, a sweet little girl. What's the matter, what's the matter? [-]
+0
+[ffebad]Lily would like to invite you to taste the cake at her home. I wonder if you have time. [-]
+1
+[ffebad]Okay, I would also like to meet my cute little sister. But the way back to the city is full of poisonous mushrooms, and I heard that there are terrible ghosts, so I can't go back now. [-]
+0
+[ffebad]Leave it to me. I'll just clear the way. [-]
+
+in progress
+1
+[ffebad]Adventurer, thank you. [-]
+
+end
+0
+[ffebad]Ms. Zuer, the road is cleared, you can start! [-]
+1
+[ffebad]Thank you, this is my wish, please accept it. [-]
+
+prof 3
+
+begin
+0
+[ffebad]Miss Joey, do you know Lily? [-]
+1
+[ffebad]Well, I know, a sweet little girl. What's the matter, what's the matter? [-]
+0
+[ffebad]Lily would like to invite you to taste the cake at her home. I wonder if you have time. [-]
+1
+[ffebad]Okay, I would also like to meet my cute little sister. But the way back to the city is full of poisonous mushrooms, and I heard that there are terrible ghosts, so I can't go back now. [-]
+0
+[ffebad]Leave it to me. I'll just clear the way. [-]
+
+in progress
+1
+[ffebad]Adventurer, thank you. [-]
+
+end
+0
+[ffebad]Ms. Zuer, the road is cleared, you can start! [-]
+1
+[ffebad]Thank you, this is my wish, please accept it. [-]
+
+prof 4
+
+begin
+0
+[ffebad]Miss Joey, do you know Lily? [-]
+1
+[ffebad]Well, I know, a sweet little girl. What's the matter, what's the matter? [-]
+0
+[ffebad]Lily would like to invite you to taste the cake at her home. I wonder if you have time. [-]
+1
+[ffebad]Okay, I would also like to meet my cute little sister. But the way back to the city is full of poisonous mushrooms, and I heard that there are terrible ghosts, so I can't go back now. [-]
+0
+[ffebad]Leave it to me. I'll just clear the way. [-]
+
+in progress
+1
+[ffebad]Adventurer, thank you. [-]
+
+end
+0
+[ffebad]Ms. Zuer, the road is cleared, you can start! [-]
+1
+[ffebad]Thank you, this is my wish, please accept it. [-]
+
+Prof 5
+
+begin
+0
+[ffebad]Miss Joey, do you know Lily? [-]
+1
+[ffebad]Well, I know, a sweet little girl. What's the matter, what's the matter? [-]
+0
+[ffebad]Lily would like to invite you to taste the cake at her home. I wonder if you have time. [-]
+1
+[ffebad]Okay, I would also like to meet my cute little sister. But the way back to the city is full of poisonous mushrooms, and I heard that there are terrible ghosts, so I can't go back now. [-]
+0
+[ffebad]Leave it to me. I'll just clear the way. [-]
+
+in progress
+1
+[ffebad]Adventurer, thank you. [-]
+
+end
+0
+[ffebad]Ms. Zuer, the road is cleared, you can start! [-]
+1
+[ffebad]Thank you, this is my wish, please accept it. [-]
+
+prof 6
+
+begin
+0
+[ffebad]Miss Joey, do you know Lily? [-]
+1
+[ffebad]Well, I know, a sweet little girl. What's the matter, what's the matter? [-]
+0
+[ffebad]Lily would like to invite you to taste the cake at her home. I wonder if you have time. [-]
+1
+[ffebad]Okay, I would also like to meet my cute little sister. But the way back to the city is full of poisonous mushrooms, and I heard that there are terrible ghosts, so I can't go back now. [-]
+0
+[ffebad]Leave it to me. I'll just clear the way. [-]
+
+in progress
+1
+[ffebad]Adventurer, thank you. [-]
+
+end
+0
+[ffebad]Ms. Zuer, the road is cleared, you can start! [-]
+1
+[ffebad]Thank you, this is my wish, please accept it. [-]

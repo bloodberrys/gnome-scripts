@@ -1,0 +1,101 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad]Little warrior, there are some troubles bothering everyone recently, can you please help? [-]
+0
+[ffebad]Are those crazy ducks back? [-]
+1
+[ffebad]Oh, it’s a flood of poisonous mushrooms. Going hunting in the forest now, there are poisonous mushrooms everywhere. Where there are many mushrooms, there are ghosts and transformation curses. Can you please kill some poisonous mushrooms? [-]
+0
+[ffebad]Sounds like a lot of trouble, but please leave it to me! [-]
+
+in progress
+1
+[ffebad]Go ahead, little warrior. [-]
+
+end
+1
+[ffebad]I heard good news from Orion, thank you for solving those terrible mushrooms, come, please accept my gift. [-]
+
+prof 2
+
+begin
+1
+[ffebad]Little warrior, there are some troubles bothering everyone recently, can you please help? [-]
+0
+[ffebad]Are those crazy ducks back? [-]
+1
+[ffebad]Oh, it’s a flood of poisonous mushrooms. Going hunting in the forest now, there are poisonous mushrooms everywhere. Where there are many mushrooms, there are ghosts and transformation curses. Can you please kill some poisonous mushrooms? [-]
+0
+[ffebad]Sounds like a lot of trouble, but please leave it to me! [-]
+
+in progress
+1
+[ffebad]Go ahead, little warrior. [-]
+
+end
+1
+[ffebad]I heard good news from Orion, thank you for solving those terrible mushrooms, come, please accept my gift. [-]
+
+prof 3
+
+begin
+1
+[ffebad]Little warrior, there are some troubles bothering everyone recently, can you please help? [-]
+0
+[ffebad]Are those crazy ducks back? [-]
+1
+[ffebad]Oh, it’s a flood of poisonous mushrooms. Going hunting in the forest now, there are poisonous mushrooms everywhere. Where there are many mushrooms, there are ghosts and transformation curses. Can you please kill some poisonous mushrooms? [-]
+0
+[ffebad]Sounds like a lot of trouble, but please leave it to me! [-]
+
+in progress
+1
+[ffebad]Go ahead, little warrior. [-]
+
+end
+1
+[ffebad]I heard good news from Orion, thank you for solving those terrible mushrooms, come, please accept my gift. [-]
+
+prof 4
+
+begin
+1
+[ffebad]Little warrior, there are some troubles bothering everyone recently, can you please help? [-]
+0
+[ffebad]Are those crazy ducks back? [-]
+1
+[ffebad]Oh, it’s a flood of poisonous mushrooms. Going hunting in the forest now, there are poisonous mushrooms everywhere. Where there are many mushrooms, there are ghosts and transformation curses. Can you please kill some poisonous mushrooms? [-]
+0
+[ffebad]Sounds like a lot of trouble, but please leave it to me! [-]
+
+in progress
+1
+[ffebad]Go ahead, little warrior. [-]
+
+end
+1
+[ffebad]I heard good news from Orion, thank you for solving those terrible mushrooms, come, please accept my gift. [-]
+
+prof 5
+
+begin
+1
+[ffebad]Little warrior, there are some troubles bothering everyone recently, can you please help? [-]
+0
+[ffebad]Are those crazy ducks back? [-]
+1
+[ffebad]Oh, it’s a flood of poisonous mushrooms. Going hunting in the forest now, there are poisonous mushrooms everywhere. Where there are many mushrooms, there are ghosts and transformation curses. Can you please kill some poisonous mushrooms? [-]
+0
+[ffebad]Sounds like a lot of trouble, but please leave it to me! [-]
+
+in progress
+1
+[ffebad]Go ahead, little warrior. [-]
+
+end
+1
+[ffebad]I heard good news from Orion, thank you for solving those terrible mushrooms, come, please accept my gift. [-]

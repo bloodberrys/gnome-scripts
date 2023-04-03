@@ -7,6 +7,54 @@
     <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\ce19b0ed29bb4d4419cd8ca3740bc5b0</Source>
     <Size>5952</Size>
   </Asset>
+    <Asset>
+    <Name>7101</Name>
+    <Container>pure/table/task/7101</Container>
+    <Type id="49">TextAsset</Type>
+    <PathID>1</PathID>
+    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\d31fbafbdff3522478f2780dac5b7b04</Source>
+    <Size>5032</Size>
+  </Asset>
+  <Asset>
+    <Name>7104</Name>
+    <Container>pure/table/task/7104</Container>
+    <Type id="49">TextAsset</Type>
+    <PathID>1</PathID>
+    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\239498466623eda45b111149149e4233</Source>
+    <Size>3184</Size>
+  </Asset>
+  <Asset>
+    <Name>7105</Name>
+    <Container>pure/table/task/7105</Container>
+    <Type id="49">TextAsset</Type>
+    <PathID>1</PathID>
+    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\1ba75de6a5d2c95409b6c2b99012dd26</Source>
+    <Size>4452</Size>
+  </Asset>
+  <Asset>
+    <Name>7106</Name>
+    <Container>pure/table/task/7106</Container>
+    <Type id="49">TextAsset</Type>
+    <PathID>1</PathID>
+    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\cd12194c13e022e4494bb122202d0ecc</Source>
+    <Size>4248</Size>
+  </Asset>
+  <Asset>
+    <Name>7111</Name>
+    <Container>pure/table/task/7111</Container>
+    <Type id="49">TextAsset</Type>
+    <PathID>1</PathID>
+    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\915ec65d0444ed04ea65c3faf8df1a67</Source>
+    <Size>4716</Size>
+  </Asset>
+  <Asset>
+    <Name>7112</Name>
+    <Container>pure/table/task/7112</Container>
+    <Type id="49">TextAsset</Type>
+    <PathID>1</PathID>
+    <Source>D:\DragonNestHurricane\project\assets\Raw\APK_AB_Data\2d574392a9157a24c938bb57bfc1bdf0</Source>
+    <Size>4628</Size>
+  </Asset>
   <Asset>
     <Name>1_0_cutscene_boss_start</Name>
     <Container>cutscene/1_0_cutscene_boss_start</Container>

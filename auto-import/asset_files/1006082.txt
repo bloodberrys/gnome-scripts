@@ -1,0 +1,17 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]Adventurer, is your life in the holy paradise happy recently? [-]
+0
+[ffebad]Not bad. [-]
+1
+[ffebad]Well, it seems that you are not very happy~[-]
+
+end
+1
+[ffebad]Sending you some gifts, I hope you are happy~[-]
+0
+[ffebad]Thanks! [-]

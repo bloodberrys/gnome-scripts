@@ -1,0 +1,21 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]Hey, little hero, I heard you are inquiring about sea monsters, I think I can help you! (Gnome Dragon Nest Mobile)[-]
+0
+[ffebad]Yes, at the critical moment, only you are an encyclopedia-like existence... No one dares to approach the place where sea monsters haunt, and I am worried about how to find it alone! [-]
+1
+[ffebad]If my knowledge and knowledge can help you, I will be there on call. [-]
+1
+[ffebad]I know a place, in the [0096ff] Ocean Wizard's Tower [-] there are many desperate pirates, and sea monsters can't stop them from going to sea, some of them have witnessed sea monsters. [-]
+
+in progress
+1
+[ffebad]Go to [0096ff] Ocean Wizard Tower[-]
+
+end
+0
+[ffebad]The pirates there said that only the great pirate Durrant knew where the sea monsters haunted... It seems that there must be a connection between them. [-]

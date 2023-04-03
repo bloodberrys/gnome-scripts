@@ -1,0 +1,49 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]I failed to bring the gift home, instead strayed into the desert and was attacked by monsters. [-]
+1
+[ffebad]I passed out...and when I woke up again...things were different...[-]
+1
+[ffebad]I'm among those monsters, they don't attack me anymore...[-]
+1
+[ffebad]I follow them involuntarily, and I am no longer afraid...[-]
+0
+[ffebad]...you turned into a monster. [-]
+1
+[ffebad]Yeah... I never looked in the mirror again, never saw myself. [-]
+1
+[ffebad]If you hadn't brought presents, I'm afraid I would never have remembered, I still have family...[-]
+0
+[ffebad]Where is your family? [-]
+1
+[ffebad]In Melka's heart, I was once a servant of Lord Berenika. [-]
+0
+[ffebad]Where is Melka's heart? And who is Bellernica? [-]
+1
+[ffebad]Melka's Heart is a small city in the desert of the Dark Continent, which is the only safe area on the Dark Continent. [-]
+1
+[ffebad]Lord Berenica is the lord of Melka's heart, he helps the humans in the Dark Continent to resist the tyranny of the goddess. [-]
+1
+[ffebad]Adventurer, if possible...[-]
+0
+[ffebad]Do you want to bring presents to your children? [-]
+1
+[ffebad]Yes, can I? ! [-]
+1
+[ffebad]I would give anything to bring a gift to my kids. [-]
+0
+[ffebad]I will definitely help you! [-]
+
+in progress
+1
+[ffebad]Enter the level Desert City. [-]
+
+end
+1
+[ffebad]I have heard that you saved Berenica, the leader of the humans in the Dark Continent. [-]
+1
+[ffebad]Go ask, what happened in that world! [-]

@@ -1,0 +1,23 @@
+start
+
+prof 0
+
+step 1
+1
+[ffebad]It's okay, I won't dislike your origin. It's time to go after Velskud, though, and we've already wasted quite a bit of time. [-]
+
+step 2
+0
+[ffebad]Judging by your attire, you don't look like a good person, you are that kind of beard! (Looks so handsome) [-]
+
+step 3
+1
+[ffebad]Where did you come from, little bug? [-]
+
+step 4
+0
+[ffebad]You are too arrogant! [-]
+
+step 5
+1
+[ffebad]I never tried to hide my identity. [-]

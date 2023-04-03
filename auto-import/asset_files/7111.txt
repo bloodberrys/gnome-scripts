@@ -1,0 +1,155 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad]Adventurer, the guardian has been eroded by the evil power in the body of King Peda and lost his mind. The energy he now possesses is beyond imagination! [-]
+0
+[ffebad]So how should we prepare ourselves? [-]
+1
+[ffebad]While he hasn't fully obtained this overpowering power, join me in taking the initiative to attack, and don't leave the enemy a chance to breathe! [-]
+0
+[ffebad]I'm ready, let's go! [-]
+
+in progress
+1
+[ffebad]Adventurers, come on. [-]
+
+end
+0
+[ffebad]Haha, the monster was successfully eliminated without any risk. [-]
+1
+[ffebad]Good job, take this material I just collected, you can use it to exchange for nice equipment. [-]
+
+prof 2
+
+begin
+1
+[ffebad]Adventurer, the guardian has been eroded by the evil power in the body of King Peda and lost his mind. The energy he now possesses is beyond imagination! [-]
+0
+[ffebad]So how should we prepare ourselves? [-]
+1
+[ffebad]While he hasn't fully obtained this overpowering power, join me in taking the initiative to attack, and don't leave the enemy a chance to breathe! [-]
+0
+[ffebad]I'm ready, let's go! [-]
+
+in progress
+1
+[ffebad]Adventurers, come on. [-]
+
+end
+0
+[ffebad]Haha, the monster was successfully eliminated without any risk. [-]
+1
+[ffebad]Good job, take this material I just collected, you can use it to exchange for nice equipment. [-]
+
+prof 3
+
+begin
+1
+[ffebad]Adventurer, the guardian has been eroded by the evil power in the body of King Peda and lost his mind. The energy he now possesses is beyond imagination! [-]
+0
+[ffebad]So how should we prepare ourselves? [-]
+1
+[ffebad]While he hasn't fully obtained this overpowering power, join me in taking the initiative to attack, and don't leave the enemy a chance to breathe! [-]
+0
+[ffebad]I'm ready, let's go! [-]
+
+in progress
+1
+[ffebad]Adventurers, come on. [-]
+
+end
+0
+[ffebad]Haha, the monster was successfully eliminated without any risk. [-]
+1
+[ffebad]Good job, take this material I just collected, you can use it to exchange for nice equipment. [-]
+
+prof 4
+
+begin
+1
+[ffebad]Adventurer, the guardian has been eroded by the evil power in the body of King Peda and lost his mind. The energy he now possesses is beyond imagination! [-]
+0
+[ffebad]So how should we prepare ourselves? [-]
+1
+[ffebad]While he hasn't fully obtained this overpowering power, join me in taking the initiative to attack, and don't leave the enemy a chance to breathe! [-]
+0
+[ffebad]I'm ready, let's go! [-]
+
+in progress
+1
+[ffebad]Adventurers, come on. [-]
+
+end
+0
+[ffebad]Haha, the monster was successfully eliminated without any risk. [-]
+1
+[ffebad]Good job, take this material I just collected, you can use it to exchange for nice equipment. [-]
+
+prof 5
+
+begin
+1
+[ffebad]Adventurer, the guardian has been eroded by the evil power in the body of King Peda and lost his mind. The energy he now possesses is beyond imagination! [-]
+0
+[ffebad]So how should we prepare ourselves? [-]
+1
+[ffebad]While he hasn't fully obtained this overpowering power, join me in taking the initiative to attack, and don't leave the enemy a chance to breathe! [-]
+0
+[ffebad]I'm ready, let's go! [-]
+
+in progress
+1
+[ffebad]Adventurers, come on. [-]
+
+end
+0
+[ffebad]Haha, the monster was successfully eliminated without any risk. [-]
+1
+[ffebad]Good job, take this material I just collected, you can use it to exchange for nice equipment. [-]
+
+prof 6
+
+begin
+1
+[ffebad]Adventurer, the guardian has been eroded by the evil power in the body of King Peda and lost his mind. The energy he now possesses is beyond imagination! [-]
+0
+[ffebad]So how should we prepare ourselves? [-]
+1
+[ffebad]While he hasn't fully obtained this overpowering power, join me in taking the initiative to attack, and don't leave the enemy a chance to breathe! [-]
+0
+[ffebad]I'm ready, let's go! [-]
+
+in progress
+1
+[ffebad]Adventurers, come on. [-]
+
+end
+0
+[ffebad]Haha, the monster was successfully eliminated without any risk. [-]
+1
+[ffebad]Good job, take this material I just collected, you can use it to exchange for nice equipment. [-]
+
+prof 7
+
+begin
+1
+[ffebad]Adventurer, the guardian has been eroded by the evil power in the body of King Peda and lost his mind. The energy he now possesses is beyond imagination! [-]
+0
+[ffebad]So how should we prepare ourselves? [-]
+1
+[ffebad]While he hasn't fully obtained this overpowering power, join me in taking the initiative to attack, and don't leave the enemy a chance to breathe! [-]
+0
+[ffebad]I'm ready, I'mLet's go! [-]
+
+in progress
+1
+[ffebad]Adventurers, come on. [-]
+
+end
+0
+[ffebad]Haha, the monster was successfully eliminated without any risk. [-]
+1
+[ffebad]Good job, take this material I just collected, you can use it to exchange for nice equipment. [-]

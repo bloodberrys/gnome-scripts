@@ -1,0 +1,25 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]Seeing his former partner and present enemy, Jinlong Gelante die in front of him, Beth Kede felt unprecedented sadness. [-]
+1
+[ffebad]He decided to avenge Geralt himself and destroy Sea Dragon. [-]
+0
+[ffebad]I didn't expect Velskud to have such a side. [-]
+1
+[ffebad]Sure, he's never been a total bad guy, is he? [-]
+1
+[ffebad]The former black knight, Beth Keld, is the protector of mankind and the representative of integrity and bravery. [-]
+1
+[ffebad]50 years later, his heart still maintains the pride of the past...[-]
+
+in progress
+1
+[ffebad]Go and see for yourself when Velskud avenges Geralt! [[-]
+
+end
+1
+[ffebad]That's all for today's story...see you in the near future...[-]

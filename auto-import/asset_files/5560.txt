@@ -1,0 +1,101 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad]Adventurer, I'm looking for you. Have you heard about the UFO landing? It is said that that place is now in a chaotic time and space, and many people have gone to explore. [-]
+0
+[ffebad]UFO? I seem to have missed something great. [-]
+1
+[ffebad]I'm old and I don't have the energy to take risks, but I don't want to miss such a wonderful thing, please help me to see it, please? [-]
+
+in progress
+1
+[ffebad]hurry up and fight[-]
+
+end
+0
+[ffebad]I met a mysterious girl there, her weapon was amazing, like a future weapon, but unfortunately she disappeared after the battle. [-]
+1
+[ffebad]Mysterious girl? Perhaps, in the future we will have a chance to unravel this mystery. [-]
+
+prof 2
+
+begin
+1
+[ffebad]Adventurer, I'm looking for you. Have you heard about the UFO landing? It is said that that place is now in a chaotic time and space, and many people have gone to explore. [-]
+0
+[ffebad]UFO? I seem to have missed something great. [-]
+1
+[ffebad]I'm old and I don't have the energy to take risks, but I don't want to miss such a wonderful thing, please help me to see it, please? [-]
+
+in progress
+1
+[ffebad]hurry up and fight[-]
+
+end
+0
+[ffebad]I met a mysterious girl there, her weapon was amazing, like a future weapon, but unfortunately she disappeared after the battle. [-]
+1
+[ffebad]Mysterious girl? Perhaps, in the future we will have a chance to unravel this mystery. [-]
+
+prof 3
+
+begin
+1
+[ffebad]Adventurer, I'm looking for you. Have you heard about the UFO landing? It is said that that place is now in a chaotic time and space, and many people have gone to explore. [-]
+0
+[ffebad]UFO? I seem to have missed something great. [-]
+1
+[ffebad]I'm old and I don't have the energy to take risks, but I don't want to miss such a wonderful thing, please help me to see it, please? [-]
+
+in progress
+1
+[ffebad]hurry up and fight[-]
+
+end
+0
+[ffebad]I met a mysterious girl there, her weapon was amazing, like a future weapon, but unfortunately she disappeared after the battle. [-]
+1
+[ffebad]Mysterious girl? Perhaps, in the future we will have a chance to unravel this mystery. [-]
+
+prof 4
+
+begin
+1
+[ffebad]Adventurer, I'm looking for you. Have you heard about the UFO landing? It is said that that place is now in a chaotic time and space, and many people have gone to explore. [-]
+0
+[ffebad]UFO? I seem to have missed something great. [-]
+1
+[ffebad]I'm old and I don't have the energy to take risks, but I don't want to miss such a wonderful thing, please help me to see it, please? [-]
+
+in progress
+1
+[ffebad]hurry up and fight[-]
+
+end
+0
+[ffebad]I met a mysterious girl there, her weapon was amazing, like a future weapon, but unfortunately she disappeared after the battle. [-]
+1
+[ffebad]Mysterious girl? Perhaps, in the future we will have a chance to unravel this mystery. [-]
+
+prof 5
+
+begin
+1
+[ffebad]Adventurer, I'm looking for you. Have you heard about the UFO landing? It is said that that place is now in a chaotic time and space, and many people have gone to explore. [-]
+0
+[ffebad]UFO, I didn't see it? [-]
+1
+[ffebad]I'm old and I don't have the energy to take risks, but I don't want to miss such a wonderful thing, please help me to see it, please? [-]
+
+in progress
+1
+[ffebad]hurry up and fight[-]
+
+end
+0
+[ffebad]I met a mysterious girl there, her weapon was amazing, like a future weapon, but unfortunately she disappeared after the battle. [-]
+1
+[ffebad]Mysterious girl? Perhaps, in the future we will have a chance to unravel this mystery. [-]

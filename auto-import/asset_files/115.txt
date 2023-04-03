@@ -1,0 +1,141 @@
+start
+
+Prof 1
+
+begin
+0
+[ffebad]Ah! The dead body came back to life? [-]
+1
+[ffebad]Ah, it's nothing, just pretend you haven't seen me, sorry, I'm leaving. [-]
+0
+[ffebad]Wait...it's so weird, how did it come back to life, I have to follow up and see. [-]
+
+in progress
+1
+[ffebad]go [0096ff] deep in no man's land[-]
+
+end
+1
+[ffebad]Corpse revived? And ran away, you didn't catch up? Impossible, is it a dead spirit like a ghoul? [-]
+0
+[ffebad]No, that's a living girl, not some undead creature. [-]
+
+prof 2
+
+begin
+0
+[ffebad]Ah! The dead body came back to life? [-]
+1
+[ffebad]Ah, it's nothing, just pretend you haven't seen me, sorry, I'm leaving. [-]
+0
+[ffebad]Wait...it's so weird, how did it come back to life, I have to follow up and see. [-]
+
+in progress
+1
+[ffebad]go [0096ff] deep in no man's land[-]
+
+end
+1
+[ffebad]Corpse revived? And ran away, you didn't catch up? Impossible, is it a dead spirit like a ghoul? [-]
+0
+[ffebad]No, that's a living girl, not some undead creature. [-]
+
+prof 3
+
+begin
+0
+[ffebad]Ah! The dead body came back to life? [-]
+1
+[ffebad]Ah, it's nothing, just pretend you haven't seen me, sorry, I'm leaving. [-]
+0
+[ffebad]Wait...it's so weird, how did it come back to life, I have to follow up and see. [-]
+
+in progress
+1
+[ffebad]go [0096ff] deep in no man's land[-]
+
+end
+1
+[ffebad]Corpse revived? And ran away, you didn't catch up? Impossible, is it a dead spirit like a ghoul? [-]
+0
+[ffebad]No, that's a living girl, not some undead creature. [-]
+
+prof 4
+
+begin
+0
+[ffebad]Ah! The dead body came back to life? [-]
+1
+[ffebad]Ah, it's nothing, just pretend you haven't seen me, sorry, I'm leaving. [-]
+0
+[ffebad]Wait...it's so weird, how did it come back to life, I have to follow up and see. [-]
+
+in progress
+1
+[ffebad]go [0096ff] deep in no man's land[-]
+
+end
+1
+[ffebad]Corpse revived? And ran away, you didn't catch up? Impossible, is it a dead spirit like a ghoul? [-]
+0
+[ffebad]No, that's a living girl, not some undead creature. [-]
+
+prof 5
+
+begin
+0
+[ffebad]Ah! Sure enough, you too...[-]
+1
+[ffebad]Ah, it's nothing, just pretend you haven't seen me, sorry, I'm leaving. [-]
+0
+[ffebad]Wait... This is obviously a clone like me, I have to follow up to see. [-]
+
+in progress
+1
+[ffebad]go [0096ff] deep in no man's land[-]
+
+end
+1
+[ffebad]Corpse revived? And ran away, you didn't catch up? Impossible, is it a dead spirit like a ghoul? [-]
+0
+[ffebad]No, that's a living girl, I think what I saw was the corpse of a clone. [-]
+
+prof 6
+
+begin
+0
+[ffebad]Ah! The dead body came back to life? [-]
+1
+[ffebad]Ah, it's nothing, just pretend you haven't seen me, sorry, I'm leaving. [-]
+0
+[ffebad]Wait...it's so weird, how did it come back to life, I have to follow up and see. [-]
+
+in progress
+1
+[ffebad]go [0096ff] deep in no man's land[-]
+
+end
+1
+[ffebad]Corpse revived? And ran away, you didn't catch up? Impossible, is it a dead spirit like a ghoul? [-]
+0
+[ffebad]No, that's a living girl, not some undead creature. [-]
+
+prof 7
+
+begin
+0
+[ffebad]Ah! The dead body came back to life? [-]
+1
+[ffebad]Ah, it's nothing, just pretend you haven't seen me, sorry, I'm leaving. [-]
+0
+[ffebad]Wait...it's so weird, how did it come back to life, I have to follow up and see. [-]
+
+in progress
+1
+[ffebad]go [0096ff] deep in no man's land[-]
+
+end
+1
+[ffebad]Corpse revived? And ran away, you didn't catch up? Impossible, is it a dead spirit like a ghoul? [-]
+0
+[ffebad]No, that's a living girl, not some undead creature. [-]

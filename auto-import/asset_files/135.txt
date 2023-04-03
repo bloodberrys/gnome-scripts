@@ -1,0 +1,23 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]What's going on with Velskud? Do you think he is reliable? [-]
+0
+[ffebad]He has successfully absorbed gems and seems to be recovering. I believe he will be a reliable comrade in arms. [-]
+1
+[ffebad]Beth Keld has indeed fought side by side with me, he is cold on the outside and hot on the inside. But what happened to the black dragon, I'm worried that he's still obsessed with power and vengeance, forgetting the path of justice. [-]
+1
+[ffebad]Hope he can change his ways. Warrior, we have more urgent matters now. Since the Green Dragon incident, the activities of the followers of the dragon have become more and more rampant. Recently, the traitor Ignacio has also been exposed. He seems to be planning some evil activities. I would like to ask you to go to the Full Moon Desert to investigate to see if he really appeared. [-]
+
+in progress
+1
+[ffebad]go to [0096ff] full moon desert [-]
+
+end
+0
+[ffebad]The residents over there have seen traces of the followers of the dragon. It seems that the news is very reliable. Let's hurry up and chase them. [-]
+1
+[ffebad]No, the enemy is in the dark and we are in the light. If the army is dispatched, it is easy to scare the snake. It's better to be on the safe side, let the strong first investigate their purpose and where they are going. I will do it myself, please go find Beth Keld, and just test him. [-]

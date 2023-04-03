@@ -1,0 +1,157 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad]Hi, dear warrior, I'm looking for you, I have a problem, can you please help me? [-]
+0
+[ffebad]Sure, I'd love to help Joey, I'm a big fan of yours, what happened? [-]
+1
+[ffebad]Alas, the continent of Altria is so beautiful, why are there still those evil guys who want to destroy it all? Many of my fans have absorbed the evil and depraved breath during their adventures, and they are madly attacking other fans , really makes me so sad. [-]
+0
+[ffebad]Is there such a thing? I'm going to have a look. [-]
+1
+[ffebad]Thank you, Warrior, and I will face it with you. [-]
+
+in progress
+1
+[ffebad]Go ahead, little warrior. [-]
+
+end
+1
+[ffebad]hope their souls can be relieved, such a sad thing, never happen again. [-]
+0
+[ffebad]Zuer, don't be sad, I will destroy all evil and protect the beautiful Altria! [-]
+1
+[ffebad]I believe in you, and I will also advise fans to be careful and protect themselves. Thank you for your help, this is a gift for you, be sure to accept it! [-]
+
+prof 2
+
+begin
+1
+[ffebad]Hi, dear warrior, I'm looking for you, I have a problem, can you please help me? [-]
+0
+[ffebad]Sure, I'd love to help Joey, I'm a big fan of yours, what happened? [-]
+1
+[ffebad]Alas, the continent of Altria is so beautiful, why are there still those evil guys who want to destroy it all? Many of my fans have absorbed the evil and depraved breath during their adventures, and they are madly attacking other fans , really makes me so sad. [-]
+0
+[ffebad]Is there such a thing? I'm going to have a look. [-]
+1
+[ffebad]Thank you, Warrior, and I will face it with you. [-]
+
+in progress
+1
+[ffebad]Go ahead, little warrior. [-]
+
+end
+1
+[ffebad]hope their souls can be relieved, such a sad thing, never happen again. [-]
+0
+[ffebad]Zuer, don't be sad, I will destroy all evil and protect the beautiful Altria! [-]
+1
+[ffebad]I believe in you, and I will also advise fans to be careful and protect themselves. Thank you for your help, this is a gift for you, be sure to accept it! [-]
+
+prof 3
+
+begin
+1
+[ffebad]Hi, dear warrior, I'm looking for you, I have a problem, can you please help me? [-]
+0
+[ffebad]Sure, I'd love to help Joey, I'm a big fan of yours, what happened? [-]
+1
+[ffebad]Alas, the continent of Altria is so beautiful, why are there still those evil guys who want to destroy it all? Many of my fans have absorbed the evil and depraved breath during their adventures, and they are madly attacking other fans , really makes me so sad. [-]
+0
+[ffebad]Is there such a thing? I'm going to have a look. [-]
+1
+[ffebad]Thank you, Warrior, and I will face it with you. [-]
+
+in progress
+1
+[ffebad]Go ahead, little warrior. [-]
+
+end
+1
+[ffebad]hope their souls can be relieved, such a sad thing, never happen again. [-]
+0
+[ffebad]Zuer, don't be sad, I will destroy all evil and protect the beautiful Altria! [-]
+1
+[ffebad]I believe in you, and I will also advise fans to be careful and protect themselves. Thank you for your help, this is a gift for you, be sure to accept it! [-]
+
+prof 4
+
+begin
+1
+[ffebad]Hi, dear warrior, I'm looking for you, I have a problem, can you please help me? [-]
+0
+[ffebad]Sure, I'd love to help Joey, I'm a big fan of yours, what happened? [-]
+1
+[ffebad]Alas, the continent of Altria is so beautiful, why are there still those evil guys who want to destroy it all? Many of my fans have absorbed the evil and depraved breath during their adventures, and they are madly attacking other fans , really makes me so sad. [-]
+0
+[ffebad]Is there such a thing? I'm going to have a look. [-]
+1
+[ffebad]Thank you, Warrior, and I will face it with you. [-]
+
+in progress
+1
+[ffebad]Go ahead, little warrior. [-]
+
+end
+1
+[ffebad]hope their souls can be relieved, such a sad thing, never happen again. [-]
+0
+[ffebad]Zuer, don't be sad, I will destroy all evil and protect the beautiful Altria! [-]
+1
+[ffebad]I believe in you, and I will also advise fans to be careful and protect themselves. Thank you for your help, this is a gift for you, be sure to accept it! [-]
+
+Prof 5
+
+begin
+1
+[ffebad]Hi, dear warrior, I'm looking for you, I have a problem, can you please help me? [-]
+0
+[ffebad]Sure, I'd love to help Joey, I'm a big fan of yours, what happened? [-]
+1
+[ffebad]Alas, the continent of Altria is so beautiful, why are there still those evil guys who want to destroy it all? Many of my fans have absorbed the evil and depraved breath during their adventures, and they are madly attacking other fans , really makes me so sad. [-]
+0
+[ffebad]Is there such a thing? ICheck it out here. [-]
+1
+[ffebad]Thank you, Warrior, and I will face it with you. [-]
+
+in progress
+1
+[ffebad]Go ahead, little warrior. [-]
+
+end
+1
+[ffebad]hope their souls can be relieved, such a sad thing, never happen again. [-]
+0
+[ffebad]Zuer, don't be sad, I will destroy all evil and protect the beautiful Altria! [-]
+1
+[ffebad]I believe in you, and I will also advise fans to be careful and protect themselves. Thank you for your help, this is a gift for you, be sure to accept it! [-]
+
+prof 6
+
+begin
+1
+[ffebad]Hi, dear warrior, I'm looking for you, I have a problem, can you please help me? [-]
+0
+[ffebad]Sure, I'd love to help Joey, I'm a big fan of yours, what happened? [-]
+1
+[ffebad]Alas, the continent of Altria is so beautiful, why are there still those evil guys who want to destroy it all? Many of my fans have absorbed the evil and depraved breath during their adventures, and they are madly attacking other fans , really makes me so sad. [-]
+0
+[ffebad]Is there such a thing? I'm going to have a look. [-]
+1
+[ffebad]Thank you, Warrior, and I will face it with you. [-]
+
+in progress
+1
+[ffebad]Go ahead, little warrior. [-]
+
+end
+1
+[ffebad]hope their souls can be relieved, such a sad thing, never happen again. [-]
+0
+[ffebad]Zuer, don't be sad, I will destroy all evil and protect the beautiful Altria! [-]
+1
+[ffebad]I believe in you, and I will also advise fans to be careful and protect themselves. Thank you for your help, this is a gift for you, be sure to accept it! [-]

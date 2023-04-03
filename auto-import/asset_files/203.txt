@@ -1,0 +1,45 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]There's something I need to tell you. [-]
+1
+[ffebad]After recovering his memory, the monsters of the Dark Continent could not accept their current identity. [-]
+1
+[ffebad]He's been in a state of madness and despair...[-]
+1
+[ffebad]Finally, broke through the protective walls of the guards and disappeared in the rift of time and space. [-]
+0
+[ffebad]Is he gone? [-]
+1
+[ffebad]Yeah, I think... maybe he's back in the dark continent... [-]
+0
+[ffebad]I'm going to find him! [-]
+
+in progress
+1
+[ffebad]The monster that disappeared after entering the level. [-]
+
+end
+1
+[ffebad]This? ...It's a letter from that monster...[-]
+1
+[ffebad]let's see what he wants to tell us...[-]
+1
+[ffebad](reads the letter) Adventurer, thank you for helping me get my memory back...[-]
+1
+[ffebad](reading the letter) also helped me to give gifts to my children, I have no regrets...[-]
+1
+[ffebad](reading the letter) During this time, I lived in the peace and safety of the holy heaven, but my heart was full of anger and destruction. [-]
+1
+[ffebad](reading the letter) I can't help but want to hurt other people, can't restrain the bloodthirsty inside of me...[-]
+1
+[ffebad](reading the letter) I think, maybe I can only live as a monster...[-]
+1
+[ffebad](reading the letter) If I had the courage, I would end my life that no longer makes sense...[-]
+1
+[ffebad](reading the letter) If I don't have the courage, I will forget everything I ever was as a human, and live forever as a monster until I am wiped out by an adventurer like you...[-]
+1
+[ffebad](reading the letter) No need to look for me, if there is a chance to meet again, please put a sword into my chest...[-]

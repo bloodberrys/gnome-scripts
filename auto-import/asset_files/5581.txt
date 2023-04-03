@@ -1,0 +1,111 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad]Hey, little guy, I'm looking for you. The monsters in the lair have been dishonest recently. My shop has no new ore and coal for several days. [-]
+0
+[ffebad]Leave it to me, I'll teach them a lesson! [-]
+1
+[ffebad]Little guy, I have a way to help you. You start from my teleportation array. It is said that if you are a real warrior, if you set out to fight from here, you can get the blessing of the legendary hero and become a hero. fighting! [-]
+0
+[ffebad]There is still such a miraculous thing, I'm going to set off now! [-]
+
+in progress
+1
+[ffebad]Little warrior, come on. [-]
+
+end
+0
+[ffebad]It's really amazing to be a hero, I've already done it. [-]
+1
+[ffebad]Hehehe, Old Dowling will not lie, you have helped me a lot, come, this is a gift for you. [-]
+
+prof 2
+
+begin
+1
+[ffebad]Hey, little guy, I'm looking for you. The monsters in the lair have been dishonest recently. My shop has no new ore and coal for several days. [-]
+0
+[ffebad]Leave it to me, I'll teach them a lesson! [-]
+1
+[ffebad]Little guy, I have a way to help you. You start from my teleportation array. It is said that if you are a real warrior, if you set out to fight from here, you can get the blessing of the legendary hero and become a hero. fighting! [-]
+0
+[ffebad]There is still such a miraculous thing, I'm going to set off now! [-]
+
+in progress
+1
+[ffebad]Little warrior, come on. [-]
+
+end
+0
+[ffebad]It's really amazing to be a hero, I've already done it. [-]
+1
+[ffebad]Hehehe, Old Dowling will not lie, you have helped me a lot, come, this is a gift for you. [-]
+
+prof 3
+
+begin
+1
+[ffebad]Hey, little guy, I'm looking for you. The monsters in the lair have been dishonest recently. My shop has no new ore and coal for several days. [-]
+0
+[ffebad]Leave it to me, I'll teach them a lesson! [-]
+1
+[ffebad]Little guy, I have a way to help you. You start from my teleportation array. It is said that if you are a real warrior, if you set out to fight from here, you can get the blessing of the legendary hero and become a hero. fighting! [-]
+0
+[ffebad]There is still such a miraculous thing, I'm going to set off now! [-]
+
+in progress
+1
+[ffebad]Little warrior, come on. [-]
+
+end
+0
+[ffebad]It's really amazing to be a hero, I've already done it. [-]
+1
+[ffebad]Hehehe, Old Dowling will not lie, you have helped me a lot, come, this is a gift for you. [-]
+
+prof 4
+
+begin
+1
+[ffebad]Hey, little guy, I'm looking for you. The monsters in the lair have been dishonest recently. My shop has no new ore and coal for several days. [-]
+0
+[ffebad]Leave it to me, I'll teach them a lesson! [-]
+1
+[ffebad]Little guy, I have a way to help you. You start from my teleportation array. It is said that if you are a real warrior, if you set out to fight from here, you can get the blessing of the legendary hero and become a hero. fighting! [-]
+0
+[ffebad]There is still such a miraculous thing, I'm going to set off now! [-]
+
+in progress
+1
+[ffebad]Little warrior, come on. [-]
+
+end
+0
+[ffebad]It's really amazing to be a hero, I've already done it. [-]
+1
+[ffebad]Hehehe, Old Dowling will not lie, you have helped me a lot, come, this is a gift for you. [-]
+
+Prof 5
+
+begin
+1
+[ffebad]Hey, little guy, I'm looking for you. The monsters in the lair have been dishonest recently. My shop has no new ore and coal for several days. [-]
+0
+[ffebad]Leave it to me, I'll teach them a lesson! [-]
+1
+[ffebad]Little guy, I have a way to help you. You start from my teleportation array. It is said that if you are a real warrior, if you set out to fight from here, you can get the blessing of the legendary hero and become a hero. fighting! [-]
+0
+[ffebad]There is still such a miraculous thing, I'm going to set off now! [-]
+
+in progress
+1
+[ffebad]Little warrior, come on. [-]
+
+end
+0
+[ffebad]It's really amazing to be a hero, I've already done it. [-]
+1
+[ffebad]Hehehe, Old Dowling will not lie, you have helped me a lot, come, this is a gift for you. [-]

@@ -1,0 +1,37 @@
+start
+
+prof 0
+
+step 1
+1
+[ffebad]Our enemy may not be the only one. Someone is helping him, find someone to help him! [-]
+1
+[ffebad]Otherwise, there would be nothing to stop him from opening the gate of the monolith. [-]
+[branch]2=Gate of the Stone Monument?
+
+step 2
+1
+[ffebad]Shut up your curiosity, now is not the time to explain to you. [-]
+[branch]3=Tell me!
+
+step 3
+1
+[ffebad]That's not something you're supposed to know. [-]
+1
+[ffebad]On the other side of the Gate of the Stone Monument, there is [0096ff] another continent[-]. The place is full of depraved atmosphere and is not suitable for any human beings to survive. Opening the door of the megalithic monument will only allow the evil creatures from that continent to invade! [-]
+[branch]4=Why?
+
+step 4
+1
+[ffebad](Positive color) This is the end of your question time, find the reason why Peda became stronger. [-]
+
+step 5
+1
+[ffebad]Did you find any leads? [-]
+[branch]6=that girl
+
+step 6
+1
+[ffebad]Fifteen or so? gray hair? [-]
+1
+[ffebad]Stupid, how could there be a fifteen-year-old girl in such a dangerous forest? [-]

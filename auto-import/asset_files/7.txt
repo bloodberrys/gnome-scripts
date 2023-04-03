@@ -1,0 +1,176 @@
+start
+
+Prof 1
+
+begin
+0
+[ffebad]Oops, I got too busy with the fights and not them... I gotta go back and see! (Gnome Dragon Nest Mobile)[-]
+[voice]Audio/VO/Warrior/warrior16
+1
+[ffebad]Be sure to stay calm at all times! You can look around carefully, and I will also pay attention to the news. [-]
+[voice]Audio/VO/lines/lines52
+
+in progress
+1
+[ffebad]go look around[-]
+
+end
+1
+[ffebad]Oh! Young man, I know you! Heroic adventurer, you should come and see my baby! [-]
+[voice]Audio/VO/lines/lines56
+0
+[ffebad]Sorry, I don't have time! Did you see Timothy and Rose? We got separated while escaping from the monster...[-]
+[voice]Audio/VO/Warrior/warrior6
+1
+[ffebad]What? I've been here and haven't seen them coming back! Young people, take my newly created shiny baby equipment to rescue them back! [-]
+[voice]Audio/VO/lines/lines57
+
+prof 2
+
+begin
+0
+[ffebad]Oops, I got too busy with the fights and not them... I gotta go back and see! [-]
+[voice]Audio/VO/Archer/archer16
+1
+[ffebad]Be sure to stay calm at all times! You can look around carefully, and I will also pay attention to the news. [-]
+[voice]Audio/VO/lines/lines53
+
+in progress
+1
+[ffebad]go look around[-]
+
+end
+1
+[ffebad]Oh! Young man, I know you! Heroic adventurer, you should come and see my baby! [-]
+[voice]Audio/VO/lines/lines56
+0
+[ffebad]Sorry, I don't have time! Did you see Timothy and Rose? We got separated while escaping from the monster...[-]
+[voice]Audio/VO/Archer/archer6
+1
+[ffebad]What? I've been here and haven't seen them coming back! Young people, take my newly created shiny baby equipment to rescue them back! [-]
+[voice]Audio/VO/lines/lines57
+
+prof 3
+
+begin
+0
+[ffebad]Oops, I got too busy with the fights and not them... I gotta go back and see! [-]
+[voice]Audio/VO/Sorceress/Sorceress16
+1
+[ffebad]Be sure to stay calm at all times! You can look around carefully, and I will also pay attention to the news. [-]
+[voice]Audio/VO/lines/lines54
+
+in progress
+1
+[ffebad]go look around[-]
+
+end
+1
+[ffebad]Oh! Young man, I know you! Heroic adventurer, you should come and see my baby! [-]
+[voice]Audio/VO/lines/lines56
+0
+[ffebad]Sorry, I don't have time! Did you see Timothy and Rose? We got separated while escaping from the monster...[-]
+[voice]Audio/VO/Sorceress/Sorceress6
+1
+[ffebad]What? I've been here and haven't seen them coming back! Young people, take my newly created shiny baby equipment to rescue them back! [-]
+[voice]Audio/VO/lines/lines57
+
+prof 4
+
+begin
+0
+[ffebad]Oops, I got too busy with the fights and not them... I gotta go back and see! [-]
+[voice]Audio/VO/Cleric/cleric16
+1
+[ffebad]Be sure to stay calm at all times! You can look around carefully, and I will also pay attention to the news. [-]
+[voice]Audio/VO/lines/lines55
+
+in progress
+1
+[ffebad]go look around[-]
+
+end
+1
+[ffebad]Oh! Young man, I know you! Heroic adventurer, you should come and see my baby! [-]
+[voice]Audio/VO/lines/lines56
+0
+[ffebad]Sorry, I don't have time! Did you see Timothy and Rose? We got separated while escaping from the monster...[-]
+[voice]Audio/VO/Cleric/cleric6
+1
+[ffebad]What? I've been here and haven't seen them coming back! Young people, take my newly created shiny baby equipment to rescue them back! [-]
+[voice]Audio/VO/lines/lines57
+
+prof 5
+
+begin
+0
+[ffebad]Oops, didn't they escape. I have to go back and see. [-]
+[voice]Audio/VO/Academic/academic29
+1
+[ffebad]Don't worry, maybe they are still on their way back, you go and look elsewhere. [-]
+[voice]Audio/VO/lines/lines238
+
+in progress
+1
+[ffebad]go look around[-]
+
+end
+1
+[ffebad]Oh! Young man, I know you! heroic adventurer, you shouldCome see my baby! [-]
+[voice]Audio/VO/lines/lines56
+0
+[ffebad]Grandpa Dorian, did you see Timothy and Rose? We were separated when we escaped from the monsters. [-]
+[voice]Audio/VO/Academic/academic28
+1
+[ffebad]What? I've been here and haven't seen them coming back! Young people, take my newly created shiny baby equipment to rescue them back! [-]
+[voice]Audio/VO/lines/lines57
+
+prof 6
+
+begin
+0
+[ffebad]Oops, didn't they escape. I have to go back and see. [-]
+[voice]Audio/VO/Assassin/assassin29
+1
+[ffebad]Assassin, always keep calm! Look elsewhere, meow. [-]
+[voice]Audio/VO/lines/lines247
+
+in progress
+1
+[ffebad]go look around[-]
+
+end
+1
+[ffebad]Oh! Young man, I know you! Heroic adventurer, you should come and see my baby! [-]
+[voice]Audio/VO/lines/lines56
+0
+[ffebad]Grandpa Dorian, did you see Timothy and Rose? We were separated when we escaped from the monsters. [-]
+[voice]Audio/VO/Assassin/assassin28
+1
+[ffebad]What? I've been here and haven't seen them coming back! Young people, take my newly created shiny baby equipment to rescue them back! [-]
+[voice]Audio/VO/lines/lines57
+
+prof 7
+
+begin
+0
+[ffebad]I got caught up in the fight and didn't pay attention to them... I'll have to go back and see! [-]
+[voice]Audio/VO/kali/kali20
+1
+[ffebad]keep calm! You can look around carefully, and I will try my best to perceive it. [-]
+[voice]Audio/VO/lines/lines262
+
+in progress
+1
+[ffebad]go look around[-]
+
+end
+1
+[ffebad]Oh! Young man, I know you! Heroic adventurer, you should come and see my baby! [-]
+[voice]Audio/VO/lines/lines56
+0
+[ffebad]Sorry, I'm looking for someone! Did you see Timothy and Rose? We got separated while escaping from the monster... [-]
+[voice]Audio/VO/kali/kali20
+1
+[ffebad]What? I've been here and haven't seen them coming back! Young people, take my newly created shiny baby equipment to rescue them back! [-]
+[voice]Audio/VO/lines/lines57

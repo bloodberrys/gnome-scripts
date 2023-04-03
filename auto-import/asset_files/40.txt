@@ -1,0 +1,155 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad]You really got the beloved of the goddess! He even wiped out so many monsters single-handedly! However, the court magician observed that another group of monsters was gathering in the territory of the Dark Lord, which seemed to be summoned by the power of the black dragon possessed by the black knight. (Gnome Dragon Nest Mobile)[-]
+[voice]Audio/VO/lines/lines214
+1
+[ffebad]I will implore the king immediately to send troops. After General Douglas returns, he should be able to attack the Black Knight immediately! [-]
+[voice]Audio/VO/lines/lines215
+0
+[ffebad]Then I will go to the [0096ff] Dark Lord's Territory near Montenegro[-] to observe the movements of the monsters. [-]
+[voice]Audio/VO/Warrior/warrior13
+
+in progress
+1
+[ffebad]Go to [0096ff] Dark Lord's Domain[-]
+
+end
+0
+[ffebad]The black knight gathered the monsters, but he was actually making a fuss. His real hiding place is likely to be the center of Montenegro - the training ground of the Great Monarch! [-]
+[voice]Audio/VO/Warrior/warrior29
+
+prof 2
+
+begin
+1
+[ffebad]You really got the beloved of the goddess! He even wiped out so many monsters single-handedly! However, the court magician observed that another group of monsters was gathering in the territory of the Dark Lord, which seemed to be summoned by the power of the black dragon possessed by the black knight. [-]
+[voice]Audio/VO/lines/lines214
+1
+[ffebad]I will implore the king immediately to send troops. After General Douglas returns, he should be able to attack the Black Knight immediately! [-]
+[voice]Audio/VO/lines/lines215
+0
+[ffebad]Then I will go to the [0096ff] Dark Lord's Territory near Montenegro[-] to observe the movements of the monsters. [-]
+[voice]Audio/VO/Archer/archer13
+
+in progress
+1
+[ffebad]Go to [0096ff] Dark Lord's Domain[-]
+
+end
+0
+[ffebad]The black knight gathered the monsters, but he was actually making a fuss. His real hiding place is likely to be the center of Montenegro - the training ground of the Great Monarch! [-]
+[voice]Audio/VO/Archer/archer29
+
+prof 3
+
+begin
+1
+[ffebad]You really got the beloved of the goddess! He even wiped out so many monsters single-handedly! However, the court magician observed that another group of monsters was gathering in the territory of the Dark Lord, which seemed to be summoned by the power of the black dragon possessed by the black knight. [-]
+[voice]Audio/VO/lines/lines214
+1
+[ffebad]I will implore the king immediately to send troops. After General Douglas returns, he should be able to attack the Black Knight immediately! [-]
+[voice]Audio/VO/lines/lines215
+0
+[ffebad]Then I will go to the [0096ff] Dark Lord's Territory near Montenegro[-] to observe the movements of the monsters. [-]
+[voice]Audio/VO/Sorceress/Sorceress13
+
+in progress
+1
+[ffebad]Go to [0096ff] Dark Lord's Domain[-]
+
+end
+0
+[ffebad]The black knight gathered the monsters, but he was actually making a fuss. His real hiding place is likely to be the center of Montenegro - the training ground of the Great Monarch! [-]
+[voice]Audio/VO/Sorceress/Sorceress29
+
+prof 4
+
+begin
+1
+[ffebad]You really got the beloved of the goddess! He even wiped out so many monsters single-handedly! However, the court magician observed that another group of monsters was gathering in the territory of the Dark Lord, which seemed to be summoned by the power of the black dragon possessed by the black knight. [-]
+[voice]Audio/VO/lines/lines214
+1
+[ffebad]I will implore the king immediately to send troops. After General Douglas returns, he should be able to attack the Black Knight immediately! [-]
+[voice]Audio/VO/lines/lines215
+0
+[ffebad]Then I will go to the [0096ff] Dark Lord's Territory near Montenegro[-] to observe the movements of the monsters. [-]
+[voice]Audio/VO/Cleric/cleric13
+
+in progress
+1
+[ffebad]Go to [0096ff] Dark Lord's Domain[-]
+
+end
+0
+[ffebad]The black knight gathered the monsters, but he was actually making a fuss. His real hiding place is likely to be the center of Montenegro - the training ground of the Great Monarch! [-]
+[voice]Audio/VO/Cleric/cleric29
+
+Prof 5
+
+begin
+1
+[ffebad]You really got the beloved of the goddess! He even wiped out so many monsters single-handedly! However, the court magician observed that another group of monsters was gathering in the territory of the Dark Lord, which seemed to be summoned by the power of the black dragon possessed by the black knight. [-]
+[voice]Audio/VO/lines/lines214
+1
+[ffebad]I will implore the king immediately to send troops. After General Douglas returns, he should be able to attack the Black Knight immediately! [-]
+[voice]Audio/VO/lines/lines215
+0
+[ffebad]I will first go to [0096ff] the territory of the Dark Lord [-] near Black Mountain to observe the movements of the monsters. [-]
+[voice]Audio/VO/Academic/academic4
+
+in progress
+1
+[ffebad]Go to [0096ff] Dark Lord's Domain[-]
+
+end
+0
+[ffebad]The black knight gathered the monsters, but he was actually making a fuss. His real hiding place is likely to be the center of Montenegro - the training ground of the Great Monarch! [-]
+[voice]Audio/VO/Academic/academic29
+
+prof 6
+
+begin
+1
+[ffebad]You really got the beloved of the goddess! He even wiped out so many monsters single-handedly! However, the court magician observed that another group of monsters was gathering in the territory of the Dark Lord, which seemed to be summoned by the power of the black dragon possessed by the black knight. [-]
+[voice]Audio/VO/lines/lines214
+1
+[ffebad]I will implore the king immediately to send troops. After General Douglas returns, he should be able to attack the Black Knight immediately! [-]
+[voice]Audio/VO/lines/lines215
+0
+[ffebad]I will first go to [0096ff] the territory of the Dark Lord [-] near Black Mountain to observe the movements of the monsters. [-]
+[voice]Audio/VO/Assassin/Assassin4
+
+in progress
+1
+[ffebad]Go to [0096ff] Dark Lord's Domain[-]
+
+end
+0
+[ffebad]The black knight gathered the monsters, but he was actually making a fuss. His real hiding place is likely to be the center of Montenegro - the training ground of the Great Monarch! [-]
+[voice]Audio/VO/Assassin/assassin29
+
+prof 7
+
+begin
+1
+[ffebad]You really got the beloved of the goddess! He even wiped out so many monsters single-handedly! However, the court magician observed that another group of monsters was gathering in the territory of the Dark Lord, which seemed to be summoned by the power of the black dragon possessed by the black knight. [-]
+[voice]Audio/VO/lines/lines214
+1
+[ffebad]I will implore the king immediately to send troops. After General Douglas returns, he should be able to attack the Black Knight immediately! [-]
+[voice]Audio/VO/lines/lines215
+0
+[ffebad]I went to [0096ff] the territory of the Dark Lord [-] near Montenegro to observe the movements of the monsters. [-]
+[voice]Audio/VO/kali/kali12
+
+in progress
+1
+[ffebad]Go to [0096ff] Dark Lord's Domain[-]
+
+end
+0
+[ffebad]The black knight gathers monsters all over the place, and his real hiding place is likely to be the center of Montenegro - the Great Monarch's training ground! [-]
+[voice]Audio/VO/kali/kali9

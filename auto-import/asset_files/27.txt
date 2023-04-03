@@ -1,0 +1,176 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad]Don't underestimate the Adventurers' Guild! I have sent people to search for the modified machine you mentioned. Those machines are dangerous, destroy them! (Gnome Dragon Nest Mobile)[-]
+[voice]Audio/VO/lines/lines158
+0
+[ffebad]Haha, uncle, you are one step ahead. I'm going to fight too! [-]
+[voice]Audio/VO/Warrior/warrior10
+
+in progress
+1
+[ffebad]go to [0096ff] transform field core[-] let's[-]
+
+end
+1
+[ffebad]Brat, running around makes my eyes dazzle! Why don't you go to Geraint! ! [-]
+[voice]Audio/VO/lines/lines159
+0
+[ffebad]Although I really want to go right away...but the black knight destroyed the airship, and the airship's suspension device was also taken away by a red dark elf...[-]
+[voice]Audio/VO/Warrior/warrior6
+1
+[ffebad]ok ok! The red dark elf... Huh, Elena, it really lingers. Little devil, have you met a transformed goblin? [-]
+[voice]Audio/VO/lines/lines160
+
+prof 2
+
+begin
+1
+[ffebad]Don't underestimate the Adventurers' Guild! I have sent people to search for the modified machine you mentioned. Those machines are dangerous, destroy them! [-]
+[voice]Audio/VO/lines/lines158
+0
+[ffebad]Haha, uncle, you are one step ahead. I'm going to fight too! [-]
+[voice]Audio/VO/Archer/archer10
+
+in progress
+1
+[ffebad]go to [0096ff] transform field core[-] let's[-]
+
+end
+1
+[ffebad]Brat, running around makes my eyes dazzle! Why don't you go to Geraint! ! [-]
+[voice]Audio/VO/lines/lines159
+0
+[ffebad]Although I really want to go right away...but the black knight destroyed the airship, and the airship's suspension device was also taken away by a red dark elf...[-]
+[voice]Audio/VO/Archer/archer6
+1
+[ffebad]ok ok! The red dark elf... Huh, Elena, it really lingers. Little devil, have you met a transformed goblin? [-]
+[voice]Audio/VO/lines/lines160
+
+prof 3
+
+begin
+1
+[ffebad]Don't underestimate the Adventurers' Guild! I have sent people to search for the modified machine you mentioned. Those machines are dangerous, destroy them! [-]
+[voice]Audio/VO/lines/lines158
+0
+[ffebad]Haha, uncle, you are one step ahead. I'm going to fight too! [-]
+[voice]Audio/VO/Sorceress/Sorceress10
+
+in progress
+1
+[ffebad]go to [0096ff] transform field core[-] let's[-]
+
+end
+1
+[ffebad]Brat, running around makes my eyes dazzle! Why don't you go to Geraint! ! [-]
+[voice]Audio/VO/lines/lines159
+0
+[ffebad]Although I really want to go right away...but the black knight destroyed the airship, and the airship's suspension device was also taken away by a red dark elf...[-]
+[voice]Audio/VO/Sorceress/Sorceress6
+1
+[ffebad]ok ok! The red dark elf... Huh, Elena, it really lingers. Little devil, have you met a transformed goblin? [-]
+[voice]Audio/VO/lines/lines160
+
+prof 4
+
+begin
+1
+[ffebad]Don't underestimate the Adventurers' Guild! I have sent people to search for the modified machine you mentioned. Those machines are dangerous, destroy them! [-]
+[voice]Audio/VO/lines/lines158
+0
+[ffebad]Haha, uncle, you are one step ahead. I'm going to fight too! [-]
+[voice]Audio/VO/Cleric/cleric10
+
+in progress
+1
+[ffebad]go to [0096ff] transform field core[-] let's[-]
+
+end
+1
+[ffebad]Brat, running around makes my eyes dazzle! Why don't you go to Geraint! ! [-]
+[voice]Audio/VO/lines/lines159
+0
+[ffebad]Although I really want to go right away...but the black knight destroyed the airship, and the airship's suspension device was also taken away by a red dark elf...[-]
+[voice]Audio/VO/Cleric/cleric6
+1
+[ffebad]ok ok! The red dark elf... Huh, Elena, it really lingers. Little devil, have you met a transformed goblin? [-]
+[voice]Audio/VO/lines/lines160
+
+Prof 5
+
+begin
+1
+[ffebad]Don't underestimate the Adventurers' Guild! I have sent people to search for the modified machine you mentioned. Those machines are dangerous, destroy them! [-]
+[voice]Audio/VO/lines/lines158
+0
+[ffebad]Oh, uncle, you took the lead. I'm going to fight too! [-]
+[voice]Audio/VO/Academic/academic26
+
+in progress
+1
+[ffebad]go to [0096ff] transform field core[-] let's[-]
+
+end
+1
+[ffebad]Brat, running around makes my eyes dazzle! Why don't you go to Geraint! ! [-]
+[voice]Audio/VO/lines/lines159
+0
+[ffebad]Although I really want to go right away...but the black knight destroyed the airship, and the airship's suspension device was also taken away by a red dark elf...[-]
+[voice]Audio/VO/Academic/academic6
+1
+[ffebad]ok ok! The red dark elf... Huh, Elena, it really lingers. Little devil, have you met a transformed goblin? [-]
+[voice]Audio/VO/lines/lines160
+
+prof 6
+
+begin
+1
+[ffebad]Don't underestimate the Adventurers' Guild! I have sent people to search for the modified machine you mentioned. Those machines are dangerous, destroy them! [-]
+[voice]Audio/VO/lines/lines158
+0
+[ffebad]Huh? The Adventurers Association is very efficient. I'm going to fight too! [-]
+[voice]Audio/VO/Assassin/assassin26
+
+in progress
+1
+[ffebad]go to [0096ff] transform field core[-] let's[-]
+
+end
+1
+[ffebad]Brat, running around makes my eyes dazzle! Why don't you go to Geraint! ! [-]
+[voice]Audio/VO/lines/lines159
+0
+[ffebad]The black knight destroyed the airship, and the airship's levitation device was also taken away by a red dark elf... [-]
+[voice]Audio/VO/Assassin/assassin6
+1
+[ffebad]ok ok! The red dark elf... Huh, Elena, it really lingers. Little devil, have you met a transformed goblin? [-]
+[voice]Audio/VO/lines/lines160
+
+prof 7
+
+begin
+1
+[ffebad]Don't underestimate the Adventurers' Guild! I have sent people to search for the modified machine you mentioned. Those machines are dangerous, destroy them! [-]
+[voice]Audio/VO/lines/lines158
+0
+[ffebad]Huh? The Adventurers Association is very efficient. I'm going to fight right away! [-]
+[voice]Audio/VO/kali/kali10
+
+in progress
+1
+[ffebad]go to [0096ff] transform field core[-] let's[-]
+
+end
+1
+[ffebad]Brat, running around makes my eyes dazzle! Why don't you go to Geraint! ! [-]
+[voice]Audio/VO/lines/lines159
+0
+[ffebad]The black knight destroyed the airship, and the airship's levitation device was also taken away by a red dark elf... [-]
+[voice]Audio/VO/kali/kali19
+1
+[ffebad]ok ok! The red dark elf... Huh, Elena, it really lingers. Little devil, have you met a transformed goblin? [-]
+[voice]Audio/VO/lines/lines160

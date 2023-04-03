@@ -1,0 +1,23 @@
+start
+
+prof 0
+
+begin
+0
+[ffebad]Priestess of Darkness, I can actually use the power of darkness in my dream, but in my dream I was almost swallowed by that darkness, do you know what is going on? [-]
+1
+[ffebad]Is it a sign in the dream? That might be the poison of the goddess Vestine's corruption. It's really amazing that you who have not been swallowed can absorb this kind of power. [-]
+0
+[ffebad]How could this be, I can absorb the darkness of the goddess. [-]
+1
+[ffebad]Of course, I can also help you dissolve the poison of corruption, but the dark power you have absorbed will also disappear. Well, if you can't make up your mind, just find a place to think about it first, I'll wait for you here. [-]
+
+in progress
+1
+[ffebad]go find the answer[-]
+
+end
+0
+[ffebad]Dark Priestess, I have decided to face up to the dark self, I will not lose to the poison of corruption! [-]
+1
+[ffebad]Congratulations then, newborn Dark Avenger. [-]

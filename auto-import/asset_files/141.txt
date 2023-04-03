@@ -1,0 +1,17 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]Anu Aland? Even the home of the elves, the beautiful pure land, will be invaded by evil? This is not a trivial matter, I will go to the elders of the elves to have a good talk. Take my letter of introduction and go to the edge of the golden grassland in Anu Aland to investigate first. If you find any traces of the followers of the dragon, please let me know as soon as possible. [-]
+
+in progress
+1
+[ffebad]go to [0096ff] golden prairie edge [-]
+
+end
+0
+[ffebad]I've found followers of the Dragon around here, but they're cunning and I've lost track of them. [-]
+1
+[ffebad]Someone showed up around here too, he's an old friend of yours, go check it out. [-]

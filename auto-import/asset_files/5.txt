@@ -1,0 +1,125 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad]Ah! By the way, Lily seems to be gone! She had been shouting to find her sister before, did she sneak out? (Gnome Dragon Nest Mobile)[-]
+[voice]Audio/VO/lines/lines33
+1
+[ffebad]Rookie! A good fighter should put protecting the weak first! Hurry up and find Lily! [-]
+[voice]Audio/VO/lines/lines37
+
+in progress
+1
+[ffebad]Let's go to [0096ff] forest sanctuary[-]
+
+end
+1
+[ffebad]Lily... you're back! I was thinking just now, what should I do if you disappear too? [-]
+[voice]Audio/VO/lines/lines43
+
+prof 2
+
+begin
+1
+[ffebad]Ah! By the way, Lily seems to be gone! She had been shouting to find her sister before, did she sneak out? [-]
+[voice]Audio/VO/lines/lines34
+1
+[ffebad]Go get Lily back, we can't have a second victim! [-]
+[voice]Audio/VO/lines/lines38
+
+in progress
+1
+[ffebad]Let's go to [0096ff] forest sanctuary[-]
+
+end
+1
+[ffebad]Lily... you're back! I was thinking just now, what should I do if you disappear too? [-]
+[voice]Audio/VO/lines/lines43
+
+prof 3
+
+begin
+1
+[ffebad]Ah! By the way, Lily seems to be gone! She had been shouting to find her sister before, did she sneak out? [-]
+[voice]Audio/VO/lines/lines35
+1
+[ffebad]What a mess! I quite like that little girl, don't let her get hurt! [-]
+[voice]Audio/VO/lines/lines39
+
+in progress
+1
+[ffebad]Let's go to [0096ff] forest sanctuary[-]
+
+end
+1
+[ffebad]Lily... you're back! I was thinking just now, what should I do if you disappear too? [-]
+[voice]Audio/VO/lines/lines43
+
+prof 4
+
+begin
+1
+[ffebad]Ah! By the way, Lily seems to be gone! She had been shouting to find her sister before, did she sneak out? [-]
+[voice]Audio/VO/lines/lines36
+1
+[ffebad]You know what to do. Go ahead, I'll meet you and Lily here. [-]
+[voice]Audio/VO/lines/lines40
+
+in progress
+1
+[ffebad]Let's go to [0096ff] forest sanctuary[-]
+
+end
+1
+[ffebad]Lily... you're back! I was thinking just now, what should I do if you disappear too? [-]
+[voice]Audio/VO/lines/lines43
+
+Prof 5
+
+begin
+1
+[ffebad]Hurry up and look for news about the Prophet. If you meet someone who knows, don't forget to collect information. [-]
+[voice]Audio/VO/lines/lines236
+
+in progress
+1
+[ffebad]Let's go to [0096ff] forest sanctuary[-]
+
+end
+1
+[ffebad]Lily... you're back! I was thinking just now, what should I do if you disappear too? [-]
+[voice]Audio/VO/lines/lines43
+
+prof 6
+
+begin
+1
+[ffebad]If you don't want to be occupied by the mysterious shadow, hurry up and become stronger meow! Helping others is the best practice, let's go, meow. [-]
+[voice]Audio/VO/lines/lines245
+
+in progress
+1
+[ffebad]Let's go to [0096ff] forest sanctuary[-]
+
+end
+1
+[ffebad]Lily... you're back! I was thinking just now, what should I do if you disappear too? [-]
+[voice]Audio/VO/lines/lines43
+
+prof 7
+
+begin
+1
+[ffebad]That girl's sister Lily seems to be missing! She has been shouting to find her sister before, you go and find her, don't let innocent people get hurt again! [-]
+[voice]Audio/VO/lines/lines260
+
+in progress
+1
+[ffebad]Let's go to [0096ff] forest sanctuary[-]
+
+end
+1
+[ffebad]Lily... you're back! I was thinking just now, what should I do if you disappear too? [-]
+[voice]Audio/VO/lines/lines43

@@ -22,19 +22,18 @@ def find_file_position(file_path, center=False):
     # Get the coordinates of the file on the screen
     file_location = None
     grayscale = False
-    confidence = 0.99
     
-    max_attempts = 5
+    max_attempts = 10
     for attempt in range(max_attempts):
         print(f'[Find Location] Attempt {attempt}')
         print(f'Primary File check: {file_path}')
 
-        file_location = pyautogui.locateOnScreen(img, grayscale=grayscale, confidence=confidence)
+        file_location = pyautogui.locateOnScreen(img, grayscale=grayscale)
         filename, file_extension = os.path.splitext(file_path)
         if file_location is None and os.path.exists("imagelocate/"+os.path.basename(filename)+str(2)+file_extension):
             print(f'Secondary File check: {"imagelocate/"+os.path.basename(filename)+str(2)+file_extension}')
             img2 = cv2.imread("imagelocate/"+os.path.basename(filename)+str(2)+file_extension)
-            file_location = pyautogui.locateOnScreen(img2, grayscale=grayscale, confidence=confidence)
+            file_location = pyautogui.locateOnScreen(img2, grayscale=grayscale)
             pass
 
         print(file_location)
@@ -116,10 +115,10 @@ for filename in os.listdir(folder):
     pyautogui.press('enter')
 
     click_file(clickType="single", file_path="imagelocate/OK.png", center=True)
-    pyautogui.press('enter')
+    click_file(clickType="single", file_path="imagelocate/YES.png", center=True)
 
     print(f"[SAVE] Saving new assetbundle {filename}\n\n")
-    click_file(clickType="single", file_path="imagelocate/RESULTS.png", center=True)
+    click_file(clickType="double", file_path="imagelocate/RESULTS.png", center=True)
     pyautogui.press('tab')
     pyautogui.press('tab')
     pyautogui.press('tab')

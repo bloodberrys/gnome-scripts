@@ -1,0 +1,17 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]Really? Barna came nearby, is it on the side of Heroic Soul Canyon? Can I trouble you to ask him to come over? I am also very excited, but I can't leave here. [-]
+0
+[ffebad]Leave it to me, I'd love to meet this legend too. [-]
+
+in progress
+1
+[ffebad]Go to [0096ff] Heroes Canyon [-]
+
+end
+1
+[ffebad]According to Velskud, Barna's state is abnormal? It so happened that we were talking about Barna, and a distinguished guest came to attend the teacher's funeral. Go and see him too. [-]

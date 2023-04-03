@@ -1,0 +1,197 @@
+start
+
+Prof 1
+
+begin
+0
+[ffebad]Well, how do you know? (Gnome Dragon Nest Mobile)[-]
+[voice]Audio/VO/Warrior/warrior15
+1
+[ffebad]This is an old trick that woman did more than ten years ago. What kind of Red Legion, I didn't expect that after being defeated by me back then, they would still not repent and make trouble when I was injured. [-]
+[voice]Audio/VO/lines/lines161
+1
+[ffebad]Kid, if I'm not mistaken, Elena's cronies must be celebrating at the [0096ff]Monster Gathering[-]. You go to chase them away and show Elena some color! [-]
+[voice]Audio/VO/lines/lines162
+0
+[ffebad]Haha, it's time for us to fight back! [-]
+[voice]Audio/VO/Warrior/warrior10
+
+in progress
+1
+[ffebad]Let's go to the [0096ff] monster party[-]. [-]
+
+end
+1
+[ffebad]What? You've wrecked those machines already? It's really impressive! It seems that everything is fine! [-]
+[voice]Audio/VO/lines/lines163
+0
+[ffebad]The mastermind behind the scenes has not been caught yet, President Deckard. That red dark elf Elena is the mastermind of all this! [-]
+[voice]Audio/VO/Warrior/warrior28
+
+prof 2
+
+begin
+0
+[ffebad]Well, how do you know? [-]
+[voice]Audio/VO/Archer/archer15
+1
+[ffebad]This is an old trick that woman did more than ten years ago. What kind of Red Legion, I didn't expect that after being defeated by me back then, they would still not repent and make trouble when I was injured. [-]
+[voice]Audio/VO/lines/lines161
+1
+[ffebad]Kid, if I'm not mistaken, Elena's cronies must be celebrating at the [0096ff]Monster Gathering[-]. You go to chase them away and show Elena some color! [-]
+[voice]Audio/VO/lines/lines162
+0
+[ffebad]Alright, it's time for us to fight back! [-]
+[voice]Audio/VO/Archer/archer10
+
+in progress
+1
+[ffebad]Let's go to the [0096ff] monster party[-]. [-]
+
+end
+1
+[ffebad]What? You've wrecked those machines already? It's really impressive! It seems that everything is fine! [-]
+[voice]Audio/VO/lines/lines163
+0
+[ffebad]The mastermind behind the scenes has not been caught yet, President Deckard. That red dark elf Elena is the mastermind of all this! [-]
+[voice]Audio/VO/Archer/archer28
+
+prof 3
+
+begin
+0
+[ffebad]Well, how do you know? [-]
+[voice]Audio/VO/Sorceress/Sorceress15
+1
+[ffebad]This is an old trick that woman did more than ten years ago. What kind of Red Legion, I didn't expect that after being defeated by me back then, they would still not repent and make trouble when I was injured. [-]
+[voice]Audio/VO/lines/lines161
+1
+[ffebad]Kid, if I'm not mistaken, Elena's cronies must be celebrating at the [0096ff]Monster Gathering[-]. You go to chase them away and show Elena some color! [-]
+[voice]Audio/VO/lines/lines162
+0
+[ffebad]Hey, it's time for us to fight back! [-]
+[voice]Audio/VO/Sorceress/Sorceress10
+
+in progress
+1
+[ffebad]Let's go to the [0096ff] monster party[-]. [-]
+
+end
+1
+[ffebad]What? You've wrecked those machines already? It's really impressive! It seems that everything is fine! [-]
+[voice]Audio/VO/lines/lines163
+0
+[ffebad]The mastermind behind the scenes has not been caught yet, President Deckard. That red dark elf Elena is the mastermind of all this! [-]
+[voice]Audio/VO/Sorceress/Sorceress28
+
+prof 4
+
+begin
+0
+[ffebad]Well, how do you know? [-]
+[voice]Audio/VO/Cleric/cleric15
+1
+[ffebad]This is an old trick that woman did more than ten years ago. What kind of Red Legion, I didn't expect that after being defeated by me back then, they would still not repent and make trouble when I was injured. [-]
+[voice]Audio/VO/lines/lines161
+1
+[ffebad]Kid, if I'm not mistaken, Elena's cronies must be celebrating at the [0096ff]Monster Gathering[-]. You go to chase them away and show Elena some color! [-]
+[voice]Audio/VO/lines/lines162
+0
+[ffebad]Alright, it's time for us to fight back! [-]
+[voice]Audio/VO/Cleric/cleric10
+
+in progress
+1
+[ffebad]Let's go to the [0096ff] monster party[-]. [-]
+
+end
+1
+[ffebad]What? You've wrecked those machines already? It's really impressive! It seems that everything is fine! [-]
+[voice]Audio/VO/lines/lines163
+0
+[ffebad]The mastermind behind the scenes has not been caught yet, President Deckard. That red dark elf Elena is the mastermind of all this! [-]
+[voice]Audio/VO/Cleric/cleric28
+
+Prof 5
+
+begin
+0
+[ffebad]Well, how do you know? [-]
+[voice]Audio/VO/Academic/academic15
+1
+[ffebad]This is an old trick that woman did more than ten years ago. What kind of Red Legion, I didn't expect that after being defeated by me back then, they would still not repent and make trouble when I was injured. [-]
+[voice]Audio/VO/lines/lines161
+1
+[ffebad]Kid, if I'm not mistaken, Elena's cronies must be celebrating at the [0096ff]Monster Gathering[-]. You go to chase them away and show Elena some color! [-]
+[voice]Audio/VO/lines/lines162
+0
+[ffebad]It turned out to be Elena, the records about her in history, oops, I can’t remember clearly. Regardless, it's time for us to fight back! [-]
+[voice]Audio/VO/Academic/academic26
+
+in progress
+1
+[ffebad]Let's go to the [0096ff] monster party[-]. [-]
+
+end
+1
+[ffebad]What? You've wrecked those machines already? It's really impressive! It seems that everything is fine! [-]
+[voice]Audio/VO/lines/lines163
+0
+[ffebad]The mastermind behind the scenes has not been caught yet, President Deckard. The red dark elf Elena is the mastermind of all this! [-]
+[voice]Audio/VO/Academic/academic9
+
+prof 6
+
+begin
+0
+[ffebad]Well, how do you know? [-]
+[voice]Audio/VO/Assassin/Assassin15
+1
+[ffebad]This is an old trick that woman did more than ten years ago. What kind of Red Legion, I didn't expect that after being defeated by me back then, they would still not repent and make trouble when I was injured. [-]
+[voice]Audio/VO/lines/lines161
+1
+[ffebad]Kid, if I'm not mistaken, Elena's cronies must be celebrating at the [0096ff]Monster Gathering[-]. You go to chase them away and show Elena some color! [-]
+[voice]Audio/VO/lines/lines162
+0
+[ffebad]Elena, another enemy's name! Well, it's time for us to fight back! [-]
+[voice]Audio/VO/Assassin/assassin26
+
+in progress
+1
+[ffebad]Let's go to the [0096ff] monster party[-]. [-]
+
+end
+1
+[ffebad]What? You've wrecked those machines already? It's really impressive! It seems that everything is fine! [-]
+[voice]Audio/VO/lines/lines163
+0
+[ffebad]The mastermind behind the scenes has not been caught yet, President Deckard. The red dark elf Elena is the mastermind of all this! [-]
+[voice]Audio/VO/Assassin/assassin9
+
+prof 7
+
+begin
+0
+[ffebad]Well, how do you know? [-]
+[voice]Audio/VO/kali/kali15
+1
+[ffebad]This is an old trick that woman did more than ten years ago. What kind of Red Legion, I didn't expect that after being defeated by me back then, they would still not repent and make trouble when I was injured. [-]
+[voice]Audio/VO/lines/lines161
+1
+[ffebad]Kid, if I'm not mistaken, Elena's cronies must be celebrating at the [0096ff]Monster Gathering[-]. You go to chase them away and show Elena some color! [-]
+[voice]Audio/VO/lines/lines162
+0
+[ffebad]Elena, it's time for us to strike back! [-]
+[voice]Audio/VO/kali/kali27
+
+in progress
+1
+[ffebad]Let's go to the [0096ff] monster party[-]. [-]
+
+end
+1
+[ffebad]What? You've wrecked those machines already? It's really impressive! It seems that everything is fine! [-]
+[voice]Audio/VO/lines/lines163
+0
+[ffebad]The mastermind behind the scenes has not been caught yet, President Deckard. The red dark elf Elena is the mastermind of all this! [-]
+[voice]Audio/VO/kali/kali9

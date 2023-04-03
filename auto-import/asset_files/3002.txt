@@ -1,0 +1,19 @@
+start
+
+prof 0
+
+begin
+0
+[ffebad]Grandpa Dorian, long time no see, how are you doing? [-]
+1
+[ffebad]Hey, young man, it's you! It's been a long time, I thought I would never see you again with my old bones! [-]
+
+in progress
+1
+[ffebad]listen to old friends chatting[-]
+
+end
+1
+[ffebad]Come on, look, this is a masterpiece I have made over the years! These armors, as well as these weapons, are all made according to your habits back then, how about it? I'm afraid I won't be able to do it in the future, so I have prepared everything for you in advance. Hehehe, young man, you are doing well, I know you will come back to help everyone. [-]
+0
+[ffebad]Grandpa Dorian, you are still thinking about me, I am almost crying! Don't worry, Grandpa Dorian, I will protect this world for everyone! [-]

@@ -1,0 +1,28 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]Although the problem of the holy heaven has been solved, my heart is still very disturbed! [-]
+1
+[ffebad]What impact does the Dark Continent led by the goddess Vestine have on our world...[-]
+1
+[ffebad]Aren't you curious? [-]
+0
+[ffebad]does get curious sometimes...[-]
+1
+[ffebad]I'm not only curious, I'm worried...[-]
+1
+[ffebad]If you can bring me back some research material, I'm sure I can analyze more information. [-]
+
+
+in progress
+1
+[ffebad]Enter the level to collect research materials. [-]
+
+end
+1
+[ffebad]You are a true warrior! I just knew you could help me bring these materials back. [-]
+1
+[ffebad]I'll need to dig into it for a while...[-]

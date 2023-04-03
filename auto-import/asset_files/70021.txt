@@ -1,0 +1,48 @@
+start
+
+prof 0
+
+step 1
+1
+[ffebad]Hi, my name is Guy. [-]
+[branch]2=Hello|3=Iber? |4=Who are you?
+
+step 2
+1
+[ffebad]Thank you for your concern, I'm fine. [-]
+
+step 3
+1
+[ffebad]Please stop looking for Ebel, she has a life of her own. [-]
+
+step 4
+1
+[ffebad]I... [-]
+
+step 5
+1
+[ffebad]I was chased by Chard, Ibel rescued me, we... are friends. [-]
+1
+[ffebad]Please believe me, don't go to Ibel, she is no longer willing to be the liaison of the anti-goddess faction. [-]
+1
+[ffebad]is living a free life now, don't bother her anymore. [-]
+
+step 6
+1
+[ffebad]Guy? ! Have you met Guy? Don't take his word for it, he's a Child. [-]
+1
+[ffebad]He pretended to be a human being and entered our village, led Chard to massacre the city, and captured Ibel. [-]
+
+step 7
+1
+[ffebad](depressed) I am indeed Childe, I have no conspiracy, I just want to protect Ibel. [-]
+1
+[ffebad]If you don't believe it, you can go to [0096ff] Snow Stone Forest[-] to find my memory, there is the truth of everything in it. [-]
+
+step 8
+1
+[ffebad]Go ahead and see the truth with your own eyes. [-]
+
+step 9
+1
+[ffebad]came back safely, you really are different. [-]

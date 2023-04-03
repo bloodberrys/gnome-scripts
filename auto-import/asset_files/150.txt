@@ -1,0 +1,17 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]said don't confuse me with the guys from the past, I don't need help from puny humans, just let me do the fighting. I'm going to chase them at the mouth of Liujin Canyon. If you insist on following, keep a distance from me and don't interfere with me. [-]
+
+in progress
+1
+[ffebad]Go to the mouth of [0096ff] Liujin Canyon[-]
+
+end
+1
+[ffebad]What are you doing downcast? What happened, come and tell me. [-]
+0
+[ffebad]Geraint found Ignacio and Rose, and the relics of the ancients seemed to be taken away by them. He chased them all the way, but I couldn't keep up. [-]

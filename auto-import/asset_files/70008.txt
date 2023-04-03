@@ -1,0 +1,31 @@
+start
+
+prof 0
+
+step 1
+1
+[ffebad]According to legend, a long time ago, the king of the gods ordered his two daughters to create continents, and the continent created by the elder sister [0096ff]Altea[-] was full of life and laughter, and she got the approval of the god king. [-]
+1
+[ffebad]And sister [0096ff] Vestine [-] created a continent full of miasma and mist, even the god kings were unwilling to take a look. Vestine is jealous of Althea, she concocts the world's most evil poison [0096ff] the poison of corruption[-], and tricks Althea into drinking it...[-]
+1
+[ffebad]In order to save her own life, our creator, the Goddess Altea, fell into an endless sleep...[-]
+1
+[ffebad]Behind the gate of the monolith lies a tortuous [0096ff] space-time gap[-] through which Vestine created the [0096ff] Mysterious Continent[-]. [-]
+
+step 2
+1
+[ffebad]Are you ready to go through the Gate of the Monolith? [-]
+[branch]3=ready|4=no
+
+step 3
+1
+[ffebad](firmly) Let's go, let's face it together. [-]
+
+step 4
+1
+[ffebad]Time is pressing, why are you so leisurely! [-]
+break
+
+step 5
+1
+[ffebad]Unexpectedly [0096ff] Rubinate[-] has been living in the gap between the Mysterious Continent and time and space, what happened to Peda and him...[-]

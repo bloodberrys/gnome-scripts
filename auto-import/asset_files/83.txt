@@ -1,0 +1,31 @@
+start
+
+prof 0
+
+begin
+1
+[ffebad]Huh, that fellow Sydell will trust that old woman. Obviously Lord Callahan's medicine has taken effect, you see, the clansmen have all recovered. [-]
+0
+[ffebad]Callahan's medicine is working. Chati, what are you going to do next? [-]
+1
+[ffebad]I'm going to find Grandpa, I heard that [0096ff] Ancient Armory [-] there are followers of dragons, maybe they took Grandpa there. [-]
+0
+[ffebad]No, it's too dangerous there, let me help you find out. [-]
+
+in progress
+1
+[ffebad]Go to [0096ff] Ancient Armory[-]
+
+end
+1
+[ffebad]Woohoo... Grandpa, I'm late, Grandpa... [-]
+0
+[ffebad]Chati, what's wrong, I didn't see anyone in the Ancient Armory. Have you met the patriarch grandpa? [-]
+1
+[ffebad]Woohoo... I followed you there and found Grandpa collapsed in a secret cell. Grandpa asked me to be the new patriarch, and then passed away, woo woo woo...[-]
+0
+[ffebad]Chati, don't be sad, your people still need you. [-]
+1
+[ffebad]Well, I am the patriarch, I have to be strong, woo, grandpa said, we must protect the clan and protect the holy land. [-]
+1
+[ffebad]That's right, Callahan said, I'm going to see if the Holy Land is safe. It's bad if the followers of the dragon find the Holy Land, I have to leave quickly. [-]

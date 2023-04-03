@@ -1,0 +1,60 @@
+start
+
+prof 0
+
+step 1
+1
+[ffebad]I heard the bad news about Algeta... Adventurer, do we have a future? [-]
+1
+[ffebad]According to reliable sources, Peda is cooperating with Lily, and she will use future technology to repair Peda's red dragon gem and make him a complete red dragon! [-]
+[branch]2=maybe|2=I don't know|3=impossible
+
+step 2
+1
+[ffebad]Maybe I shouldn't trust you so much. [-]
+
+step 3
+1
+[ffebad]Seeing the determination in your eyes makes me feel inspired. [-]
+1
+[ffebad]Lily is crying very sad, go and comfort her. [-]
+
+step 4
+1
+[ffebad]Alas, Goddess bless. [-]
+1
+[ffebad]Lily is crying very sad, go and comfort her. [-]
+
+
+step 5
+1
+[ffebad]Has Sister Yinlong left us forever? [-]
+[branch]6=Yes|6=(Can't say it)
+
+step 6
+1
+[ffebad](with red eyes) Will sister Rose leave us too? I am afraid……[-]
+
+step 7
+1
+[ffebad]I heard about Lord Algeta...[-]
+1
+[ffebad]Humans, don't be so listless! There is still hope, isn't there? Remember when we fought together? [-]
+1
+[ffebad]The you at that time made me think that we will definitely defeat Peda! [-]
+[branch]8=Really|8=I can't|8=...
+
+step 8
+1
+[ffebad]Elixis: (whispers) What a weakness... Come with me! [-]
+
+step 9
+1
+[ffebad]Finally seeing your smile again, human. [-]
+[branch]10=Thank you
+
+step 10
+1
+[ffebad](smiling) I'm not trying to comfort you, I'm believing in your ability to save the world. [-]
+1
+[ffebad]Go see Geraint, he needs you. [-]

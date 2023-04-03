@@ -1,0 +1,111 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad]Adventurer, come take a break and chat with my old man. It is said that in the far east, a few days later is a day called Qingming, and people in that country will sacrifice their dead relatives on this day. It is inevitable that you will make some sacrifices when you are overcoming obstacles. Do you have any companions who want to sacrifice? [-]
+0
+[ffebad]Yes! I miss Lord Geraint so much! [-]
+1
+[ffebad]Don't be sad, I've also heard stories about the adventures that Master Jinlong took with you. You are all for the peace of the mainland, and we will all remember Master Jinlong. Can you tell me the story of Master Jinlong? [-]
+
+in progress
+1
+[ffebad]I'm listening to your memories, adventurer. [-]
+
+end
+0
+[ffebad]Master Geraint is very powerful and gentle, hehe, but when we met for the first time, I found that he is a road idiot. [-]
+1
+[ffebad]What a thrilling adventure, protecting everyone in such a dangerous place, Mr. Jinlong is really a gentle person. [-]
+1
+[ffebad]Adventurer, accept this sacrificial gift package, I want to hear the story of Lord Jinlong again, when the time comes, we will sacrifice to Lord Jinlong together. [-]
+
+prof 2
+
+begin
+1
+[ffebad]Adventurer, come take a break and chat with my old man. It is said that in the far east, a few days later is a day called Qingming, and people in that country will sacrifice their dead relatives on this day. It is inevitable that you will make some sacrifices when you are overcoming obstacles. Do you have any companions who want to sacrifice? [-]
+0
+[ffebad]Yes! I miss Lord Geraint so much! [-]
+1
+[ffebad]Don't be sad, I've also heard stories about the adventures that Master Jinlong took with you. You are all for the peace of the mainland, and we will all remember Master Jinlong. Can you tell me the story of Master Jinlong? [-]
+
+in progress
+1
+[ffebad]I'm listening to your memories, adventurer. [-]
+
+end
+0
+[ffebad]Master Geraint is very powerful and gentle, hehe, but when we met for the first time, I found that he is a road idiot. [-]
+1
+[ffebad]What a thrilling adventure, protecting everyone in such a dangerous place, Mr. Jinlong is really a gentle person. [-]
+1
+[ffebad]Adventurer, accept this sacrificial gift package, I want to hear the story of Lord Jinlong again, when the time comes, we will sacrifice to Lord Jinlong together. [-]
+
+prof 3
+
+begin
+1
+[ffebad]Adventurer, come take a break and chat with my old man. It is said that in the far east, a few days later is a day called Qingming, and people in that country will sacrifice their dead relatives on this day. It is inevitable that you will make some sacrifices when you are overcoming obstacles. Do you have any companions who want to sacrifice? [-]
+0
+[ffebad]Yes! I miss Lord Geraint so much! [-]
+1
+[ffebad]Don't be sad, I've also heard stories about the adventures that Master Jinlong took with you. You are all for the peace of the mainland, and we will all remember Master Jinlong. Can you tell me the story of Master Jinlong? [-]
+
+in progress
+1
+[ffebad]I'm listening to your memories, adventurer. [-]
+
+end
+0
+[ffebad]Master Geraint is very powerful and gentle, hehe, but when we met for the first time, I found that he is a road idiot. [-]
+1
+[ffebad]What a thrilling adventure, protecting everyone in such a dangerous place, Mr. Jinlong is really a gentle person. [-]
+1
+[ffebad]Adventurer, accept this sacrificial gift package, I want to hear the story of Lord Jinlong again, when the time comes, we will sacrifice to Lord Jinlong together. [-]
+
+prof 4
+
+begin
+1
+[ffebad]Adventurer, come take a break and chat with my old man. It is said that in the far east, a few days later is a day called Qingming, and people in that country will sacrifice their dead relatives on this day. It is inevitable that you will make some sacrifices when you are overcoming obstacles. Do you have any companions who want to sacrifice? [-]
+0
+[ffebad]Yes! I miss Lord Geraint so much! [-]
+1
+[ffebad]Don't be sad, I've also heard stories about the adventures that Master Jinlong took with you. You are all for the peace of the mainland, and we will all remember Master Jinlong. Can you tell me the story of Master Jinlong? [-]
+
+in progress
+1
+[ffebad]I'm listening to your memories, adventurer. [-]
+
+end
+0
+[ffebad]Master Geraint is very powerful and gentle, hehe, but when we met for the first time, I found that he is a road idiot. [-]
+1
+[ffebad]What a thrilling adventure, protecting everyone in such a dangerous place, Mr. Jinlong is really a gentle person. [-]
+1
+[ffebad]Adventurer, accept this sacrificial gift package, I want to hear the story of Lord Jinlong again, when the time comes, we will sacrifice to Lord Jinlong together. [-]
+
+Prof 5
+
+begin
+1
+[ffebad]Adventurer, come take a break and chat with my old man. It is said that in the far east, a few days later is a day called Qingming, and people in that country will sacrifice their dead relatives on this day. It is inevitable that you will make some sacrifices when you are overcoming obstacles. Do you have any companions who want to sacrifice? [-]
+0
+[ffebad]Yes! I miss Lord Geraint so much! [-]
+1
+[ffebad]Don't be sad, I've also heard stories about the adventures that Master Jinlong took with you. You are all for the peace of the mainland, and we will all remember Master Jinlong. Can you tell me the story of Master Jinlong? [-]
+
+in progress
+1
+[ffebad]I'm listening to your memories, adventurer. [-]
+
+end
+0
+[ffebad]Master Geraint is very powerful and gentle, hehe, but when we met for the first time, I found that he is a road idiot. [-]
+1
+[ffebad]What a thrilling adventure. To protect everyone in such a dangerous place, Mr. Jinlong is really a gentle person. [-]
+1
+[ffebad]Adventurer, accept this sacrificial gift package, I want to hear the story of Lord Jinlong again, when the time comes, we will sacrifice to Lord Jinlong together. [-]

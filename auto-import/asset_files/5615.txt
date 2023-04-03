@@ -1,0 +1,157 @@
+start
+
+Prof 1
+
+begin
+1
+[ffebad]Adventurer, adventurer, can I trouble you? [-]
+0
+[ffebad]Ha, it's the big star Dong Zijian, no problem, what can I do. [-]
+1
+[ffebad]I heard Zuer say that you helped her get rid of those fans who were polluted by the breath of corruption and lost their minds. There are also fallen crazy people in my fan group, it really makes me sad, can you accompany me to get rid of them? [-]
+
+in progress
+1
+[ffebad]Go ahead, little warrior. [-]
+
+end
+1
+[ffebad]hope their souls can be relieved, such a sad thing, never happen again. [-]
+0
+[ffebad]Zijian, don't be sad, I will destroy all evil and protect the beautiful Altria! [-]
+1
+[ffebad]I believe in you, and I will also advise fans to be careful and protect themselves. Thank you, can you also be the head of my fan club?
+0
+[ffebad]Great, I'd love it! [-]
+1
+[ffebad]Alright, join me in adventures from now on. This is a gift for you, be sure to accept it! [-]
+
+prof 2
+
+begin
+1
+[ffebad]Adventurer, adventurer, can I trouble you? [-]
+0
+[ffebad]Ha, it's the big star Dong Zijian, no problem, what can I do. [-]
+1
+[ffebad]I heard Zuer say that you helped her get rid of those fans who were polluted by the breath of corruption and lost their minds. There are also fallen crazy people in my fan group, it really makes me sad, can you accompany me to get rid of them? [-]
+
+in progress
+1
+[ffebad]Go ahead, little warrior. [-]
+
+end
+1
+[ffebad]hope their souls can be relieved, such a sad thing, never happen again. [-]
+0
+[ffebad]Zijian, don't be sad, I will destroy all evil and protect the beautiful Altria! [-]
+1
+[ffebad]I believe in you, and I will also advise fans to be careful and protect themselves. Thank you, can you also be the head of my fan club?
+0
+[ffebad]Great, I'd love it! [-]
+1
+[ffebad]Alright, join me in adventures from now on. This is a gift for you, be sure to accept it! [-]
+
+prof 3
+
+begin
+1
+[ffebad]Adventurer, adventurer, can I trouble you? [-]
+0
+[ffebad]Ha, it's the big star Dong Zijian, no problem, what can I do. [-]
+1
+[ffebad]I heard Zuer say that you helped her get rid of those fans who were polluted by the breath of corruption and lost their minds. There are also fallen crazy people in my fan group, it really makes me sad, can you accompany me to get rid of them? [-]
+
+in progress
+1
+[ffebad]Go ahead, little warrior. [-]
+
+end
+1
+[ffebad]hope their souls can be relieved, such a sad thing, never happen again. [-]
+0
+[ffebad]Zijian, don't be sad, I will destroy all evil and protect the beautiful Altria! [-]
+1
+[ffebad]I believe in you, and I will also advise fans to be careful and protect themselves. Thank you, can you also be the head of my fan club?
+0
+[ffebad]Great, I'd love it! [-]
+1
+[ffebad]Alright, join me in adventures from now on. This is a gift for you, be sure to accept it! [-]
+
+prof 4
+
+begin
+1
+[ffebad]Adventurer, adventurer, can I trouble you? [-]
+0
+[ffebad]Ha, it's the big star Dong Zijian, no problem, what can I do. [-]
+1
+[ffebad]I heard Zuer say that you helped her get rid of those fans who were polluted by the breath of corruption and lost their minds. There are also fallen crazy people in my fan group, it really makes me sad, can you accompany me to get rid of them? [-]
+
+in progress
+1
+[ffebad]Go ahead, little warrior. [-]
+
+end
+1
+[ffebad]hope their souls can be relieved, such a sad thing, never happen again. [-]
+0
+[ffebad]Zijian, don't be sad, I will destroy all evil and protect the beautiful Altria! [-]
+1
+[ffebad]I believe in you, and I will also advise fans to be careful and protect themselves. Thank you, can you also be the head of my fan club?
+0
+[ffebad]Great, I'd love it! [-]
+1
+[ffebad]Alright, join me in adventures from now on. This is a gift for you, be sure to accept it! [-]
+
+Prof 5
+
+begin
+1
+[ffebad]Adventurer, adventurer, can I trouble you? [-]
+0
+[ffebad]Ha, it's the big star Dong Zijian, no problem, what can I do. [-]
+1
+[ffebad]I heard Zuer say that you helped her get rid of those fans who were polluted by the breath of corruption and lost their minds. There are also fallen crazy people in my fan group, it really makes me sad, can you accompany me to get rid of them? [-]
+
+in progress
+1
+[ffebad]Go ahead, little warrior. [-]
+
+end
+1
+[ffebad]hope their souls can be relieved, such a sad thing, never happen again. [-]
+0
+[ffebad]Zijian, don't be sad, I will destroy all evil and protect the beautiful Altria! [-]
+1
+[ffebad]I believe in you, and I will also advise fans to be careful and protect themselves. Thank you, can you also be the head of my fan club?
+0
+[ffebad]Great, I'm more than happy! [-]
+1
+[ffebad]Alright, join me in adventures from now on. This is a gift for you, be sure to accept it! [-]
+
+prof 6
+
+begin
+1
+[ffebad]Adventurer, adventurer, can I trouble you? [-]
+0
+[ffebad]Ha, it's the big star Dong Zijian, no problem, what can I do. [-]
+1
+[ffebad]I heard Zuer say that you helped her get rid of those fans who were polluted by the breath of corruption and lost their minds. There are also fallen crazy people in my fan group, it really makes me sad, can you accompany me to get rid of them? [-]
+
+in progress
+1
+[ffebad]Go ahead, little warrior. [-]
+
+end
+1
+[ffebad]hope their souls can be relieved, such a sad thing, never happen again. [-]
+0
+[ffebad]Zijian, don't be sad, I will destroy all evil and protect the beautiful Altria! [-]
+1
+[ffebad]I believe in you, and I will also advise fans to be careful and protect themselves. Thank you, can you also be the head of my fan club?
+0
+[ffebad]Great, I'd love it! [-]
+1
+[ffebad]Alright, join me in adventures from now on. This is a gift for you, be sure to accept it! [-]
