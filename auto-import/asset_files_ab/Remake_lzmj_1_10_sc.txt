@@ -1,5 +1,5 @@
 func:countdown
-After 3 seconds, the Tauren Bart appears! |2 seconds later, the Tauren Balter will appear! |1 second later, Balter the Tauren will appear! | Tauren Balter is here! The battle begins! 3
+warning After 3 seconds, the Tauren Bart appears! |2 seconds later, the Tauren Balter will appear! |1 second later, Balter the Tauren will appear! | Tauren Balter is here! The battle begins! 3
 
 func:npcpopspeek
 npcpopspeek 1 3003 [403831] Defeat Tauren Balter in [ff0000]90 seconds[-]! 5

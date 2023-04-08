@@ -5,7 +5,7 @@ func:call40
 warning [ffdc00] Let you taste the power of poisonous scorpions! 6
 
 func:countdown
-Warning After 3 seconds, Abdullah, the watcher of the canyon, appears! |2 seconds later, Abdullah, the monitor of the canyon, will appear! |1 second later, Abdullah, the monitor of the canyon, will appear! | Abdullah, the watcher of the canyon, is here! The battle begins! 3
+warning After 3 seconds, Abdullah, the watcher of the canyon, appears! |2 seconds later, Abdullah, the monitor of the canyon, will appear! |1 second later, Abdullah, the monitor of the canyon, will appear! | Abdullah, the watcher of the canyon, is here! The battle begins! 3
 
 func:npcpopspeek
 npcpopspeek 1 3003 [403831] Defeat Ravine Overseer Abdullah in [ff0000]300 seconds[-]! 5

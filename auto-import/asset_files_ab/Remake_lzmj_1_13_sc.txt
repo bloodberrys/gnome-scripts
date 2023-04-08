@@ -1,5 +1,5 @@
 func:countdown
-After 3 seconds, Ahmad, Lord of Death, will appear! |2 seconds later, Ahmad, Lord of Death, will appear! |After 1 second, Ahmad, the Lord of Death, will appear! |Death Lord Ahmad is here! The battle begins! 3
+warning After 3 seconds, Ahmad, Lord of Death, will appear! |2 seconds later, Ahmad, Lord of Death, will appear! |After 1 second, Ahmad, the Lord of Death, will appear! |Death Lord Ahmad is here! The battle begins! 3
 
 func:npcpopspeek
 npcpopspeek 1 3003 [403831] Defeat Deathlord Ahmad in [ff0000]120 seconds[-]! 5

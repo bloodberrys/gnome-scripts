@@ -5,7 +5,7 @@ func:cutstage2
 warning [ffdc00] "I want to imprison you here forever!!" 6
 
 func:countdown
-After 3 seconds, the Ghost Rider Hronganir appears! |2 seconds later, the Ghost Rider Hronganir will appear! |1 second later, the Ghost Rider Hronganir will appear! |Ghost Rider Hronganir Appears! The battle begins! 3
+warning After 3 seconds, the Ghost Rider Hronganir appears! |2 seconds later, the Ghost Rider Hronganir will appear! |1 second later, the Ghost Rider Hronganir will appear! |Ghost Rider Hronganir Appears! The battle begins! 3
 
 func:npcpopspeek
 npcpopspeek 1 3003 [403831] Defeat Ghost Rider Hronganir in [ff0000]300 seconds[-]! 5

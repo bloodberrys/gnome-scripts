@@ -139,7 +139,8 @@ opendoor wall13
 func:blockwall14
 opendoor wall14
 
-func:blockwall15opendoor wall15
+func:blockwall15
+opendoor wall15
 
 func:blockwall16
 opendoor wall16

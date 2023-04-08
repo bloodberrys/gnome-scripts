@@ -1,5 +1,5 @@
 func:countdown
-After 3 seconds, Kakari the Cerberus appears! |2 seconds later, Cerberus Kakari will appear! |1 second later, Cerberus Kakari appears! |Cerberus Kakari is here! The battle begins! 3
+warning After 3 seconds, Kakari the Cerberus appears! |2 seconds later, Cerberus Kakari will appear! |1 second later, Cerberus Kakari appears! |Cerberus Kakari is here! The battle begins! 3
 
 func:npcpopspeek
 npcpopspeek 1 3003 [403831] Defeat Cerberus Kakari in [ff0000]300 seconds[-]! 5
@@ -10,7 +10,7 @@ notice [ffdc00]Trigger special mechanism after 3 seconds|[ffdc00]Trigger special
 func:open
 aicommand -1 open 87007
 
-func: cerberosskill
+func:cerberosskill
 notice [ffdc00] Ignorant child! Gone with the wind in the torment of ice and fire!
 
 func:cerberos_eskill

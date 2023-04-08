@@ -1,5 +1,5 @@
 func:countdown
-After 3 seconds, the ogre Tasdu appears! |2 seconds later, the ogre Tasdu appears! |1 second later, the ogre Tasdu appears! |The Ogre Tasdu Appears! The battle begins! 3
+warning After 3 seconds, the ogre Tasdu appears! |2 seconds later, the ogre Tasdu appears! |1 second later, the ogre Tasdu appears! |The Ogre Tasdu Appears! The battle begins! 3
 
 func:npcpopspeek
 npcpopspeek 1 3003 [403831] Defeat the ogre Tasdu in [ff0000]90 seconds[-]! 5

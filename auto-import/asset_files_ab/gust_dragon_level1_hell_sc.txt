@@ -29,7 +29,7 @@ func:opendoor2
 opendoor Blockwall2 on
 
 func:opendoorsha
-open door sha on
+opendoor sha on
 
 func:startwind
 aicommand -1 startwind 0
@@ -40,8 +40,8 @@ aicommand -1 rampage 0
 func:burrow
 aicommand -1 burrow 0
 
-func:dash attack
-ai command 43936 dash attack
+func:dashattack
+aicommand 43936 dashattack
 
 func:dashattack2
 aicommand 43936 dashattack2
@@ -50,10 +50,10 @@ func:randomskill
 aicommand 43936 randomskill
 
 func:rollingrandom
-ai command 43936 rolling random
+aicommand 43936 rollingrandom
 
-func: dash attack hard
-aicommand -1 dash attack hard 0
+func:dashattackhard
+aicommand -1 dashattackhard 0
 
 func:kung
 aicommand -1 kung 0
@@ -79,7 +79,7 @@ notice [ffdc00] Successfully operated the statue, the storm was dispelled! 10
 func:windfail
 warning [ffdc00] Mishandled the statue, the whole team is cursed! 10
 
-func: sand warning
+func:sandwarning
 warning [ffdc00] The angry mountain lizard caused the surrounding environment to fall into a sandstorm, and the HP continued to be deducted! 10
 
 func:whaleattacknotice

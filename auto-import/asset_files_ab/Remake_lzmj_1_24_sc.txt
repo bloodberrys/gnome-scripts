@@ -1,5 +1,5 @@
 func:countdown
-After 3 seconds, the lion and scorpion will appear! |2 seconds later, the lion and scorpion will appear! |1 second later, the lion and scorpion will appear! |Lion and scorpion debut! The battle begins! 3
+warning After 3 seconds, the lion and scorpion will appear! |2 seconds later, the lion and scorpion will appear! |1 second later, the lion and scorpion will appear! |Lion and scorpion debut! The battle begins! 3
 
 func:npcpopspeek
 npcpopspeek 1 3003 [403831] Defeat Griffin in [ff0000]300 seconds[-]! 5

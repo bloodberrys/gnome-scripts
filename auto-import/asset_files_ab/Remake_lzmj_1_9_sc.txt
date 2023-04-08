@@ -1,5 +1,5 @@
 func:countdown
-After 3 seconds of warning, the black goblin Kustassy appears! |2 seconds later, the black goblin Kustassi will appear! |1 second later, the black goblin Kustassy appears! |Black Fairy Kustassy Appears! The battle begins! 3
+warning After 3 seconds, the black goblin Kustassy appears! |2 seconds later, the black goblin Kustassi will appear! |1 second later, the black goblin Kustassy appears! |Black Fairy Kustassy Appears! The battle begins! 3
 
 func:npcpopspeek
 npcpopspeek 1 3003 [403831] Defeat the black goblin Kustasi in [ff0000]90 seconds[-]! 5

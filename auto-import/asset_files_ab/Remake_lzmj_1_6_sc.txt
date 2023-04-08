@@ -1,5 +1,5 @@
 func:countdown
-After 3 seconds, Wendy, Lord of the Wind, will appear! |2 seconds later, Wendy, Lord of the Wind, will appear! |1 second later, Wendy, Lord of the Wind, will appear! | Wind Lord Wendy is here! The battle begins! 3
+warning After 3 seconds, Wendy, Lord of the Wind, will appear! |2 seconds later, Wendy, Lord of the Wind, will appear! |1 second later, Wendy, Lord of the Wind, will appear! | Wind Lord Wendy is here! The battle begins! 3
 
 func:npcpopspeek
 npcpopspeek 1 3003 [403831] Defeat Wind Lord Wendy in [ff0000]90 seconds[-]! 5

@@ -1,5 +1,5 @@
 func:countdown
-After 3 seconds, Archbishop Kazaman appears! |2 seconds later, Archbishop Kazaman will appear! |After 1 second, Archbishop Kazaman will appear! |Archbishop Kazaman is here! The battle begins! 3
+warning After 3 seconds, Archbishop Kazaman appears! |2 seconds later, Archbishop Kazaman will appear! |After 1 second, Archbishop Kazaman will appear! |Archbishop Kazaman is here! The battle begins! 3
 
 func:npcpopspeek
 npcpopspeek 1 3003 [403831] Defeat Archbishop Kazaman in [ff0000]120 seconds[-]! 5

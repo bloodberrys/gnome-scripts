@@ -71,4 +71,4 @@ func:removebuff2
 removebuff 43405 21605 1
 
 func:showcutscene
-showcutscene CutScene/cutscene_general show_bigguy 263627
+showcutscene CutScene/cutscene_generalshow_bigguy 263627

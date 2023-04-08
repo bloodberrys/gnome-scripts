@@ -1,5 +1,5 @@
 func:countdown
-After 3 seconds of warning, the Rusty Mist Wind Howler appears! |2 seconds later, the Rust Mist Wind Howler appears! |1 second later, the Rusty Mist Wind Howler appears! |The Rust Mist Wind Howler is here! The battle begins! 3
+warning After 3 seconds, the Rusty Mist Wind Howler appears! |2 seconds later, the Rust Mist Wind Howler appears! |1 second later, the Rusty Mist Wind Howler appears! |The Rust Mist Wind Howler is here! The battle begins! 3
 
 func:npcpopspeek
 npcpopspeek 1 3003 [403831] Defeat Rust Mist Windscreamer in [ff0000]300 seconds[-]! 5

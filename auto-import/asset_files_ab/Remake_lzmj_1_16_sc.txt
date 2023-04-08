@@ -1,5 +1,5 @@
 func:countdown
-After 3 seconds, Hazar the sandworm will appear! |2 seconds later, Hazar the sandworm will appear! |1 second later, Hazar the sandworm will appear! |The Sandworm Khazar is here! The battle begins! 3
+warning After 3 seconds, Hazar the sandworm will appear! |2 seconds later, Hazar the sandworm will appear! |1 second later, Hazar the sandworm will appear! |The Sandworm Khazar is here! The battle begins! 3
 
 func:npcpopspeek
 npcpopspeek 1 3003 [403831] Defeat Sandworm Khazar in [ff0000]120 seconds[-]! 5

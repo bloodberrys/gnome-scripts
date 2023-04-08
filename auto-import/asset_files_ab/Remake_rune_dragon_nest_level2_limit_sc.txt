@@ -1,5 +1,5 @@
 func:showcutscene
-showcutscene CutScene/cutscene_general show_bigguy 243611
+showcutscene CutScene/cutscene_generalshow_bigguy 243611
 
 func:aicommand1
 aicommand 243612 minutehand

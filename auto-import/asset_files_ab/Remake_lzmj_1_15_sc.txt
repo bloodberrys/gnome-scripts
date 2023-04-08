@@ -1,5 +1,5 @@
 func:countdown
-After 3 seconds, Bartos, the flame dragon, appears! |2 seconds later, the flame dragon Bartos appears! |1 second later, Bartos, the flame dragon, appears! |The flame dragon Bartos is here! The battle begins! 3
+warning After 3 seconds, Bartos, the flame dragon, appears! |2 seconds later, the flame dragon Bartos appears! |1 second later, Bartos, the flame dragon, appears! |The flame dragon Bartos is here! The battle begins! 3
 
 func:npcpopspeek
 npcpopspeek 1 3003 [403831] Defeat the flame drake Bartos in [ff0000]120 seconds[-]! 5

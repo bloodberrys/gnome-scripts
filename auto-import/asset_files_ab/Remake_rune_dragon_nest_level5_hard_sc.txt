@@ -92,4 +92,4 @@ func:CloseTransferWall4
 opendoor BossWall4
 
 func:showcutscene
-showcutscene CutScene/cutscene_general show_bigguy 273653
+showcutscene CutScene/cutscene_generalshow_bigguy 273653

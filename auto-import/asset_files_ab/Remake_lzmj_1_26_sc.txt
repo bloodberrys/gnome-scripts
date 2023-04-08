@@ -1,5 +1,5 @@
 func:countdown
-After 3 seconds of warning, Typhoon Jin appears! |Two seconds later, Typhoon Jin debuts! |After 1 second, Typhoon Jin debuts! |Typhoon Gold debuts! The battle begins! 3
+warning After 3 seconds, Typhoon Jin appears! |Two seconds later, Typhoon Jin debuts! |After 1 second, Typhoon Jin debuts! |Typhoon Gold debuts! The battle begins! 3
 
 func:npcpopspeek
 npcpopspeek 1 3003 [403831] Defeat Typhoon Gold in [ff0000]300 seconds[-]! 5

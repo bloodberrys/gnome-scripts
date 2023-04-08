@@ -1,5 +1,5 @@
 func:countdown
-After 3 seconds of warning, the evil Black Mountain Smasher will appear! |2 seconds later, the evil Black Mountain Smasher will appear! |After 1 second, the evil Black Mountain Smasher will appear! |The Evil Black Mountain Smasher is here! The battle begins! 3
+warning After 3 seconds, the evil Black Mountain Smasher will appear! |2 seconds later, the evil Black Mountain Smasher will appear! |After 1 second, the evil Black Mountain Smasher will appear! |The Evil Black Mountain Smasher is here! The battle begins! 3
 
 func:npcpopspeek
 npcpopspeek 1 3003 [403831] Defeat the evil Black Mountain Thumper in [ff0000]300 seconds[-]! 5

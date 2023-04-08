@@ -59,7 +59,7 @@ func:L1closedoor
 opendoor L1Blockwall on
 
 func:L1closedoor2
-opendoor L1 Blockwall1
+opendoor L1Blockwall1
 
 func:L1opendoor2
 opendoor L1Blockwall1 off
@@ -179,16 +179,16 @@ killwave 104
 killwave 105
 
 func:L2showcutscene
-showcutscene CutScene/cutscene_general show_bigguy 106.57 36 27.06 180
+showcutscene CutScene/cutscene_generalshow_bigguy 106.57 36 27.06 180
 
 func:L2transferwallgo
-randomtransfer 57.55|20.1|141.93|0 54.24|20.1|142.94|110 57.51|20.1|145.57|180 61.03|20.1|142.94|-110 59.64|20.1|139.07|-30 55.18|1|30.03|
+randomtransfer 57.55|20.1|141.93|0 54.24|20.1|142.94|110 57.51|20.1|145.57|180 61.03|20.1|142.94|-110 59.64|20.1|139.07|-30 55.18|20.1|139.03|30
 
 func:L2transferwallback
 opendoor L2TransferWall1 on 57.4|20.1|141.57|15 106.57|36|27.06|180
 
 func:L3CutScene
-showcutscene CutScene/cutscene_general show_bigguy 17020.04 58.47 0
+showcutscene CutScene/cutscene_generalshow_bigguy 170 20.04 58.47 0
 
 func:L3CloseBlockwall1
 opendoor L3Blockwall1 on
@@ -215,8 +215,8 @@ addbuff 263530 26673 1
 func:L3AddBuff26672
 addbuff 263530 26672 1
 
-func:L3Calamery BigSkill
-aicommand -1 L3Calamery BigSkill 0
+func:L3CalameryBigSkill
+aicommand -1 L3CalameryBigSkill 0
 
 func:L3CalamarySkillFail
 aicommand -1 L3CalamarySkillFail 0
@@ -354,7 +354,7 @@ func:L4icebomb
 aicommand -1 L4icebomb 0
 
 func:L4showcutscene
-showcutscene CutScene/cutscene_general show_superbigguy 171.11 25.05 27.11 -156.63
+showcutscene CutScene/cutscene_generalshow_superbigguy 171.11 25.05 27.11 -156.63
 
 func:L4TransferWall1
 opendoor L4TransferWall1 on 167.80|25.08|20.67|3 31.51|18.0|117.49|-171.19
@@ -528,7 +528,7 @@ killwave 504
 killwave 505
 
 func:L5showcutscene
-showcutscene CutScene/cutscene_general show_bigguy 31.25 18.7 163 0
+showcutscene CutScene/cutscene_generalshow_bigguy 31.25 18.7 163 0
 
 func:L6notice1
 npcpopspeek 1 111398 [ffb400] Let this snowstorm condense into this ice spear... 7
@@ -590,10 +590,10 @@ func:L6warning1
 warning After 10 seconds, Guy carried out a devastating strike on the ground! |9 seconds later, Guy carried out a devastating strike on the ground! |8 seconds later, Guy carried out a devastating strike on the ground! |7 seconds later, Guy carried out a devastating strike on the ground! |6 seconds later, Guy carried out a devastating strike on the ground! |5 seconds later, Guy carried out a devastating strike on the ground! |4 seconds later, Guy carried out a devastating strike on the ground! |3 seconds later, Guy carried out a devastating strike on the ground! |2 seconds later, Guy carried out a devastating strike on the ground! |1 second later, Guy carried out a devastating strike on the ground! | Guy wreaks havoc on the ground!
 
 func:L6warning2
-After 10 seconds of warning, Ibel carried out a devastating strike on the ground! |9 seconds later, Ibel carried out a devastating strike on the ground! |8 seconds later, Ibel carried out a devastating strike on the ground! |7 seconds later, Ibel carried out a devastating strike on the ground! |6 seconds later, Ibel carried out a devastating strike on the ground! |5 seconds later, Ibel carried out a devastating strike on the ground! |4 seconds later, Ibel carried out a devastating strike on the ground! |After 3 seconds, Ibel carried out a devastating strike on the ground! |After 2 seconds, Ibel carried out a devastating strike on the ground! |After 1 second, Ibel carried out a devastating strike on the ground! | Ibel's devastating blow to the ground!
+warning After 10 seconds, Ibel carried out a devastating strike on the ground! |9 seconds later, Ibel carried out a devastating strike on the ground! |8 seconds later, Ibel carried out a devastating strike on the ground! |7 seconds later, Ibel carried out a devastating strike on the ground! |6 seconds later, Ibel carried out a devastating strike on the ground! |5 seconds later, Ibel carried out a devastating strike on the ground! |4 seconds later, Ibel carried out a devastating strike on the ground! |After 3 seconds, Ibel carried out a devastating strike on the ground! |After 2 seconds, Ibel carried out a devastating strike on the ground! |After 1 second, Ibel carried out a devastating strike on the ground! | Ibel's devastating blow to the ground!
 
 func:L6warning3
-After 15 seconds of warning, Ibel uses the arctic dash! |14 seconds later, Ibel uses the arctic sprint! |13 seconds later, Ibel uses the arctic sprint! |12 seconds later, Ibel uses the arctic sprint! |11 seconds later, Ibel uses the arctic sprint! |10 seconds later, Ibel uses the arctic sprint! |9 seconds later, Ibel uses the arctic sprint! |8 seconds later, Ibel uses the arctic sprint! |7 seconds later, Ibel uses the arctic sprint! |6 seconds later, Ibel uses the arctic sprint! |5 seconds later, Ibel uses the arctic sprint! |4 seconds later, Ibel uses the arctic sprint! |3 seconds later, Ibel uses the arctic sprint! |2 seconds later, Ibel uses the arctic sprint! |1 second later, Ibel uses the arctic dash! |Ibel uses the arctic sprint!
+warning After 15 seconds, Ibel uses the arctic dash! |14 seconds later, Ibel uses the arctic sprint! |13 seconds later, Ibel uses the arctic sprint! |12 seconds later, Ibel uses the arctic sprint! |11 seconds later, Ibel uses the arctic sprint! |10 seconds later, Ibel uses the arctic sprint! |9 seconds later, Ibel uses the arctic sprint! |8 seconds later, Ibel uses the arctic sprint! |7 seconds later, Ibel uses the arctic sprint! |6 seconds later, Ibel uses the arctic sprint! |5 seconds later, Ibel uses the arctic sprint! |4 seconds later, Ibel uses the arctic sprint! |3 seconds later, Ibel uses the arctic sprint! |2 seconds later, Ibel uses the arctic sprint! |1 second later, Ibel uses the arctic dash! |Ibel uses the arctic sprint!
 
 func:L6iceroadOperationSettings
 npcpopspeek 5 3003 41|1950 8
@@ -635,7 +635,7 @@ func:L6aicommand10
 aicommand -1 L6headhammer 243576
 
 func:L6aicommand11
-aicommand 243576 resethared
+aicommand 243576 resethatred
 
 func:L6aicommand12
 aicommand -1 L6curseice 243576
@@ -659,7 +659,7 @@ func:L6aicommand18
 aicommand -1 L6callicewallhard 263578
 
 func:L6aicommand19
-aicommand -1 L6 super deep breath 263578
+aicommand -1 L6superdeepbreath 263578
 
 func:L6randomskill1
 aicommand 243576 randomskill

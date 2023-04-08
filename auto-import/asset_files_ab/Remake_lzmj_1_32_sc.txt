@@ -2,7 +2,7 @@ func:killwave
 killwave 3
 
 func:countdown
-After 3 seconds, Dr. K will appear! |2 seconds later, Dr. K will appear! |1 second later, Dr. K will appear! |Dr. K is here! The battle begins! 3
+warning After 3 seconds, Dr. K will appear! |2 seconds later, Dr. K will appear! |1 second later, Dr. K will appear! |Dr. K is here! The battle begins! 3
 
 func:npcpopspeek
 npcpopspeek 1 3003 [403831] Defeat Dr. K in [ff0000]300 seconds[-]! 5

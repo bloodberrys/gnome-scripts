@@ -1,5 +1,5 @@
 func:countdown
-After 3 seconds, the Banshee Queen Itera will appear! |2 seconds later, the Banshee Queen Itera will appear! |After 1 second, the Banshee Queen Itera will appear! |The Banshee Queen Itera is here! The battle begins! 3
+warning After 3 seconds, the Banshee Queen Itera will appear! |2 seconds later, the Banshee Queen Itera will appear! |After 1 second, the Banshee Queen Itera will appear! |The Banshee Queen Itera is here! The battle begins! 3
 
 func:npcpopspeek
 npcpopspeek 1 3003 [403831] Defeat the Banshee Queen Itera in [ff0000]120 seconds[-]! 5

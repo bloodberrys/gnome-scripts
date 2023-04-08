@@ -1,5 +1,5 @@
 func:countdown
-After 3 seconds of warning, the crocodile guard Crocker appears on the scene! |2 seconds later, the crocodile guard Krokla will appear! |After 1 second, the crocodile guard Crocker appears! |The crocodile guard Krokla is here! The battle begins! 3
+warning After 3 seconds, the crocodile guard Crocker appears on the scene! |2 seconds later, the crocodile guard Krokla will appear! |After 1 second, the crocodile guard Crocker appears! |The crocodile guard Krokla is here! The battle begins! 3
 
 func:npcpopspeek
 npcpopspeek 1 3003 [403831] Defeat crocodile guard Krokla in [ff0000]90 seconds[-]! 5

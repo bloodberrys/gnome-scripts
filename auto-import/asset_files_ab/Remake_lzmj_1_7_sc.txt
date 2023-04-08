@@ -1,5 +1,5 @@
 func:countdown
-After 3 seconds of warning, Gardener Callander appears! |2 seconds later, the gardener Callander will appear! |1 second later, the gardener Kalander appears! |The Gardener Callander is here! The battle begins! 3
+warning After 3 seconds, Gardener Callander appears! |2 seconds later, the gardener Callander will appear! |1 second later, the gardener Kalander appears! |The Gardener Callander is here! The battle begins! 3
 
 func:npcpopspeek
 npcpopspeek 1 3003 [403831] Defeat Gardener Callander in [ff0000]90 seconds[-]! 5

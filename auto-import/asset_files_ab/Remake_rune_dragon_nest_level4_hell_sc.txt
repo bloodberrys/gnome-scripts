@@ -68,7 +68,7 @@ func:aicommand1
 aicommand -1 killer 273641
 
 func:aicommand2
-ai command -1 hunter 273641
+aicommand -1 hunter 273641
 
 func:aicommand3
 aicommand -1 firewave 273641
@@ -107,4 +107,4 @@ func:removebuff1
 removebuff 273641 26821 1
 
 func:showcutscene
-showcutscene CutScene/cutscene_general show_bigguy 273641
+showcutscene CutScene/cutscene_generalshow_bigguy 273641

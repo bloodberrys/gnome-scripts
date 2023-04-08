@@ -1,5 +1,5 @@
 func:countdown
-Warning After 3 seconds, the cruel Voss appears! |2 seconds later, the cruel Voss will appear! |After 1 second, the cruel Voss debuts! |Cool Voss is here! The battle begins! 3
+warning After 3 seconds, the cruel Voss appears! |2 seconds later, the cruel Voss will appear! |After 1 second, the cruel Voss debuts! |Cool Voss is here! The battle begins! 3
 
 func:npcpopspeek
 npcpopspeek 1 3003 [403831] Defeat Grim Voss in [ff0000]120 seconds[-]! 5

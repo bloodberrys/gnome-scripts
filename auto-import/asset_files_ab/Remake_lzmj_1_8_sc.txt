@@ -1,5 +1,5 @@
 func:countdown
-After 3 seconds of warning, the tree man Toltai appears! |Two seconds later, the tree man Toltai will appear! |1 second later, the tree man Toltoy will appear! |Toltai, the tree man, is here! The battle begins! 3
+warning After 3 seconds, the tree man Toltai appears! |Two seconds later, the tree man Toltai will appear! |1 second later, the tree man Toltoy will appear! |Toltai, the tree man, is here! The battle begins! 3
 
 func:npcpopspeek
 npcpopspeek 1 3003 [403831] Defeat Treant Toltai in [ff0000]90 seconds[-]! 5

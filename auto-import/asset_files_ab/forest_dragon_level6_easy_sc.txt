@@ -88,7 +88,7 @@ aicommand -1 calldoll 43900
 func:callcube
 aicommand -1 cube 43900
 
-func: killzone
+func:killzone
 aicommand -1 killzone 43900
 
 func:killstart
