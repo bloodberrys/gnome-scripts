@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Remake_Scene_mijing>
+  <EntryTask F_heartrate="1" B_IsPlayerBuffed="0" B_IsEnemyBuffed="0" S_eventstr="" I_compareres="0" I_typeid="0" V_eventpos="0:0:0" F_Random="0" I_monsternum="0" S_eventcmd="" I_compres="0" I_riftnum="0" I_riftnum1="0" I_riftnum2="0" I_riftnum3="0" I_riftnum4="0" I_riftnum5="0" I_riftnum6="0" I_riftnum7="0" I_riftnum8 ="0" I_riftnum9="0" I_riftnum10="0" I_riftnum11="0" I_riftnum12="0" I_riftnum13="0" I_riftnum14="0" F_random="0" I_riftnum15="0" I_riftnum16="0" I_riftnum17 ="0" I_riftnum18="0" I_riftnum19="0" I_riftnum20="0" I_riftnum21="0" I_riftnum22="0" I_riftnum23="0" I_riftnum24="0" I_riftnum25="0" I_riftnum26="0">
+    <Selector>
+      <Sequence>
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="yinshen" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <CallScript FuncName="warning" DelayTime="0" />
+      </Sequence>
+      <Sequence>
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="dingshen" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <CallScript FuncName="warning" DelayTime="0" />
+        <AddBuff Shared_MonsterIdName="" Shared_MonsterIdmValue="0" Shared_AddBuffWayName="" Shared_AddBuffWaymValue="0" Shared_PlayerProfIdName="" Shared_PlayerProfIdmValue="0" Shared_AddBuffTargetName="" Shared_AddBuffTargetName="1" Shared_AddBuffLevelName=""Shared_Buff " Shared_DelayTimemValue="0" Shared_BuffIdName="" Shared_BuffIdmValue="97037" Shared_BuffId2Name="" Shared_BuffId2mValue="0" Shared_BuffLevel2Name="" Shared_BuffLevel2mValue="0" />
+      </Sequence>
+      <Sequence>
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="fanxiang" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <CallScript FuncName="warning" DelayTime="0" />
+        <AddBuff Shared_MonsterIdName="" Shared_MonsterIdmValue="0" Shared_AddBuffWayName="" Shared_AddBuffWaymValue="0" Shared_PlayerProfIdName="" Shared_PlayerProfIdmValue="0" Shared_AddBuffTargetName="" Shared_AddBuffTargetName="1" Shared_AddBuffLevelName=""Shared_Buff " Shared_DelayTimemValue="0" Shared_BuffIdName="" Shared_BuffIdmValue="97204" Shared_BuffId2Name="" Shared_BuffId2mValue="0" Shared_BuffLevel2Name="" Shared_BuffLevel2mValue="0" />
+      </Sequence><Sequence>
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="lingyu" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <CallScript FuncName="warning" DelayTime="0" />
+        <AddBuff Shared_MonsterIdName="" Shared_MonsterIdmValue="0" Shared_AddBuffWayName="" Shared_AddBuffWaymValue="0" Shared_PlayerProfIdName="" Shared_PlayerProfIdmValue="0" Shared_AddBuffTargetName="" Shared_AddBuffTargetName="1" Shared_AddBuffLevelName=""Shared_Buff " Shared_DelayTimemValue="0" Shared_BuffIdName="" Shared_BuffIdmValue="98284" Shared_BuffId2Name="" Shared_BuffId2mValue="0" Shared_BuffLevel2Name="" Shared_BuffLevel2mValue="0" />
+      </Sequence>
+      <Sequence>
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="aobao" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <SetInt Shared_ValueName="" value="1" Shared_StoredResultName="riftnum" />
+      </Sequence>
+      <Sequence>
+        <IntComparison Shared_Int1Name="riftnum" int1Value="0" Shared_Int2Name="" int2Value="1" type="2" />
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="open" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <CallScript FuncName="warning" DelayTime="0" />
+        <CallMonster Pos2="0:0:0" Pos3="0:0:0" MaxMonsterNum="4" DelayTime="4" Pos4="0:0:0" MonsterId="241100" Shared_AngleName="" Shared_AngleValue= "0" Shared_DistName="" Shared_DistmValue="4" LifeTime="15" Shared_MonsterId2Name="" Shared_MonsterId2mValue="0" CopyMonsterId="0" FinalPos="0:0:0" ForcePlace="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" HPPercent="0" DeltaArg="0" Pos1="0:0:0" BornType="0" />
+        <SetInt Shared_ValueName="" value="0" Shared_StoredResultName="riftnum" />
+      </Sequence>
+      <Sequence>
+        <IntComparison Shared_Int1Name="riftnum1" int1Value="0" Shared_Int2Name="" int2Value="1" type="2" />
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="open" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <CallScript FuncName="warning" DelayTime="0" />
+        <CallMonster Pos2="0:0:0" Pos3="0:0:0" MaxMonsterNum="4" DelayTime="4" Pos4="0:0:0" MonsterId="241101" Shared_AngleName="" Shared_AngleValue= "0" Shared_DistName="" Shared_DistmValue="10" LifeTime="20" Shared_MonsterId2Name="" Shared_MonsterId2mValue="0" CopyMonsterId="0" FinalPos="0:0:0" ForcePlace="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" HPPercent="0" DeltaArg="0" Pos1="0:0:0" BornType="0" />
+        <CallMonster Pos2="0:0:0" Pos3="0:0:0" MaxMonsterNum="4" DelayTime="4" Pos4="0:0:0" MonsterId="241101" Shared_AngleName="" Shared_AngleValue= "0" Shared_DistName="" Shared_DistmValue="10" LifeTime="20" Shared_MonsterId2Name="" Shared_MonsterId2mValue="0" CopyMonsterId="0" FinalPos="0:0:0" ForcePlace="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" HPPercent="0" DeltaArg="0" Pos1="0:0:0" BornType="0" />
+        <CallMonster Pos2="0:0:0" Pos3="0:0:0" MaxMonsterNum="4" DelayTime="4" Pos4="0:0:0" MonsterId="241101" Shared_AngleName="" Shared_AngleValue= "0" Shared_DistName="" Shared_DistmValue="10" LifeTime="20" Shared_MonsterId2Name="" Shared_MonsterId2mValue="0" CopyMonsterId="0" FinalPos="0:0:0" ForcePlace="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" HPPercent="0" DeltaArg="0" Pos1="0:0:0" BornType="0" />
+        <SetInt Shared_ValueName="" value="0" Shared_StoredResultName="riftnum1" />
+      </Sequence>
+      <Sequence>
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="paohong" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <SetInt Shared_ValueName="" value="1" Shared_StoredResultName="riftnum1" />
+      </Sequence>
+      <Sequence>
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="gandian" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <SetInt Shared_ValueName="" value="1" Shared_StoredResultName="riftnum2" />
+      </Sequence>
+      <Sequence>
+        <IntComparison Shared_Int1Name="riftnum2" int1Value="0" Shared_Int2Name="" int2Value="1" type="2" />
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="open" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2"/>
+        <CallScript FuncName="warning" DelayTime="0" />
+        <CallMonster Pos2="0:0:0" Pos3="0:0:0" MaxMonsterNum="4" DelayTime="4" Pos4="0:0:0" MonsterId="241102" Shared_AngleName="" Shared_AngleValue= "0" Shared_DistName="" Shared_DistmValue="5" LifeTime="20" Shared_MonsterId2Name="" Shared_MonsterId2mValue="0" CopyMonsterId="0" FinalPos="0:0:0" ForcePlace="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" HPPercent="0" DeltaArg="0" Pos1="0:0:0" BornType="0" />
+        <SetInt Shared_ValueName="" value="0" Shared_StoredResultName="riftnum2" />
+      </Sequence>
+      <Sequence>
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="mishu" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <SetInt Shared_ValueName="" value="1" Shared_StoredResultName="riftnum3" />
+      </Sequence>
+      <Sequence>
+        <IntComparison Shared_Int1Name="riftnum3" int1Value="0" Shared_Int2Name="" int2Value="1" type="2" />
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="open" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <CallScript FuncName="warning" DelayTime="0" />
+        <CallMonster Pos2="0:0:0" Pos3="0:0:0" MaxMonsterNum="4" DelayTime="4" Pos4="0:0:0" MonsterId="241103" Shared_AngleName="" Shared_AngleValue= "0" Shared_DistName="" Shared_DistmValue="10" LifeTime="15" Shared_MonsterId2Name="" Shared_MonsterId2mValue="0" CopyMonsterId="0" FinalPos="0:0:0" ForcePlace="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" HPPercent="0" DeltaArg="0" Pos1="0:0:0" BornType="0" />
+        <CallMonster Pos2="0:0:0" Pos3="0:0:0" MaxMonsterNum="4" DelayTime="4" Pos4="0:0:0" MonsterId="241103" Shared_AngleName="" Shared_AngleValue= "0" Shared_DistName="" Shared_DistmValue="10" LifeTime="15" Shared_MonsterId2Name="" Shared_MonsterId2mValue="0" CopyMonsterId="0" FinalPos="0:0:0" ForcePlace="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" HPPercent="0" DeltaArg="0" Pos1="0:0:0" BornType="0" />
+        <CallMonster Pos2="0:0:0" Pos3="0:0:0" MaxMonsterNum="4" DelayTime="4" Pos4="0:0:0" MonsterId="241103" Shared_AngleName="" Shared_AngleValue= "0" Shared_DistName="" Shared_DistmValue="10" LifeTime="15" Shared_MonsterId2Name="" Shared_MonsterId2mValue="0" CopyMonsterId="0" FinalPos="0:0:0" ForcePlace="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" HPPercent="0" DeltaArg="0" Pos1="0:0:0" BornType="0" />
+        <SetInt Shared_ValueName="" value="0" Shared_StoredResultName="riftnum3" />
+      </Sequence>
+      <Sequence>
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="bingdong" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <SetInt Shared_ValueName="" value="1" Shared_StoredResultName="riftnum4" />
+      </Sequence>
+      <Sequence>
+        <IntComparison Shared_Int1Name="riftnum4" int1Value="0" Shared_Int2Name="" int2Value="1" type="2" />
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="open" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <CallScript FuncName="warning" DelayTime="0" />
+        <CallMonster Pos2="0:0:0" Pos3="0:0:0" MaxMonsterNum="3" DelayTime="4" Pos4="0:0:0" MonsterId="241104" Shared_AngleName="" Shared_AngleValue= "0" Shared_DistName="" Shared_DistmValue="8" LifeTime="5" Shared_MonsterId2Name="" Shared_MonsterId2mValue="0" CopyMonsterId="0" FinalPos="0:0:0" ForcePlace="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" HPPercent="0" DeltaArg="0" Pos1="0:0:0" BornType="0" />
+        <CallMonster Pos2="0:0:0" Pos3="0:0:0" MaxMonsterNum="3" DelayTime="4" Pos4="0:0:0" MonsterId="241104" Shared_AngleName="" Shared_AngleValue= "0" Shared_DistName="" Shared_DistmValue="8" LifeTime="5" Shared_MonsterId2Name="" Shared_MonsterId2mValue="0" CopyMonsterId="0" FinalPos="0:0:0" ForcePlace="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" HPPercent="0" DeltaArg="0" Pos1="0:0:0" BornType="0" />
+        <CallMonster Pos2="0:0:0" Pos3="0:0:0" MaxMonsterNum="3" DelayTime="4" Pos4="0:0:0" MonsterId="241104" Shared_AngleName="" Shared_AngleValue= "0" Shared_DistName="" Shared_DistmValue="8" LifeTime="5" Shared_MonsterId2Name="" Shared_MonsterId2mValue="0" CopyMonsterId="0" FinalPos="0:0:0" ForcePlace="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" HPPercent="0" DeltaArg="0" Pos1="0:0:0" BornType="0" />
+        <SetInt Shared_ValueName="" value="0" Shared_StoredResultName="riftnum4" />
+      </Sequence>
+      <Sequence>
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="yuanqidan" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <SetInt Shared_ValueName="" value="1" Shared_StoredResultName="riftnum5" />
+      </Sequence>
+      <Sequence>
+        <IntComparison Shared_Int1Name="riftnum5" int1Value="0" Shared_Int2Name="" int2Value="1" type="2" />
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="open" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <CallScript FuncName="warning" DelayTime="0" />
+        <CallMonster Pos2="0:0:0" Pos3="0:0:0" MaxMonsterNum="1" DelayTime="4" Pos4="0:0:0" MonsterId="241105" Shared_AngleName="" Shared_AngleValue= "0" Shared_DistName="" Shared_DistmValue="8" LifeTime="5" Shared_MonsterId2Name="" Shared_MonsterId2mValue="0" CopyMonsterId="0" FinalPos="0:0:0" ForcePlace="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" HPPercent="0" DeltaArg="0" Pos1="0:0:0" BornType="0" />
+        <SetInt Shared_ValueName="" value="0" Shared_StoredResultName="riftnum5" />
+      </Sequence>
+      <Sequence>
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="yanjiang" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <SetInt Shared_ValueName="" value="1" Shared_StoredResultName="riftnum6" />
+      </Sequence>
+      <Sequence>
+        <IntComparison Shared_Int1Name="riftnum6" int1Value="0" Shared_Int2Name="" int2Value="1" type="2" />
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="open" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <CallScript FuncName="warning" DelayTime="0" />
+        <CallMonster Pos2="0:0:0" Pos3="0:0:0" MaxMonsterNum="4" DelayTime="4" Pos4="0:0:0" MonsterId="241106" Shared_AngleName="" Shared_AngleValue= "0" Shared_DistName="" Shared_DistmValue="8" LifeTime="12" Shared_MonsterId2Name="" Shared_MonsterId2mValue="0" CopyMonsterId="0" FinalPos="0:0:0" ForcePlace="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" HPPercent="0" DeltaArg="0" Pos1="0:0:0" BornType="0" />
+        <CallMonster Pos2="0:0:0" Pos3="0:0:0" MaxMonsterNum="4" DelayTime="5" Pos4="0:0:0" MonsterId="241106" Shared_AngleName="" Shared_AngleValue= "0" Shared_DistName="" Shared_DistmValue="8" LifeTime="12" Shared_MonsterId2Name="" Shared_MonsterId2mValue="0" CopyMonsterId="0" FinalPos="0:0:0" ForcePlace="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" HPPercent="0" DeltaArg="0" Pos1="0:0:0" BornType="0" />
+        <SetInt Shared_ValueName="" value="0" Shared_StoredResultName="riftnum6" />
+      </Sequence>
+      <Sequence>
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="longjuanfeng" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <SetInt Shared_ValueName="" value="1" Shared_StoredResultName="riftnum7" />
+      </Sequence>
+      <Sequence>
+        <IntComparison Shared_Int1Name="riftnum7" int1Value="0" Shared_Int2Name="" int2Value="1" type="2" />
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="open" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <CallScript FuncName="warning" DelayTime="0" />
+        <CallMonster Pos2="0:0:0" Pos3="0:0:0" MaxMonsterNum="4" DelayTime="5" Pos4="0:0:0" MonsterId="241107" Shared_AngleName="" Shared_AngleValue= "0" Shared_DistName="" Shared_DistmValue="8" LifeTime="10" Shared_MonsterId2Name="" Shared_MonsterId2mValue="0" CopyMonsterId="0" FinalPos="0:0:0" ForcePlace="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" HPPercent="0" DeltaArg="0" Pos1="0:0:0" BornType="0" />
+        <SetInt Shared_ValueName="" value="0" Shared_StoredResultName="riftnum7" />
+      </Sequence>
+      <Sequence>
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="zhangyu" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <SetInt Shared_ValueName="" value="1" Shared_StoredResultName="riftnum8" />
+      </Sequence>
+      <Sequence>
+        <IntComparison Shared_Int1Name="riftnum8" int1Value="0" Shared_Int2Name="" int2Value="1" type="2" />
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="open" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <CallScript FuncName="warning" DelayTime="0" />
+        <CallMonster Pos2="0:0:0" Pos3="0:0:0" MaxMonsterNum="4" DelayTime="5" Pos4="0:0:0" MonsterId="241108" Shared_AngleName="" Shared_AngleValue= "0" Shared_DistName="" Shared_DistmValue="8" LifeTime="10.5" Shared_MonsterId2Name="" Shared_MonsterId2mValue="0" CopyMonsterId="0" FinalPos="0:0:0" ForcePlace="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" HPPercent="0" DeltaArg="0" Pos1="0:0:0" BornType="0" />
+        <SetInt Shared_ValueName="" value="0" Shared_StoredResultName="riftnum8" />
+      </Sequence>
+      <Sequence>
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="jiguang" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <SetInt Shared_ValueName="" value="1" Shared_StoredResultName="riftnum9" />
+      </Sequence>
+      <Sequence>
+        <IntComparison Shared_Int1Name="riftnum9" int1Value="0" Shared_Int2Name="" int2Value="1" type="2" />
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="open" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <CallScript FuncName="warning" DelayTime="0" />
+        <CallMonster Pos2="0:0:0" Pos3="0:0:0" MaxMonsterNum="4" DelayTime="5" Pos4="0:0:0" MonsterId="241109" Shared_AngleName="" Shared_AngleValue= "0" Shared_DistName="" Shared_DistmValue="10" LifeTime="6" Shared_MonsterId2Name="" Shared_MonsterId2mValue="0" CopyMonsterId="0" FinalPos="0:0:0" ForcePlace="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" HPPercent="0" DeltaArg="0" Pos1="0:0:0" BornType="0" />
+        <CallMonster Pos2="0:0:0" Pos3="0:0:0" MaxMonsterNum="4" DelayTime="5" Pos4="0:0:0" MonsterId="241109" Shared_AngleName="" Shared_AngleValue= "0" Shared_DistName="" Shared_DistmValue="10" LifeTime="6" Shared_MonsterId2Name="" Shared_MonsterId2mValue="0" CopyMonsterId="0" FinalPos="0:0:0" ForcePlace="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" HPPercent="0" DeltaArg="0" Pos1="0:0: 0" BornType="0" />
+        <CallMonster Pos2="0:0:0" Pos3="0:0:0" MaxMonsterNum="4" DelayTime="5" Pos4="0:0:0" MonsterId="241109" Shared_AngleName="" Shared_AngleValue= "0" Shared_DistName="" Shared_DistmValue="10" LifeTime="6" Shared_MonsterId2Name="" Shared_MonsterId2mValue="0" CopyMonsterId="0" FinalPos="0:0:0" ForcePlace="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" HPPercent="0" DeltaArg="0" Pos1="0:0:0" BornType="0" />
+        <SetInt Shared_ValueName="" value="0" Shared_StoredResultName="riftnum9" />
+      </Sequence>
+      <Sequence>
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="yunshi" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <SetInt Shared_ValueName="" value="1" Shared_StoredResultName="riftnum10" />
+      </Sequence>
+      <Sequence>
+        <IntComparison Shared_Int1Name="riftnum10" int1Value="0" Shared_Int2Name="" int2Value="1" type="2" />
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="open" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <CallScript FuncName="warning" DelayTime="0" />
+        <CallMonster Pos2="0:0:0" Pos3="0:0:0" MaxMonsterNum="4" DelayTime="5" Pos4="0:0:0" MonsterId="241110" Shared_AngleName="" Shared_AngleValue= "0" Shared_DistName="" Shared_DistmValue="8" LifeTime="6" Shared_MonsterId2Name="" Shared_MonsterId2mValue="0" CopyMonsterId="0" FinalPos="0:0:0" ForcePlace="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" HPPercent="0" DeltaArg="0" Pos1="0:0:0" BornType="0" />
+        <SetInt Shared_ValueName="" value="0" Shared_StoredResultName="riftnum10" />
+      </Sequence>
+      <Sequence>
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="tianqi" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <SetInt Shared_ValueName="" value="1" Shared_StoredResultName="riftnum11" />
+      </Sequence>
+      <Sequence>
+        <IntComparison Shared_Int1Name="riftnum11" int1Value="0" Shared_Int2Name="" int2Value="1" type="2" />
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="open" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <CallScript FuncName="warning" DelayTime="0" />
+        <CallMonster Pos2="0:0:0" Pos3="0:0:0" MaxMonsterNum="4" DelayTime="5" Pos4="0:0:0" MonsterId="241111" Shared_AngleName="" Shared_AngleValue= "0" Shared_DistName="" Shared_DistmValue="5" LifeTime="25" Shared_MonsterId2Name="" Shared_MonsterId2mValue="0" CopyMonsterId="0" FinalPos="0:0:0" ForcePlace="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" HPPercent="0" DeltaArg="0" Pos1="0:0:0" BornType="0" />
+        <CallMonster Pos2="0:0:0" Pos3="0:0:0" MaxMonsterNum="4" DelayTime="5" Pos4="0:0:0" MonsterId="241111" Shared_AngleName="" Shared_AngleValue= "0" Shared_DistName="" Shared_DistmValue="5" LifeTime="25" Shared_MonsterId2Name="" Shared_MonsterId2mValue="0" CopyMonsterId="0" FinalPos="0:0:0" ForcePlace="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" HPPercent="0" DeltaArg="0" Pos1="0:0:0" BornType="0" />
+        <CallMonster Pos2="0:0:0" Pos3="0:0:0" MaxMonsterNum="4" DelayTime="5" Pos4="0:0:0" MonsterId="241111" Shared_AngleName="" Shared_AngleValue= "0" Shared_DistName="" Shared_DistmValue="5" LifeTime="25" Shared_MonsterId2Name="" Shared_MonsterId2mValue="0" CopyMonsterId="0" FinalPos="0:0:0" ForcePlace="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" HPPercent="0" DeltaArg="0" Pos1="0:0:0" BornType="0" />
+        <SetInt Shared_ValueName="" value="0" Shared_StoredResultName="riftnum11" />
+      </Sequence>
+      <Sequence>
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType=" 1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="yanshou" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <SetInt Shared_ValueName="" value="1" Shared_StoredResultName="riftnum12" />
+      </Sequence>
+      <Sequence>
+        <IntComparison Shared_Int1Name="riftnum12" int1Value="0" Shared_Int2Name="" int2Value="1" type="2" />
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="open" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <CallScript FuncName="warning" DelayTime="0" />
+        <CallMonster Pos2="0:0:0" Pos3="0:0:0" MaxMonsterNum="4" DelayTime="5" Pos4="0:0:0" MonsterId="241112" Shared_AngleName="" Shared_AngleValue= "0" Shared_DistName="" Shared_DistmValue="3" LifeTime="6" Shared_MonsterId2Name="" Shared_MonsterId2mValue="0" CopyMonsterId="0" FinalPos="0:0:0" ForcePlace="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" HPPercent="0" DeltaArg="0" Pos1="0:0:0" BornType="0" />
+        <CallMonster Pos2="0:0:0" Pos3="0:0:0" MaxMonsterNum="4" DelayTime="5" Pos4="0:0:0" MonsterId="241112" Shared_AngleName="" Shared_AnglemValue="120" Shared_DistName="" Shared_DistmValue="3" LifeTime="6" Shared_MonsterId2Name="" Shared_MonsterId2mValue="0" CopyMonsterId="0" FinalPos="0:0 :0" ForcePlace="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" HPPercent="0" DeltaArg="0" Pos1="0:0:0" BornType="0" />
+        <CallMonster Pos2="0:0:0" Pos3="0:0:0" MaxMonsterNum="4" DelayTime="5" Pos4="0:0:0" MonsterId="241112" Shared_AngleName="" Shared_AngleValue= "240" Shared_DistName="" Shared_DistmValue="3" LifeTime="6" Shared_MonsterId2Name="" Shared_MonsterId2mValue="0" CopyMonsterId="0" FinalPos="0:0:0" ForcePlace="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" HPPercent="0" DeltaArg="0" Pos1="0:0:0" BornType="0" />
+        <SetInt Shared_ValueName="" value="0" Shared_StoredResultName="riftnum12" />
+      </Sequence>
+      <Sequence>
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="dianliu" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <SetInt Shared_ValueName="" value="1" Shared_StoredResultName="riftnum13" />
+      </Sequence>
+      <Sequence>
+        <IntComparison Shared_Int1Name="riftnum13" int1Value="0" Shared_Int2Name="" int2Value="1" type="2" />
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="open" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <CallScript FuncName="warning" DelayTime="0" />
+        <CallMonster Pos2="0:0:0" Pos3="0:0:0" MaxMonsterNum="10" DelayTime="5" Pos4="0:0:0" MonsterId="241113" Shared_AngleName="" Shared_AngleValue= "0" Shared_DistName="" Shared_DistmValue="8" LifeTime="6" Shared_MonsterId2Name="" Shared_MonsterId2mValue="0" CopyMonsterId="0" FinalPos="0:0:0" ForcePlace="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" HPPercent="0" DeltaArg="0" Pos1="0:0:0" BornType="0" />
+        <CallMonster Pos2="0:0:0" Pos3="0:0:0" MaxMonsterNum="4" DelayTime="5" Pos4="0:0:0" MonsterId="241113" Shared_AngleName="" Shared_AngleValue= "0" Shared_DistName="" Shared_DistmValue="8" LifeTime="10" Shared_MonsterId2Name="" Shared_MonsterId2mValue="0" CopyMonsterId="0" FinalPos="0:0:0" ForcePlace="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" HPPercent="0" DeltaArg="0" Pos1="0:0:0" BornType="0" />
+        <SetInt Shared_ValueName="" value="0" Shared_StoredResultName="riftnum13" />
+      </Sequence>
+      <Sequence>
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="tiequan" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <SetInt Shared_ValueName="" value="1" Shared_StoredResultName="riftnum14" />
+      </Sequence>
+      <Sequence>
+        <IntComparison Shared_Int1Name="riftnum14" int1Value="0" Shared_Int2Name="" int2Value="1" type="2" />
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="open" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <CallScript FuncName="warning" DelayTime="0" />
+        <CallMonster Pos2="0:0:0" Pos3="0:0:0" MaxMonsterNum="4" DelayTime="5" Pos4="0:0:0" MonsterId="241114" Shared_AngleName="" Shared_AngleValue= "0" Shared_DistName="" Shared_DistmValue="8" LifeTime="10" Shared_MonsterId2Name="" Shared_MonsterId2mValue="0" CopyMonsterId="0" FinalPos="0:0:0" ForcePlace="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" HPPercent="0" DeltaArg="0" Pos1="0:0:0" BornType="0" />
+        <SetInt Shared_ValueName="" value="0" Shared_StoredResultName="riftnum14" />
+      </Sequence>
+      <Sequence>
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="tengman" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <SetInt Shared_ValueName="" value="1" Shared_StoredResultName="riftnum15" />
+      </Sequence>
+      <Sequence>
+        <IntComparison Shared_Int1Name="riftnum15" int1Value="0" Shared_Int2Name="" int2Value="1" type="2" />
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="open" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <CallScript FuncName="warning" DelayTime="0" />
+        <CallMonster Pos2="0:0:0" Pos3="0:0:0" MaxMonsterNum="4" DelayTime="5" Pos4="0:0:0" MonsterId="241115" Shared_AngleName="" Shared_AngleValue= "30" Shared_DistName="" Shared_DistmValue="5" LifeTime="4" Shared_MonsterId2Name="" Shared_MonsterId2mValue="0" CopyMonsterId="0" FinalPos="0:0:0" ForcePlace="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" HPPercent="0" DeltaArg="0" Pos1="0:0:0" BornType="0" />
+        <CallMonster Pos2="0:0:0" Pos3="0:0:0" MaxMonsterNum="4" DelayTime="5" Pos4="0:0:0" MonsterId="241115" Shared_AngleName="" Shared_AngleValue= "150" Shared_DistName="" Shared_DistmValue="5" LifeTime="4" Shared_MonsterId2Name="" Shared_MonsterId2mValue="0" CopyMonsterId="0" FinalPos="0:0:0" ForcePlace="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" HPPercent="0" DeltaArg="0" Pos1="0:0:0" BornType="0" />
+        <CallMonster Pos2="0:0:0" Pos3="0:0:0" MaxMonsterNum="4" DelayTime="5" Pos4="0:0:0" MonsterId="241115" Shared_AngleName="" Shared_AngleValue= "270" Shared_DistName="" Shared_DistmValue="5" LifeTime="4" Shared_MonsterId2Name="" Shared_MonsterId2mValue="0" CopyMonsterId="0" FinalPos="0:0:0" ForcePlace="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" HPPercent="0" DeltaArg="0" Pos1="0:0:0" BornType="0" />
+        <SetInt Shared_ValueName="" value="0" Shared_StoredResultName="riftnum15" />
+      </Sequence>
+      <Sequence>
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="panpan" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <SetInt Shared_ValueName="" value="1" Shared_StoredResultName="riftnum16" />
+      </Sequence>
+      <Sequence>
+        <IntComparison Shared_Int1Name="riftnum16" int1Value="0" Shared_Int2Name="" int2Value="1" type="2" />
+        <ReceiveAIEvent Shared_FloatArgName="" Shared_FloatArgmValue="0" Shared_SenderUIDName="" Shared_SenderUIDmValue="" Shared_TypeIdName="typeid" Shared_TypeIdmValue="0" Shared_SkillIdName="" Shared_SkillIdmValue="0" Shared_PosName="eventposValue" Shared_Posm: 0" Deprecate="0" Shared_MsgStrName="eventcmd" Shared_MsgStrmValue="" MsgType="1" Shared_SkillTemplateIdName="" Shared_SkillTemplateIdmValue="0" />
+        <CompareTo Shared_FirstStringName="eventcmd" firstString="" Shared_SecondStringName="" secondString="open" Shared_ResultName="compres" />
+        <IntComparison Shared_Int1Name="compres" int1Value="0" Shared_Int2Name="" int2Value="0" type="2" />
+        <CallScript FuncName="warning" DelayTime="0" />
+        <CallMonster Pos2="0:0:0" Pos3="0:0:0" MaxMonsterNum="4" DelayTime="5" Pos4="0:0:0" MonsterId="241116" Shared_AngleName="" Shared_AngleValue= "0" Shared_DistName="" Shared_DistmValue="8" LifeTime="11" Shared_MonsterId2Name="" Shared_MonsterId2mValue="0" CopyMonsterId="0" FinalPos="0:0:0" ForcePlace="0" Shared_PosName="eventpos" Shared_PosmValue="0:0:0" HPPercent="0" DeltaArg="0" Pos1="0:0:0" BornType="0" />
+        <SetInt Shared_ValueName="" value="0" Shared_StoredResultName="riftnum16" />
+      </Sequence>
+    </Selector>
+  </EntryTask>
+</Remake_Scene_mijing>

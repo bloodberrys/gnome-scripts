@@ -48,9 +48,9 @@ def find_file_position(file_path, center=False):
     # Get the coordinates of the file on the screen
     file_location = None
     grayscale = False
-    confidence = 0.9
+    confidence = 0.99
     
-    max_attempts = 5
+    max_attempts = 10
     for attempt in range(max_attempts):
         print(f'[Find Location] Attempt {attempt}')
         print(f'Primary File check: {file_path}')

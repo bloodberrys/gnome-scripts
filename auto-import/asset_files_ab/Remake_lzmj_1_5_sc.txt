@@ -1,0 +1,11 @@
+func:countdown
+Warning After 3 seconds, the Half-Stone Man Iron Crow appears on the scene! |2 seconds later, the half-stone man Iron Crow appeared! |1 second later, the half-stone man Iron Crow appeared! |Steel Crow, a half-stone man, is here! The battle begins! 3
+
+func:npcpopspeek
+npcpopspeek 1 3003 [403831] Defeat the half-stone man Iron Crow in [ff0000]90 seconds[-]! 5
+
+func:warning
+notice [ffdc00]Trigger special mechanism after 3 seconds|[ffdc00]Trigger special mechanism after 2 seconds|[ffdc00]Trigger special mechanism after 1 second|Special mechanism has been triggered 2
+
+func:open
+aicommand -1 open 87007

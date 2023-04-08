@@ -1,0 +1,23 @@
+func:countdown
+warning After 3 seconds, Apocalypse will appear! |2 seconds later, Apocalypse will appear! |1 second later, Apocalypse will appear! | Apocalypse is here! The battle begins! 3
+
+func:npcpopspeek
+npcpopspeek 1 3003 [403831] Defeat Apocalypse in [ff0000]300 seconds[-]! 5
+
+func:warning
+notice [ffdc00]Trigger special mechanism after 3 seconds|[ffdc00]Trigger special mechanism after 2 seconds|[ffdc00]Trigger special mechanism after 1 second|Special mechanism has been triggered 2
+
+func:open
+aicommand -1 open 87007
+
+func:notice5
+notice [ffdc00] Stupid humans! ! !
+
+func:notice6
+notice [ffdc00] You have angered the world's most powerful ruler, prepare to stand trial!
+
+func:notice1
+notice [ffdc00] Apocalypse is angry, attack power has been enhanced 7
+
+func:notice2
+notice [ffdc00] The apocalypse is berserk, and the movement has become more agile 7

@@ -1,0 +1,11 @@
+func:countdown
+Warning After 3 seconds, Nubel, the guardian of fireworks, will appear! |2 seconds later, Nubel, the Firework Guardian, will appear! |After 1 second, Nubel, the Firework Guardian, will appear! |Firework Guardian Nubel is here! The battle begins! 3
+
+func:npcpopspeek
+npcpopspeek 1 3003 [403831] Defeat Firework Guardian Nubel in [ff0000]120 seconds[-]! 5
+
+func:warning
+notice [ffdc00]Trigger special mechanism after 3 seconds|[ffdc00]Trigger special mechanism after 2 seconds|[ffdc00]Trigger special mechanism after 1 second|Special mechanism has been triggered 2
+
+func:open
+aicommand -1 open 87007

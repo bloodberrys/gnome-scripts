@@ -11,6 +11,9 @@ opencv-python-headless = "*"
 pillow = "*"
 chardet = "*"
 pytesseract = "*"
+zhon = "*"
+langid = "*"
+jieba = "*"
 
 [dev-packages]
 

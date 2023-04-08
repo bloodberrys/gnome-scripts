@@ -1,0 +1,118 @@
+func:startcutscene
+showcutscene CutScene/Cutscene_gustdragon01 38.66 0.24 91.4 90
+
+func:TransferWall1
+opendoor TransferWall1 on 73.21|0.24|70.75|1.5 84.72|8.97|70.47|0|2
+
+func:TransferWall2
+opendoor TransferWall2 on 84.72|8.97|113.06|1.5 73.21|0.24|111.95|-90|2
+
+func:closeTransferWall1
+opendoor TransferWall1 off
+
+func:openmouse
+opendoor TransferWall3 on 56.2|0|91.5|5 28.98|0|19.33|0|2
+
+func:closemouse
+opendoor TransferWall3 off
+
+func:openback
+opendoor TransferWall4 on 28.98|0|19.33|20 56.2|0|91.5|90|2
+
+func:closeback
+opendoor TransferWall4 off
+
+func:opendoor1
+opendoor Blockwall on
+
+func:opendoor2
+opendoor Blockwall2 on
+
+func:opendoorsha
+open door sha on
+
+func:startwind
+aicommand -1 startwind 0
+
+func:rampage
+aicommand -1 rampage 0
+
+func:burrow
+aicommand -1 burrow 0
+
+func:dash attack
+ai command 43936 dash attack
+
+func:dashattack2
+aicommand 43936 dashattack2
+
+func:randomskill
+aicommand 43936 randomskill
+
+func:rollingrandom
+ai command 43936 rolling random
+
+func: dash attack hard
+aicommand -1 dash attack hard 0
+
+func:kung
+aicommand -1 kung 0
+
+func:whaleattack
+aicommand -1 whaleattack 0
+
+func:burrownotice
+npcpopspeek 1 43936 [ffb400] I'm going to...eat..destroy you all!! 5
+
+func:burrowsuccess
+npcpopspeek 1 43936 [ffb400] grunt, as if that wasn't enough for the teeth!! 5
+
+func:burrowfail
+npcpopspeek 1 43936 [ffb400] No! my food....5
+
+func:burrowhelp
+notice [ffdc00] Before being dissolved by stomach acid, look for the heart of the mountain lizard and set fire to it! 10
+
+func:windsuccess
+notice [ffdc00] Successfully operated the statue, the storm was dispelled! 10
+
+func:windfail
+warning [ffdc00] Mishandled the statue, the whole team is cursed! 10
+
+func: sand warning
+warning [ffdc00] The angry mountain lizard caused the surrounding environment to fall into a sandstorm, and the HP continued to be deducted! 10
+
+func:whaleattacknotice
+warning [ffdc00] The mountain lizard has entered the ground and is ready to leap! 7
+
+func:rampagestartnotice
+npcpopspeek 1 43936 [ffb400] boom..long..5
+
+func:rampagecountdown
+warning [ffdc00] An adventurer was bewitched by a mountain lizard, please be careful! |[ffdc00] An adventurer was bewitched by a mountain lizard, please be careful! |[ffdc00] An adventurer was bewitched by a mountain lizard, please be careful! |[ffdc00]In 15 seconds, the spirit of the land is about to explode, please dismantle it quickly|[ffdc00]In 14 seconds, the spirit of the land is about to explode, please dismantle it quickly|[ffdc00]In 13 seconds, the spirit of the land is about to explode, please quickly Demolish|[ffdc00] In 12 seconds, the spirit of the land is about to explode, please dismantle it quickly|[ffdc00] In 11 seconds, the spirit of the land is about to explode, please dismantle it quickly|[ffdc00] In 10 seconds, the spirit of the land is about to explode, please Dismantle quickly|[ffdc00] In 9 seconds, the spirit of the land is about to explode, please dismantle it quickly|[ffdc00] In 8 seconds, the spirit of the land is about to explode, please dismantle quickly|[ffdc00] In 7 seconds, the spirit of the land is about to explode, Please dismantle quickly|[ffdc00] After 6 seconds, the spirit of the land is about to explode, please dismantle it quickly|[ffdc00]After 5 seconds, the spirit of the land is about to explode, please dismantle it quickly|[ffdc00]After 4 seconds, the spirit of the land is about to explode, please dismantle it quickly|[ffdc00]3 seconds After that, the spirit of the land is about to explode, please dismantle it quickly|[ffdc00] In 2 seconds, the spirit of the land is about to explode, please dismantle it quickly|[ffdc00] In 1 second, the spirit of the land is about to explode, please dismantle it quickly|[ffdc00] The land The spirit exploded! ! ! 3
+
+func:windnotice
+npcpopspeek 3 3003 [00aeff] Storm[-] is coming! Quickly go to Yanwu Tongmen [00aeff] to operate the switch [-] to stop it! 10
+
+func:rampagenotice
+npcpopspeek 3 3003 [00aeff] Mountain Lizard[-] has summoned the Spirit of the Land! [00aeff][-] Destroy it before it explodes! 10
+
+func:kungnotice
+npcpopspeek 3 3003 [00aeff]Mountain lizard[-]ready to unleash full screen smash! Rescue [00aeff] trapped teammates[-]! 12
+
+func:addbuffsha
+addbuff 43936 23139 1
+
+
+
+
+
+
+
+
+
+
+
+
+info:Blockwall 26.02944|0|42.57249|0 off 50 25 0.1
+info:Blockwall2 26.40945|1.69|92.52249|270 off 50.00001 26.69 0.1

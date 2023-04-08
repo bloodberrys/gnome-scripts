@@ -1,0 +1,23 @@
+func:countdown
+warning After 3 seconds, the giant Mach comes on the stage! |2 seconds later, the giant Mach will appear! |After 1 second, the giant Mach will appear! |Giant Mahe appears! The battle begins! 3
+
+func:npcpopspeek
+npcpopspeek 1 3003 [403831] Defeat Giant Clan Mach in [ff0000]300 seconds[-]! 5
+
+func:warning
+notice [ffdc00]Trigger special mechanism after 3 seconds|[ffdc00]Trigger special mechanism after 2 seconds|[ffdc00]Trigger special mechanism after 1 second|Special mechanism has been triggered 2
+
+func:open
+aicommand -1 open 87007
+
+func:notice10
+warning The Pelican Z8 rocket booster is activated, ready to take off! 6
+
+func:notice11
+warning Black Panther 74 flame propulsion device activated, ready to charge! 6
+
+func:notice1
+notice [ffdc00] Mach the giant is angry, and the attack power has been enhanced 7
+
+func:notice2
+notice [ffdc00] Mach of the Giants has gone berserk, and his movements have become more agile 7
