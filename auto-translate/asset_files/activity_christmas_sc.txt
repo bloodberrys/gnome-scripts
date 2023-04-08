@@ -1,0 +1,31 @@
+
+func:notice1
+notice 欢迎来到，电网领域！ 10
+
+func:notice2
+notice 欢迎来到，传送领域！ 10
+
+func:notice3
+notice 欢迎来到，重磅鸭领域！ 10
+
+func:notice4
+warning 15秒后刷新安全区！|14秒后刷新安全区！|13秒后刷新安全区！|12秒后刷新安全区！|11秒后刷新安全区！|10秒后刷新安全区！|9秒后刷新安全区！|8秒后刷新安全区！|7秒后刷新安全区！|6秒后刷新安全区！|5秒后刷新安全区！|4秒后刷新安全区！|3秒后刷新安全区！|2秒后刷新安全区！|1秒后刷新安全区！ 1
+
+func:notice5
+npcpopspeek 3 3003 [ff2f78]危险区域[-]即将刷新，快移动至安全区域！ 10
+
+func:notice6
+npcpopspeek 3 3003 胜者只能有一位！去淘汰你的对手并活到最后吧！ 10
+
+func:notice7
+warning 安全区7 10
+
+func:notice8
+npcpopspeek 3 3003 战斗即将结束，所有人将持续受到伤害！ 10
+
+func:addFinalbuff
+addbuff 0 70919 1
+
+func:CallElectricWall
+aicommand -1 callElectricWall 0
+

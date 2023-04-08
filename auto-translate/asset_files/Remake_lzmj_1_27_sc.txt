@@ -1,0 +1,24 @@
+
+func:countdown
+warning 3秒后，地狱犬卡卡里登场！|2秒后，地狱犬卡卡里登场！|1秒后，地狱犬卡卡里登场！|地狱犬卡卡里登场！战斗开始！ 3
+
+func:npcpopspeek
+npcpopspeek 1 3003 [403831]在[ff0000]300秒[-]内击败地狱犬卡卡里！ 5
+
+func:warning
+notice [ffdc00]3秒以后触发特殊机制|[ffdc00]2秒以后触发特殊机制|[ffdc00]1秒以后触发特殊机制|特殊机制已触发 2
+
+func:open
+aicommand -1 open 87007
+
+func:cerberosskill
+notice [ffdc00]无知小儿！在冰与火的折磨中随风而逝吧！
+
+func:cerberos_eskill
+notice ...黑色闪电！快躲到boss身下！
+
+func:notice1
+notice [ffdc00]地狱犬卡卡里愤怒了，攻击力得到了增强 7
+
+func:notice2
+notice [ffdc00]地狱犬卡卡里狂暴了，动作变得更加敏捷 7
