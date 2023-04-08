@@ -1,4 +1,3 @@
-
 func:startcutscene
 showcutscene CutScene/Cutscene_gustdragon01 38.66 0.24 91.4 90
 
@@ -63,43 +62,43 @@ func:whaleattack
 aicommand -1 whaleattack 0
 
 func:burrownotice
-npcpopspeek 1 43936 [ffb400]我要将你们统统..吃..掉!! 5
+npcpopspeek 1 43936 [ffb400] I'm going to...eat..destroy you all!! 5
 
 func:burrowsuccess
-npcpopspeek 1 43936 [ffb400]咕噜，似乎还不够塞牙缝!! 5
+npcpopspeek 1 43936 [ffb400] grunt, as if that wasn't enough for the teeth!! 5
 
 func:burrowfail
-npcpopspeek 1 43936 [ffb400]不！我的食物.... 5
+npcpopspeek 1 43936 [ffb400] No! my food....5
 
 func:burrowhelp
-notice [ffdc00]趁着还没被胃酸溶解，寻找山蜥蜴的心脏并集火！ 10
+notice [ffdc00] Before being dissolved by stomach acid, look for the heart of the mountain lizard and set fire to it! 10
 
 func:windsuccess
-notice [ffdc00]成功操作了雕像，风暴被驱散！ 10
+notice [ffdc00] Successfully operated the statue, the storm was dispelled! 10
 
 func:windfail
-warning [ffdc00]错误操作了雕像，全队受到诅咒！ 10
+warning [ffdc00] Mishandled the statue, the whole team is cursed! 10
 
 func:sandwarning
-warning [ffdc00]愤怒的山蜥蜴使得周遭的环境陷入一片沙暴中，生命值持续扣损！ 10
+warning [ffdc00] The angry mountain lizard caused the surrounding environment to fall into a sandstorm, and the HP continued to be deducted! 10
 
 func:whaleattacknotice
-warning [ffdc00]山蜥蜴钻入了地底准备跃击！ 7
+warning [ffdc00] The mountain lizard has entered the ground and is ready to leap! 7
 
 func:rampagestartnotice
-npcpopspeek 1 43936 [ffb400]轰..隆.. 5
+npcpopspeek 1 43936 [ffb400] boom..long..5
 
 func:rampagecountdown
-warning [ffdc00]有位冒险家受到了山蜥蜴的蛊惑，请小心应对！|[ffdc00]有位冒险家受到了山蜥蜴的蛊惑，请小心应对！|[ffdc00]有位冒险家受到了山蜥蜴的蛊惑，请小心应对！|[ffdc00]15秒后，土地之灵即将爆炸，请迅速拆除|[ffdc00]14秒后，土地之灵即将爆炸，请迅速拆除|[ffdc00]13秒后，土地之灵即将爆炸，请迅速拆除|[ffdc00]12秒后，土地之灵即将爆炸，请迅速拆除|[ffdc00]11秒后，土地之灵即将爆炸，请迅速拆除|[ffdc00]10秒后，土地之灵即将爆炸，请迅速拆除|[ffdc00]9秒后，土地之灵即将爆炸，请迅速拆除|[ffdc00]8秒后，土地之灵即将爆炸，请迅速拆除|[ffdc00]7秒后，土地之灵即将爆炸，请迅速拆除|[ffdc00]6秒后，土地之灵即将爆炸，请迅速拆除|[ffdc00]5秒后，土地之灵即将爆炸，请迅速拆除|[ffdc00]4秒后，土地之灵即将爆炸，请迅速拆除|[ffdc00]3秒后，土地之灵即将爆炸，请迅速拆除|[ffdc00]2秒后，土地之灵即将爆炸，请迅速拆除|[ffdc00]1秒后，土地之灵即将爆炸，请迅速拆除|[ffdc00]土地之灵爆炸了！！！ 3
+warning [ffdc00] An adventurer was bewitched by a mountain lizard, please be careful! |[ffdc00] An adventurer was bewitched by a mountain lizard, please be careful! |[ffdc00] An adventurer was bewitched by a mountain lizard, please be careful! |[ffdc00]In 15 seconds, the spirit of the land is about to explode, please dismantle it quickly|[ffdc00]In 14 seconds, the spirit of the land is about to explode, please dismantle it quickly|[ffdc00]In 13 seconds, the spirit of the land is about to explode, please quickly Demolish|[ffdc00] In 12 seconds, the spirit of the land is about to explode, please dismantle it quickly|[ffdc00] In 11 seconds, the spirit of the land is about to explode, please dismantle it quickly|[ffdc00] In 10 seconds, the spirit of the land is about to explode, please Dismantle quickly|[ffdc00] In 9 seconds, the spirit of the land is about to explode, please dismantle it quickly|[ffdc00] In 8 seconds, the spirit of the land is about to explode, please dismantle quickly|[ffdc00] In 7 seconds, the spirit of the land is about to explode, Please dismantle quickly|[ffdc00] After 6 seconds, the spirit of the land is about to explode, please dismantle it quickly|[ffdc00]After 5 seconds, the spirit of the land is about to explode, please dismantle it quickly|[ffdc00]After 4 seconds, the spirit of the land is about to explode, please dismantle it quickly|[ffdc00]3 seconds After that, the spirit of the land is about to explode, please dismantle it quickly|[ffdc00] In 2 seconds, the spirit of the land is about to explode, please dismantle it quickly|[ffdc00] In 1 second, the spirit of the land is about to explode, please dismantle it quickly|[ffdc00] The land The spirit exploded! ! ! 3
 
 func:windnotice
-npcpopspeek 3 3003 [00aeff]暴风[-]即将来袭！速往燕梧通门[00aeff]操作开关[-]将其停止！ 10
+npcpopspeek 3 3003 [00aeff] Storm[-] is coming! Quickly go to Yanwu Tongmen [00aeff] to operate the switch [-] to stop it! 10
 
 func:rampagenotice
-npcpopspeek 3 3003 [00aeff]山蜥蜴[-]召唤了土地之灵！[00aeff]趁其爆炸前[-]赶紧消灭！ 10
+npcpopspeek 3 3003 [00aeff] Mountain Lizard[-] has summoned the Spirit of the Land! [00aeff][-] Destroy it before it explodes! 10
 
 func:kungnotice
-npcpopspeek 3 3003 [00aeff]山蜥蜴[-]准备释放全屏砸地！快营救[00aeff]被困的队友[-]！ 12
+npcpopspeek 3 3003 [00aeff]Mountain lizard[-]ready to unleash full screen smash! Rescue [00aeff] trapped teammates[-]! 12
 
 func:addbuffsha
 addbuff 43936 23139 1

@@ -1,21 +1,20 @@
-
 func:notice1
-warning [ffdc00]赫隆格尼尔腾空跃起准备发动死亡裁决！ 10
+warning [ffdc00] Hronganir leaps into the air and prepares to launch a death sentence! 10
 
 func:notice2
-warning [ffdc00]“我要，永远将你们禁锢在这里！！” 10
+warning [ffdc00] "I want to imprison you here forever!!" 10
 
 func:notice3
-warning [ffdc00]一名幸运儿获得可以解除禁锢的光环，快去解救队友并前往BOSS身边的安全区！ 10
+warning [ffdc00] One lucky person has obtained the halo that can lift the imprisonment, go to rescue your teammates and go to the safe zone around the BOSS! 10
 
 func:notice4
-warning [ffdc00]一起行动，前往BOSS身边的安全区！ 10
+warning [ffdc00] Let's act together, go to the safe zone around the boss! 10
 
 func:notice5
-warning [ffdc00]“骑士们，跟我发起进攻！！！” 4
+warning [ffdc00] "Knights, attack me!!!" 4
 
 func:notice6
-warning [ffdc00]骑士雕像被激活了，会根据赫隆格尼尔的冲锋来发动攻击！！ 10
+warning [ffdc00] The knight statue is activated and will attack according to Hronganir's charge! ! 10
 
 func:darkworld
 justfx 25
@@ -73,23 +72,3 @@ removebuff 43405 21605 1
 
 func:showcutscene
 showcutscene CutScene/cutscene_generalshow_bigguy 263627
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

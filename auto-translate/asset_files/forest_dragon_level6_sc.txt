@@ -1,4 +1,3 @@
-
 func:opendoor1
 opendoor Blockwall1 on
 
@@ -39,49 +38,49 @@ func:closedoor6
 opendoor Blockwall6 off
 
 func:speak1
-npcpopspeek 1 43900 [ffb400]守护卡伊伦岛的仆从们...远古的意志需要你们的力量... 5
+npcpopspeek 1 43900 [ffb400] Servants guarding the Isle of Cairon... The ancient will needs your strength... 5
 
 func:speak2
-npcpopspeek 1 43900 [ffb400]在吾之领域内...汝等唯有死路一条... 5
+npcpopspeek 1 43900 [ffb400] In my domain... You have no choice but to die... 5
 
 func:speak3
-npcpopspeek 1 43900 [ffb400]元素幻方..遵循吾之意志....摧毁入侵者... 5
+npcpopspeek 1 43900 [ffb400] Elemental Magic Square..follow my will...destroy invaders...5
 
 func:speak4
-npcpopspeek 1 43901 [ffb400]王之傀儡...无敌之力...汇聚吾身 5
+npcpopspeek 1 43901 [ffb400] King's Puppet...Invincible Power...Gathering My Body 5
 
 func:speak5
-npcpopspeek 1 43900 [ffb400]何人在觊觎吾之兵器... 5
+npcpopspeek 1 43900 [ffb400] Who is coveting my weapon... 5
 
 func:speak6
-npcpopspeek 3 3003 击碎[00aeff]遗迹人偶[-]来激活[00aeff]保护罩[-]！ 5
+npcpopspeek 3 3003 Break the [00aeff] Relic Doll[-] to activate the [00aeff] Protective Shield[-]! 5
 
 func:speak7
-npcpopspeek 3 3003 [00aeff]米迪尔[-]消失了！继续寻找[00aeff]古代兵器[-]的踪迹！ 10
+npcpopspeek 3 3003 [00aeff] midir[-] is gone! Continue to search for traces of [00aeff] ancient weapons[-]! 10
 
 func:speak8
-npcpopspeek 1 43901 [ffb400]四..方..杀..阵..准..备..完..成.. 5
+npcpopspeek 1 43901 [ffb400] Four.. Square.. Kill.. Array.. Prepare.. Prepare.. Finish.. Complete.. 5
 
 func:speak9
-npcpopspeek 3 3003 躲到[00aeff]石柱[-]周围的[00aeff]安全区域[-]躲避毒气伤害！ 7
+npcpopspeek 3 3003 Hide in the [00aeff] safe area [-] around the [00aeff] stone pillar [-] to avoid poisonous gas damage! 7
 
 func:notice1
-warning [ffdc00]幻方的无敌之力消失了！ 5
+warning [ffdc00] The invincible power of the magic square has disappeared! 5
 
 func:notice2
-warning [ffdc00]米迪尔即将释放远古能量脉冲！ 5
+warning [ffdc00] Midir is about to release an ancient energy pulse! 5
 
 func:notice3
-warning [ffdc00]四方杀阵开启！ 5
+warning [ffdc00] Quartet killing array is on! 5
 
 func:notice4
-warning [ffdc00]米迪尔准备施放远古能量脉冲！ 5
+warning [ffdc00] Midir is about to cast an ancient energy pulse! 5
 
 func:notice5
-warning [ffdc00]发现了新的遗迹人偶！ 5
+warning [ffdc00] Found a new relic doll! 5
 
 func:notice6
-warning [ffdc00]米迪尔准备激活毒气领域！ 5
+warning [ffdc00] Midil is about to activate the poisonous gas field! 5
 
 func:calldoll
 aicommand -1 calldoll 43900

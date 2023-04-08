@@ -1,12 +1,11 @@
-
 func:countdown
-warning 3秒后，烈火之花杰姆斯托克登场！|2秒后，烈火之花杰姆斯托克登场！|1秒后，烈火之花杰姆斯托克登场！|烈火之花杰姆斯托克登场！战斗开始！ 3
+warning After 3 seconds, James Stoke, the flower of fire, will appear! |2 seconds later, James Stoke, the flower of fire, will appear! |1 second later, James Stoke, the flower of fire, will appear! |Jam Stoke, the flower of fire, is here! The battle begins! 3
 
 func:npcpopspeek
-npcpopspeek 1 3003 [403831]在[ff0000]120秒[-]内击败烈火之花杰姆斯托克！ 5
+npcpopspeek 1 3003 [403831] Defeat Blazing Blossom Jamstock in [ff0000]120 seconds[-]! 5
 
 func:warning
-notice [ffdc00]3秒以后触发特殊机制|[ffdc00]2秒以后触发特殊机制|[ffdc00]1秒以后触发特殊机制|特殊机制已触发 2
+notice [ffdc00]Trigger special mechanism after 3 seconds|[ffdc00]Trigger special mechanism after 2 seconds|[ffdc00]Trigger special mechanism after 1 second|Special mechanism has been triggered 2
 
 func:open
 aicommand -1 open 87007

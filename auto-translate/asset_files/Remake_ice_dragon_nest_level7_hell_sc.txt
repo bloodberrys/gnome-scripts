@@ -1,14 +1,14 @@
 func:L1speak1
-npcpopspeek 3 3003 [ffb400]雪熊援军[-]前来支援，请及时[ff2f78]击杀 8
+npcpopspeek 3 3003 [ffb400] Snow bear reinforcements [-] come to support, please kill in time [ff2f78] 8
 
 func:L1speak2
-npcpopspeek 3 3003 棕熊引发了[de3872]火焰风暴[-]，寻找合适点位[60d03b]躲避!! 10
+npcpopspeek 3 3003 The brown bear triggered a [de3872] flame storm [-], looking for a suitable point [60d03b] to avoid!! 10
 
 func:L1speak3
-npcpopspeek 3 3003 棕熊准备释放[60d03b]毒气[-],请使用[ff2f78]抗毒果实[-]来抵抗 7
+npcpopspeek 3 3003 The brown bear is ready to release [60d03b] poison gas [-], please use [ff2f78] anti-poison fruit [-] to resist 7
 
 func:L1speak4
-warning 在[60d03b]毒气风暴[-]持续期间使用抗毒果实才会[ff2f78]生效 6
+warning [ff2f78] will only take effect if anti-poison fruit is used during [60d03b] Poison Storm[-] 6
 
 func:L1aicommand
 aicommand -1 L1zhaohuan 273502
@@ -23,10 +23,10 @@ func:L1showcutscene
 showcutscene CutScene/cutscene_binlong1_remake 103.25 50 103.72 -85
 
 func:L1speak5
-npcpopspeek 1 263507 别动我的水晶，里面可是我辛苦搜刮来的战利品!! 6
+npcpopspeek 1 263507 Don't touch my crystal, it contains my hard-earned loot!! 6
 
 func:L1speak6
-notice 击碎[2a8eff]水晶[-]有概率掉落[ffb400]抗毒果实，[-]可以用来抵御棕熊释放的[60d03b]毒气风暴 10
+notice Breaking [2a8eff] crystals [-] has a chance to drop [ffb400] anti-poison fruit, [-] can be used to resist [60d03b] poisonous gas storm released by brown bears 10
 
 func:L1changefire1
 opendoor L1Cj_fel_fire_icedragon1 on
@@ -41,19 +41,19 @@ func:L1aicommand3
 aicommand -1 L1change 273502
 
 func:L1speak8
-npcpopspeek 1 263507 [ffb400]远古血脉[-]的力量，释放出体内的[de3872]烈狱之火吧！ 8
+npcpopspeek 1 263507 [ffb400] The power of the ancient blood [-], release the [de3872] fire of hell in the body! 8
 
 func:L1changefire
 SwitchBossSkin Prefabs\Monster_grizzly\Monster_grizzly_Remake_icedragon
 
 func:L1speak9
-npcpopspeek 3 3003 雪熊援军靠近棕熊[ff2f78]生命上限[-]和[ff2f78]攻击力[-]得到了提升！ 6
+npcpopspeek 3 3003 Snow Bear Reinforcement Approaching Brown Bear [ff2f78] HP[-] and [ff2f78] ATK[-] have been boosted! 6
 
 func:L1speak10
-npcpopspeek 3 3003 可以提前击碎[2a8eff]水晶[-]获得[ffb400]抗毒果实[-]抵抗[60d03b]毒气 7 
+npcpopspeek 3 3003 Can smash [2a8eff] crystals in advance [-] get [ffb400] anti-poison fruit [-] resist [60d03b] poisonous gas 7
 
 func:L1warning1
-warning 5秒后，棕熊释放毒气风暴|4秒后，棕熊释放毒气风暴|3秒后，棕熊释放毒气风暴|2秒后，棕熊释放毒气风暴|1秒后，棕熊释放毒气风暴|棕熊释放毒气风暴！！ 7
+warning After 5 seconds, the brown bear releases a gas storm|4 seconds later, the brown bear releases a gas storm|3 seconds later, the brown bear releases a gas storm|2 seconds later, the brown bear releases a gas storm|1 second later, the brown bear releases a gas storm|The brown bear releases a gas storm ! ! 7
 
 func:L1closedoor
 opendoor L1Blockwall on
@@ -71,61 +71,61 @@ func:L1changefire3off
 opendoor L1lanshujing off
 
 func:L2notice1
-notice 继续前进，攻破冰雪女皇的魔镜冰屋！
+notice Go ahead and break through the Ice Queen's Magic Mirror Igloo!
 
 func:L2notice2
-warning 啊哈哈哈~要不要欣赏一下魔镜中的美轮美奂？ 4
+warning Hahahaha~ Would you like to appreciate the beauty in the magic mirror? 4
 
 func:L2notice2X
-npcpopspeek 3 3003 请[00aeff]躲避[-]镜中出现的[00aeff]鬼手[-]！ 10
+npcpopspeek 3 3003 Please [00aeff] avoid the [00aeff] ghost hand[-] that appears in the [-] mirror! 10
 
 func:L2notice3
-warning [ffdc00]冒险者被镜子抓住，全体进入魔镜幻境！ 10
+warning [ffdc00] The adventurers were caught by the mirror, and all of them entered the illusion of the magic mirror! 10
 
 func:L2notice3X
-npcpopspeek 3 3003 [00aeff]躲避[-]幻影攻击，及时[00aeff]解救[-]被冰封的[00aeff]队友[-]！ 10
+npcpopspeek 3 3003 [00aeff] Dodge [-] phantom attack, timely [00aeff] rescue [-] frozen [00aeff] teammate [-]! 10
 
 func:L2notice4
-warning 14秒后萨德尼斯将引爆魔镜冰晶！|13秒后萨德尼斯将引爆魔镜冰晶！|12秒后萨德尼斯将引爆魔镜冰晶！|11秒后萨德尼斯将引爆魔镜冰晶！|10秒后萨德尼斯将引爆魔镜冰晶！|9秒后萨德尼斯将引爆魔镜冰晶！|8秒后萨德尼斯将引爆魔镜冰晶！|7秒后萨德尼斯将引爆魔镜冰晶！|6秒后萨德尼斯将引爆魔镜冰晶！|5秒后萨德尼斯将引爆魔镜冰晶！|4秒后萨德尼斯将引爆魔镜冰晶！|3秒后萨德尼斯将引爆魔镜冰晶！|2秒后萨德尼斯将引爆魔镜冰晶！|1秒后萨德尼斯将引爆魔镜冰晶！|萨德尼斯释放了魔镜冰晶之力！ 5
+warning After 14 seconds, Sudnis will detonate the magic mirror ice crystal! |In 13 seconds, Sadness will detonate the magic mirror ice crystal! |In 12 seconds, Sudnis will detonate the magic mirror ice crystal! |In 11 seconds, Sudnis will detonate the magic mirror ice crystal! |In 10 seconds, Sudnis will detonate the magic mirror ice crystal! |9 seconds later, Sudnis will detonate the magic mirror ice crystal! |8 seconds later, Sadness will detonate the magic mirror ice crystal! |Sadnis will detonate the magic mirror ice in 7 secondscrystal! |6 seconds later, Sadness will detonate the magic mirror ice crystal! |5 seconds later, Sadness will detonate the magic mirror ice crystal! |In 4 seconds, Sadness will detonate the magic mirror ice crystal! |After 3 seconds, Sudnis will detonate the magic mirror ice crystal! |2 seconds later, Sadness will detonate the magic mirror ice crystal! |In 1 second, Sadness will detonate the magic mirror ice crystal! |Sadnis released the power of the magic mirror ice crystal! 5
 
 func:L2notice5
-notice [ffdc00]终止了魔镜冰晶之力！ 6
+notice [ffdc00] Terminated the magic mirror ice crystal power! 6
 
 func:L2notice6
-warning [ffdc00]不要靠近我，休想破坏我的美貌！ 10
+warning [ffdc00] Don't get close to me, don't even think about ruining my beauty! 10
 
 func:L2notice7
-warning [ffdc00]秘术·魔镜冰晶，享受这冰雪的美妙盛宴吧！ 10
+warning [ffdc00] Mystery: Magic Mirror Ice Crystal, enjoy this wonderful feast of ice and snow! 10
 
 func:L2notice7X
-npcpopspeek 3 3003 击杀躲藏在[00aeff]魔镜前[-]的[00aeff]镜之分身[-]！ 10
+npcpopspeek 3 3003 Kill [00aeff] mirror clone[-] hiding in front of [00aeff] magic mirror[-]! 10
 
 func:L2notice8
-npcpopspeek 1 273513 [403831]魔镜、魔镜，都出来吧，说说这里谁……最美……？ 10
+npcpopspeek 1 273513 [403831] Magic mirror, magic mirror, come out, tell me who here is...the most beautiful...? 10
 
 func:L2notice9
-warning 见识我的冰雪之舞吧！ 5
+warning Meet my Ice Dance! 5
 
 func:L2bubble01
-bubble 243515 你们想抓到我吗？ 6
+bubble 243515 Are you trying to catch me? 6
 
 func:L2bubble02
-bubble 243515 我们来玩个游戏吧！ 6
+bubble 243515 Let's play a game! 6
 
 func:L2bubble03
-bubble 243515 我的魔镜可不容易被看透哦~ 6
+bubble 243515 My magic mirror is not easy to see through~ 6
 
 func:L2bubble11
-bubble 243517 你们想抓到我吗？ 6
+bubble 243517 Are you trying to catch me? 6
 
 func:L2bubble12
-bubble 243517 我们来玩个游戏吧！ 6
+bubble 243517 Let's play a game! 6
 
 func:L2bubble13
-bubble 243517 我的魔镜可不容易被看透哦~ 6
+bubble 243517 My magic mirror is not easy to see through~ 6
 
 func:L2npcpopspeak1
-npcpopspeek 1 273513 [403831]欢迎你们来欣赏我的魔镜，这里总算热闹起来了呢！ 10
+npcpopspeek 1 273513 [403831] Welcome to my magic mirror, it's finally lively here! 10
 
 func:L2aicommand1
 aicommand -1 L2initialize 0
@@ -240,88 +240,88 @@ func:L3FlashBullet
 aicommand -1 L3FlashBullet 0
 
 func:L3notice1
-npcpopspeek 3 3003 20秒内杀死所有[D61212]触手[-]！ 10
+npcpopspeek 3 3003 Kill all [D61212] tentacles[-] in 20 seconds! 10
 
 func:L3notice2
-warning 黑暗兰克将要用"触手"吸取水道的力量，快阻止它！ 5
+warning Dark Rank is about to use "tentacles" to absorb the power of the waterway, stop it quickly! 5
 
 func:L3notice3
-notice 击杀触手1/4 5
+notice kill tentacle 1/4 5
 
 func:L3notice4
-notice 击杀触手2/4 5
+notice kill tentacle 2/4 5
 
 func:L3notice5
-notice 击杀触手3/4 5
+notice kill tentacle 3/4 5
 
 func:L3notice6
-notice 击杀触手4/4 5
+notice kill tentacle 4/4 5
 
 func:L3notice7
-warning 黑暗兰克即将在空中刮起风暴，快到它的下面躲避 10
+warning Dark Rank is about to create a storm in the sky, get under it for shelter 10
 
 func:L3notice8
-warning 小心黑暗球！ 5
+warning Beware of the Dark Ball! 5
 
 func:L3notice9
-warning 黑暗兰克即将进入狂暴状态！ 5
+warning Dark Rank is about to go berserk! 5
 
 func:L3notice10
-npcpopspeek 1 243531 把你们！全部干掉！ 10
+npcpopspeek 1 243531 Bring you guys! Kill them all! 10
 
 func:L3notice11
-npcpopspeek 1 243530 我生气了！你们完蛋了！ 10
+npcpopspeek 1 243530 I'm mad! You are screwed! 10
 
 func:L3notice12
-notice 山下的水道是寻找冰龙的必经之路，得加紧脚步了。 10
+notice The waterway under the mountain is the only way to find the ice dragon, so we have to hurry up. 10
 
 func:L3notice13
-npcpopspeek 1 243530 人类！这里是我的！闯入者只能成为食物！ 6
+npcpopspeek 1 243530 Humans! Here is mine! Intruders can only become food! 6
 
 func:L3notice14
-warning 小心反向黑暗吐息！ 6
+warning Beware of Reverse Dark Breath! 6
 
 func:L3notice15
-warning 快离开将要被黑暗兰克污染的区域！ 7
+warning Get out of the area about to be polluted by Darkrank! 7
 
 func:L3notice16
-npcpopspeek 3 3003 快前往[60d03b]绿色安全区[-]躲避终焉吐息！ 7
+npcpopspeek 3 3003 Go to the [60d03b] green safe zone [-] to avoid the final breath! 7
 
 func:L3timeNotice1
-warning 距离能量吸收完成还有，20秒！|距离能量吸收完成还有，19秒！|距离能量吸收完成还有，18秒！|距离能量吸收完成还有，17秒！|距离能量吸收完成还有，16秒！|距离能量吸收完成还有，15秒！|距离能量吸收完成还有，14秒！|距离能量吸收完成还有，13秒！|距离能量吸收完成还有，12秒！|距离能量吸收完成还有，11秒！|距离能量吸收完成还有，10秒！|距离能量吸收完成还有，9秒！|距离能量吸收完成还有，8秒！|距离能量吸收完成还有，7秒！|距离能量吸收完成还有，6秒！|距离能量吸收完成还有，5秒！|距离能量吸收完成还有，4秒！|距离能量吸收完成还有，3秒！|距离能量吸收完成还有，2秒！|距离能量吸收完成还有，1秒！|能量吸收完成！ 5
+warning There are still 20 seconds left before the energy absorption is completed! | There are still 19 seconds until the energy absorption is completed! | There are still 18 seconds until the energy absorption is completed! | There are still 17 seconds until the energy absorption is completed! | There are still 16 seconds until the energy absorption is completed! | There are still 15 seconds until the energy absorption is completed! | There are still 14 seconds until the energy absorption is completed! | There are still 13 seconds until the energy absorption is completed! | There are still 12 seconds until the energy absorption is completed! | There are still 11 seconds until the energy absorption is completed! | There are still 10 seconds until the energy absorption is completed! | There are still 9 seconds until the energy absorption is completed! | There are still 8 seconds until the energy absorption is completed! | There are still 7 seconds until the energy absorption is completed! | There are still 6 seconds until the energy absorption is completed! | There are still 5 seconds until the energy absorption is completed! | There are still 4 seconds until the energy absorption is completed! | There are still 3 seconds until the energy absorption is completed! | There are still 2 seconds until the energy absorption is completed! |There is still one second before the energy absorption is completed! |Energy absorption complete! 5
 
 func:L3timeNotice2
-warning 能量汲取被阻止了！ 5
+warning Energy drain blocked! 5
 
 func:L4speak1notice
-warning [ffdc00]古斯托司钻入地底准备释放极寒风暴，攻击其虫尾可打断其释放!|[ffdc00]古斯托司钻入地底准备释放极寒风暴，攻击其虫尾可打断其释放!|[ffdc00]古斯托司钻入地底准备释放极寒风暴，攻击其虫尾可打断其释放!|[ffdc00]15秒以后，古斯托司释放极寒风暴|[ffdc00]14秒以后，古斯托司释放极寒风暴|[ffdc00]13秒以后，古斯托司释放极寒风暴|[ffdc00]12秒以后，古斯托司释放极寒风暴|[ffdc00]11秒以后，古斯托司释放极寒风暴|[ffdc00]10秒以后，古斯托司释放极寒风暴|[ffdc00]9秒以后，古斯托司释放极寒风暴|[ffdc00]8秒以后，古斯托司释放极寒风暴|[ffdc00]7秒以后，古斯托司释放极寒风暴|[ffdc00]6秒以后，古斯托司释放极寒风暴|[ffdc00]5秒以后，古斯托司释放极寒风暴|[ffdc00]4秒以后，古斯托司释放极寒风暴|[ffdc00]3秒以后，古斯托司释放极寒风暴|[ffdc00]2秒以后，古斯托司释放极寒风暴|[ffdc00]1秒以后，古斯托司释放极寒风暴|[ffdc00]古斯托司释放极寒风暴！ 4
+warning [ffdc00] Gustos drilled into the ground to release an extremely cold storm, attacking its worm tail can interrupt its release!|[ffdc00] Gustos drilled into the ground to release an extremely cold storm, attacking its worm tail can interrupt its release Release!|[ffdc00] Gustos drilled into the ground to release the extremely cold storm, attacking its worm tail can interrupt its release!|[ffdc00]After 15 seconds, Gustos released the extremely cold storm|[ffdc00]14 Seconds later, Gustos releases the extreme cold storm|[ffdc00]13 seconds later, Gustos releases the extreme cold storm|[ffdc00]12 seconds later, Gustos releases the extreme cold storm|[ffdc00]11 seconds later , Gustos released the extreme cold storm|[ffdc00]10 seconds later, Gustos released the extreme cold storm|[ffdc00]9 seconds later, Gustos released the extreme cold storm|[ffdc00]8 seconds later, the ancient Storth releases the extreme cold storm|[ffdc00] After 7 seconds, Gustos releases the extreme cold storm|[ffdc00] After 6 seconds, Gustos releases the extreme cold storm|[ffdc00] After 5 seconds, Gusto [ffdc00] After 4 seconds, Gustos releases the extremely cold storm | [ffdc00] After 3 seconds, Gustos releases the extremely cold storm | [ffdc00] After 2 seconds, Gustos releases Extreme Cold Storm|[ffdc00] After 1 second, Gustos releases Extreme Cold Storm|[ffdc00] Gustos releases Extreme Cold Storm! 4
 
 func:L4speak1
-npcpopspeek 3 3003 当心钻出的假蠕虫尾巴，需要消灭2只[ff2f78]无法攻击[-]的虫尾! 7
+npcpopspeek 3 3003 Watch out for the fake worm tails that pop out, need to kill 2 [ff2f78]unattackable[-] wormtails! 7
 
 func:L4speak4
-notice 成功辨别古斯托司的虫尾，极寒风暴被打断！ 8
+notice The wormtail of Gustos was successfully identified, and the extreme cold storm was interrupted! 8
 
 func:L4speak5
-bubble 273581 哈哈！击杀别人的尾巴只能得到一份寒冰“礼物”！ 8
+bubble 273581 Haha! Killing someone else's tail can only get a "gift" of ice! 8
 
 func:L4icestormnotice
-warning [ffdc00]在美丽的冰雪之雨中消失吧，小虫子们！ 8
+warning [ffdc00] Disappear in the beautiful icy rain, little bugs! 8
 
 func:L4icebombnotice
-warning [ffdc00]古斯托司释放炸弹地狱！打碎炸弹逃生！ 10
+warning [ffdc00] Gustus unleashes bomb hell! Break the bomb and escape! 10
 
 func:L4icebombnotice2
-npcpopspeek 3 3003 请[de3872]击碎[-]炸弹到达[2779d6]安全区域 10
+npcpopspeek 3 3003 please [de3872] crush [-] bomb reach [2779d6] safe area 10
 
 func:L4speak7
-notice 古斯托司潜入极寒洞窟，继续追击！ 8
+notice Gustos sneaked into the extremely cold cave and continued to pursue! 8
 
 func:L4speak8
-warning 古斯托司在洞窟内制造巨大地震，小心滚动的冰球！ 7
+warning Gustos caused a huge earthquake in the cave, be careful of the rolling ice ball! 7
 
 func:L4speak9
-npcpopspeek 3 3003 霜风古斯托司引来了[2a8eff]寒风[-]，小心躲避！ 6
+npcpopspeek 3 3003 Frostwind Gustos has drawn [2a8eff] cold wind[-], dodge carefully! 6
 
 func:L4aicommand
 aicommand -1 L4tail 0
@@ -411,46 +411,46 @@ func:L4BossWallon
 opendoor L4BossWall on
 
 func:L5notice1
-warning [ffdc00]电流3秒后爆发！快寻找安全区域！|[ffdc00]电流2秒后爆发！快寻找安全区域！|[ffdc00]电流1秒后爆发！快寻找安全区域！|[ffdc00]电流爆发！ 5
+warning [ffdc00] The current will break out in 3 seconds! Find a safe area quickly! |[ffdc00] The current erupts after 2 seconds! Find a safe area quickly! |[ffdc00] The current erupts in 1 second! Find a safe area quickly! |[ffdc00] Current explosion! 5
 
 func:L5notice2
-warning 巴拉帕试图从守卫们身上汲取能量，15秒后即将引爆！|巴拉帕试图从守卫们身上汲取能量，14秒后即将引爆！|巴拉帕试图从守卫们身上汲取能量，13秒后即将引爆！|巴拉帕试图从守卫们身上汲取能量，12秒后即将引爆！|巴拉帕试图从守卫们身上汲取能量，11秒后即将引爆！|巴拉帕试图从守卫们身上汲取能量，10秒后即将引爆！|巴拉帕试图从守卫们身上汲取能量，9秒后即将引爆！|巴拉帕试图从守卫们身上汲取能量，8秒后即将引爆！|巴拉帕试图从守卫们身上汲取能量，7秒后即将引爆！|巴拉帕试图从守卫们身上汲取能量，6秒后即将引爆！|巴拉帕试图从守卫们身上汲取能量，5秒后即将引爆！|巴拉帕试图从守卫们身上汲取能量，4秒后即将引爆！|巴拉帕试图从守卫们身上汲取能量，3秒后即将引爆！|巴拉帕试图从守卫们身上汲取能量，2秒后即将引爆！|巴拉帕试图从守卫们身上汲取能量，1秒后即将引爆！|充能成功！巴拉帕引爆了能量！ 4
+warning Balappa is trying to drain power from the guards and will detonate in 15 seconds! |Balapa tries to drain energy from the guards, and is about to detonate in 14 seconds! |Balapa tries to drain energy from the guards, and is about to detonate in 13 seconds! |Barapa is trying to drain energy from the guards, and will detonate in 12 seconds! |Barapa tries to drain energy from the guards, and is about to detonate in 11 seconds! |Barapa is trying to drain power from the guards and is about to detonate in 10 seconds! |Barapa tries to drain energy from the guards, and is about to detonate in 9 seconds! |Barapa is trying to drain energy from the guards and will detonate in 8 seconds! |Barapa is trying to drain energy from the guards and is about to detonate in 7 seconds! |Barapa is trying to drain energy from the guards and is about to detonate in 6 seconds! |Barapa is trying to drain energy from the guards and is about to detonate in 5 seconds! |Barapa is trying to drain energy from the guards and is about to detonate in 4 seconds! |Barapa is trying to drain energy from the guards and is about to detonate in 3 seconds! |Barapa is trying to drain energy from the guards and is about to detonate in 2 seconds! |Balapa tries to drain energy from the guards, and will detonate in 1 second! |Successful charging! Balappa detonated the energy! 4
 
 func:L5notice2X
-npcpopspeek 3 3003 立即[00aeff]清除[-]擂台四方的[00aeff]守卫[-]！ 10
+npcpopspeek 3 3003 Immediately [00aeff]clear[-][00aeff]guards[-] from all sides of the arena! 10
 
 func:L5notice3
-warning [ffdc00]守卫献祭自身，为巴拉帕回复生命值！ 10
+warning [ffdc00] The guard sacrifices himself to restore health to Balappa! 10
 
 func:L5notice4
-warning 14秒后巴拉帕将引发全屏闪电！|13秒后巴拉帕将引发全屏闪电！|12秒后巴拉帕将引发全屏闪电！|11秒后巴拉帕将引发全屏闪电！|10秒后巴拉帕将引发全屏闪电！|9秒后巴拉帕将引发全屏闪电！|8秒后巴拉帕将引发全屏闪电！|7秒后巴拉帕将引发全屏闪电！|6秒后巴拉帕将引发全屏闪电！|5秒后巴拉帕将引发全屏闪电！|4秒后巴拉帕将引发全屏闪电！|3秒后巴拉帕将引发全屏闪电！|2秒后巴拉帕将引发全屏闪电！|1秒后巴拉帕将引发全屏闪电！|巴拉帕释放了闪电风暴！ 5
+warning Balappa will trigger a full-screen lightning after 14 seconds! |Balapa will trigger a full-screen lightning in 13 seconds! |Balapa will trigger a full-screen lightning in 12 seconds! |11 seconds later, Balappa will trigger a full-screen lightning! |Balapa will trigger a full-screen lightning in 10 seconds! |Balapa will trigger a full-screen lightning in 9 seconds! |Balapa will trigger a full-screen lightning in 8 seconds! |Barapa will trigger a full-screen lightning in 7 seconds! |Balapa will trigger a full-screen lightning in 6 seconds! |Barapa will trigger a full-screen lightning in 5 seconds! |Balapa will trigger a full-screen lightning in 4 seconds! |Balapa will trigger a full-screen lightning in 3 seconds! |Balapa will trigger a full-screen lightning in 2 seconds! |Balapa will trigger a full-screen lightning in 1 second! |Barapa unleashes a lightning storm! 5
 
 func:L5notice5
-warning [ffdc00]来尝尝杀戮擂台的血腥滋味吧！ 10
+warning [ffdc00] Let's taste the bloody taste of the killing ring! 10
 
 func:L5notice5X
-npcpopspeek 3 3003 战场四方向的[00aeff]传送阵[-]已开启！ 10
+npcpopspeek 3 3003 The [00aeff] teleportation array [-] in the four directions of the battlefield has been activated! 10
 
 func:L5notice6
-warning [ffdc00]擂台开始发生异变，巴拉帕更加强大了！ 10
+warning [ffdc00] The arena has begun to change, and Balappa is even stronger! 10
 
 func:L5notice7
-warning [ffdc00]在擂台的角落瑟瑟发抖吧！你们打不赢我！ 10
+warning [ffdc00] Trembling in the corner of the ring! You can't beat me! 10
 
 func:L5notice7X
-npcpopspeek 3 3003 通过[00aeff]传送阵[-]靠近巴拉帕，打破[00aeff]保护罩[-]！ 10
+npcpopspeek 3 3003 Pass the [00aeff] Teleportation Array[-] to get close to Balappa, break the [00aeff]protective shield[-]! 10
 
 func:L5notice8
-warning [ffdc00]巴拉帕被激怒了，擂台正在缩小！ 10
+warning [ffdc00] Balappa is enraged, the ring is shrinking! 10
 
 func:L5notice9
-notice 成功阻止了全屏闪电！ 5
+notice Successfully blocked fullscreen lightning! 5
 
 func:L5notice10
-notice 成功击败了所有守卫！ 5
+notice Successfully defeated all guards! 5
 
 func:L5npcpopspeak1
-npcpopspeek 1 273562 [403831]一群胆小鬼！与我决一死战！ 10
+npcpopspeek 1 273562 [403831] Bunch of cowards! Fight to the death with me! 10
 
 func:L5aicommand1
 aicommand -1 L5initialize 0
@@ -531,70 +531,69 @@ func:L5showcutscene
 showcutscene CutScene/cutscene_generalshow_bigguy 31.25 18.7 163 0
 
 func:L6notice1
-npcpopspeek 1 111398 [ffb400]就让这漫天的飞雪..凝结成这寒冰之枪... 7
+npcpopspeek 1 111398 [ffb400] Let this snowstorm condense into this ice spear... 7
 
 func:L6notice2
-warning [ffdc00]火炉开始旋转，融化冰枪 5
+warning [ffdc00] Furnace starts spinning, melting ice gun 5
 
 func:L6notice3
-warning [ffdc00]火炉将要熄灭！用火属性攻击为其充能！ 5
+warning [ffdc00] The stove will go out! Charge it with a fire attribute attack! 5
 
 func:L6notice4
-npcpopspeek 3 3003 [ffdc00]汇聚[afc1f4]冰霜水晶[-]！引导[ffb400]伊贝尔[-]的攻击去破坏！ 7
+npcpopspeek 3 3003 [ffdc00] Convergence [afc1f4] Frost crystal [-]! Channel [ffb400] Iber[-]'s attack to destroy! 7
 
 func:L6notice6
-warning [ffdc00]奇伊和伊贝尔就生活在前方的冰原！前进吧！ 7
+warning [ffdc00] Guy and Ibel are living in the ice field ahead! go ahead! 7
 
 func:L6notice8
-warning [ffdc00]火炉重生了，保护好它！ 10
+warning [ffdc00] The stove is reborn, protect it! 10
 
 func:L6notice9
-warning [ffdc00]奇伊召唤了扭曲冰墙！ 5
+warning [ffdc00]Guy has summoned a wall of twisted ice! 5
 
 func:L6notice10
-npcpopspeek 1 111398 [ffb400]奇伊..你筑成的一道道永恒不灭的冰晶之墙..会助我结束这些外来者的生命.. 7
+npcpopspeek 1 111398 [ffb400] Guy.. the walls of ice crystals you built will never die.. will help me end the lives of these outsiders.. 7
 
 func:L6notice11
-warning [ffdc00]强烈的冰霜气息摧毁了永恒火炉！ 5
+warning [ffdc00] The strong frost breath has destroyed the Eternal Furnace! 5
 
 func:L6notice12
-warning [ffdc00]雪...下得更大了... 7
+warning [ffdc00] snow...it's getting bigger... 7
 
 func:L6notice13
-warning [ffdc00]发现了霜风古斯托司的寒冰宝石！全队水属性防御增加！ 7
+warning [ffdc00] Frostwind Gustos' ice gem has been discovered! The water attribute defense of the whole team is increased! 7
 
 func:L6speak1
-npcpopspeek 2 111377 [ffb400]你们...就永远的留在这里吧！ 5
+npcpopspeek 2 111377 [ffb400] You... stay here forever! 5
 
-func:L6speak2
-npcpopspeek 1 111398 [ffb400]寒冬已至..逝去的..已经无法回头了.. 5
+func:L6speak2npcpopspeek 1 111398 [ffb400] Winter has come.. the past.. there is no turning back.. 5
 
 func:L6speak3
-npcpopspeek 2 111398 [ffb400]奇伊的痛苦...我要让你们也感受一下..!! 5
+npcpopspeek 2 111398 [ffb400] Guy's pain... I want you to feel it too..!! 5
 
 func:L6speak4
-npcpopspeek 3 3003 [ffb400]永恒火炉[-]的火焰可以驱散冒险家身上的[afc1f4]寒冷[-]！ 10
+npcpopspeek 3 3003 [ffb400] The flames of the Eternal Furnace[-] can dispel the [afc1f4]cold[-] from the adventurer! 10
 
 func:L6speak5
-npcpopspeek 3 3003 [ffdc00]躲避雪球前进！坡道尽头的高台可以躲避雪球的攻击！ 5
+npcpopspeek 3 3003 [ffdc00] Avoid snowballs and move forward! The high platform at the end of the ramp can avoid snowball attacks! 5
 
 func:L6speak6
-npcpopspeek 2 111377 [ffb400]外来者..准备迎接极致的寒冷吧.... 4
+npcpopspeek 2 111377 [ffb400] Outsiders.. prepare for extreme cold.... 4
 
 func:L6speak7
-npcpopspeek 1 111377 [ffb400]伊.....伊贝尔...... 4
+npcpopspeek 1 111377 [ffb400] y..... ybel... 4
 
 func:L6speak8
-npcpopspeek 1 111398 [ffb400]你们...将会和奇伊一起....化作永恒的冰雪之花... 5
+npcpopspeek 1 111398 [ffb400]You...will be with Guy...into an eternal flower of ice and snow... 5
 
 func:L6warning1
-warning 10秒后，奇伊对地面进行毁灭打击！|9秒后，奇伊对地面进行毁灭打击！|8秒后，奇伊对地面进行毁灭打击！|7秒后，奇伊对地面进行毁灭打击！|6秒后，奇伊对地面进行毁灭打击！|5秒后，奇伊对地面进行毁灭打击！|4秒后，奇伊对地面进行毁灭打击！|3秒后，奇伊对地面进行毁灭打击！|2秒后，奇伊对地面进行毁灭打击！|1秒后，奇伊对地面进行毁灭打击！|奇伊对地面进行毁灭打击！
+warning After 10 seconds, Guy carried out a devastating strike on the ground! |9 seconds later, Guy carried out a devastating strike on the ground! |8 seconds later, Guy carried out a devastating strike on the ground! |7 seconds later, Guy carried out a devastating strike on the ground! |6 seconds later, Guy carried out a devastating strike on the ground! |5 seconds later, Guy carried out a devastating strike on the ground! |4 seconds later, Guy carried out a devastating strike on the ground! |3 seconds later, Guy carried out a devastating strike on the ground! |2 seconds later, Guy carried out a devastating strike on the ground! |1 second later, Guy carried out a devastating strike on the ground! | Guy wreaks havoc on the ground!
 
 func:L6warning2
-warning 10秒后，伊贝尔对地面进行毁灭打击！|9秒后，伊贝尔对地面进行毁灭打击！|8秒后，伊贝尔对地面进行毁灭打击！|7秒后，伊贝尔对地面进行毁灭打击！|6秒后，伊贝尔对地面进行毁灭打击！|5秒后，伊贝尔对地面进行毁灭打击！|4秒后，伊贝尔对地面进行毁灭打击！|3秒后，伊贝尔对地面进行毁灭打击！|2秒后，伊贝尔对地面进行毁灭打击！|1秒后，伊贝尔对地面进行毁灭打击！|伊贝尔对地面进行毁灭打击！
+warning After 10 seconds, Ibel carried out a devastating strike on the ground! |9 seconds later, Ibel carried out a devastating strike on the ground! |8 seconds later, Ibel carried out a devastating strike on the ground! |7 seconds later, Ibel carried out a devastating strike on the ground! |6 seconds later, Ibel carried out a devastating strike on the ground! |5 seconds later, Ibel carried out a devastating strike on the ground! |4 seconds later, Ibel carried out a devastating strike on the ground! |After 3 seconds, Ibel carried out a devastating strike on the ground! |After 2 seconds, Ibel carried out a devastating strike on the ground! |After 1 second, Ibel carried out a devastating strike on the ground! | Ibel's devastating blow to the ground!
 
 func:L6warning3
-warning 15秒后，伊贝尔使用极寒冲刺！|14秒后，伊贝尔使用极寒冲刺！|13秒后，伊贝尔使用极寒冲刺！|12秒后，伊贝尔使用极寒冲刺！|11秒后，伊贝尔使用极寒冲刺！|10秒后，伊贝尔使用极寒冲刺！|9秒后，伊贝尔使用极寒冲刺！|8秒后，伊贝尔使用极寒冲刺！|7秒后，伊贝尔使用极寒冲刺！|6秒后，伊贝尔使用极寒冲刺！|5秒后，伊贝尔使用极寒冲刺！|4秒后，伊贝尔使用极寒冲刺！|3秒后，伊贝尔使用极寒冲刺！|2秒后，伊贝尔使用极寒冲刺！|1秒后，伊贝尔使用极寒冲刺！|伊贝尔使用极寒冲刺！
+warning After 15 seconds, Ibel uses the arctic dash! |14 seconds later, Ibel uses the arctic sprint! |13 seconds later, Ibel uses the arctic sprint! |12 seconds later, Ibel uses the arctic sprint! |11 seconds later, Ibel uses the arctic sprint! |10 seconds later, Ibel uses the arctic sprint! |9 seconds later, Ibel uses the arctic sprint! |8 seconds later, Ibel uses the arctic sprint! |7 seconds later, Ibel uses the arctic sprint! |6 seconds later, Ibel uses the arctic sprint! |5 seconds later, Ibel uses the arctic sprint! |4 seconds later, Ibel uses the arctic sprint! |3 seconds later, Ibel uses the arctic sprint! |2 seconds later, Ibel uses the arctic sprint! |1 second later, Ibel uses the arctic dash! |Ibel uses the arctic sprint!
 
 func:L6iceroadOperationSettings
 npcpopspeek 5 3003 41|1950 8
@@ -702,52 +701,52 @@ func:L6randomtransfer4
 randomtransfer 105|18|167.5|90 105|18|167.5|90 105|18|167.5|90 105|18|167.5|90 105|18|167.5|90 105|18|167.5|90
 
 func:L7notice1
-npcpopspeek 1 263589 即将踏入这片承载着冰龙回忆的土地的冒险者们，伴随着这份回忆前进吧。 15
+npcpopspeek 1 263589 Adventurers who are about to step into this land bearing the memories of ice dragons, let's move forward with these memories. 15
 
 func:L7notice2
-npcpopspeek 1 263589 这里，曾经是我的故乡，也是在这里，我遇到了那个特别的查尔德。 15
+npcpopspeek 1 263589 Here, once my hometown, is where I met that special Childe. 15
 
 func:L7notice3
-npcpopspeek 1 263589 奇伊...他...强大，寒冷，又柔和。曾将那份悸动与伤痕带给了我。 15
+npcpopspeek 1 263589 Guy...he...strong, cold, and soft. It once brought me the throbbing and scars. 15
 
 func:L7notice4
-npcpopspeek 1 263589 奇伊……他在哪里都是一个异类，没有家乡，也未曾有过真正的安身之地。 15
+npcpopspeek 1 263589 Guy...he's an anomaly everywhere, no home, no real place to live. 15
 
 func:L7notice5
-npcpopspeek 1 263589 与生俱来的特殊，永远的诅咒着他。 15
+npcpopspeek 1 263589 Born special, cursed him forever. 15
 
 func:L7notice6
-npcpopspeek 1 263589 与我的相遇，他本以为是疲惫旅程的终点，可实际上却是下一场悲剧的序幕。 15
+npcpopspeek 1 263589 The encounter with me, which he thought was the end of a tiring journey, turned out to be the prologue to the next tragedy. 15
 
 func:L7notice7
-npcpopspeek 1 263589 这片山脉与废墟，是我与奇伊仅剩的居所。 15
+npcpopspeek 1 263589 These mountains and ruins are the only remaining dwellings for me and Guy. 15
 
 func:L7notice8
-npcpopspeek 1 263589 未能拯救身为人类时的我，是至今仍缠绕着他的心结。 15
+npcpopspeek 1 263589 Failure to save me as a human is the knot that still haunts him. 15
 
 func:L7notice9
-npcpopspeek 1 263589 复活为查尔德的我……也许已经是奇伊灵魂中最后的救赎了。 15
+npcpopspeek 1 263589 Resurrected as Childe...maybe the last redemption for Guy's soul. 15
 
 func:L7notice10
-npcpopspeek 1 263589 如果我们未曾相遇，你是否会到达幸福的终点？奇伊。 15
+npcpopspeek 1 263589 If we had never met, would you have reached the end of happiness? Guy. 15
 
 func:L7notice11
-npcpopspeek 1 263589 自从身为人类的我死去后，冰龙就已经踏上了他的末路。 15
+npcpopspeek 1 263589 The ice dragon has come to his end since I, the human, died. 15
 
 func:L7notice12
-npcpopspeek 1 111398 奇伊，这个特别的查尔德，为了那份他独有的无聊感情，在这里玩起了过家家的游戏。 15
+npcpopspeek 1 111398 Guy, this particular Child, plays house here for his own share of boredom. 15
 
 func:L7notice13
-npcpopspeek 1 111398 等你们送他上路后，我会好好招待你们的！ 15
+npcpopspeek 1 111398 I'll treat you well after you send him on his way! 15
 
 func:L7notice14
-npcpopspeek 1 111398 奇伊真是选了一个好地方。 15
+npcpopspeek 1 111398 Guy really picked a good place. 15
 
 func:L7notice15
-npcpopspeek 1 111398 赶快过去吧，那家伙就在前方。 15
+npcpopspeek 1 111398 Come on over, that guy is right up ahead. 15
 
 func:L7notice16
-npcpopspeek 1 111398 当我逐渐回忆起你的感情时，你已经离去，我们总是在擦肩而过，奇伊…… 15
+npcpopspeek 1 111398 When I gradually recall your feelings, you are gone, we always pass each other, Guy... 15
 
 func:L7_1direction_arrowheadOn
 opendoor L7_1direction_arrowhead on

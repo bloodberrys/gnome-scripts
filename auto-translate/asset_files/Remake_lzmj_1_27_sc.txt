@@ -1,24 +1,23 @@
-
 func:countdown
-warning 3秒后，地狱犬卡卡里登场！|2秒后，地狱犬卡卡里登场！|1秒后，地狱犬卡卡里登场！|地狱犬卡卡里登场！战斗开始！ 3
+warning After 3 seconds, Kakari the Cerberus appears! |2 seconds later, Cerberus Kakari will appear! |1 second later, Cerberus Kakari appears! |Cerberus Kakari is here! The battle begins! 3
 
 func:npcpopspeek
-npcpopspeek 1 3003 [403831]在[ff0000]300秒[-]内击败地狱犬卡卡里！ 5
+npcpopspeek 1 3003 [403831] Defeat Cerberus Kakari in [ff0000]300 seconds[-]! 5
 
 func:warning
-notice [ffdc00]3秒以后触发特殊机制|[ffdc00]2秒以后触发特殊机制|[ffdc00]1秒以后触发特殊机制|特殊机制已触发 2
+notice [ffdc00]Trigger special mechanism after 3 seconds|[ffdc00]Trigger special mechanism after 2 seconds|[ffdc00]Trigger special mechanism after 1 second|Special mechanism has been triggered 2
 
 func:open
 aicommand -1 open 87007
 
 func:cerberosskill
-notice [ffdc00]无知小儿！在冰与火的折磨中随风而逝吧！
+notice [ffdc00] Ignorant child! Gone with the wind in the torment of ice and fire!
 
 func:cerberos_eskill
-notice ...黑色闪电！快躲到boss身下！
+notice ... black lightning! Quickly hide under the boss!
 
 func:notice1
-notice [ffdc00]地狱犬卡卡里愤怒了，攻击力得到了增强 7
+notice [ffdc00] Cerberus Kakari is angry, and his attack power has been enhanced 7
 
 func:notice2
-notice [ffdc00]地狱犬卡卡里狂暴了，动作变得更加敏捷 7
+notice [ffdc00] Cerberus Kakari has gone berserk, and his movements have become more agile 7

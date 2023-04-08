@@ -1,24 +1,23 @@
-
 func:countdown
-warning 3秒后，天启登场！|2秒后，天启登场！|1秒后，天启登场！|天启登场！战斗开始！ 3
+warning After 3 seconds, Apocalypse will appear! |2 seconds later, Apocalypse will appear! |1 second later, Apocalypse will appear! | Apocalypse is here! The battle begins! 3
 
 func:npcpopspeek
-npcpopspeek 1 3003 [403831]在[ff0000]300秒[-]内击败天启！ 5
+npcpopspeek 1 3003 [403831] Defeat Apocalypse in [ff0000]300 seconds[-]! 5
 
 func:warning
-notice [ffdc00]3秒以后触发特殊机制|[ffdc00]2秒以后触发特殊机制|[ffdc00]1秒以后触发特殊机制|特殊机制已触发 2
+notice [ffdc00]Trigger special mechanism after 3 seconds|[ffdc00]Trigger special mechanism after 2 seconds|[ffdc00]Trigger special mechanism after 1 second|Special mechanism has been triggered 2
 
 func:open
 aicommand -1 open 87007
 
 func:notice5
-notice [ffdc00]愚蠢的人类！！！
+notice [ffdc00] Stupid humans! ! !
 
 func:notice6
-notice [ffdc00]你们激怒了这个世界上最强大的统治者，准备接受审判吧！
+notice [ffdc00] You have angered the world's most powerful ruler, prepare to stand trial!
 
 func:notice1
-notice [ffdc00]天启愤怒了，攻击力得到了增强 7
+notice [ffdc00] Apocalypse is angry, attack power has been enhanced 7
 
 func:notice2
-notice [ffdc00]天启狂暴了，动作变得更加敏捷 7
+notice [ffdc00] The apocalypse is berserk, and the movement has become more agile 7

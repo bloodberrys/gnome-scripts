@@ -1,4 +1,3 @@
-
 func:aicommand
 aicommand -1 trap 241046
 
@@ -9,22 +8,22 @@ func:aicommand2
 aicommand -1 stay 241046
 
 func:notice
-warning [ffdc00]真不容易，居然能来到这里，准备瞻仰寒冰魔法的美丽吧！ 6
+warning [ffdc00] It's not easy, you can come here, prepare to admire the beauty of ice magic! 6
 
 func:notice1
-warning [ffdc00]蝼蚁们，是时候让你们看清自己了弱小了，熔岩魔法快涌出来吧，哈哈哈！ 6
+warning [ffdc00] Ants, it's time for you to see how weak you are, let the lava magic come out soon, hahaha! 6
 
 func:notice2
-warning [ffdc00]以为这样就够了吗，哈哈哈，蝼蚁们，在强大的黑暗魔法面前自生自灭吧！ 6
+warning [ffdc00] Do you think this is enough, hahaha, ants, let's fend for ourselves in front of the powerful dark magic! 6
 
 func:notice3
-warning [ffdc00]3秒以后，卡拉翰释放魔法元气弹|[ffdc00]2秒以后，卡拉翰释放魔法元气弹|[ffdc00]1秒以后，卡拉翰释放魔法元气弹|[ffdc00]卡拉翰释放魔法元气弹 4
+warning [ffdc00] After 3 seconds, Callahan will release the magic energy bomb|[ffdc00] After 2 seconds, Callahan will release the magic energy bomb|[ffdc00] After 1 second, Callahan will release the magic energy bomb|[ffdc00] Callahan will release the magic Vitality Bomb 4
 
 func:notice5
-warning [ffdc00]5秒以后，卡拉翰释放震地一击|[ffdc00]4秒以后，卡拉翰释放震地一击|[ffdc00]3秒以后，卡拉翰释放震地一击|[ffdc00]2秒以后，卡拉翰释放震地一击|[ffdc00]1秒以后，卡拉翰释放震地一击|[ffdc00]卡拉翰释放震地一击 4
+warning [ffdc00] After 5 seconds, Callahan releases the Earthquake|[ffdc00] After 4 seconds, Callahan releases the Earthquake|[ffdc00] After 3 seconds, Callahan releases the Earthquake|[ffdc00]2 Seconds later, Callahan released Earthquake|[ffdc00]1 second later, Callahan released Earthquake|[ffdc00] Callahan released Earthquake 4
 
 func:notice6
-warning 无知凡人！你以为这样就能逃出我的手掌心吗，真是天真！ 6
+warning Ignorant mortals! Do you think you can escape from my palm like this? How naive! 6
 
 func:removebuff21335
 removebuff 241046 21335 1
@@ -36,22 +35,10 @@ func:open
 aicommand -1 open 87007
 
 func:warning
-notice [ffdc00]3秒以后触发特殊机制|[ffdc00]2秒以后触发特殊机制|[ffdc00]1秒以后触发特殊机制|特殊机制已触发 2
+notice [ffdc00]Trigger special mechanism after 3 seconds|[ffdc00]Trigger special mechanism after 2 seconds|[ffdc00]Trigger special mechanism after 1 second|Special mechanism has been triggered 2
 
 func:notice7
-notice [ffdc00]卡拉翰愤怒了，攻击力得到了增强 7
+notice [ffdc00] Callaghan is enraged, attack power has been buffed 7
 
 func:notice8
-notice [ffdc00]卡拉翰狂暴了，动作变得更加敏捷 7
-
-
-
-
-
-
-
-
-
-
-
-
+notice [ffdc00] Callahan has gone berserk, and his movements have become more agile 7

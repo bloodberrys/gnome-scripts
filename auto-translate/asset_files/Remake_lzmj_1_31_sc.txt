@@ -1,24 +1,23 @@
-
 func:countdown
-warning 3秒后，锈雾狂风呼啸者登场！|2秒后，锈雾狂风呼啸者登场！|1秒后，锈雾狂风呼啸者登场！|锈雾狂风呼啸者登场！战斗开始！ 3
+warning After 3 seconds, the Rusty Mist Wind Howler appears! |2 seconds later, the Rust Mist Wind Howler appears! |1 second later, the Rusty Mist Wind Howler appears! |The Rust Mist Wind Howler is here! The battle begins! 3
 
 func:npcpopspeek
-npcpopspeek 1 3003 [403831]在[ff0000]300秒[-]内击败锈雾狂风呼啸者！ 5
+npcpopspeek 1 3003 [403831] Defeat Rust Mist Windscreamer in [ff0000]300 seconds[-]! 5
 
 func:notice5
-notice 愚蠢的人类！你们那可怜的灵魂将被我收割！
+notice Stupid human beings! Your poor souls will be harvested by me!
 
 func:notice6
-notice 你们的生命就犹如风中残烛，即将走向熄灭！
+notice Your life is like a candle in the wind, about to go out!
 
 func:warning
-notice [ffdc00]3秒以后触发特殊机制|[ffdc00]2秒以后触发特殊机制|[ffdc00]1秒以后触发特殊机制|特殊机制已触发 2
+notice [ffdc00]Trigger special mechanism after 3 seconds|[ffdc00]Trigger special mechanism after 2 seconds|[ffdc00]Trigger special mechanism after 1 second|Special mechanism has been triggered 2
 
 func:open
 aicommand -1 open 87007
 
 func:notice1
-notice [ffdc00]锈雾狂风呼啸者愤怒了，攻击力得到了增强 7
+notice [ffdc00] Rust Mist Windscreamer is enraged and has buffed attack power 7
 
 func:notice2
-notice [ffdc00]锈雾狂风呼啸者狂暴了，动作变得更加敏捷 7
+notice [ffdc00] The Rust Mist Windscreamer has gone berserk and has become more agile 7

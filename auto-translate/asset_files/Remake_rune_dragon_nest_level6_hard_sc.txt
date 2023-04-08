@@ -1,42 +1,41 @@
-
 func:notice
-notice [ffdc00]哪里来的凡人，竟然敢打扰本女王休息，吾无法饶恕汝等！ 8
+notice [ffdc00] Where did mortals come from, dare to disturb this queen's rest, I can't forgive you! 8
 
 func:notice1
-notice [ffdc00]恐惧的力量正在汇聚，吾已苏醒，黑暗降临！ 8
+notice [ffdc00] The power of fear is gathering, I have awakened, darkness is coming! 8
 
 func:notice2
-notice [ffdc00]圣洁的龙族宝玉，请赐予吾雷鸣电掣之力，吾将君临天下！ 8
+notice [ffdc00] Holy dragon gem, please grant me the power of thunder and lightning, and I will rule the world! 8
 
 func:notice3
-notice [ffdc00]万劫不复之地啊，听从吾的召唤，将这里的一切，化为灰烬！ 8
+notice [ffdc00] Land of eternal doom, obey my call, and reduce everything here to ashes! 8
 
 func:notice4
-warning [ffdc00]玛蒙开始解放火焰宝玉，7秒以后将释放“烈焰之风”|[ffdc00]玛蒙开始解放火焰宝玉，6秒以后将释放“烈焰之风”|[ffdc00]玛蒙开始解放火焰宝玉，5秒以后将释放“烈焰之风”|[ffdc00]玛蒙开始解放火焰宝玉，4秒以后将释放“烈焰之风”|[ffdc00]玛蒙开始解放火焰宝玉，3秒以后将释放“烈焰之风”|[ffdc00]玛蒙开始解放火焰宝玉，2秒以后将释放“烈焰之风”|[ffdc00]玛蒙开始解放火焰宝玉，1秒以后将释放“烈焰之风”|[ffdc00]玛蒙释放“烈焰之风” 6
+warning [ffdc00] Mammon starts to liberate the flame gem, and will release "flame wind" after 7 seconds|[ffdc00] Mamon starts to liberate the flame gem, and will release "flame wind" after 6 seconds|[ffdc00] Mamon starts to release Flame jewel, "flame wind" will be released in 5 seconds|[ffdc00] Mammon will release the flame jewel, and "flame wind" will be released in 4 seconds|[ffdc00] Mamon will release the flame jewel, and will be released in 3 seconds "Wind of Flame"|[ffdc00] Mammon starts to release the Flame Jewel, and will release "Wind of Flame" after 2 seconds|[ffdc00] Mammon starts to release the Flame Jewel, and will release "Wind of Flame" after 1 second|[ffdc00 ] Mammon releases "Wind of Flame" 6
 
 func:notice5
-warning [ffdc00]玛蒙召唤了天火，5秒以后天火降临！|[ffdc00]玛蒙召唤了天火，4秒以后天火降临！|[ffdc00]玛蒙召唤了天火，3秒以后天火降临！|[ffdc00]玛蒙召唤了天火，2秒以后天火降临！|[ffdc00]玛蒙召唤了天火，1秒以后天火降临！|[ffdc00]天火降临！ 6
+warning [ffdc00] Mamon summoned the sky fire, and the sky fire will come after 5 seconds! |[ffdc00] Mamon summoned the sky fire, and the sky fire came after 4 seconds! |[ffdc00] Mamon summoned the sky fire, and the sky fire came after 3 seconds! |[ffdc00] Mamon summoned the sky fire, and the sky fire came after 2 seconds! |[ffdc00] Mammon summoned the sky fire, and the sky fire came after 1 second! |[ffdc00] Skyfire is coming! 6
 
 func:notice6
-notice [ffdc00]弱者是不会被这个世界所接受，就让汝等在烈焰笼罩的世界中化为灰烬吧！ 10
+notice [ffdc00] The weak will not be accepted by this world, let you be reduced to ashes in the world shrouded in flames! 10
 
 func:notice7
-notice [ffdc00]当人类内心的恐惧、罪恶、贪婪被唤醒时，让吾看看汝将如何抉择！ 8
+notice [ffdc00] When the fear, evil, and greed in human hearts are awakened, let me see how you will choose! 8
 
 func:notice8
-warning [ffdc00]人类！在雷鸣电掣的强大力量下仓惶逃窜吧！ 8
+warning [ffdc00] Human! Flee in panic under the powerful force of thunder and lightning! 8
 
 func:notice9
-warning [ffdc00]玛蒙召唤了雷鸣风暴！|[ffdc00]玛蒙召唤了雷鸣风暴！|[ffdc00]玛蒙召唤了雷鸣风暴！|[ffdc00]玛蒙召唤了雷鸣风暴！|[ffdc00]玛蒙凝视着地面，8秒以后将释放雷龙息|[ffdc00]玛蒙凝视着地面，7秒以后将释放雷龙息|[ffdc00]玛蒙凝视着地面，6秒以后将释放雷龙息|[ffdc00]玛蒙凝视着地面，5秒以后将释放雷龙息|[ffdc00]玛蒙凝视着地面，4秒以后将释放雷龙息|[ffdc00]玛蒙凝视着地面，3秒以后将释放雷龙息|[ffdc00]玛蒙凝视着地面，2秒以后将释放雷龙息|[ffdc00]玛蒙凝视着地面，1秒以后将释放雷龙息|[ffdc00]玛蒙释放雷龙息！|[ffdc00]玛蒙释放雷龙息！|[ffdc00]玛蒙释放雷龙息！|[ffdc00]玛蒙释放雷龙息！|[ffdc00]8秒以后，玛蒙将再次释放雷龙息|[ffdc00]7秒以后，玛蒙将再次释放雷龙息|[ffdc00]6秒以后，玛蒙将再次释放雷龙息|[ffdc00]5秒以后，玛蒙将再次释放雷龙息|[ffdc00]4秒以后，玛蒙将再次释放雷龙息|[ffdc00]3秒以后，玛蒙将再次释放雷龙息|[ffdc00]2秒以后，玛蒙将再次释放雷龙息|[ffdc00]1秒以后，玛蒙将再次释放雷龙息|[ffdc00]玛蒙将再次释放雷龙息！ 6
+warning [ffdc00] Mamon summoned a thunderstorm! |[ffdc00] Mammon summoned a thunderstorm! |[ffdc00] Mammon summoned a thunderstorm! |[ffdc00] Mammon summoned a thunderstorm! |[ffdc00] Mammon stares at the ground, and will release thunder dragon breath after 8 seconds|[ffdc00] Mammon stares at the ground, will release thunder dragon breath after 7 seconds|[ffdc00] Mammon stares at the ground, will release thunder dragon breath after 6 seconds Release Thunder Dragon's Breath|[ffdc00] Mammon stares at the ground, will release Thunder Dragon's breath after 5 seconds|[ffdc00] Mammon stares at the ground, will release Thunder Dragon's breath after 4 seconds|[ffdc00] Mammon stares at the ground, Thunder dragon breath will be released after 3 seconds|[ffdc00] Mammon will stare at the ground, and thunder dragon breath will be released after 2 seconds|[ffdc00] Mamon will stare at the ground, and thunder dragon breath will be released after 1 second|[ffdc00] Mammon will release thunder dragon breath after 1 second Release Thunder Dragon Breath! |[ffdc00] Mamon releases Thunder Dragon Breath! |[ffdc00] Mamon releases Thunder Dragon Breath! |[ffdc00] Mamon releases Thunder Dragon Breath! |[ffdc00]After 8 seconds, Mammon will release Thunder Dragon Breath again|[ffdc00]After 7 seconds, Mammon will release Thunder Dragon Breath again|[ffdc00]After 6 seconds, Mammon will release Thunder Dragon Breath again|[ ffdc00] After 5 seconds, Mammon will release Thunder Dragon Breath again|[ffdc00] After 4 seconds, Mammon will release Thunder Dragon Breath again|[ffdc00] After 3 seconds, Mammon will release Thunder Dragon Breath again|[ffdc00] After 2 seconds, Mammon will release Thunder Dragon Breath again|[ffdc00] After 1 second, Mammon will release Thunder Dragon Breath again|[ffdc00] Mammon will release Thunder Dragon Breath again! 6
 
 func:notice10
-warning [ffdc00]31秒以后，玛蒙将召唤黑暗梦魇|[ffdc00]30秒以后，玛蒙将召唤黑暗梦魇|[ffdc00]29秒以后，玛蒙将召唤黑暗梦魇|[ffdc00]28秒以后，玛蒙将召唤黑暗梦魇|[ffdc00]27秒以后，玛蒙将召唤黑暗梦魇|[ffdc00]26秒以后，玛蒙将召唤黑暗梦魇|[ffdc00]25秒以后，玛蒙将召唤黑暗梦魇|[ffdc00]24秒以后，玛蒙将召唤黑暗梦魇|[ffdc00]23秒以后，玛蒙将召唤黑暗梦魇|[ffdc00]22秒以后，玛蒙将召唤黑暗梦魇|[ffdc00]21秒以后，玛蒙将召唤黑暗梦魇|[ffdc00]20秒以后，玛蒙将召唤黑暗梦魇|[ffdc00]19秒以后，玛蒙将召唤黑暗梦魇|[ffdc00]18秒以后，玛蒙将召唤黑暗梦魇|[ffdc00]17秒以后，玛蒙将召唤黑暗梦魇|[ffdc00]16秒以后，玛蒙将召唤黑暗梦魇|[ffdc00]15秒以后，玛蒙将召唤黑暗梦魇|[ffdc00]14秒以后，玛蒙将召唤黑暗梦魇|[ffdc00]13秒以后，玛蒙将召唤黑暗梦魇|[ffdc00]12秒以后，玛蒙将召唤黑暗梦魇|[ffdc00]11秒以后，玛蒙将召唤黑暗梦魇|[ffdc00]10秒以后，玛蒙将召唤黑暗梦魇|[ffdc00]9秒以后，玛蒙将召唤黑暗梦魇|[ffdc00]8秒以后，玛蒙将召唤黑暗梦魇|[ffdc00]7秒以后，玛蒙将召唤黑暗梦魇|[ffdc00]6秒以后，玛蒙将召唤黑暗梦魇|[ffdc00]5秒以后，玛蒙将召唤黑暗梦魇|[ffdc00]4秒以后，玛蒙将召唤黑暗梦魇|[ffdc00]3秒以后，玛蒙将召唤黑暗梦魇|[ffdc00]2秒以后，玛蒙将召唤黑暗梦魇|[ffdc00]1秒以后，玛蒙将召唤黑暗梦魇|[ffdc00]玛蒙召唤黑暗梦魇！ 8
+warning [ffdc00] After 31 seconds, Mammon will summon Dark Nightmare|[ffdc00] After 30 seconds, Mammon will call Dark Nightmare|[ffdc00] After 29 seconds, Mammon will call Dark Nightmare|[ffdc00] After 28 seconds, Mammon will summon Dark Nightmare|[ffdc00]After 27 seconds, Mammon will call Dark Nightmare|[ffdc00]After 26 seconds, Mammon will call Dark Nightmare|[ffdc00]After 25 seconds, Mammon will call Dark Nightmare|[ ffdc00] After 24 seconds, Mammon will summon Dark Nightmare|[ffdc00] After 23 seconds, Mammon will call Dark Nightmare|[ffdc00] After 22 seconds, Mammon will call Dark Nightmare|[ffdc00] After 21 seconds, Mammon will call Dark Nightmare Dark Nightmare will be summoned|[ffdc00] After 20 seconds, Mammon will call Dark Nightmare|[ffdc00] After 19 seconds, Mammon will call Dark Nightmare|[ffdc00] After 18 seconds, Mammon will call Dark Nightmare|[ffdc00] After 17 seconds, Mammon will summon Dark Nightmare|[ffdc00]After 16 seconds, Mammon will call Dark Nightmare|[ffdc00]After 15 seconds, Mammon will call Dark Nightmare|[ffdc00]After 14 seconds, Mammon will call Dark Nightmare|[ffdc00]After 13 seconds, Mammon will summon Dark Nightmare|[ffdc00]After 12 seconds, Mammon will call Dark Nightmare|[ffdc00]After 11 seconds, Mammon will call Dark Nightmare|[ffdc00]10 seconds In the future, Mammon will summon Dark Nightmare|[ffdc00] After 9 seconds, Mammon will summon Dark Nightmare|[ffdc00] After 8 seconds, Mammon will call Dark Nightmare|[ffdc00] After 7 seconds, Mammon will call Dark Nightmare|[ffdc00] After 6 seconds, Mammon will call Dark Nightmare Dark Nightmare will be summoned|[ffdc00] After 5 seconds, Mammon will call Dark Nightmare|[ffdc00] After 4 seconds, Mammon will call Dark Nightmare|[ffdc00] After 3 seconds, Mammon will call Dark Nightmare|[ffdc00] After 2 seconds, Mammon will summon Dark Nightmare|[ffdc00]After 1 second, Mammon will summon Dark Nightmare|[ffdc00]Mammon will summon Dark Nightmare! 8
 
 func:notice10X
-npcpopspeek 3 3003 躲避[00aeff]暗障[-]和[00aeff]狂风[-]！找到迷宫的[00aeff]突破口[-]冲进安全区！ 10
+npcpopspeek 3 3003 Avoid [00aeff] Dark Obstacle[-] and [00aeff] Strong Wind[-]! Find the [00aeff] breach in the maze[-] and break into the safe zone! 10
 
 func:notice11
-warning [ffdc00]魔玉合一，神龙现世，女神复苏，末日降临！！！ 10
+warning [ffdc00] The magic jade unites, the dragon emerges, the goddess revives, and the end comes! ! ! 10
 
 func:addbuff1
 addbuff 273673 27102 1

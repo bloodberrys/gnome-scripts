@@ -1,30 +1,29 @@
-
 func:notice1
-warning [ffdc00]赫隆格尼尔腾空跃起准备发动死亡裁决！ 10
+warning [ffdc00] Hronganir leaps into the air and prepares to launch a death sentence! 10
 
 func:notice2
-warning [ffdc00]“我要，永远将你们禁锢在这里！！” 10
+warning [ffdc00] "I want to imprison you here forever!!" 10
 
 func:notice3
-warning [ffdc00]一名幸运儿获得可以解除禁锢的光环，快去解救队友并前往BOSS身边的安全区！ 10
+warning [ffdc00] One lucky person has obtained the halo that can lift the imprisonment, go to rescue your teammates and go to the safe zone around the BOSS! 10
 
 func:notice4
-warning [ffdc00]一起行动，前往BOSS身边的安全区！ 10
+warning [ffdc00] Let's act together, go to the safe zone around the boss! 10
 
 func:notice5
-warning [ffdc00]“骑士们，跟我发起进攻！！！” 4
+warning [ffdc00] "Knights, attack me!!!" 4
 
 func:notice6
-warning [ffdc00]骑士雕像被激活了，会根据赫隆格尼尔的冲锋来发动攻击！！ 10
+warning [ffdc00] The knight statue is activated and will attack according to Hronganir's charge! ! 10
 
 func:notice7
-warning [ffdc00]骑士的走廊因赫隆格尼尔的暴怒变得极不稳定！！|请随时注意击碎掉落的盾牌！！ 10
+warning [ffdc00] The knight's corridor has become extremely unstable due to Hronganir's fury! ! |Please keep an eye out for smashing the falling shields! ! 10
 
 func:notice8
-warning [ffdc00]走廊中出现了恶灵盾牌，未击碎的盾牌将爆炸！！ 7
+warning [ffdc00] There are ghost shields in the hallway, unbroken shields will explode! ! 7
 
 func:notice8X
-npcpopspeek 3 3003 所有人注意！快击碎[00aeff]恶灵盾牌[-]！ 10
+npcpopspeek 3 3003 Attention everyone! Crush [00aeff] Evil Shield[-]! 10
 
 func:darkworld
 justfx 25
@@ -82,23 +81,3 @@ removebuff 43405 21605 1
 
 func:showcutscene
 showcutscene CutScene/cutscene_generalshow_bigguy 263628
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

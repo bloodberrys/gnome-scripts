@@ -1,12 +1,11 @@
-
 func:countdown
-warning 3秒后，铁匠李特森登场！|2秒后，铁匠李特森登场！|1秒后，铁匠李特森登场！|铁匠李特森登场！战斗开始！ 3
+warning After 3 seconds, the blacksmith Litsen appears! |2 seconds later, the blacksmith Litsen will appear! |1 second later, blacksmith Li Tesen appears! |Blacksmith Litson is here! The battle begins! 3
 
 func:npcpopspeek
-npcpopspeek 1 3003 [403831]在[ff0000]120秒[-]内击败铁匠李特森！ 5
+npcpopspeek 1 3003 [403831] Defeat blacksmith Litsen in [ff0000]120 seconds[-]! 5
 
 func:warning
-notice [ffdc00]3秒以后触发特殊机制|[ffdc00]2秒以后触发特殊机制|[ffdc00]1秒以后触发特殊机制|特殊机制已触发 2
+notice [ffdc00]Trigger special mechanism after 3 seconds|[ffdc00]Trigger special mechanism after 2 seconds|[ffdc00]Trigger special mechanism after 1 second|Special mechanism has been triggered 2
 
 func:open
 aicommand -1 open 87007

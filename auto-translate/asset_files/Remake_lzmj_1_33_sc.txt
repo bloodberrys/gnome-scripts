@@ -1,24 +1,23 @@
-
 func:call80
-warning [ffdc00]沙漠，就是你生命的终点！ 6
+warning [ffdc00] The desert is the end of your life! 6
 
 func:call40
-warning [ffdc00]让你尝尝毒蝎的厉害！ 6
+warning [ffdc00] Let you taste the power of poisonous scorpions! 6
 
 func:countdown
-warning 3秒后，峡谷的监视者阿卜杜拉登场！|2秒后，峡谷的监视者阿卜杜拉登场！|1秒后，峡谷的监视者阿卜杜拉登场！|峡谷的监视者阿卜杜拉登场！战斗开始！ 3
+warning After 3 seconds, Abdullah, the watcher of the canyon, appears! |2 seconds later, Abdullah, the monitor of the canyon, will appear! |1 second later, Abdullah, the monitor of the canyon, will appear! | Abdullah, the watcher of the canyon, is here! The battle begins! 3
 
 func:npcpopspeek
-npcpopspeek 1 3003 [403831]在[ff0000]300秒[-]内击败峡谷的监视者阿卜杜拉！ 5
+npcpopspeek 1 3003 [403831] Defeat Ravine Overseer Abdullah in [ff0000]300 seconds[-]! 5
 
 func:warning
-notice [ffdc00]3秒以后触发特殊机制|[ffdc00]2秒以后触发特殊机制|[ffdc00]1秒以后触发特殊机制|特殊机制已触发 2
+notice [ffdc00]Trigger special mechanism after 3 seconds|[ffdc00]Trigger special mechanism after 2 seconds|[ffdc00]Trigger special mechanism after 1 second|Special mechanism has been triggered 2
 
 func:open
 aicommand -1 open 87007
 
 func:notice1
-notice [ffdc00]阿卜杜拉愤怒了，攻击力得到了增强 7
+notice [ffdc00] Abdullah is angry, attack power has been enhanced 7
 
 func:notice2
-notice [ffdc00]阿卜杜拉狂暴了，动作变得更加敏捷 7
+notice [ffdc00] Abdullah went berserk, and his movements became more agile 7

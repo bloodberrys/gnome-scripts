@@ -1,12 +1,11 @@
-
 func:countdown
-warning 3秒后，焰火守护者努贝尔登场！|2秒后，焰火守护者努贝尔登场！|1秒后，焰火守护者努贝尔登场！|焰火守护者努贝尔登场！战斗开始！ 3
+warning After 3 seconds, Nubel, the guardian of fireworks, will appear! |2 seconds later, Nubel, the Firework Guardian, will appear! |After 1 second, Nubel, the Firework Guardian, will appear! |Firework Guardian Nubel is here! The battle begins! 3
 
 func:npcpopspeek
-npcpopspeek 1 3003 [403831]在[ff0000]120秒[-]内击败焰火守护者努贝尔！ 5
+npcpopspeek 1 3003 [403831] Defeat Firework Guardian Nubel in [ff0000]120 seconds[-]! 5
 
 func:warning
-notice [ffdc00]3秒以后触发特殊机制|[ffdc00]2秒以后触发特殊机制|[ffdc00]1秒以后触发特殊机制|特殊机制已触发 2
+notice [ffdc00]Trigger special mechanism after 3 seconds|[ffdc00]Trigger special mechanism after 2 seconds|[ffdc00]Trigger special mechanism after 1 second|Special mechanism has been triggered 2
 
 func:open
 aicommand -1 open 87007

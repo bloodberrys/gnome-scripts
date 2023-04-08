@@ -1,12 +1,11 @@
-
 func:countdown
-warning 3秒后，风之领主温蒂登场！|2秒后，风之领主温蒂登场！|1秒后，风之领主温蒂登场！|风之领主温蒂登场！战斗开始！ 3
+warning After 3 seconds, Wendy, Lord of the Wind, will appear! |2 seconds later, Wendy, Lord of the Wind, will appear! |1 second later, Wendy, Lord of the Wind, will appear! | Wind Lord Wendy is here! The battle begins! 3
 
 func:npcpopspeek
-npcpopspeek 1 3003 [403831]在[ff0000]90秒[-]内击败风之领主温蒂！ 5
+npcpopspeek 1 3003 [403831] Defeat Wind Lord Wendy in [ff0000]90 seconds[-]! 5
 
 func:warning
-notice [ffdc00]3秒以后触发特殊机制|[ffdc00]2秒以后触发特殊机制|[ffdc00]1秒以后触发特殊机制|特殊机制已触发 2
+notice [ffdc00]Trigger special mechanism after 3 seconds|[ffdc00]Trigger special mechanism after 2 seconds|[ffdc00]Trigger special mechanism after 1 second|Special mechanism has been triggered 2
 
 func:open
 aicommand -1 open 87007
