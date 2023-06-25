@@ -1,5 +1,31 @@
 #!/bin/bash
 
+function select_proxy() {
+  # File path containing the list of IP addresses and ports
+  list_file="ls /tmp/proxy-*.log | tail -n 1 "
+
+  # Read the file into an array
+  readarray -t ip_port_list < "$list_file"
+
+  # Get the length of the array
+  array_length=${#ip_port_list[@]}
+
+  # Check if the array is empty
+  if [ "$array_length" -eq 0 ]; then
+    echo "No IP addresses and ports found in the list file."
+    return 1
+  fi
+
+  # Select a random index from the array
+  index=$((RANDOM % array_length))
+
+  # Get the selected IP address and port
+  selected_ip_port=${ip_port_list[$index]}
+
+  # Output the selected IP address and port
+  echo "$selected_ip_port"
+}
+
 run_process(){
     local _filename=$1
     local _timestamp=$2
@@ -103,8 +129,10 @@ send_discord_security_report(){
         if [[ $size -gt 2000 ]]; then
             CONTENT=${CONTENT:0:1500}
         fi
+
+        proxy=$(select_proxy)
         payload_json=$(jq -n --arg content "$CONTENT" --arg subject "$SUBJECT" '{username: "Gnome-Security", content: "\( $subject )\n\n\( $content )"}')
-        curl -g -F "payload_json=$payload_json" -F "file1=@$IP_BLOCKED" -F "file2=@$IP_IPLIST" "$webhook_url"
+        curl -g -F "payload_json=$payload_json" -F "file1=@$IP_BLOCKED" -F "file2=@$IP_IPLIST" -x "$proxy" "$webhook_url"
 
         sudo rm -rf $IP_BLOCKED
         sudo rm -rf $IP_IPLIST

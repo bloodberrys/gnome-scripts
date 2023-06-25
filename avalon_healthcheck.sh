@@ -1,5 +1,31 @@
 #!/bin/bash
 
+function select_proxy() {
+  # File path containing the list of IP addresses and ports
+  list_file="ls /tmp/proxy-*.log | tail -n 1 "
+
+  # Read the file into an array
+  readarray -t ip_port_list < "$list_file"
+
+  # Get the length of the array
+  array_length=${#ip_port_list[@]}
+
+  # Check if the array is empty
+  if [ "$array_length" -eq 0 ]; then
+    echo "No IP addresses and ports found in the list file."
+    return 1
+  fi
+
+  # Select a random index from the array
+  index=$((RANDOM % array_length))
+
+  # Get the selected IP address and port
+  selected_ip_port=${ip_port_list[$index]}
+
+  # Output the selected IP address and port
+  echo "$selected_ip_port"
+}
+
 get_log(){
 	local _server=$1
     local _base_dir_log=/data/s1001/bin/log
@@ -39,8 +65,10 @@ send_discord(){
     if [[ $size -gt 2000 ]]; then
         CONTENT=${CONTENT:0:1500}
     fi
+
+    proxy=$(select_proxy)
     payload_json=$(jq -n --arg content "$CONTENT" --arg subject "$SUBJECT" --arg ar "$ADMIN_ROLE" --arg br "$BOOSTER_ROLE" '{username: "Avalon-Automation", content: "\( $subject )\nCC: \( $br ) \( $ar )\n\n\( $content )"}')
-    curl -g -F "payload_json=$payload_json" -F "file1=@/tmp/discordmsg.log" "$webhook_url"
+    curl -g -F "payload_json=$payload_json" -F "file1=@/tmp/discordmsg.log" -x "$proxy" "$webhook_url"
 }
 
 send_discord_server_up(){
@@ -57,8 +85,10 @@ send_discord_server_up(){
     netstat -npt | grep SYN_RECV | awk '{print $5}' | grep -Eo '([0-9]{1,3}\.){3}[0-9]{1,3}' | cut -d: -f1 | sort | uniq -c | sort -nr > /tmp/singe_ip_attack.log
     netstat -npt  | grep SYN_RECV | awk '{print $5}' | grep -Eo '([0-9]{1,3}\.){3}[0-9]{1,3}' | cut -d: -f1 | sort | uniq -c | sort -nr > /tmp/multiple_ip_attack.log
     size=${#CONTENT}
+
+    proxy=$(select_proxy)
     payload_json=$(jq -n --arg content "$CONTENT" --arg subject "$SUBJECT" '{username: "Gnome-Automation", content: "\( $subject )\n\n\( $content )"}')
-    curl -g -F "payload_json=$payload_json" -F "file1=@/tmp/tcpudp.log" -F "file2=@/tmp/tcp_by_ip_count.log" -F "file3=@/tmp/tcp_13412.log" -F "file4=@/tmp/tcp_24001.log" -F "file5=@/tmp/tcp_25001.log" -F "file6=@/tmp/synflooddetection.log" -F "file7=@/tmp/singe_ip_attack.log" -F "file8=@/tmp/multiple_ip_attack.log" "$webhook_url"
+    curl -g -F "payload_json=$payload_json" -F "file1=@/tmp/tcpudp.log" -F "file2=@/tmp/tcp_by_ip_count.log" -F "file3=@/tmp/tcp_13412.log" -F "file4=@/tmp/tcp_24001.log" -F "file5=@/tmp/tcp_25001.log" -F "file6=@/tmp/synflooddetection.log" -F "file7=@/tmp/singe_ip_attack.log" -F "file8=@/tmp/multiple_ip_attack.log" -x "$proxy" "$webhook_url"
 }
 
 lcomma() { 
