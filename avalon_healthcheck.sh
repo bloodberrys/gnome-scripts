@@ -23,6 +23,7 @@ function select_proxy() {
   selected_ip_port=${ip_port_list[$index]}
 
   # Output the selected IP address and port
+  echo -e "$selected_ip_port" >> "/home/centos/selected_proxies"
   echo "$selected_ip_port"
 }
 
