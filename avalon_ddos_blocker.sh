@@ -2,7 +2,7 @@
 
 function select_proxy() {
   # File path containing the list of IP addresses and ports
-  list_file="ls /tmp/proxy-.log | tail -n 1 "
+  list_file="$(ls /tmp/proxy-.log | tail -n 1)"
 
   # Read the file into an array
   readarray -t ip_port_list < "$list_file"
