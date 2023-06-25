@@ -171,6 +171,7 @@ if [ -z "${server_affected}" ]; then
     # nothing to do
     tcp_connection_count=$(netstat -an | grep -c ESTABLISHED)
     # online_player_count=$(curl 127.0.0.1:81/sdk/healthcheck.php | jq -r .online_role)
+    online_player_count=$(mysql -uroot -pckXKEKDzJA5ADCfB004e8f483d5d7a74 -sN -e "SELECT online_role FROM gateinfo;" login)
     export TZ=Asia/Jakarta
     date=$(date '+%Y-%m-%d_%H-%M-%S_%Z')
     messages_up="==================================<br>SERVER UP AND RUNNING ${date}:white_check_mark:<br>==================================<br>tcp connection: ${tcp_connection_count}<br>player online: ${online_player_count}<br>==================================<br>"
