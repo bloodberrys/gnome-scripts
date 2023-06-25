@@ -140,6 +140,35 @@ send_discord_security_report(){
 
 }
 
+send_discord_mt(){
+    webhook_url=https://discord.com/api/webhooks/1122260171972952104/Pu8LhyV7Yf7G1q-KYzmcWLKhAzefcrCvz88R9XXiIlKMyDAc2BJmQl_s2BtR-KbZaAwJ
+    local _message=$1
+    local _timestamp=$2
+
+    SUBJECT="⚠️ Maintenance Mode Report - $_timestamp ⚠️"
+    CONTENT=$(echo $_message | sed 's3<br>3\n3g')
+    size=${#CONTENT}
+    if [[ $size -gt 2000 ]]; then
+        CONTENT=${CONTENT:0:1500}
+    fi
+
+    proxy=$(select_proxy)
+    payload_json=$(jq -n --arg content "$CONTENT" --arg subject "$SUBJECT" '{username: "Gnome-Security", content: "\( $subject )\n\n\( $content )"}')
+    curl -g -F "payload_json=$payload_json" -x "$proxy" "$webhook_url"
+
+}
+
+MT_MODE=$(cat avalon_mt.state)
+
+if [ "$MT_MODE" == "true" ]; then
+    timestamp=$(date '+%Y-%m-%d_%H-%M-%S_%Z')
+    echo "MT MODE"
+    send_discord_mt "Maintenance mode activated, ddos blocker is off status" "$timestamp"
+    exit 1
+else
+    echo -e "Maintenance mode is off.. ddos blocker is on"
+fi
+
 export TZ=Asia/Jakarta
 timestamp=$(date '+%Y-%m-%d_%H-%M-%S_%Z')
 

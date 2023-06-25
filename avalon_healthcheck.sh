@@ -156,6 +156,10 @@ server_affected=$string_server
 
 
 if [ -z "${server_affected}" ]; then
+
+    # disable maintenance mode
+    echo "false" > "/home/centos/avalon_mt.state"
+
     # nothing to do
     tcp_connection_count=$(netstat -an | grep -c ESTABLISHED)
     # online_player_count=$(curl 127.0.0.1:81/sdk/healthcheck.php | jq -r .online_role)
@@ -170,6 +174,9 @@ if [ -z "${server_affected}" ]; then
 else
     # if server affcted > 0, send email
     check_counter
+
+    # maintenance mode activated
+    echo "true" > "/home/centos/avalon_mt.state"
     message="=====Stats=====<br><br>$stats<br><br>Server down lists: $server_affected<br><br>======LOGS=======<br><br>$string_logs"
     send_discord "$message"
     # send_mail "$message"
