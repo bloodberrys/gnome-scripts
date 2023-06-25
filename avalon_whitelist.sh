@@ -7,7 +7,7 @@ ip_address="$1"
 if iptables -S | grep -q "$ip_address"; then
   # Delete the IP address from iptables
   iptables -D INPUT -s "$ip_address/32" -j ACCEPT
-  echo "IP address $ip_address deleted from iptables."
+  echo "[BLOCKED IP FOUND] IP address $ip_address deleted from iptables."
   echo $ip_address >> avalon_whitelisted_ips.txt
   service iptables save
 else
