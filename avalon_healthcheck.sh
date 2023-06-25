@@ -23,8 +23,6 @@ function select_proxy() {
   selected_ip_port=${ip_port_list[$index]}
 
   # Output the selected IP address and port
-  timestamp=$(date '+%Y-%m-%d %H:%M:%S %Z')
-  echo -e "[$timestamp] $selected_ip_port" >> "/home/centos/selected_proxies"
   echo "$selected_ip_port"
 }
 
@@ -71,6 +69,10 @@ send_discord(){
     proxy=$(select_proxy)
     payload_json=$(jq -n --arg content "$CONTENT" --arg subject "$SUBJECT" --arg ar "$ADMIN_ROLE" --arg br "$BOOSTER_ROLE" '{username: "Avalon-Automation", content: "\( $subject )\nCC: \( $br ) \( $ar )\n\n\( $content )"}')
     curl -g -F "payload_json=$payload_json" -F "file1=@/tmp/discordmsg.log" -x "$proxy" "$webhook_url"
+    if [ $? -eq 0 ]; then
+        timestamp=$(date '+%Y-%m-%d %H:%M:%S %Z')
+        echo -e "[$timestamp] $proxy" >> "/home/centos/selected_proxies"
+    fi
 }
 
 send_discord_server_up(){
@@ -91,6 +93,10 @@ send_discord_server_up(){
     proxy=$(select_proxy)
     payload_json=$(jq -n --arg content "$CONTENT" --arg subject "$SUBJECT" '{username: "Gnome-Automation", content: "\( $subject )\n\n\( $content )"}')
     curl -g -F "payload_json=$payload_json" -F "file1=@/tmp/tcpudp.log" -F "file2=@/tmp/tcp_by_ip_count.log" -F "file3=@/tmp/tcp_13412.log" -F "file4=@/tmp/tcp_24001.log" -F "file5=@/tmp/tcp_25001.log" -F "file6=@/tmp/synflooddetection.log" -F "file7=@/tmp/singe_ip_attack.log" -F "file8=@/tmp/multiple_ip_attack.log" -x "$proxy" "$webhook_url"
+    if [ $? -eq 0 ]; then
+        timestamp=$(date '+%Y-%m-%d %H:%M:%S %Z')
+        echo -e "[$timestamp] $proxy" >> "/home/centos/selected_proxies"
+    fi
 }
 
 lcomma() { 

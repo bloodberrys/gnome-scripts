@@ -23,8 +23,6 @@ function select_proxy() {
   selected_ip_port=${ip_port_list[$index]}
 
   # Output the selected IP address and port
-  timestamp=$(date '+%Y-%m-%d %H:%M:%S %Z')
-  echo -e "[$timestamp] $selected_ip_port" >> "/home/centos/selected_proxies"
   echo "$selected_ip_port"
 }
 
@@ -135,6 +133,11 @@ send_discord_security_report(){
         proxy=$(select_proxy)
         payload_json=$(jq -n --arg content "$CONTENT" --arg subject "$SUBJECT" '{username: "Gnome-Security", content: "\( $subject )\n\n\( $content )"}')
         curl -g -F "payload_json=$payload_json" -F "file1=@$IP_BLOCKED" -F "file2=@$IP_IPLIST" -x "$proxy" "$webhook_url"
+
+        if [ $? -eq 0 ]; then
+            timestamp=$(date '+%Y-%m-%d %H:%M:%S %Z')
+            echo -e "[$timestamp] $proxy" >> "/home/centos/selected_proxies"
+        fi
 
         sudo rm -rf $IP_BLOCKED
         sudo rm -rf $IP_IPLIST
