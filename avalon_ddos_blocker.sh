@@ -96,7 +96,7 @@ run_process(){
     else
         message=$(awk '{printf "%s<br>", $0}' "/tmp/iplist/${IP_IPLIST_LOG_FILENAME}")
         string="There are $counter IPs blocked:<br>$message"
-        send_discord_security_report "$string" "$_timestamp"
+        # send_discord_security_report "$string" "$_timestamp"
     fi 
     counter=0
 
