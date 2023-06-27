@@ -1,16 +1,25 @@
 * * * * * bash /home/centos/avalon_healthcheck.sh;
+* * * * * sleep 10; bash /home/centos/avalon_healthcheck.sh;
 * * * * * sleep 30; bash /home/centos/avalon_healthcheck.sh;
+* * * * * sleep 40; bash /home/centos/avalon_healthcheck.sh;
 
 * * * * * bash /home/centos/avalon_proxy_generator.sh;
 
 * * * * * bash /home/centos/avalon_ddos_blocker.sh;
 * * * * * sleep 4; bash /home/centos/avalon_ddos_blocker.sh;
+* * * * * sleep 6; bash /home/centos/avalon_ddos_blocker.sh;
 * * * * * sleep 8; bash /home/centos/avalon_ddos_blocker.sh;
+* * * * * sleep 10; bash /home/centos/avalon_ddos_blocker.sh;
+* * * * * sleep 12; bash /home/centos/avalon_ddos_blocker.sh;
 
 * * * * * sleep 14; bash /home/centos/avalon_ddos_blocker.sh;
+* * * * * sleep 16; bash /home/centos/avalon_ddos_blocker.sh;
 * * * * * sleep 18; bash /home/centos/avalon_ddos_blocker.sh;
+* * * * * sleep 20; bash /home/centos/avalon_ddos_blocker.sh;
+* * * * * sleep 22; bash /home/centos/avalon_ddos_blocker.sh;
 
 * * * * * sleep 24; bash /home/centos/avalon_ddos_blocker.sh;
+* * * * * sleep 26; bash /home/centos/avalon_ddos_blocker.sh;
 * * * * * sleep 28; bash /home/centos/avalon_ddos_blocker.sh;
 
 * * * * * sleep 32; bash /home/centos/avalon_ddos_blocker.sh;
