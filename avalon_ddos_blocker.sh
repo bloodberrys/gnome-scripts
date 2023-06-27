@@ -133,7 +133,7 @@ send_discord_security_report(){
 
         proxy=$(select_proxy)
         payload_json=$(jq -n --arg content "$CONTENT" --arg subject "$SUBJECT" '{username: "Gnome-Security", content: "\( $subject )\n\n\( $content )"}')
-        curl -g -F "payload_json=$payload_json" -F "file1=@$IP_BLOCKED" -F "file2=@$IP_IPLIST" -x "$proxy" "$webhook_url"
+        curl -g -F "payload_json=$payload_json" -F "file1=@$IP_BLOCKED" -F "file2=@$IP_IPLIST" "$webhook_url"
 
         if [ $? -eq 0 ]; then
             timestamp=$(date '+%Y-%m-%d %H:%M:%S %Z')
@@ -160,7 +160,7 @@ send_discord_mt(){
 
     proxy=$(select_proxy)
     payload_json=$(jq -n --arg content "$CONTENT" --arg subject "$SUBJECT" '{username: "Gnome-Security", content: "\( $subject )\n\n\( $content )"}')
-    curl -g -F "payload_json=$payload_json" -x "$proxy" "$webhook_url"
+    curl -g -F "payload_json=$payload_json" "$webhook_url"
 
 }
 
