@@ -17,7 +17,7 @@ get_log(){
 
 send_mail(){
     domain=verification.gnome-hub.com
-    api_key=7d28e6a1eb12151868987af95616b7f1-8d821f0c-1aeed30e
+    api_key=
     subject="Server Healthcheck Down Detected"
     local _message=$1
     to="alfianvansykes@gmail.com"
